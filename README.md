@@ -1,3 +1,5 @@
+# Source Template Information Below:
+
 # Occidental Dictionaries
 
 This repository is an effort to liberate Occidental dictionary data from walled gardens.
@@ -25,6 +27,7 @@ Special thanks to
 - Jets https://github.com/NeXTs/Jets.js
 - Papa Parse https://github.com/mholt/PapaParse
 - JQuery https://github.com/jquery/jquery
+- trosel who made this template available
 
 ## Using the Template to create your own Dictionary search app
 
