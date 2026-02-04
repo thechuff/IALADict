@@ -14,11 +14,13 @@
 
 | C                |                                                                                                                                                                                                               |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **caca (cacca)** | *n* [Colloq.] poo, poop, shit, crap **facer caca** (children's language, or sarcastically) to poo, to go poopy, to go number two                                                                              |
+| **caca (cacca)** | *n* [Colloq.] poo, poop, shit, crap **facer caca** (children's language, or sarcastically) to poo, to go poop/poopy, to go number two                                                                         |
 | **cacar**        | *v* [Colloq.] to poo, to poop, to shit, to crap, to take a dump, to defecate **cacar se** to shit oneself, to soil oneself                                                                                    |
 | **cacata**       | *n* [Colloq.] action of pooping, defecation, shitting, crapping **facer un cacata** (literally) 1. to take a dump; 2. to do a shitty thing, to do a job poorly, to make a mess (of it), to bungle, to fuck up |
 
-**caca (cacca)**,*n* [Colloq.] poo, poop, shit, crap **facer caca** (children's language, or sarcastically) to poo, to go poopy, to go number two
+<b>caca (cacca)</b>,*n* [Colloq.] poo, poop, shit, crap <b>facer caca</b> (children's language, or sarcastically) to poo, to go poop/poopy, to go number two
+
+**caca (cacca)**,*n* [Colloq.] poo, poop, shit, crap **facer caca** (children's language, or sarcastically) to poo, to go poop/poopy, to go number two
 **cacar**\*v* [Colloq.] to poo, to poop, to shit, to crap, to take a dump, to defecate **cacar se** to shit oneself, to soil oneself
 **cacata**\*n* [Colloq.] action of pooping, defecation, shitting, crapping **facer un cacata** (literally) 1. to take a dump; 2. to do a shitty thing, to do a job poorly, to make a mess (of it), to bungle, to fuck up
 **cacatorio**\*n* [Colloq.] 1. shitter, toilet (vulgar), John 2. (person) shithead; ugly fucker, dirty fucker
