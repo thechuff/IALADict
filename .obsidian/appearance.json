@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Primary",
   "textFontFamily": "Adwaita Sans Text",
   "monospaceFontFamily": "Cascadia Code",
   "accentColor": "",
-  "theme": "system",
+  "theme": "moonstone",
   "interfaceFontFamily": "Adwaita Sans Text"
 }
