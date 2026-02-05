@@ -6,6 +6,9 @@ Slowly but surely, we are gathering dictionary data from various sources and tra
 
 If you'd like to create an HTML table, JSON file, or Excel sheet, just download the CSV and convert from there.
 
+# Dictionary
+You can find the latest version [here](IALADICTIONARY.md).
+
 ## Contributing to Dictionaries 
 
 If you would like to add or edit rows to some dictionaries, simply:

@@ -17,12 +17,17 @@
 3. Replace with: ` *v* `, ` *n* ` , ` *adj* ` , ` *adv* `, ` *see* `  
 
 
-## f
+## P
 - [ ] see
 - [ ] v
+- [ ] also:
 - [ ] n
 - [ ] adj
+- [ ] attrib
 - [ ] adv
 - [ ] conj
 - [ ] npr
+- [ ] npl
+- [ ] prp
+- [ ] ppr
 - [ ] Hence:

@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Primary",
+  "cssTheme": "Aurora",
   "textFontFamily": "Adwaita Sans Text",
   "monospaceFontFamily": "Cascadia Code",
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "interfaceFontFamily": "Adwaita Sans Text"
 }
