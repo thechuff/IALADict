@@ -46,6 +46,7 @@ IED (Interlingua-English Dictionary)
 **cauda** *n* [Colloq.] (not vulgar, but informal) dick, cock, pecker, penis
 **colion (-ón)** *n* [Colloq.] (vulgar) testicle, ball **haber le coliones** to have the balls (to do); to have balls
 **comic** _n_ comic, comic strip, comic book **comics** comics  
+**conspiration** *n* 🚧 **theorias del conspiration** conspiracy theories
 **controlo** 🚧 [proposed] **controlo de armas** arms control, non-proliferation  
 **corno** *n* 1. horn...🚧; 2. [Colloq.] **portar cornos** to be a cuckold, to be cuckolded
 **cornuta** *n* [Colloq.] (fem) 1. cuckold, cuckoldress, cuckquean; 2. asshole
