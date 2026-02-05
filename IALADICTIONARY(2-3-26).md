@@ -787,1775 +787,1059 @@ and readily than the left)
 **diagnose** *n* diagnosis (1. [Med.]; 2. [Biol.])
 **diagnostic** *adj* diagnostic *Hence*: diagnosticar; diagnostico
 %%🚧 formatting-->%%
-diagnosticar v to diagnose
-diagnostico n diagnostics, diagnosis
-diagonal adj diagonal diagonal n diagonal
-diagramma [-ma/-mat-] n diagram
-Hence: diagrammatic
-diagrammat- see diagramma
-diagrammatic adj diagrammatic
-dialectal adj dialectal
-dialectic adj dialectic, dialectical
-Hence: dialectico; dialectica
-dialectica n dialectics, dialectic
-dialectico n dialectician
-dialecto n dialect (as in "Scottish dialect")
-Hence: dialectal; dialectic &
-dialogar v to dialogue
-dialogic adj in form of a dialogue, dialogic
-dialogisar v to dialogize
-dialogismo n dialogism
-dialogista n dialogist
-dialogo (-á-) n dialogue, dialog
-Hence: dialogismo; dialogista; dialogic;
-dialogar; dialogisar
-diamante n diamond
-diametral adj diametrical, diametric
-diametric adj diametric
-diametro (-á-) n diameter
-Hence: diametral; diametric-isodiametric etc.;
-semidiametro etc.
-Diana npr [Rom. Relig.] Diana diana n reveille
-di·antho n [Bot.] pink; also: carnation
-diapason (-pá) n 1. range (as in "range of a
-singing voice"; "range of an instrument"); 2.
-tuning fork
-diaphane adj diaphanous
-Hence: diaphaneitate; semidiaphane etc.
-diaphaneitate n diaphaneity
-diaphragma [-ma/-mat-] diaphragm (1. midriff;
-5. [Photog., Phys.; etc.])
-Hence: diaphragmatic
-diaphragmat- see diaphragma
-diaphragmatic adj diaphragmatic
-diapositiva n [Photog.] transparent positive,
-transparency, diapositive
-diario n diary
-diarrhea (-éa) n diarrhea
-Hence: diarrheic
-diarrheic (-éic) adj diarrheal, diarrheic
-diaspora (-ás-) n Diaspora, Dispersion
-diastase (diás-) n 1. diastasis; 2. [Chem.]
-diastase
-diastole n [Physiol.] diastole
-Hence: diastolic
-diastolic adj [Physiol.] diastolic
-diathermia (-ía) n [Med.] diathermy
-Hence: diathermic
-diathermic adj [Med.] diathermic
-diatonic adj [Mus.] diatonic; scala diatonic,
-gamma diatonic diatonic scale
-dica n 1. dike (= embankment built to prevent
-inundations); 2. dam, weir
--dicar v [occurring in derivatives]
-Hence: abdicar &; dedicar &; predicar &
--dice n [occurring in compounds]
-Hence: indice &; judice etc.; vindice etc.
-dicer [dic-/dict-] v to say; also: to tell; dicer le
-missa to say mass; dicer le bon ventura to tell
-fortunes; pro si dicer so to say; voler dicer 1. to
-mean, signify; 2. to mean (to say)
-Hence: indicibile; diction &; dicto &; dictar &;
-contradicer &; disdicer &; edic- &; indicer &;
-interdicer &; predicer &; benedicer etc.; juridic
-etc.
-dict- see dicer
-dictamine n dictate, dictamen
-dictar v to dictate (1. as in "to dictate a letter";
-6. to prescribe authoritatively)
-Hence: dictamine; dictator-dictatorial;
-dictatura; dictato
-dictato n dictation (as in "take down dictation")
-dictator n dictator
-dictatorial adj dictatorial (= pertaining to a
-dictator)
-dictatura n dictatorship
-diction n diction (1. choice of words to express
-ideas; 2. enunciation, elocution)
-Hence: dictionario; jurisdiction etc.
-dictionario n dictionary
-dicto n saying (as in "an old saying")
-Hence: verdicto etc.
-didact- see didasc-
-didactic adj didactic
-didactica n didactics
-didasc- v [occurring in derivatives and
-compounds] didasc-, didact- (= to teach
-someone or something)
-Hence: didascalia-didascalic; didactic; didactica;
-autodidacte-autodidacto-autodidactic
-didascalia (-ía) n [Antiq.] stage directions
-didascalic adj didascalic, didactic
-Didon npr [Gr. Mythol.] Dido
-die n day (1. "day" as opposed to "night"; also:
-daylight; 2. period of twenty-four hours); de die
-in die from day to day; die utile [Law] lawful
-day; die feriate holiday; un die one day,
-sometime; le die sequente the next day, the
-following day
-Hence: diario; diurne; quotidian etc.; mediedie
-etc.; lunedi etc.; martedi etc.
-diese (dí-) [Mus.] sharp
-Diesel, Rudolf npr [1858-1913; inventor of
-Diesel motor]
-Hence: diesel
-diesel n Diesel engine or motor, Diesel; motor
-Diesel Diesel engine, Diesel motor; oleo Diesel
-Diesel oil
-dies irae [L] dies irae, day of wrath
-dieta¹ n [Med.] diet; dieta lactee milk diet;
-dieta absolute starvation diet; esser a dieta to be
-on a diet; poner a dieta to put on a diet
-Hence: dietetic; dietetica; dietar
-dieta² n [Hist., Pol.] diet
-dietar v to diet
-dietetic adj dietetic
-dietetica n dietetics
-diffamar v to defame
-Hence: diffamation; diffamatori
-diffamation n defamation
-diffamatori adj defamatory
-differente adj different
-differentia n difference; il non face differentia
-it makes no difference
-differential adj differential; calculo differential
-differential calculus differential n differential (1.
-[Math.]; 2. "differential of an automobile etc.")
-differentiar v to differentiate (1. to distinguish;
-7. [Math.])
-differentiation n [Math.] differentiation
-differer [-fer-/-lat-] v 1. to defer, delay; 2. to
-differ (= be different)
-Hence: differente-differentia-differential,
-differentiar-differentiation, indifferente &,
-equidifferente etc.; dilatori
-difficile adj difficult
-Hence: difficultate
-difficul- see difficile
-difficultate n difficulty
-diffidente adj distrustful
-diffidentia n distrust
-diffider v to be distrustful; diffider de un
-persona to distrust, mistrust someone
-Hence: diffidente-diffidentia
-diffract- see diffranger
-diffractar v to diffract
-diffraction n diffraction
-diffranger [-frang-/-fract-] v to diffract
-Hence: diffraction; diffractar
-diffunder [-fund-/-fus-] v to diffuse (= to
-spread widely); also: = radiodiffunder
-Hence: diffusibile-diffusibilitate; diffusion;
-diffusive; diffuse; radiodiffunder etc.
-diffus- see diffunder
-diffuse adj diffuse (1. spread out, diffused; 2.
-verbose, not concise)
-diffusibile adj diffusible
-diffusibilitate n diffusibilitv
-diffusion n diffusion (1. dispersion, wide
-distribution; 2. diffuseness, wordiness; 3. [Phys.]
-intermingling of fluids); also: = radiodiffusion
-diffusive adj diffusive
-di·gamma n digamma
-digerer [-ger-/-gest-] v to digest (1. "to digest
-food"; 2. to absorb mentally; 3. [Chem.]); non
-poter digerer un cosa to be unable to stomach or
-swallow something
-Hence: digestibile-digestibilitate, indigestibile-
-indigestibilitate; digestion-indigestion;
-digestive; digestor; digeste-indigeste, digesto
-digest- see digerer
-digeste adj digested
-digestibile adj digestible
-digestibilitate n digestibility
-digestion n digestion (1. Physiol.]; 2. [Chem.]);
-de facile, difficile, digestion easy, hard, of
-digestion
-digestive adj digestive (1. pertaining to
-digestion; 2. helping digestion); apparato
-digestive digestive apparatus
-digesto n [Law] digest, Pandects
-digestor n [Physiol; Chem.] digester
-digital adj digital digital n 1. thimble; 2. [Bot.]
-digitalis, foxglove
-Hence: digitalina
-digitalina n [Chem.] digitalin
-digitate adj digitate (= having fingers or digits;
-also: [Bot.])
-digiti·forme adj digitiform, finger-shaped
-digiti·grade (-tí-) adj [Zool.] digitigrade
-Hence: digitigrado
-digitigrado (-tí-) n digitigrade
-digito (-dí-) n digit (1. finger; toe; 2. [Arith.]);
-(digito) indice forefinger, index finger; digito
-medie middle finger; (digito) annular ring
-finger; (digito) auricular little finger
-Hence: digital¹-interdigital, cubitodigital etc.;
-digital² &; digitate; digitiforme etc.; digitigrade
-etc.; prestidigitar etc.
-dignar v to deign
-digne adj 1. worthy, deserving; 2. dignified (=
-showing or expressing dignity); digne de (laude)
-worthy (of praise), (praise)worthy
-Hence: dignitate-dignitario; dignar-disdignar &;
-dignificar; indigne-indignitate, indignar &;
-condigne
-dignificar v to dignify, make worthy
-dignitario n dignitary
-dignitate n dignity (1. intrinsic worth,
-stateliness; 2. high office, rank, or title)
-digreder [-gred-/-gress-] v to digress (= to
-deviate from the main subject)
-Hence: digression; digressive
-digress- see digreder
-digression n digression (1. deviation from the
-subject in discourse or writing; 2. [Astron.]);
-perder se in un digression or in digressiones to
-lose oneself in a digression or in digressions
-digressive adj digressive
-di·hedre adj [Math.] dihedral
-Hence: dihedro
-dihedro n [Math.] dihedron
-dilapidar v to squander, dilapidate
-Hence: dilapidation; dilapidator
-dilapidation n squandering, waste
-dilapidator n squanderer, wastrel, spendthrift
-dilat- see differer
-dilatabile ad; dilatable
-dilatabilitate n dilatability
-dilatar v to dilate (= to make larger or wider)
-Hence: dilatabile-dilatabilitate; dilatation;
-dilatator
-dilatation n dilatation, dilation
-dilatator n dilator (1. one who or that which
-dilates; 2. [Surg.])
-dilatori adj dilatory (= tending to delay)
-dilect- see dilig-
-dilection n affection, love
-di·lemma n dilemma
-dilettante [I] n lover of the arts, amateur,
-dilettante
-Hence: dilettantismo
-dilettantismo n dilettantism
-dilig- [-lig-/-lect-] v [occurring in derivatives]
-Hence: diligente-diligentia; dilection-
-predilection
-diligente adj diligent
-diligentia n diligence (1. assiduity; 2. public
-stage coach)
-diluer [-lu-/-lut-] v to dilute (as in "to dilute
-wine")
-Hence: dilution; diluvio &
-dilut- see diluer
-dilution n dilution
-diluv- see diluer
-diluvial adj diluvial, diluvian
-diluvian adj diluvian, diluvial
-diluviar v to rain heavily, pour
-diluvio n 1. deluge; 2. [Geol.] diluvium
-Hence: diluvial; diluvian-antediluvian,
-postdiluvian; diluviar
-dimens- see dimetir
-dimension n dimension (1. as in "the three
-dimensions"; 2. size, magnitude, extent);
-dimensiones critic [Phys.] critical size
-Hence: dimensional-bidimensional etc.
-dimensional adj dimensional
-di·mere adj [Bot., Zool.] dimerous
-dimetir [-met-/-mens-] v [occurring in
-derivatives]
-Hence: dimension &
-di·metro (dí-) n dimeter
-diminuendo n [Mus.] diminuendo
-diminuer v to diminish, lessen; diminuer le
-precio to reduce the price; diminuer de valor to
-diminish in value; columna diminuite
-diminished, tapering column
-Hence: diminuendo; diminution; diminutive-
-diminutivo
-diminution n diminution
-diminutive adj [Gram.] diminutive
-diminutivo n [Gram.] diminutive
-dimiss- see dimitter
-dimission n 1. dismissal; 2. demission,
-resignation
-dimitter [-mitt-/-miss-] v to dismiss,
-discharge
-Hence: dimission
-di·morphe adj dimorphic
-Hence: dimorphismo
-dimorphismo n dimorphism (1. [Biol., Bot.,
-etc.]; 2. [Cryst.])
-din- adj [occurring in compounds] dino-, din-
-(= fearful, terrible)
-Hence: dinosauro etc. ...
-dinar v to dine, to take dinner
-Hence: dinator
-dinar n dinner, dining
-dinator n diner (= one who dines)
-dino·sauro n [Paleontol.] dinosaur
-diocesan adj diocesan
-diocesano n diocesan
-diocese n diocese (1. [Rom. Hist.]; 2. [Eccl.])
-Hence: diocesan-diocesano
-dionysia [L] npl [Gr. Relig.] Dionysia
-Hence: dionysiac
-dionysiac (-íac) adj Dionysiac
-Dionysio npr [Anc. Hist.] Dionysius
-Dionyso npr [Gr. Relig.] Dionysus, Dionysos
-diorama n diorama
-Dioscuros npl [Mythol.] Dioscuri, Dioscuroi,
-Castor and Pollux
-di·petale adj [Bot.] dipetalous
-diphtheria (-ía) n diphtheria
-Hence: diphtheric
-diphtheric adj diphtheritic, diphtheric
-diphthongar v to diphthongize
-di·phthonge adj diphthongal, diphthonged
-Hence: diphthongo-diphthongar
-diphthongo n diphthong (= union of two
-vowels pronounced in one syllable)
-diplo- adj [occurring in compounds] diplo- (=
-twofold, double)
-Hence: diplopia etc. ...
-diploma [-ma/-mat-] n diploma
-Hence: diplomatic; diplomatica; diplomar-
-diplomate
-diplomar v to grant a diploma to
-diplomat- see diploma
-diplomate adj certified (= having been granted
-a diploma, license, etc.) diplomate n diplomat,
-diplomatist
-Hence: diplomatia; diplomatic-diplomatico
-diplomatia (-ía) n diplomacy
-diplomatic¹ adj diplomatic (= pertaining to
-the science of diplomatics or diplomas)
-diplomatic² adj diplomatic (1. belonging to
-diplomacy; 2. characterized by diplomacy);
-corpore diplomatic diplomatic corps
-diplomatica n diplomatics (= science of
-diplomatics or of diplomas)
-diplomatico n diplomat, diplomatist
-dipl·opia (-ía) n diplopia
-Hence: diplopic
-diplopic adj diplopic
-dips- n [occurring in derivatives and
-compounds] dips- (= thirst)
-Hence: dipsomania etc. ...
-dipso·mane adj dipsomania
-Hence: dipsomano
-dipso·mania (-ía) n dipsomania
-dipsomano (-só-) n dipsomaniac
-di·ptere adj 1. [Arch.] dipteral; 2. [Entom.]
-dipterous
-Hence: dipteros
-dipteros (díp-) npl [Entom.] Diptera
-direct- see diriger
-directe adj 1. straight (= in a line); 2. direct (=
-without deviation or interruption); (ir, ambular,
-etc.) directe (to go, walk, etc.) straight
-direction n direction (1. action of directing; 2.
-as in "to move in a certain direction")
-directiva n directive
-directive adj directive
-director n director; also: manager, principal,
-editor-in-chief, etc.; director de orchestra [Mus.]
-conductor
-directorato n directorate (= function of a
-director)
-directori adj directory
-directorial adj directorial (1. pertaining to a
-director; 2. pertaining to a directorate, or to the
-French Directory)
-directorio n 1. directorate, board of directors;
-8. [Fr. Hist.] Directory
-directrice n 1. directress, also: head-mistress,
-etc.; 2. [Geom.] directrix
-directura n uprightness, rectitude,
-straightforwardness
-diriger [-rig-/-rect-] v to direct (1. to guide,
-control, manage; 2. to cause to turn in a
-particular direction); diriger se verso (un loco) to
-turn towards (a place); diriger (un orchestra) to
-conduct (an orchestra); diriger (un littera) a (un
-persona) to direct (a letter) to (someone)
-Hence: dirigibile; direction; directive-directiva;
-director-directorato, directorial; directori;
-directorio-directorial; directrice; directura;
-directe-indirecte
-dirigibile adj dirigible dirigibile n dirigible
-dirimente adj 1. ppr of dirimer; 2. annuling,
-nullifying, diriment; impedimento dirimente
-[Law] diriment impediment
-dirimer v to annul, invalidate
-Hence: dirimente
-dis- prefixo dis-, de-, un- (1. [expressing
-separation, deprivation, division, and the like];
-9. [expressing the negative, contrary, opposite])
-Hence: disaffection etc.; disillusion etc.;
-discontinue etc.; discontente etc.; dissone etc.;
-disapprobar etc.; disarmar etc.; disinfectar etc.;
-disrumper etc.
-disabusar v to disabuse
-disaccopular v to separate (a couple)
-disaccordar v to disaccord, disagree
-disaccordo n 1. disaccord, disagreement; 2.
-[Mus.] discord
-disaccostumar v to disaccustom
-disaffection n disaffection
-disaffectionar v to disaffect
-disaggregar v to disaggregate
-disaggregation n disaggregation
-disagradabile adj disagreeable, unpleasant
-disagradar v -; disagradar a to displease
-disancorar v to weigh anchor
-disanimar v to dishearten, dispirit
-disanimate 1. pp of disanimar; 2. adj
-discouraged, dispirited
-disannidar v to take out of the nest
-disapprender v to forget, unlearn
-disapprobar v to disapprove, disapprove of
-disapprobation n disapproval, disapprobation
-disapprobator n disapprover
-disappunctamento n disappointment (= state
-of being disappointed)
-disappunctar v to disappoint (= to fail to
-realize the expectations of)
-Hence: disappunctamento
-disaquamento n draining
-disaquar v to drain, dry, etc.
-disargentar v to desilver, remove the silver
-from
-disarmamento n disarmament
-disarmar v to disarm (1. to deprive of weapons;
-10. to reduce the size of the army, navy, etc.)
-disarticular v to disarticulate
-disarticulation n disarticulation
-disassimilar v [Physiol.] to cause
-disassimilation
-Hence: disassimilation
-disassimilation n [Physiol.] disassimilation
-disassociar v dissociate, disassociate
-disastro n disaster
-Hence: disastrose
-disastrose adj disastrous
-disaurar v to ungild
-disavantage (-aje) n disadvantage
-disavantagiose (-jo-) adj disadvantageous,
-unfavorable
-disbandamento n disbanding; disbandment
-disbandar v to disband; disbandar se to
-disband, break ranks
-Hence: disbandamento
-disbarbar v to shave
-disbarbate adj beardless
-disbarcamento n debarkation,
-disembarkation; testa de disbarcamento
-beachhead; ponte de disbarcamento gangplank
-disbarcar v to disembark (1. to put ashore from
-a ship; 2. to go ashore from a ship)
-disbarcatorio n wharf, landing pier; also:
-gangplank
-disblocar v to raise the blockade of
-disbordamento n overflow, inundation (=
-flowing over the banks, the brim, etc.)
-disbordar v to overflow (= to flow over the
-brim, banks, etc.)
-Hence: disbordamento
-disbridar v 1. to unbridle; 2. [Surg.] to debride
-disbuccamento n (action of) debouching,
-issuing forth
-disbuccar v to debouch, issue forth
-Hence: disbuccamento
-disbuclar v to uncurl (= to cause to uncurl)
-disbursamento n disbursament
-disbursar v to disburse, pay out
-Hence: disbursamento
-disbuttonar v to unbutton (a coat, etc.)
-disbutyrar v to skim (milk)
-discalceamento n (act of) taking off (one's or
-someone's) shoes, stockings, etc.
-discalcear v 1. to take off (shoes, stockings, etc.
-from someone's feet); 2. to uncover, expose the
-foot or roots (of a tree, tooth, etc.); discalcear se
-to take off one's shoes, stockings, etc.
-discalceate 1. pp of discalcear; 2. adj barefooted
-discalceator n bootjack
-discamminar v to lead astray
-discampamento n decampment
-discampar v to decamp (1. to break up a camp;
-11. to depart quickly)
-Hence: discampamento
-discantar v [Mus.] to descant (= to sing a
-descant or counterpoint above the plain song)
-discanto n [Mus.] descant (1. counterpoint
-above the plain song; 2. upper part in part
-music)
-Hence: discantar
-discapillar v to tousle, dishevel
-discapillate adj disheveled
-discarbonatar v to decarbonize, decarbonate
-discarburar v to decarbonize
-discarburation n decarbonization
-discardinar v to unhinge
-discarga n I. (act of) unloading, unlading; also:
-dumping; II. discharge (1. firing off a fire-arm; 2.
-"electric discharge"; 3. [Arch.]); III.
-unburdening, relief, etc.
-discargamento n unloading, unlading
-discargar v I. to unload, unlade; also: to dump;
-II. to discharge (1. to fire, fire off; to rid of an
-electric charge); III. to unburden, relieve, etc.;
-discargar un persona de (un obligation, etc.) to
-discharge, release, exonerate someone from (an
-obligation, etc.)
-discargator n unloader; also: longshoreman
-discargatorio n 1. unloading place, wharf; 2.
-dump, dumping place
-discarnar v to take off flesh; also: to make thin
-discarnate 1. pp of discarnar; 2. adj fleshless;
-also: lean, gaunt
-discassage (-aje) n (action of) unpacking or
-unboxing
-discassamento n 1. (action of) unpacking or
-unboxing; 2. (action of) paying out (cash)
-discassar v 1. to unpack, unbox; 2. to pay out
-(cash)
-discentralisar v to decentralize
-discentralisation n decentralization
-discerner [-cern-/-cret-] v to discern
-Hence: discernimento; discernibile-
-indiscernibile; discretion-discretional,
-discretionari, indiscretion; discretive; discrete-
-indiscrete; discernitor
-discernibile adj discernible
-discernimento n discernment
-discernitor n discerner
-discinct- see discinger
-discincte adj ungirded, ungirt
-discinger [-cing-/-cinct-] v to ungirdle
-Hence: discincte
-disciplina n discipline (1. as in "school
-discipline", "military discipline", etc.; 2. branch
-of instruction; 3. [Eccl.] scourge)
-Hence: disciplinari; disciplinar
-disciplinar v to discipline (1. to subject to
-discipline; 2. [Eccl.] to scourge)
-disciplinari adj disciplinary
-discipulo (-cí-) n disciple
-disclavar v to unnail, remove the nails from
-disco n 1. disk; 2. discus; 3. (phonograph)
-record
-discollar v to unglue
-discolorar v to discolor (= to deprive of color
-or coloring)
-discompletar v to render incomplete
-disconcertamento n disconcertment; also:
-bafflement
-disconcertar v to disconcert (1. to spoil, upset;
-12. to embarrass greatly; also: to baffle)
-Hence: disconcertate; disconcertamento
-disconcertate 1. pp of disconcertar; 2. adj
-disconcerted; also: baffled
-disconsolate adj disconsolate, unconsoled
-discontabile adj discountable
-discontaminar v decontaminate
-discontamination n decontamination;
-discontamination de plutonium [Atomic Phys.]
-decontamination of plutonium
-discontar v to discount (1. [Com.]; 2. to deduct,
-leave out of account)
-Hence: disconto; discontabile; discontator
-discontator n discounter
-discontentamento n discontentment,
-discontent
-discontentar v to discontent; to dissatisfy
-discontente adj discontent, discontented
-discontento n discontent
-discontinuar v to discontinue (= to cause to
-cease)
-discontinuation n discontinuation
-discontinue adj discontinuous
-discontinuitate n discontinuity
-disconto n [(Com.] discount; banca de disconto
-discount bank; disconto bancari bank discount
-disconvenientia n disparity, disproportion
-disconvenir v to disagree, be in disagreement;
-disconvenir a to be unsuited to, unsuitable for
-discoperir [-per-/-pert-] v 1. to uncover; 2. to
-discover; discoperir se to uncover (= to take off
-one's hat)
-Hence: discoperta; discoperitor
-discoperitor n discoverer
-discopert- see discoperir
-discoperta n discovery
-discoragiamento (-aja-) n discouragement
-discoragiar (-ajar) v to discourage, dishearten
-discorcar v. to uncork
-discordante 1. ppr of discordar; 2. adj
-discordant, disagreeing
-discordantia n discordance (1. disagreement;
-13. discord)
-discordar v to disagree
-discorde adj discordant
-Hence: discordia; discordar-discordo,
-discordante-discordantia
-discordia n discord; le pomo de(l) discordia the
-apple of discord
-discordo n disagreement, discord
-discornar v to dehorn
-discoronar v to uncrown, dethrone
-discortese adj discourteous
-discortesia (-ía) n discourtesy
-discreditar v to discredit (= to injure the credit
-of)
-discredito (-cré-) n discredit (= loss of good
-name or standing); cader in discredito to fall
-into discredit
-discrepante 1. ppr of discrepar; 2. adj discrepant
-discrepantia n discrepancy
-discrepar v to be discrepant, be at variance
-Hence: discrepante-discrepantia
-discrescer v to decrease
-discret- see discerner
-discrete adj 1. discrete (= consisting of distinct
-parts); 2. discreet
-discretion n discretion (= quality of being
-discreet); etate del discretion age or years of
-discretion; a discretion at discretion
-discretional adj discretionary, discretional
-discretionari adj discretionary
-discretive adj discriminative, distinguishing
-discriminar v to discriminate (= to perceive or
-note the difference in or between)
-Hence: discrimination
-discrimination n discrimination (= act or
-faculty of perceiving or noting differences and
-distinctions)
-disculpar v to free from blame, exculpate;
-disculpar (de) exonerate (from)
-diseurrer [-curr-/-curs-] v to discourse (= to
-speak formally)
-Hence: discursive; discurso
-discurs- see discurrer
-discursive adj discursive (1. proeeeding by
-reasoning, not intuitive; 2. rambling)
-discurso n discourse (1. formal speech; 2.
-treatise); pronunciar un discurso to deliver a
-speech; le partes del discurso the parts of speeeh
-discuss- see discuter
-discussion n discussion
-discuter [-cut-/-cuss-] v to discuss
-Hence: discutibile-indiscutible; discussion
-discutibile adj debatable
-disdicer v to deny, contradict; disdicer se to
-retract, recant
-Hence: disdicimento
-disdicimento n retraction, withdrawal (from a
-contract or agreement)
-disdignar v to disdain, scorn
-Hence: disdigno; disdignose
-disdigno n disdain, scorn
-disdignose adj disdainful
-disduplamento n (action of) undoubling,
-unfolding
-disduplar v to undouble, unfold
-disembarassar v to disentangle, disembarrass;
-disembarassar se de to get rid of
-disequilibrar v to unbalance, throw out of
-balance
-disequilibrate 1. pp of disequilibrar; 2. adj
-unbalanced (= unsteady, unstable)
-disestima n disesteem
-disestimar v to disesteem
-disfacer [-fac-/-fact-] v I. to undo (1. to
-unfasten; 2. to destroy); II. to defeat; disfacer se
-de to get rid of
-Hence: disfacte; disfacta
-disfact- see disfacer
-disfacta n undoing; also: defeat
-disfacte adj discomposed (as in "discomposed
-features")
-disfalsar v to true, straighten
-disfavor n disfavor
-disfavorabile adj unfavorable
-disfavorar v to disfavor
-disferrar v to unshoe (a horse); un cavallo
-disferra se a horse loses a shoe
-disfigurar v to disfigure
-Hence: disfiguration
-disfiguration n disfigurement, disfiguration
-disfloramento n defloration
-disflorar v to deflower (1. to strip of flowers; 2.
-to deprive of virginity)
-Hence: disfloramento
-disfoliar v to defoliate (= to strip, deprive, of
-leaves)
-disfoliation n defoliation (= act of depriving of
-leaves)
-disfoliator n defoliator
-disfrenar v to unbridle (a horse, etc.); also: to
-unleash
-disfructar v to pick fruit
-disgelar v to unfreeze (1. to cause to thaw or
-melt; 2. to thaw, become melted)
-Hence: disgelo
-disgelo n thaw
-disgorgamento n disgorgement
-disgorgar v to disgorge
-Hence: disgorgamento
-disgranamento n (act of) threshing, flailing,
-shelling, etc.
-disgranar v to thresh, thrash, flail, shell, etc.
-Hence: disgranamento; disgranator
-disgranator n I. thresher (1. one who threshes;
-14. threshing machine); II. sheller (= one who or
-that which shells)
-disgrassiar v to remove the fat from (the
-carcass of an animal, etc.)
-disgratia n I. disgrace (1. disfavor; 2. public
-dishonor); II. misfortune; III. lack of grace;
-also: ungraciousness; awkwardness; cader in
-disgratia to fall into disgrace
-Hence: disgratiose; disgratiar
-disgratiar v to disgrace (1. to dismiss from
-favor; 2. to reflect dishonor upon)
-disgratiose adj lacking grace; also: ungracious,
-awkward
-disgregar v to disintegrate; also: [Chem.] to
-disgregate
-Hence: disgregation
-disgregation n disintegration; also: [Chem.]
-disgregation
-disguisamento n disguise
-disguisar v to disguise (= to change the dress
-and appearance of so as to conceal identity)
-Hence: disguisamento
-disgustar v to disgust
-Hence: disgusto-disgustose
-disgusto n disgust
-disgustose adj disgusting
-dishabituar v to disaccustom, make (someone)
-lose a habit; dishabituar se to lose, overcome a
-habit
-disharmonia (-ía) n disharmony
-disharmonic adj disharmonic
-disharmoniose adj unharmonious,
-disharmonious
-disharmonisar v to disharmonize
-disherbar v to weed (= to clear of weeds)
-dishereditar v to disinherit
-dishonestate n 1. dishonesty; 2. impropriety,
-indecency
-dishoneste adj 1. dishonest; 2. improper,
-immodest
-dishonestitate n 1. dishonesty; 2. impropriety,
-indecency
-dishonor n dishonor (1. loss of honor, disgrace;
-15. cause or source of disgrace)
-dishonorabile adj dishonorable
-dishonorante adj dishonoring, dishonorable
-dishonorar v to dishonor, disgrace; dishonorar
-un puera to dishonor a girl
-dishydrator v to dehydrate
-disillusion n disillusion
-disillusionamento n disillusionment
-disillusionar v to disillusion
-disimballar v to unpack
-disimbarcar v to disembark
-disimbarcation n debarkation,
-disembarkation
-disincantamento n disenchantment
-disincantar v to disenchant (1. to free from a
-spell; 2. to disillusion)
-disincantator n disenchanter; attrib.
-disenchanting
-disincarcerar v to release from prison or
-confinement
-disincarceration n release from prison or
-confinement
-disincassamento n unpacking, unboxing
-disincassar v to unpack, unbox
-disinfamar v to free from stigma
-disinfectante adj disinfectant disinfectante n
-disinfectant
-disinfectar v to disinfect
-disinfectator n disinfector
-disinfection n disinfection
-disinflammar v to remove the inflammation
-from
-disinflar v 1. to reduce the swelling of; 2. to
-become less swollen; 3. to deflate
-disingranar v to disengage, ungear
-disinraucamento n (action of) freeing from
-hoarseness
-disinraucar v to free from hoarseness
-disintegrar v to disintegrate (= to cause
-disintegration)
-disintegration n disintegration
-disinteressar v 1. to make uninterested or
-indifferent; 2. to buy out, indemnify;
-disinteressar se de to lose one's interest in,
-become indifferent to
-disinteressate adj 1. disinterested; 2.
-uninterested (= not having an interest in a thing)
-disinteresse n 1. disinterestedness; 2.
-uninterestedness (= state of not having an
-interest in a thing)
-disinveloppar v to unwrap
-disinvolt- see disinvolver
-disinvolte adj easy, unconstrained, free in
-speech or manner
-disinvoltura n ease, unconstraint, freedom in
-speech or manner
-disinvolver [-volv-/-volt-] v to disentangle
-Hence: disinvolte-disinvoltura
-disjejunar v to break the fast, stop fasting
-disjunct- see disjunger
-disjunction n disjunction
-disjunctive adj disjunctive (1. tending to
-disjoin; involving disjunction; 2. [Gram.])
-disjunger [-jung-/-junct-] v to disjoin
-Hence: disjunction; disjunctive
-dislactar v to wean
-disligamento n (act of) unbinding
-disligar v to unbind
-Hence: disligamento
-dislocar v 1. to displace, shift from its place; 2.
-to dislocate, put out of joint
-Hence: dislocation
-dislocation n dislocation (1. displacement of a
-bone at a joint; 2. [Geol.])
-disloyal adj disloyal
-disloyalitate n disloyalty
-dismacular v to remove the stains from, clean
-dismaculator n cleaner (1. professional
-cleaner; 2. spot remover, cleaning fluid)
-dismaculatura n cleaning, removal of spots
-dismanicar v to remove the handle of
-dismantellamento n dismantling,
-dismantlement (as in "the dismantling or
-dismantlement of a fortress, vessel, etc.")
-dismantellar v to dismantle (= to strip of
-equipment, fortifications, rigging, etc.)
-Hence: dismantellamento
-dismarcar v to remove markers or
-identification marks from
-dismascar v to unmask (= to strip of a mask)
-dismembramento n dismemberment
-dismembrar v to dismember
-Hence: dismembramento
-dismensurate adj beyond measure,
-immeasurable
-dismentir v 1. to give the lie to; 2. to deny,
-disown; also: to belie
-dismesurate adj beyond measure,
-immeasurable
-dismilitarisar v demilitarize
-dismilitarisation n demilitarization
-dismobilar v to strip of furniture
-dismonetisar v to demonetize
-dismonetisation n demonetization
-dismontabile adj dismountable (= that can be
-taken apart or dismounted)
-dismontage (-aje) n [Mech.] (action of)
-dismounting; also: dismantling
-dismontar v to dismount (1. to alight, alight
-from; 2. to unhorse; 3. [Mech.] to take down
-from a mounted or assembled condition)
-Hence: dismontage; dismontabile
-dismoralisar v to demoralize (= to destroy the
-morals or morale of)
-Hence: dismoralisation; dismoralisator
-dismoralisation n demoralization (= act of
-demoralizing or state of being demoralized)
-dismoralisator n demoralizer
-disnationalisar v to denationalize
-disnationalisation n denationalization
-disnaturante adj/n denaturant
-disnaturar v to denature (= to alter the nature
-of)
-disnaturation n denaturation
-disnazificar v denazify
-disnazification n denazification
-disnodar v to unknot; untie
-disnodose adj smooth, knotless, without gnarls
-disobediente 1. ppr of disobedir; 2. adj
-disobedient
-disobedientia n disobedience
-disobedir v to disobey; disobedir a (un
-persona) to disobey (somebody)
-disobligante v disobliging
-disobligar v to disoblige (= to offend)
-disoccupar v to vacate, evacuate, empty;
-disoccupar se to give up work
-disoccupate adj unoccupied, idle
-disoccupation n idleness
-disodorante adj deodorant
-disordinar v to disorder (= to destroy the order
-of)
-disordinate 1. pp of disordinar; 2. adj disorderly
-(= in disorder)
-disordine n disorder (1. lack of order; 2. public
-disturbance); in disordine in disorder, disorderly
-disorganisar v to disorganize
-disorganisation n disorganization
-disorganisator n disorganizer
-disorientar v to disorientate; to cause to lose
-one's bearings; disorientar se to lose one's
-bearings
-disorientation n disorientation
-disossar v to bone (= to remove bones from)
-disoxydar v to deoxidize
-disoxydation n deoxidization
-dispacchettar v to unpack, unwrap
-dispaisar v to displace (someone) from his
-country; dispaisar se to emigrate
-dispaisate adj displaced (as in "displaced
-persons")
-disparate adj disparate
-dispare adj unlike, dissimilar
-Hence: disparitate; disparate
-disparer v to disappear
-Hence: disparition
-disparitate n disparity
-disparition n disappearance
-dispeciamento n (act of) breaking into pieces,
-fracturing
-dispeciar v to break into pieces, fracture
-dispender [-pend-/-pens-] v 1. to spend,
-expend (= to give out in payment); 2. to
-squander, waste
-Hence: dispendio-dispendiose; dispensa¹-
-dispensero; dispensar-dispensa²-dispensario,
-dispensabile-indispensabile-indispensabilitate,
-dispensation, dispensative, dispensator;
-dispenditor
-dispendio n great expense
-dispendiose adj expensive, costly
-dispenditor n spender, spendthrift
-dispens- see dispender
-dispensa¹ n 1. expenditure, outlay (of money);
-16. pantry
-dispensa² n dispensation, exemption
-dispensabile adj dispensable (1. capable of
-being dispensed with; 2. [Eccl.] admitting of
-release, dispensation, etc.)
-dispensar v to dispense (1. to give out; 2. to
-release, exempt)
-dispensario n dispensary (= place where
-medicines are dispensed)
-dispensation n dispensation (1. act of
-dispensing or giving out; 2. exemption)
-dispensative adj dispensatory, dispensative
-dispensator n dispenser (= one who dispenses,
-deals out)
-dispensero n butler, steward
-disperger [-sperg-/-spers-] v to disperse (=
-to cause to disperse or scatter)
-Hence: dispersion; dispersive; dispersar
-dispers- see disperger
-dispersar v to disperse, scatter
-dispersion n dispersal, dispersion
-dispersive adj dispersive
-displacente adj unpleasant
-displacentia n displeasure
-displacer v to displease; displacer a un persona
-to displease somebody displacer n displeasure
-displaciamento n displacement (1. action of
-displacing; 2. [Naut.])
-displaciar v to displace (1. to shift something
-from its place; 2. to remove someone from a
-position or office)
-Hence: displaciamento
-displantar v to root up, uproot
-displicamento n deployment, deploy
-displicar v 1. to unfold, open (something);
-also: to unfurl (a flag, etc.); 2. to deploy (troops,
-etc.); displicar se to unfold (as in "buds unfold in
-the sun"); displicar zelo to display zeal
-Hence: displicamento
-displumar v to pluck (poultry)
-dispolarisar v to depolarize
-dispolarisation n depolarization
-dispolir v to remove the polish from
-disponer [-pon-/-posit-] v to dispose (1. to
-arrange; 2. to fit, prepare; 3. to determine the
-course of events); disponer de 1. to dispose of,
-have at one's disposal; 2. [Law] to dispone,
-alienate; homine propone e Deo dispone
-[Proverb] man proposes but God disposes
-Hence: disponibile-disponibilitate; disposition;
-dispositor; dispositive; disposite; indisponer &;
-predisponer &
-disponibile adj available, disposable
-disponibilitate n availability
-dispopulamento n depopulation (= act of
-depopulating)
-dispopular v to depopulate
-Hence: dispopulamento
-disposit- see disponer
-disposite (-pó-) adj disposed, inclined;
-disposite a facer un cosa disposed to do
-something
-disposition n I. disposition (1. arrangement; 2.
-disposal; 3. as in "a natural disposition for
-music"); II. state or frame of mind; also:
-inclination, mood, etc.
-dispositive adj dispositive (= pertaining to the
-disposal or disposition of something)
-dispositor n disposer (= one who disposes)
-disposseder [-sed-/-sess-] v to dispossess
-Hence: dispossession
-dispossess- see disposseder
-dispossession n dispossession
-disproportion n lack of proportion,
-disproportion
-disproportionar v to disproportion
-disproportionate 1. pp of disproportionar; 2. adj
-disproportionate
-disprovider v to deprive of what is necessary
-disproviste adj destitute (= not possessing the
-necessities of life); disproviste de destitute of,
-devoid of
-dispulverar v to dust (= to free from powder,
-dust, etc.)
-disputa n dispute
-disputabile adj disputable
-disputante n disputant
-disputar v to dispute (1. to discuss, argue; 2. to
-contend for)
-Hence: disputa; disputante; disputabile-
-indisputabile; disputation; disputative;
-disputator
-disputation n disputation
-disputative adj disputatious
-disputator n disputer
-disqualificar v to disqualify
-disqualification n disqualification
-disquir- [-quir-/-quisit-] v [occurring in
-derivatives]
-Hence: disguisition
-disquisit- see disquir-
-disquisition n disquisition
-disrangiamento (-ja-) n disarrangement,
-derangement
-disrangiar (-jar) v to disarrange, disorder,
-derange
-Hence: disrangiamento
-disrationabile adj unreasonable, irrational (=
-not conformable to reason)
-disregulamento n 1. disorder, disordered
-state; 2. dissoluteness, profligacy
-disregular v to upset, put out of order;
-disregular se to engage in dissipation
-Hence: disregulamento
-disrumper [-rump-/-rupt-] v to disrupt,
-disrump
-Hence: disruption; disruptive; disruptor
-disrupt- see disrumper
-disruption n disruption
-disruptive adj disruptive
-disruptor n disrupter
-dissecar [-sec-/-sect-] v to dissect
-Hence: dissection; dissector
-dissect- see dissecar
-dissection n dissection
-dissector n dissector
-dissellar v to unsaddle
-disseminar v to disseminate
-Hence: dissemination; disseminator
-dissemination n dissemination
-disseminator n disseminator
-dissens- see dissentir
-dissension n dissension
-dissentimento n dissent
-dissentir [-sent-/-sens-] v to dissent;
-dissentir de to dissent from
-Hence: dissentimento; dissension
-disserer [-ser-/-sert-] v to discuss, dissertate
-Hence: dissertar-dissertation, dissertator
-disserrar v 1. to unlock; 2. to (cause to) loosen
-or slacken
-dissert- see disserer
-dissertar v to discuss, dissertate
-dissertation n dissertation
-dissertator n dissertator
-disservicio n disservice
-disservir v to render a disservice
-dissidente adj dissident dissidente n dissident,
-dissentient, dissenter
-dissidentia n dissent, dissidence
-dissider v to dissent, hold a dissident view
-Hence: dissidente-dissidentia
-dissigillar v to unseal
-dissimilantia n dissimilarity
-dissimilar adj dissimilar dissimilar v to render
-dissimilar
-Hence: dissimilantia; dissimilation
-dissimilation n [Phonet.] dissimilation
-dissimile adj dissimilar
-Hence: dissimilitude; dissimilar
-dissimilitude n dissimilitude, dissimilarity
-dissimular v to dissemble, dissimulate
-Hence: dissimulation; dissimulator; dissimulate
-d issimulate 1. pp of dissimular; 2. adj
-dissimulative
-dissimulation n dissimulation
-dissimulator n dissimulator
-dissipabile adj capable of being dissipated,
-dissipable
-dissipar v to dissipate (1. to scatter, disperse; 2.
-to waste, squander)
-Hence: dissipabile; dissipation; dissipator;
-dissipate
-dissipate 1. pp of dissipar; 2. adj dissipated,
-unrestrained
-dissipation n dissipation (1. scattering,
-dispersion; 2. waste, squandering; 3. dissipated
-living)
-dissipator n dissipator, dissipater
-dissociabile adj dissociable, separable
-dissociabilitate n dissociability
-dissociar v dissociate (= to cause to dissociate)
-Hence: dissociabile-dissociabilitate; dissociation
-dissociation n dissociation
-dissoldar v to unsolder
-dissolu- see dissolver
-dissolubile adj dissoluble
-dissolubilitate n dissolubility
-dissolut- see dissolver
-dissolute adj dissolute
-dissolution n 1. dissolution; 2. dissoluteness
-dissolutive adj dissolutive
-dissolvente 1. ppr of dissolver; 2. adj dissolvent,
-solvent dissolvente n dissolvent, solvent
-dissolver [-solv-/-solut-] v to dissolve (= to
-cause to dissolve)
-Hence: dissolvente; dissolubile-dissolubilitate,
-indissolubile-indissolubilitate; dissolution;
-dissolutive; dissolute
-dissonante 1. ppr of dissonar; 2. adj dissonant
-dissonantia n dissonance
-dissonar v [Mus.] to be dissonant
-Hence: dissonante-dissonantia
-dissone adj dissonant
-dissuader [-suad-/-suas-] v to dissuade
-Hence: dissuasion; dissuasive; dissuasor
-dissuas- see dissuader
-dissuasion n dissuasion
-dissuasive adj dissuasive
-dissuasor n dissuader
-distaccabile adj detachable
-distaccamento n detachment (1. act of
-unfastening and separating; 2. [Mil.])
-distaccar v I. to detach (1. to unfasten and
-separate; 2. [Mil.]); II. [Paint.] to make stand
-out
-Hence: distaccamento; distaccabile
-distante adj distant
-distantia n distance; a distantia at a distance;
-tener un persona a distantia to keep someone at
-a distance
-distantiar v to outdistance
-distar v to be distant
-Hence: distante-distantia-distantiar,
-equidistante etc.
-distemperar v 1. to distemper, derange; 2.
-[Metal.] to anneal, soften
-distemperate 1. pp of distemperar; 2. adj
-intemperate (as in "intemperate speech")
-distender [-tend-/-tens-] v to distend (= to
-dilate by stretching)
-Hence: distension
-distens- see distender
-distension n distention, distension
-disthronamento n dethronement
-disthronar v to dethrone
-di·sticho (dí-) n [Pros.] distich; also: couplet
-distillabile adj distillable
-distillar v to distill (1. to fall or give out in
-drops; 2. to subject to the process of distillation)
-Hence: distillabile; distilleria; distillation;
-distillator; distillatori
-distillation n distillation
-distillator n distiller
-distillatori adj distillatory
-distilleria (-ía) n distillery
-distinct- see distinguer
-distincte adj distinct (1. different; 2. clearly
-perceptible)
-Hence: indistincte
-distinction n distinction (1. act of
-distinguishing; 2. condition of being
-distinguished or outstanding among others)
-distinctive adj distinctive
-distinger v to take the color out of, fade
-distinguer [-stingu-/-stinct-] v to
-distinguish; distinguer se to distinguish oneself
-Hence: distinguibile-indistinguibile; distinction-
-indistinction; distinctive; distincte &;
-distinguitor; distinguite
-distinguibile adj distinguishable
-distinguite 1. pp of distinguer; 2. adj
-distinguished (= possessing distinction)
-distinguitor n distinguisher
-distorquer [-torqu-/-tort-] v 1. to distort; 2.
-to untwist
-Hence: distortion
-distort- see distorquer
-distortion n I. distortion (1. action of
-distorting; 2. contortion); II. (act of) untwishng
-distract- see distraher
-distracte adj absent-minded
-distraction n 1. absent-mindedness; 2.
-distraction, amusement
-distractive adj distractive
-distraher [-trah-/-tract-] v to divert (1. to
-distract; 2. to entertain, amuse)
-Hence: distraction; distractive; distracte
-distribuer [-tribu-/-tribut-] v to distribute
-(1. to allot to each as his share; 2. to allocate to
-distinct places; 3. [Print.])
-Hence: distribution; distributive; distributor
-distribut- see distribuer
-distribution n distribution (1. apportionment,
-allotment; 2. allocation to distinct places; 3.
-[Print.])
-distributive adj distributive (1. serving to
-distribute; 2. [Gram.])
-distributor n distributor, distributer
-districto n [Admin.] district
-disturbar v to disturb (= to break up a state of
-order, calm and quiet)
-Hence: disturbator
-disturbator n disturber
-disunion n disunion (1. rupture of union,
-severance; 2. disunity)
-disunir v to disunite
-disunitate n disunity
-disusar v to disuse
-disuso n disuse
-disvainar v to unsheathe, draw (a sword, etc.)
-disvelar v to unveil
-disveloppamental adj developmental
-disveloppamento n 1. development; 2.
-[Photog.] (act of) developing
-disveloppar v to develop; also: [Photog.]
-Hence: disveloppamento-disveloppamental;
-disveloppator
-disveloppator n [Photog.] developer
-disvestir v to undress (a person)
-disviar v to turn aside, cause to deviate; disviar
-se to go astray, lose one's way
-di·syllabe (-sí-) adj dissyllabic, disyllabic
-Hence: disyllabo
-disyllabo (-sí-) n dissyllable, disyllable
-ditto ditto; signo de ditto ditto marks
-diurne adj I. diurnal (1. daily; 2. relating to
-daytime); II. lasting one day
-divagar v 1. to wander about, ramble; 2. to
-divagate, digress
-Hence: divagation
-divagation n 1. (act of) wandering about,
-rambling; 2. divagation, digression
-divan n divan
-dive adj divine
-Hence: divo-divin &
-diveller [-vell-/-vuls-] v to tear apart, rend
-Hence: divulsion
-divergente 1. ppr of diverger; 2. adj divergent
-divergentia n divergence, divergency
-diverger v to diverge
-Hence: divergente-divergentia
-divers- see diverter
-diverse adj diverse
-diversificar v to diversify (= to make diverse)
-diversion n diversion (1. entertainment,
-pastime; 2. [Mil.])
-diversitate n diversity
-diverter [-vert-/-vers-] v to divert (1. to turn
-aside; 2. to amuse, entertain)
-Hence: divertimento; diversion; diverse-
-diversitate; diversificar
-divertimento n diversion, amusement
-dividendo n dividend (1. [Arith.]; 2. [Com.])
-divider [-vid-/-vis-] v to divide (1. to separate
-into parts; 2. [Arith.])
-Hence: dividendo; divisibile-divisibilitate,
-indivisibile-indivisibilitate; division-divisional,
-indivision; divisive; divisor; indivise; individuo
-&; subdivider-subdivisibile, subdivision
-divin adj divine
-Hence: divinitate; divinisar-divinisation; divino
-&
-divinar v to divine, guess
-divination n divination
-divinator n diviner
-divinatori adj divinatory
-divinisar v to deify
-divinisation n deification
-divinitate n divinity (= divine nature or being)
-divino n soothsayer; guesser
-Hence: divinar-divination, divinator, divinatori
-divis- see divider
-divisibile adj divisible
-divisibilitate n divisibility
-division n division (1. act of dividing; 2.
-[special: Arith., Mil., Biol., etc.]); division del
-labor division of labor
-divisional adj divisional
-divisive adj divisive (= indicating division)
-divisor n [Arith.] divisor; (maxime) commun
-divisor (greatest) common divisor
-divo n deity
-divorciar v to divorce
-divorcio n divorce
-Hence: divorciar
-divulgar v to divulge, divulgate
-Hence: divulgation; divulgator
-divulgation n divulgement, divulgation
-divulgator n divulger
-divuls- see diveller
-divulsion n divulsion
-dl abbr = decilitro
-dm abbr = decimetro;
-dm² = decimetro quadrate;
-dm³ = decimetro cubic
-do n 1. [Mus.] do; 2. [Mus.] (the note) C
-doana n I. (1. customs administration or
-system; 2. duty); II. customhouse
-Hence: doanero
-doanero n customhouse officer
-docer [doc-/doct-] v to teach, instruct
-Hence: docile &; doctor &; doctrina &; docte
-docile adj docile
-Hence: docilitate; indocile-indocilitate
-docilitate n docility
-doct- see docer
-docte adj learned
-doctor n I. teacher, scholar, learned man; II.
-doctor (1. as in "doctor of philosophy"; 2. doctor
-of medicine, physician); doctor del Ecclesia
-Doctor of the Church
-Hence: doctorato; doctoressa; doctoral;
-doctorar-doctorando
-doctoral adj doctoral
-doctorando n candidate for the doctor's degree
-doctorar v to confer the degree of Doctor upon
-doctorato n doctorate
-doctoressa n woman doctor
-doctrina n doctrine Hencc: doctrinal;
-doctrinari-doctrinarismo; doctrinario
-doctrinal adj doctrinal (as in "doctrinal
-observation or clauses")
-doctrinari adj doctrinary, doctrinaire
-doctrinario n doctrinaire
-doctrinarismo n doctrinalism, doctrinism,
-doctrinairism
-documental adj documentary
-documentar v to document
-documentari adj documentary
-documentation n documentation
-documento n document
-Hence: documental; documentari; documentar-
-documentation
-dodeca- adj [occurring in compounds] dodeca-,
-dodec- (= twelve)
-Hence: dodecahedro etc.; Dodecaneso etc.;
-dodecagon etc.; dodecapetale etc.; dodecasyllabe
-etc.
-dodeca·gon adj dodecagonal
-Hence: dodecagono-dodecagonal
-dodecagonal adj dodecagonal
-dodecagono n dodecagon
-dodeca·hedr- [occurring in derivatives]
-Hence: dodecahedro-dodecahedric
-dodecahedric adj dodecahedral
-dodecahedro n [Math.] dodecahedron
-Dodeca·neso npr Dodecanese Islands
-dodeca·petale adj [Bot.] dodecapetalous
-dodeca·syllabe (-sílabe) adj dodecasyllabic
-Hence: dodecasyllabo
-dodecasyllabo (-sílabo) n [Pros.]
-dodecasyllable
-dogma [-ma/-mat-] n dogma
-Hence: dogmatic; dogmatica; dogmatisar-
-dogmatismo, dogmatista, dogmatisation,
-dogmatisator
-dogmat- see dogma
-dogmatic adj dogmatic, dogmatical
-dogmatica n dogmatics
-dogmatisar v to dogmatize
-dogmatisation n dogmatization
-dogmatisator n dogmatizer
-dogmatismo n dogmatism
-dogmatista n dogmatist
-doler v to hurt, be aching; (le capite me) dole
-(my head) aches; doler se de to be sorry for
-Hence: dolo; indolente &; dolor-dolorose;
-indoler; condoler &
-dolich- adj [occurring in compounds] dolicho-,
-dolich- (= long)
-Hence: dolichocephale etc. ...
-dolicho·cephale adj [Anthropometry]
-dolichocephalic
-dollar [A] n [Monet.] dollar
-dolo n grief, sorrow
-dolor n pain (1. ache; 2. grief); dolor de dentes
-toothache
-dolorose adj 1. painful (= causing pain); 2.
-sorrowful, dolorous
-domabile adj tamable
-domar v to tame (= to make tame)
-Hence: domabile-indomabile-indomabilitate;
-domator; indomate
-domator n tamer (of wild beasts)
-domestic (-més-) adj domestic (= of or
-belonging to the household, home, family);
-animal domestic domestic animal; aves domestic
-poultry
-Hence: domesticitate; domesticar-
-domestication, domesticator; domestico
-domesticar v to domesticate, tame
-domestication n domestication
-domesticator n domesticator
-domesticitate n 1. domesticity; 2. (state of)
-dependence
-domestico (-més-) n domestic
-domiciliar v to domicile, domiciliate (= to
-establish or set up at a given residence)
-domiciliari adj domiciliary
-domicilio n domicile; franc a domicilio delivery
-free, carriage paid
-Hence: domiciliari; domiciliar
-domina n mistress ("mistress of a household,
-etc.")
-dominante adj dominant (1. controlling, most
-influential; 2. rising high above its
-surroundings) dominante n [Mus.] dominant
-dominantia n dominance
-dominar v to dominate (1. to exercise control
-over; 2. to rise high above)
-Hence: dominante¹-dominantia, dominante²-
-subdominante; domination; dominator;
-predominar &
-domination n domination
-dominator n dominator
-dominial adj pertaining to a domain,
-domainal; dominial
-dominica n Sunday; Dominica del Palmas
-Palm Sunday
-dominical adj dominical
-dominican adj Dominican (1. pertaining to St.
-Dominic, or to the order of preaching friars
-founded by him; 2. pertaining to the Dominican
-Republic); Republica Dominican Dominican
-Republic
-dominicano n Dominican (1. Dominican friar;
-17. native or citizen of the Dominican Republic)
-Dominico (-mí-) nprm Dominic
-Hence: dominican-dominicano
-dominio n 1. (absolute) ownership, dominion,
-dominium; 2. dominion (= rule control, supreme
-authority; 3. domain; dominio eminente [Law]
-eminent domain; dominio public [Law] public
-domain; dominio de energias [Atomic Phys.]
-energy range
-Hence: dominial; condominio
-domino (dó-) n I. master (lord, owner, etc.); II.
-domino (1. long, loose robe worn at
-masquerades; 2. [Games] "domino piece"; also:
-(game of) dominoes)
-Hence: dominio &; Dominico &; dominica-
-dominical; dominar &; domina
-domo¹ n house; domo de Deo house of God; a
-domo home, homewards; at home; in domo de
-at the house of
-Hence: domicilio &; domino &; domestic &;
-majordomo etc.
-domo² n dome (= cupola)
-donar v to give, donate
-donation n donation
-donativo n donation, donative
-donator n donor, donator
-donatorio n [Law] donatory
-[donec] (dó-) conj 1. while, as long as; 2. until,
-up to the time that
-donjon n dungeon, donjon
-donna n donna, dame
-dono n gift (1. present; 2. natural ability)
-Hence: donar-donation, donativo, donator,
-donatorio, pardonar &
-Don Quixote (kishóte, kihóte) npr Don
-Quixote
-Hence: quixoteria; quixotismo; quixotic
-dormir v to sleep
-Hence: dormitive-dormitivo; dormitorio;
-addormir-addormite
-dormitive adj soporific (= causing sleep)
-dormitivo n sleeping pill or potion, soporific
-dormitorio n dormitory (= sleeping room)
-doro- n [occurring in compounds] doro-, -dor
-(= gift)
-Hence: Dorothea etc.; Pandora etc.; thermidor
-etc.; fructidor etc.
-Doro·thea (-éa) nprf Dorothy
-dorsal adj dorsal
-dorso n back (1. "back of a person or animal"; 2.
-as in "the back of the hand"; 3. "back of a chair
-or couch")
-Hence: dorsal; adorsar; indorsar &; extradorso;
-intradorso
-dosage (-aje) n dosing, dosage
-dosar v 1. to divide into doses; 2. to proportion
-(the constituents of a compound); 3. to dose (=
-to give out in doses)
-dose n dose
-Hence: dosar-dosage
-dossier [F] n dossier
-dotal ad; dotal
-dotar v 1. to dower (= to give a dowry to); 2. to
-endow
-dotation n endowment, dotation
-dote n dowry
-Hence: dotal; dotar-dotation
-dova n stave (of a cask)
-dox- n [occcurring in compounds] dox-, -dox-
-(1. opinion; as in "heterodox"; 2. glory; as in
-"doxology")
-Hence: paradoxe &; doxologia etc.; heterodoxe
-etc.; orthodoxe etc.
-doxo·logia (-ía) n doxology
-dozena n dozen
-drachma n 1. drachma; 2. [Weights] dram
-dracon n 1. dragon (1. [Mythol.]; 2. [Zool.]
-lizard of the genus Draco; 3. [Bot.]) Dracon npr
-[Gr. Hist.] Draco
-Hence: draconian
-draconian adj Draconian; lege(s) draconian
-Draconian law(s)
-draga n [Technol.] dredge (1. dredger; 2.
-dragnet)
-Hence: dragar-dragaminas etc.
-draga·minas (-mí-) n mine sweeper
-dragar v [Technol.] to dredge
-drama [-ma/-mat-] n drama
-Hence: dramatic; dramatisar; dramaturgo etc.;
-melodrama etc.
-dramat- see drama
-dramatic adj dramatic
-dramatisar v to dramatize
-dramaturgia (-ía) n dramaturgy
-dramat·urgo n dramatist, playwright
-Hence: dramaturgia
-drappar v to drape, hang with a drapery
-drapperia (-ía) n drapery (1. business of
-selling cloth; 2. clothing or hangings arranged in
-graceful folds)
-drappero n draper (= dealer in cloth)
-drappo n cloth (= fabric, material)
-Hence: drappero; drapperia; drappar
-drastic adj drastic
-dreadnought [A] n dreadnought
-droga n drug
-Hence: drogeria; drogista; drogar
-drogar v to drug (= to administer a drug or
-drugs to)
-drogeria (-ía) n drugstore
-drogista n druggist
-dromedario n dromedary
--dromo n [occurring in compounds] -drome (1.
-running; 2. racecourse)
-Hence: aerodromo etc.; autodromo etc.;
-hippodromo etc.; velodromo etc.; palindromo
-etc.
-druida (drú-) n druid
-Hence: druidessa; druidismo; druidic
-druidessa n druidess
-druidic (-íd-) adj druidic, druidical
-druidismo n druidism
-dual adj dual
-dualismo n dualism
-dualista n dualist
-dualistic adj dualistic
-dualitate n duality
-dubita (dú-) n doubt; esser in dubita to be in
-doubt; sin dubita without doubt, doubtless; foris
-de dubita beyond doubt; poner (un cosa) in
-dubita to cast doubt on (something)
-dubitabile adj doubtful, questionable
-dubitar v to doubt, be in doubt; dubitar de (un
-cosa) to doubt (something)
-Hence: dubita-dubitose; dubitabile-indubitabile;
-dubitation; dubitative; dubitator; indubitate
-dubitation n doubt (1. as in "in doubt",
-"without doubt"; 2. [Rhet.] dubitatio)
-dubitative adj dubitative
-dubitator n doubter
-dubitose adj dubious, doubtful (1. in doubt; 2.
-causing doubt)
-ducal adj ducal
-ducato n I. dukedom (1. duchy; 2. title or rank
-of a duke); II. ducat
-Hence: ducaton
-ducaton n ducatoon
-duce n duke
-Hence: ducato &; duchessa; ducal; archiduce etc.
-ducer [duc-/duct-] v to conduct (1. to lead,
-guide; 2. to direct, manage)
-Hence: ductile &; ducto &; abducer &; adducer
-&; conducer &; deducer &; inducer &; introducer
-&; producer &; reducer &; seducer &; traducer &
-duch- see duce
-ducha (-sh-) n 1. douche (= jet of water for
-therapeutic purposes); 2. shower, shower bath
-Hence: duchar
-duchar (-sh-) u 1. to douche (= to give a douche);
-18. to give a shower, a shower bath
-duchessa n duchess
-duct- see ducer
-ductile adj ductile
-Hence: ductilitate
-ductilitate n ductility
-ducto n [Anat.] duct
-Hence: aqueducto etc.; oviducto etc.; viaducto
-etc.
-duellar v to duel
-duellista n duelist
-duello n duel
-Hence: duellista; duellar
-duettista n duettist
-duetto n duet
-dulce adj sweet (1. "sweet to the taste"; 2.
-pleasant, soft, gentle, etc.); aqua dulce fresh
-water; (metallo) dulce soft, malleable (metal)
-Hence: dulcor-edulcorar-edulcoration; adulciar-
-adulciamento; dulcificar-dulcification
-dulci- see dulce
-dulcificar v to dulcify
-dulcification n dulcification
-dulcor n sweetness (1. "sweetness to the taste";
-19. quality of being pleasant, soft, mild, gentle,
-etc.)
-dulo- n [occurring in derivatives and
-compounds] dul- (= slave)
-Hence: hierodulo etc. ...
-dum conj 1. while, as long as; 2. until; 3.
-provided that, if only
-Hence: [interdum] etc.
-duma [R] n duma
-dumdum [A] n dumdum (bullet)
-dumping [A] n [Com.] dumping
--dun [Icel.] n [occurring in compounds] -down
-Hence: eiderdun etc.
-duna n dune, down
-Dunkerque [F] npr Dunkirk
-Dunkirken (dún-) npr Dunkirk
-[dunque] conj therefore
-duo adj two; dividar in duo to divide in two;
-also: to halve; le duo the two; tote (le) duo both
-Hence: dual-dualismo, dualista-dualistic,
-dualitate; duo²-duetto-duettista; duodece etc.;
-deceduo etc.; duple etc.; duplice etc.; duumviro
-etc.
-duo n duet
-duode- see duodece
-duo·dece (-ó-) adj twelve
-Hence: duodecime duodecimal; duodeno-
-duodenal, duodenitis
-duodecim- see duodece
-duodecimal adj duodecimal
-duodecime (-dé-) adj twelfth
-duodenal adj duodenal
-duodenitis (-ítis) n duodenitis
-duodeno n [Anat.] duodenum
-dupar v to dupe
-dupator n duper
-dupe n dupe
-Hence: dupar-dupator
-duplamento n (action of) doubling
-duplar v to double (1. to make double; 2.
-[Naut.] to sail round)
-du·ple adj double, twofold; partita duple
-[Bookkeeping] double entry; duple v (the letter)
-w
-Hence: dupletto; duplar-duplamento, disduplar-
-disduplamento, reduplar-reduplamento;
-semiduple etc.
-dupletto n doublet (1. identical piece; also:
-[Philol., Jewelry, etc.]; 2. combination of two)
-duplicar v to double, make double
-duplication n duplication
-duplicative adj duplicative
-duplicato n duplicate
-duplicator n duplicator
-duplicatura n duplicature; also: [Anat.]
-du·plice (dú-) adj double, twofold
-Hence: duplicitate; duplicar-duplication,
-duplicative, duplicator, duplicatura, duplicato,
-reduplicar-reduplication, reduplicative
-duplicitate n 1. doubleness, duplexity; 2.
-duplicity, double-dealing
-dur adj hard (= not soft); also: harsh
-Hence: duressa; durar &
-durabile adj durable, lasting
-durabilitate n durability
-durante prep during; durante que while, whilst
-durar v to last, endure
-Hence: durante; durabile-durabilitate; duration;
-indurar &; perdurar &
-duration n duration (1. continuance in time; 2.
-period of time during which a thing lasts)
-duressa n hardness; also: harshness, duress
-duumviral adj duumviral
-duumvirato n duumvirate
-duum·viro (-úm-) n [Rom. Antiq.] duumvir
-Hence: duumvirato; duumviral
-dyn- see dynam-
-dyna n [Phys.] dyne
-dynam- n [occurring in derivatives and
-compounds]
-Hence: dynamismo; dynamista; dynamite &;
-dynamic-aerodynamic etc.; isodynamic etc.;
-dynamica-electrodynamica etc; adyname &;
-dynamometro etc.; dynamoelectric etc.;
-heterodyne etc.
-dynamic adj dynamic, dynamical
-dynamica n [Phys.] dynamics
-dynamismo n [Philos.] dynamism
-dynamista n dynamist
-dynamitar v to dynamite
-dynamite n dynamite
-Hence: dynamitero; dynamitic; dynamitar
-dynamitero n dynamiter
-dynamitic adj dynamite, dynamitic
-dynamo (dí-) n [Elec.] dynamo
-Hence: turbodynamo etc.
-dynamo·electric adj dynamoelectric; machina
-dynamoelectric dynamoclectric machine,
-dynamo
-dynamo·metro (-mó-) n dynamometer
-dynasta n dynast
-Hence: dynastia; dynastic
-dynastia (-ía) n dynasty
-dynastic adj dynastic
-dys- prefixo [used chiefly to form technical
-terms] dys- (1. bad, badly; 2. difficult, with
-difficulty; 3. disordered)
-Hence: dysenteria etc.; dyspepsia etc.; dyspeptic
-etc.
-dysenteria (-ía) n [Pathol.] dysentery
-Hence: dysenteric
-dysenteric adj dysenteric
-dyspepsia (-ía) n [Pathol.] dyspepsia
-dyspeptic adj dyspeptic
-dysphasia (-ía) n [Med.] dysphasia
-
-🚧%%<br>🚧(IED)<br>%%, 🚧%%<br>🚧(IED)<br>%%
-
+**diagnosticar** v to diagnose
+**diagnostico** n diagnostics, diagnosis
+**diagonal** adj diagonal diagonal n diagonal
+**diagramma** [-ma/-mat-] n diagram *Hence*: diagrammatic
+**diagrammat-** *see* **diagramma**
+**diagrammatic** *adj* diagrammatic
+**dialectal** *adj* dialectal
+**dialectic** *adj* dialectic, dialectical *Hence*: dialectico; dialectica
+**dialectica** *n* dialectics, dialectic
+**dialectico** *n* dialectician
+**dialecto** *n* dialect (as in "Scottish dialect") *Hence:* dialectal; dialectic &
+**dialogar** *v* to dialogue
+**dialogic** *adj* in form of a dialogue, dialogic
+**dialogisar** *v* to dialogize
+**dialogismo** *n* dialogism
+**dialogista** *n* dialogist
+**dialogo (-á-)** *n* dialogue, dialog *Hence:* dialogismo; dialogista; dialogic; dialogar; dialogisar
+**diamante** *n* diamond
+**diametral** *adj* diametrical, diametric
+**diametric** *adj* diametric
+**diametro (-á-)** *n* diameter *Hence:* diametral; diametric-isodiametric etc.; semidiametro etc.
+**Diana** *npr* [Rom. Relig.] Diana diana *n* reveille
+**di·antho** *n* [Bot.] pink; also: carnation
+**diapason (-pá)** *n* 1. range (as in "range of a singing voice"; "range of an instrument"); 2. tuning fork
+**diaphane** *adj* diaphanous *Hence:* diaphaneitate; semidiaphane etc.
+**diaphaneitate** *n* diaphaneity
+**diaphragma** [-ma/-mat-] diaphragm (1. midriff; 2. [Photog., Phys.; etc.]) *Hence:* diaphragmatic
+**diaphragmat-** *see* **diaphragma**
+**diaphragmatic** *adj* diaphragmatic
+**diapositiva** *n* [Photog.] transparent positive, transparency, diapositive
+**diario** *n* diary
+**diarrhea (-éa)** *n* diarrhea *Hence:* diarrheic
+**diarrheic (-éic)** *adj* diarrheal, diarrheic
+**diaspora (-ás-)** *n* Diaspora, Dispersion
+**diastase (diás-)** *n* 1. diastasis; 2. [Chem.] diastase
+**diastole** *n* [Physiol.] diastole *Hence:* diastolic
+**diastolic** *adj* [Physiol.] diastolic
+**diathermia (-ía)** *n* [Med.] diathermy *Hence:* diathermic
+**diathermic** *adj* [Med.] diathermic
+**diatonic** *adj* [Mus.] diatonic; **scala diatonic, gamma diatonic** diatonic scale
+**dica** *n* 1. dike (= embankment built to prevent inundations); 2. dam, weir
+**-dicar** *v* [occurring in derivatives] *Hence:* abdicar &; dedicar &; predicar &
+**-dice** *n* [occurring in compounds] *Hence:* indice &; judice etc.; vindice etc.
+**dicer [dic-/dict-]** *v* to say; also: to tell; dicer le missa to say mass; dicer le bon ventura to tell fortunes; pro si dicer so to say; voler dicer 1. to mean, signify; 2. to mean (to say) *Hence:* indicibile; diction &; dicto &; dictar &; contradicer &; disdicer &; edic- &; indicer &; interdicer &; predicer &; benedicer etc.; juridic etc.
+**dict-** *see* **dicer**
+**dictamine** *n* dictate, dictamen
+**dictar** *v* to dictate (1. as in "to dictate a letter"; 2. to prescribe authoritatively) *Hence:* dictamine; dictator-dictatorial; dictatura; dictato
+**dictato** *n* dictation (as in "take down dictation")
+**dictator** *n* dictator
+**dictatorial** *adj* dictatorial (= pertaining to a dictator)
+**dictatura** *n* dictatorship
+**diction** *n* diction (1. choice of words to express ideas; 2. enunciation, elocution) *Hence:* dictionario; jurisdiction etc.
+**dictionario** *n* dictionary
+**dicto** *n* saying (as in "an old saying") *Hence:* verdicto etc.
+**didact-** *see* **didasc-**
+**didactic** *adj* didactic
+**didactica** *n* didactics
+**didasc-** *v* [occurring in derivatives and compounds] didasc-, didact- (= to teach someone or something) *Hence:* didascalia-didascalic; didactic; didactica; autodidacte-autodidacto-autodidactic
+**didascalia (-ía)** *n* [Antiq.] stage directions
+**didascalic** *adj* didascalic, didactic
+**Didon** *npr* [Gr. Mythol.] Dido
+**die** *n* day (1. "day" as opposed to "night"; also: daylight; 2. period of twenty-four hours); **de die in die** from day to day; **die utile** [Law] lawful day; **die feriate** holiday; **un die** one day, sometime; **le die sequente** the next day, the following day *Hence:* diario; diurne; quotidian etc.; mediedie etc.; lunedi etc.; martedi etc.
+**diese (dí-)** [Mus.] sharp
+**Diesel, Rudolf** *npr* [1858-1913; inventor of Diesel motor] *Hence:* diesel
+**diesel** *n* Diesel engine or motor, Diesel; **motor Diesel** Diesel engine, Diesel motor; **oleo Diesel** Diesel oil
+**dies irae** [L] dies irae, day of wrath
+**dieta¹** *n* [Med.] diet; **dieta lactee** milk diet; **dieta absolute** starvation diet; **esser a dieta** to be on a diet; **poner a dieta** to put on a diet *Hence:* dietetic; dietetica; dietar
+**dieta²** *n* [Hist., Pol.] diet
+**dietar** *v* to diet
+**dietetic** *adj* dietetic
+**dietetica** *n* dietetics
+**diffamar** *v* to defame *Hence*: diffamation; diffamatori
+**diffamation** *n* defamation
+**diffamatori** *adj* defamatory
+**differente** *adj* different
+**differentia** *n* difference; **il non face differentia** it makes no difference 
+**differential** *adj* differential; **calculo differential** differential calculus differential n differential (1. [Math.]; 2. "differential of an automobile etc.")
+**differentiar** *v* to differentiate (1. to distinguish; 2. [Math.])
+**differentiation** *n* [Math.] differentiation
+**differer [-fer-/-lat-]** *v* 1. to defer, delay, to put off, to postpone; 2. to differ (= be different), to vary *Hence*: differente-differentia-differential, differentiar-differentiation, indifferente &, equidifferente etc.; dilatori
+**difficile** *adj* difficult *Hence*: difficultate
+**difficul-** *see* **difficile**
+**difficultate** *n* difficulty
+**diffidente** *adj* distrustful
+**diffidentia** *n* distrust
+**diffider** *v* to be distrustful; **diffider de un persona** to distrust, mistrust someone *Hence*: diffidente-diffidentia
+**diffract-** *see* **diffranger**
+**diffractar** *v* to diffract
+**diffraction** *n* diffraction
+**diffranger [-frang-/-fract-]** *v* to diffract *Hence*: diffraction; diffractar
+**diffunder [-fund-/-fus-]** *v* to diffuse (= to spread widely); *also*: = radiodiffunder *Hence*: diffusibile-diffusibilitate; diffusion; diffusive; diffuse; radiodiffunder etc.
+**diffus-** *see* **diffunder**
+**diffuse** *adj* diffuse (1. spread out, diffused; 2. verbose, not concise)
+**diffusibile** *adj* diffusible
+**diffusibilitate** *n* diffusibilitv
+**diffusion** *n* diffusion (1. dispersion, wide distribution; 2. diffuseness, wordiness; 3. [Phys.] intermingling of fluids); *also*: = radiodiffusion
+**diffusive** *adj* diffusive
+**di·gamma** *n* digamma
+**digerer [-ger-/-gest-]** *v* to digest (1. "to digest food"; 2. to absorb mentally; 3. [Chem.]); **non poter digerer un cosa** to be unable to stomach or swallow something; to be unable to take (sth) *Hence*: digestibile-digestibilitate, indigestibile-indigestibilitate; digestion-indigestion; digestive; digestor; digeste-indigeste, digesto 
+**digest-** *see* **digerer**
+**digeste** *adj* digested
+**digestibile** *adj* digestible
+**digestibilitate** *n* digestibility
+**digestion** *n* digestion (1. Physiol.]; 2. [Chem.]); **de facile, difficile, digestion** easy/hard of digestion; easy/hard to digest
+**digestive** *adj* digestive (1. pertaining to digestion; 2. helping digestion); **apparato digestive** digestive apparatus
+**digesto** *n* [Law] digest, Pandects
+**digestor** *n* [Physiol; Chem.] digester
+**digital** *adj* digital digital n 1. thimble; 2. [Bot.] digitalis, foxglove *Hence*: digitalina
+**digitalina** *n* [Chem.] digitalin
+**digitate** *adj* digitate (= having fingers or digits; *also*: [Bot.])
+**digiti·forme** *adj* digitiform, finger-shaped
+**digiti·grade (-tí-)** *adj* [Zool.] digitigrade *Hence*: digitigrado
+**digitigrado (-tí-)** *n* digitigrade
+**digito (-dí-)** *n* digit (1. finger; toe; 2. [Arith.]); **(digito) indice** forefinger, index finger; **digito medie** middle finger; **(digito) annular** ring finger; **(digito) auricular** little finger *Hence*: digital¹-interdigital, cubitodigital etc.; digital² &; digitate; digitiforme etc.; digitigrade etc.; prestidigitar etc.
+**dignar** *v* to deign
+**digne** *adj* 1. worthy, deserving; 2. dignified (= showing or expressing dignity); **digne de (laude)** worthy (of praise), (praise)worthy *Hence*: dignitate-dignitario; dignar-disdignar &; dignificar; indigne-indignitate, indignar &; condigne
+**dignificar** *v* to dignify, make worthy
+**dignitario** *n* dignitary
+**dignitate** *n* dignity (1. intrinsic worth, stateliness; 2. high office, rank, or title)
+**digreder [-gred-/-gress-]** *v* to digress (= to deviate from the main subject) Hence: digression; digressive
+**digress-** *see* **digreder**
+**digression** *n* digression (1. deviation from the subject in discourse or writing; 2. [Astron.]); **perder se in un digression**/**in digressiones** to lose oneself in a digression/in digressions
+**digressive** *adj* digressive
+**di·hedre** *adj* [Math.] dihedral *Hence*: dihedro
+**dihedro** *n* [Math.] dihedron
+**dilapidar** *v* to squander, dilapidate *Hence*: dilapidation; dilapidator
+**dilapidation** *n* squandering, waste
+**dilapidator** *n* squanderer, wastrel, spendthrift
+**dilat-** *see* **differer**
+**dilatabile** *adj* dilatable
+**dilatabilitate** *n* dilatability
+**dilatar** *v* to dilate (= to make larger or wider) *Hence*: dilatabile-dilatabilitate; dilatation; dilatator
+**dilatation** *n* dilatation, dilation
+**dilatator** *n* dilator (1. one who or that which dilates; 2. [Surg.])
+**dilatori** *adj* dilatory (= tending to delay)
 **dildo** *n* dildo
+**dilect-** *see* **dilig-**
+**dilection** *n* affection, love
+**di·lemma** *n* dilemma
+**dilettante** [I] *n* lover of the arts, amateur, dilettante *Hence*: dilettantismo
+**dilettantismo** *n* dilettantism
+**dilig- [-lig-/-lect-]** *v* [occurring in derivatives] *Hence*: diligente-diligentia; dilection-predilection
+**diligente** *adj* diligent
+**diligentia** *n* diligence (1. assiduity; 2. public stage coach)
+**diluer [-lu-/-lut-]** *v* to dilute (as in "to dilute wine") *Hence*: dilution; diluvio &
+**dilut-** *see* **diluer**
+**dilution** *n* dilution
+**diluv-** *see* **diluer**
+**diluvial** *adj* diluvial, diluvian
+**diluvian** *adj* diluvian, diluvial
+**diluviar** *v* to rain heavily, pour
+**diluvio** *n* 1. deluge; 2. [Geol.] diluvium *Hence*: diluvial; diluvian-antediluvian,
+postdiluvian; diluviar
+**dimens-** *see* **dimetir**
+**dimension** *n* dimension (1. as in "the three dimensions"; 2. size, magnitude, extent);
+**dimensiones critic** [Phys.] critical size *Hence*: dimensional-bidimensional etc.
+**dimensional** *adj* dimensional
+**di·mere** *adj* [Bot., Zool.] dimerous
+**dimetir [-met-/-mens-]** v [occurring in derivatives] *Hence*: dimension &
+**di·metro (dí-)** *n* dimeter
+**diminuendo** *n* [Mus.] diminuendo
+**diminuer** *v* to diminish, lessen; **diminuer le precio** to reduce the price; **diminuer de valor** to
+diminish in value; **columna diminuite** diminished, tapering column *Hence*: diminuendo; diminution; diminutive-diminutivo
+**diminution** *n* diminution
+**diminutive** *adj* [Gram.] diminutive
+**diminutivo** *n* [Gram.] diminutive
+**dimiss-** *see* **dimitter**
+**dimission** *n* 1. dismissal; 2. demission, resignation
+**dimitter** [-mitt-/-miss-] v to dismiss, discharge Hence: dimission
+**di·morphe** *adj* dimorphic *Hence*: dimorphismo
+**dimorphismo** *n* dimorphism (1. [Biol., Bot., etc.]; 2. [Cryst.])
+**din-** *adj* [occurring in compounds] dino-, din-, (= fearful, terrible) *Hence*: dinosauro etc. ...
+**dinar** *v* to dine, to take dinner *Hence*: dinator
+**dinar** *n* dinner, dining
+**dinator** *n* diner (= one who dines)
+**dino·sauro** *n* [Paleontol.] dinosaur
+**diocesan** *adj* diocesan
+**diocesano** *n* diocesan
+**diocese** *n* diocese (1. [Rom. Hist.]; 2. [Eccl.]) *Hence*: diocesan-diocesano
+**dionysia** [L] *npl* [Gr. Relig.] Dionysia *Hence*: dionysiac
+**dionysiac (-íac)** *adj* Dionysiac
+**Dionysio** *npr* [Anc. Hist.] Dionysius
+**Dionyso** *npr* [Gr. Relig.] Dionysus, Dionysos
+**diorama** *n* diorama
+**Dioscuros** *npl* [Mythol.] Dioscuri, Dioscuroi, Castor and Pollux
+**di·petale** *adj* [Bot.] dipetalous
+**diphtheria (-ía)** *n* diphtheria *Hence*: diphtheric
+**diphtheric** *adj* diphtheritic, diphtheric
+**diphthongar** *v* to diphthongize
+**di·phthonge** *adj* diphthongal, diphthonged *Hence:* diphthongo-diphthongar
+**diphthongo** *n* diphthong (= union of two vowels pronounced in one syllable)
+**diplo-** *adj* [occurring in compounds] diplo- (= twofold, double) *Hence:* diplopia etc. 
+**diploma** [-ma/-mat-] *n* diploma Hence: diplomatic; diplomatica; diplomar-diplomate
+**diplomar** *v* to grant a diploma to
+**diplomat-** *see* **diploma**
+**diplomate** *adj* certified (= having been granted a diploma, license, etc.) 
+**diplomate** *n* diplomat, diplomatist *Hence:* diplomatia; diplomatic-diplomatico
+**diplomatia (-ía)** *n* diplomacy
+**diplomatic¹** *adj* diplomatic (= pertaining to the science of diplomatics or diplomas)
+**diplomatic²** *adj* diplomatic (1. belonging to diplomacy; 2. characterized by diplomacy); **corpore diplomatic** diplomatic corps
+**diplomatica** *n* diplomatics (= science of diplomatics or of diplomas)
+**diplomatico** *n* diplomat, diplomatist
+**dipl·opia (-ía)** *n* diplopia *Hence:* diplopic
+**diplopic** *adj* diplopic
+**dips-** *n* [occurring in derivatives and compounds] dips- (= thirst) *Hence:* dipsomania etc. ...
+**dipso·mane** *adj* dipsomania *Hence:* dipsomano
+**dipso·mania (-ía)** *n* dipsomania
+**dipsomano (-só-)** *n* dipsomaniac
+**di·ptere** *adj* 1. [Arch.] dipteral; 2. [Entom.]
+**dipterous** *Hence:* **dipteros**
+**dipteros (díp-)** *npl* [Entom.] Diptera
+**direct-** *see* **diriger**
+**directe** *adj* 1. straight (= in a line); 2. direct (= without deviation or interruption); **(ir, ambular, etc.) directe** (to go, walk, etc.) straight
+**direction** *n* direction (1. action of directing; 2. as in "to move in a certain direction")
+**directiva** *n* directive
+**directive** *adj* directive
+**director** *n* director; *also*: manager, principal, editor-in-chief, etc.; **director de orchestra** [Mus.] conductor
+**directorato** *n* directorate (= function of a director)
+**directori** *adj* directory
+**directorial** *adj* directorial (1. pertaining to a director; 2. pertaining to a directorate, or to the French Directory)
+**directorio** *n* 1. directorate, board of directors; 2. [Fr. Hist.] Directory
+**directrice** *n* 1. directress, also: head-mistress, etc.; 2. [Geom.] directrix
+**directura** *n* uprightness, rectitude, straightforwardness
+**diriger [-rig-/-rect-]** *v* to direct (1. to guide, control, manage; 2. to cause to turn in a
+particular direction); **diriger se verso (un loco)** to turn towards (a place); **diriger (un orchestra)** to conduct (an orchestra); **diriger (un littera**) a (un persona) to direct (a letter) to sb, to address (a letter) to sb *Hence:* dirigibile; direction; directive-directiva; director-directorato, directorial; directori; directorio-directorial; directrice; directura; directe-indirecte
+**dirigibile** *adj* dirigible 
+**dirigibile** *n* dirigible
+**dirimente** *adj* 1. *ppr* of **dirimer**; 2. annuling, nullifying, diriment; **impedimento dirimente** [Law] diriment impediment
+**dirimer** *v* to annul, invalidate *Hence:* dirimente
+**dis-** *prefixo* dis-, de-, un- (1. [expressing separation, deprivation, division, and the like]; 2. [expressing the negative, contrary, opposite]) *Hence:* disaffection etc.; disillusion etc.; discontinue etc.; discontente etc.; dissone etc.; disapprobar etc.; disarmar etc.; disinfectar etc.; disrumper etc.
+**disabusar** *v* to disabuse
+**disaccopular** *v* to separate (a couple)
+**disaccordar** *v* to disaccord, disagree
+**disaccordo** *n* 1. disaccord, disagreement; 2. [Mus.] discord
+**disaccostumar** *v* to disaccustom
+**disaffection** *n* disaffection
+**disaffectionar** *v* to disaffect
+**disaggregar** *v* to disaggregate
+**disaggregation** *n* disaggregation
+**disagradabile** *adj* disagreeable, unpleasant
+**disagradar** *v* -; **disagradar a** to displease
+**disancorar** *v* to weigh anchor
+**disanimar** *v* to dishearten, dispirit
+**disanimate** 1. *pp* of **disanimar**; 2. *adj* discouraged, dispirited
+**disannidar** *v* to take out of the nest
+**disapprender** *v* to forget, unlearn
+**disapprobar** *v* to disapprove, disapprove of
+**disapprobation** *n* disapproval, disapprobation
+**disapprobator** *n* disapprover
+**disappunctamento** *n* disappointment (= state of being disappointed)
+**disappunctar** *v* to disappoint (= to fail to realize the expectations of) *Hence:* disappunctamento
+**disaquamento** *n* draining
+**disaquar** *v* to drain, dry, etc.
+**disargentar** *v* to desilver, remove the silver from
+**disarmamento** *n* disarmament
+**disarmar** *v* to disarm (1. to deprive of weapons; 2. to reduce the size of the army, navy, etc.)
+**disarticular** *v* to disarticulate
+**disarticulation** *n* disarticulation
+**disassimilar** *v* [Physiol.] to cause disassimilation *Hence:* disassimilation
+**disassimilation** *n* [Physiol.] disassimilation
+**disassociar** *v* dissociate, disassociate
+**disastro** *n* disaster *Hence:* disastrose
+**disastrose** *adj* disastrous
+**disaurar** *v* to ungild
+**disavantage (-aje)** *n* disadvantage
+**disavantagiose (-jo-)** *adj* disadvantageous, unfavorable
+**disbandamento** *n* disbanding; disbandment
+**disbandar** *v* to disband; **disbandar se** to disband, break ranks *Hence:* disbandamento
+**disbarbar** *v* to shave
+**disbarbate** *adj* beardless
+**disbarcamento** *n* debarkation, disembarkation; **testa de disbarcamento** beachhead; **ponte de disbarcamento** gangplank
+**disbarcar** *v* to disembark (1. to put ashore from a ship; 2. to go ashore from a ship)
+**disbarcatorio** *n* wharf, landing pier; *also*: gangplank
+**disblocar** *v* to raise the blockade of
+**disbordamento** *n* overflow, inundation (= flowing over the banks, the brim, etc.)
+**disbordar** *v* to overflow (= to flow over the brim, banks, etc.) *Hence:* disbordamento
+**disbridar** *v* 1. to unbridle; 2. [Surg.] to debride
+**disbuccamento** *n* (action of) debouching, issuing forth
+**disbuccar** *v* to debouch, issue forth *Hence:* disbuccamento
+**disbuclar** *v* to uncurl (= to cause to uncurl)
+**disbursamento** *n* disbursament
+**disbursar** *v* to disburse, pay out *Hence:* disbursamento
+**disbuttonar** *v* to unbutton (a coat, etc.)
+**disbutyrar** *v* to skim (milk)
+**discalceamento** *n* (act of) taking off (sb's) shoes, stockings, etc.
+**discalcear** *v* 1. to take off (shoes, stockings, etc. from someone's feet); 2. to uncover, expose the foot or roots (of a tree, tooth, etc.); **discalcear se** to take off one's shoes, stockings, etc.
+**discalceate** 1. *pp* of **discalcear**; 2. *adj* barefooted
+**discalceator** *n* bootjack
+**discamminar** *v* to lead astray
+**discampamento** *n* decampment
+**discampar** *v* to decamp (1. to break up a camp; 2. to depart quickly) *Hence:* discampamento
+**discantar** *v* [Mus.] to descant (= to sing a descant or counterpoint above the plain song)
+**discanto** *n* [Mus.] descant (1. counterpoint above the plain song; 2. upper part in part music) *Hence:* discantar
+**discapillar** *v* to tousle, dishevel
+**discapillate** *adj* disheveled
+**discarbonatar** *v* to decarbonize, decarbonate
+**discarburar** *v* to decarbonize
+**discarburation** *n* decarbonization
+**discardinar** *v* to unhinge
+**discarga** *n* I. (act of) unloading, unlading; *also*: dumping; II. discharge (1. firing off a fire-arm; 2. "electric discharge"; 3. [Arch.]); III. unburdening, relief, etc.; 4. [Comp.] to download
+**discargamento** *n* unloading, unlading; [Comp.] downloading
+**discargar** *v* I. to unload, unlade; also: to dump; II. to discharge (1. to fire, fire off; to rid of an electric charge); III. to unburden, relieve, etc.; **discargar un persona de (un obligation, etc.)** to discharge, release, exonerate someone from (an obligation, etc.)
+**discargator** *n* unloader; *also*: longshoreman; [Comp.] downloader
+**discargatorio** *n* 1. unloading place, wharf; 2. dump, dumping place
+**discarnar** *v* to take off flesh; also: to make thin
+**discarnate** 1. pp of discarnar; 2. *adj* fleshless; *also*: lean, gaunt
+**discassage (-aje)** *n* (action of) unpacking or unboxing
+**discassamento** *n* 1. (action of) unpacking or unboxing; 2. (action of) paying out (cash) 
+**discassar** *v* 1. to unpack, unbox; 2. to pay out (cash)
+**discentralisar** *v* to decentralize
+**discentralisation** *n* decentralization
+**discerner [-cern-/-cret-**] *v* to discern *Hence:* discernimento; discernibile-indiscernibile; discretion-discretional, discretionari, indiscretion; discretive; discrete-indiscrete; discernitor
+**discernibile** *adj* discernible
+**discernimento** *n* discernment
+**discernitor** *n* discerner
+**discinct-** *see* **discinger**
+**discincte** *adj* ungirded, ungirt
+**discinger [-cing-/-cinct-**] *v* to ungirdle *Hence:* discincte
+**disciplina** *n* discipline (1. as in "school discipline", "military discipline", etc.; 2. branch
+of instruction; 3. [Eccl.] scourge) *Hence:* disciplinari; disciplinar
+**disciplinar** *v* to discipline (1. to subject to discipline; 2. [Eccl.] to scourge)
+**disciplinari** *adj* disciplinary
+**discipulo (-cí-)** *n* disciple
+**disclavar** *v* to unnail, remove the nails from
+**disco** *n* 1. disk; 2. discus; 3. (phonograph) record
+**discollar** *v* to unglue
+**discolorar** *v* to discolor (= to deprive of color or coloring)
+**discompletar** *v* to render incomplete
+**disconcertamento** *n* disconcertment; *also*: bafflement
+**disconcertar** *v* to disconcert (1. to spoil, upset; 2. to embarrass greatly; *also*: to baffle) *Hence:* disconcertate; disconcertamento
+**disconcertate** 1. *pp* of **disconcertar**; 2. *adj* disconcerted; *also*: baffled
+**disconsolate** *adj* disconsolate, unconsoled
+**discontabile** *adj* discountable
+**discontaminar** *v* decontaminate
+**discontamination** *n* decontamination; **discontamination de plutonium** [Atomic Phys.]
+decontamination of plutonium
+**discontar** *v* to discount (1. [Com.]; 2. to deduct, leave out of account) *Hence:* disconto; discontabile; discontator
+**discontator** *n* discounter
+**discontentamento** *n* discontentment, discontent
+**discontentar** *v* to discontent; to dissatisfy
+**discontente** *adj* discontent, discontented
+**discontento** *n* discontent
+**discontinuar** *v* to discontinue (= to cause to cease), to stop sth
+**discontinuation** *n* discontinuation
+**discontinue** *adj* discontinuous
+**discontinuitate** *n* discontinuity
+**disconto** *n* [(Com.] discount; **banca de disconto** discount bank; **disconto bancari** bank discount
+**disconvenientia** *n* disparity, disproportion
+**disconvenir** *v* to disagree, be in disagreement; **disconvenir a** to be unsuited to, unsuitable for
+**discoperir [-per-/-pert-]** *v* 1. to uncover; 2. to discover; **discoperir se** to uncover (= to take off one's hat) *Hence:* discoperta; discoperitor
+**discoperitor** *n* discoverer
+**discopert-** *see* **discoperir**
+**discoperta** *n* discovery
+**discoragiamento (-aja-)** *n* discouragement
+**discoragiar (-ajar)** *v* to discourage, dishearten
+**discorcar** *v* to uncork
+**discordante** 1. *ppr* of **discordar**; 2. *adj* discordant, disagreeing
+**discordantia** *n* discordance (1. disagreement; 2. discord)
+**discordar** *v* to disagree
+**discorde** *adj* discordant *Hence:* discordia; discordar-discordo, discordante-discordantia
+**discordia** *n* discord; **le pomo de(l) discordia** the apple of discord
+**discordo** *n* disagreement, discord
+**discornar** *v* to dehorn
+**discoronar** *v* to uncrown, dethrone
+**discortese** *adj* discourteous
+**discortesia (-ía)** *n* discourtesy
+**discreditar** *v* to discredit (= to injure the credit of)
+**discredito (-cré-)** *n* discredit (= loss of good name or standing); **cader in discredito** to fall into discredit, to be discredited
+**discrepante** 1. *ppr* of **discrepar**; 2. *adj* discrepant
+**discrepantia** *n* discrepancy
+**discrepar** *v* to be discrepant, be at variance *Hence:* discrepante-discrepantia
+**discrescer** *v* to decrease
+**discret-** *see* **discerner**
+**discrete** *adj* 1. discrete (= consisting of distinct parts); 2. discreet
+**discretion** *n* discretion (= quality of being discreet); **etate del discretion** age or years of discretion; **a discretion** at discretion
+**discretional** *adj* discretionary, discretional
+**discretionari** *adj* discretionary
+**discretive** *adj* discriminative, distinguishing
+**discriminar** *v* to discriminate (= to perceive or note the difference in or between) *Hence:* discrimination
+**discrimination** *n* discrimination (= act or faculty of perceiving or noting differences and distinctions)
+**disculpar** *v* to free from blame, exculpate; **disculpar (de)** exonerate (from)
+**diseurrer [-curr-/-curs-]** *v* to discourse (= to speak formally) *Hence:* discursive; discurso
+**discurs-** *see* **discurrer**
+**discursive** *adj* discursive (1. proeeeding by reasoning, not intuitive; 2. rambling)
+**discurso** *n* discourse (1. formal speech; 2. treatise); **pronunciar un discurso** to deliver a speech; **le partes del discurso** the parts of speeeh
+**discuss-** *see* **discuter**
+**discussion** *n* discussion
+**discuter [-cut-/-cuss-]** *v* to discuss *Hence:* discutibile-indiscutible; discussion
+**discutibile** *adj* debatable
+**disdicer** *v* to deny, contradict; **disdicer se** to retract, recant *Hence:* disdicimento
+**disdicimento** *n* retraction, withdrawal (from a contract or agreement)
+**disdignar** *v* to disdain, scorn *Hence:* disdigno; disdignose
+**disdigno** *n* disdain, scorn
+**disdignose** *adj* disdainful
+**disduplamento** *n* (action of) undoubling, unfolding
+**disduplar** *v* to undouble, unfold
+**disembarassar** *v* to disentangle, disembarrass; **disembarassar se** de to get rid of
+**disequilibrar** *v* to unbalance, throw out of balance
+**disequilibrate** 1. *pp* of **disequilibrar**; 2. *adj* unbalanced (= unsteady, unstable), off-kilter
+**disestima** *n* disesteem
+**disestimar** *v* to disesteem
+**disfacer** [-fac-/-fact-] *v* I. to undo (1. to unfasten; 2. to destroy); II. to defeat; **disfacer se**
+**de** to get rid of *Hence:* disfacte; disfacta
+**disfact-** *see* **disfacer**
+**disfacta** *n* undoing; *also*: defeat
+**disfacte** *adj* discomposed (as in "discomposed features")
+**disfalsar** *v* to true, straighten
+**disfavor** *n* disfavor
+**disfavorabile** *adj* unfavorable
+**disfavorar** *v* to disfavor
+**disferrar** *v* to unshoe (a horse); **un cavallo disferra se** a horse loses a shoe
+**disfigurar** *v* to disfigure *Hence:* disfiguration
+**disfiguration** *n* disfigurement, disfiguration
+**disfloramento** *n* defloration
+**disflorar** *v* to deflower (1. to strip of flowers; 2. to deprive of virginity) *Hence:* disfloramento
+**disfoliar** *v* to defoliate (= to strip, deprive, of leaves)
+**disfoliation** *n* defoliation (= act of depriving of leaves)
+**disfoliator** *n* defoliator
+**disfrenar** *v* to unbridle (a horse, etc.); also: to unleash
+**disfructar** *v* to pick fruit
+**disgelar** *v* to unfreeze (1. to cause to thaw or melt; 2. to thaw, become melted) *Hence:* disgelo
+**disgelo** *n* thaw
+**disgorgamento** *n* disgorgement
+**disgorgar** *v* to disgorge *Hence:* disgorgamento
+**disgranamento** *n* (act of) threshing, flailing, shelling, etc.
+**disgranar** *v* to thresh, thrash, flail, shell, etc. *Hence:* disgranamento; disgranator
+**disgranator** *n* I. thresher (1. one who threshes; 2. threshing machine); II. sheller (= one who or that which shells)
+**disgrassiar** *v* to remove the fat from (the carcass of an animal, etc.)
+**disgratia** *n* I. disgrace (1. disfavor; 2. public dishonor); II. misfortune; III. lack of grace; *also*: ungraciousness; awkwardness; **cader in disgratia** to fall into disgrace *Hence:* disgratiose; disgratiar
+**disgratiar** *v* to disgrace (1. to dismiss from favor; 2. to reflect dishonor upon)
+**disgratiose** *adj* lacking grace; *also*: ungracious, awkward
+**disgregar** *v* to disintegrate; *also*: [Chem.] to disgregate *Hence:* disgregation
+**disgregation** *n* disintegration; *also*: [Chem.] disgregation
+**disguisamento** *n* disguise
+**disguisar** *v* to disguise (= to change the dress and appearance of so as to conceal identity) *Hence:* disguisamento
+**disgustar** *v* to disgust *Hence:* disgusto-disgustose
+**disgusto** *n* disgust
+**disgustose** *adj* disgusting
+**dishabituar** *v* to disaccustom, make (someone) lose a habit; **dishabituar se** to lose, overcome a habit
+**disharmonia (-ía)** *n* disharmony
+**disharmonic** *adj* disharmonic
+**disharmoniose** *adj* unharmonious, disharmonious
+**disharmonisar** *v* to disharmonize
+**disherbar** *v* to weed (= to clear of weeds)
+**dishereditar** *v* to disinherit
+**dishonestate** *n* 1. dishonesty; 2. impropriety, indecency
+**dishoneste** *adj* 1. dishonest; 2. improper, immodest
+**dishonestitate** *n* 1. dishonesty; 2. impropriety,
+indecency
+**dishonor** *n* dishonor (1. loss of honor, disgrace; 2. cause or source of disgrace)
+**dishonorabile** *adj* dishonorable
+**dishonorante** *adj* dishonoring, dishonorable
+**dishonorar** *v* to dishonor, disgrace; **dishonorar un puera** to dishonor a girl **dishonorar se** to disgrace os
+**dishydrator** *v* to dehydrate
+**disillusion** *n* disillusion
+**disillusionamento** *n* disillusionment
+**disillusionar** *v* to disillusion
+**disimballar** *v* to unpack
+**disimbarcar** *v* to disembark
+**disimbarcation** *n* debarkation, disembarkation
+**disincantamento** *n* disenchantment
+**disincantar** *v* to disenchant (1. to free from a spell; 2. to disillusion)
+**disincantator** *n* disenchanter; *attrib*. disenchanting
+**disincarcerar** *v* to release from prison or confinement
+**disincarceration** *n* release from prison or confinement
+**disincassamento** *n* unpacking, unboxing
+**disincassar** *v* to unpack, unbox
+**disinfamar** *v* to free from stigma
+**disinfectante** *adj* disinfectant 
+**disinfectante** *n* disinfectant
+**disinfectar** *v* to disinfect
+**disinfectator** *n* disinfector
+**disinfection** *n* disinfection
+**disinflammar** *v* to remove the inflammation from
+**disinflar** *v* 1. to reduce the swelling of; 2. to become less swollen; 3. to deflate
+**disingranar** *v* to disengage, ungear
+**disinraucamento** *n* (action of) freeing from hoarseness
+**disinraucar** *v* to free from hoarseness
+**disintegrar** *v* to disintegrate (= to cause disintegration)
+**disintegration** *n* disintegration
+**disinteressar** *v* 1. to make uninterested or indifferent; 2. to buy out, indemnify; **disinteressar se** de to lose one's interest in, become indifferent to
+**disinteressate** *adj* 1. disinterested; 2. uninterested (= not having an interest in a thing)
+**disinteresse** *n* 1. disinterestedness; 2. uninterestedness (= state of not having an interest in a thing)
+**disinveloppar** *v* to unwrap
+**disinvolt-** *see* **disinvolver**
+**disinvolte** *adj* easy, unconstrained, free in speech or manner
+**disinvoltura** *n* ease, unconstraint, freedom in speech or manner
+**disinvolver [-volv-/-volt-]** *v* to disentangle *Hence:* disinvolte-disinvoltura
+**disjejunar** *v* to break the fast, stop fasting
+**disjunct-** *see* **disjunger**
+**disjunction** *n* disjunction
+**disjunctive** *adj* disjunctive (1. tending to disjoin; involving disjunction; 2. [Gram.])
+**disjunger [-jung-/-junct-]** *v* to disjoin *Hence:* disjunction; disjunctive
+**dislactar** *v* to wean
+**disligamento** *n* (act of) unbinding
+**disligar** *v* to unbind *Hence:* disligamento
+**dislocar** *v* 1. to displace, shift from its place; 2. to dislocate, put out of joint *Hence:* dislocation
+**dislocation** *n* dislocation (1. displacement of a bone at a joint; 2. [Geol.])
+**disloyal** *adj* disloyal
+**disloyalitate** *n* disloyalty
+**dismacular** *v* to remove the stains from, clean
+**dismaculator** *n* cleaner (1. professional cleaner; 2. spot remover, cleaning fluid)
+**dismaculatura** *n* cleaning, removal of spots
+**dismanicar** *v* to remove the handle of
+**dismantellamento** *n* dismantling, dismantlement (as in "the dismantling or dismantlement of a fortress, vessel, etc.")
+**dismantellar** *v* to dismantle (= to strip of equipment, fortifications, rigging, etc.) *Hence:* dismantellamento
+**dismarcar** *v* to remove markers or identification marks from
+**dismascar** *v* to unmask (= to strip of a mask)
+**dismembramento** *n* dismemberment
+**dismembrar** *v* to dismember *Hence:* dismembramento
+**dismensurate** *adj* beyond measure, immeasurable
+**dismentir** *v* 1. to give the lie to; 2. to deny, disown; *also*: to belie
+**dismesurate** *adj* beyond measure, immeasurable
+**dismilitarisar** *v* demilitarize
+**dismilitarisation** *n* demilitarization
+**dismobilar** *v* to strip of furniture
+**dismonetisar** *v* to demonetize
+**dismonetisation** *n* demonetization
+**dismontabile** *adj* dismountable (= that can be taken apart or dismounted)
+**dismontage (-aje)** *n* [Mech.] (action of) dismounting; *also*: dismantling
+**dismontar** *v* to dismount (1. to alight, alight from; 2. to unhorse; 3. [Mech.] to take down from a mounted or assembled condition) *Hence:* dismontage; dismontabile
+**dismoralisar** *v* to demoralize (= to destroy the morals or morale of) *Hence:* dismoralisation; dismoralisator
+**dismoralisation** *n* demoralization (= act of demoralizing or state of being demoralized)
+**dismoralisator** *n* demoralizer
+**disnationalisar** *v* to denationalize
+**disnationalisation** *n* denationalization
+**disnaturante** *adj/n* denaturant
+**disnaturar** *v* to denature (= to alter the nature of)
+**disnaturation** *n* denaturation
+**disnazificar** *v* denazify
+**disnazification** *n* denazification
+**disnodar** *v* to unknot; untie
+**disnodose** *adj* smooth, knotless, without gnarls
+**disobediente** 1. *ppr* of **disobedir**; 2. *adj* disobedient
+**disobedientia** *n* disobedience
+**disobedir** *v* to disobey; **disobedir a (un persona)** to disobey (somebody)
+**disobligante** *v* disobliging
+**disobligar** *v* to disoblige (= to offend)
+**disoccupar** *v* to vacate, evacuate, empty; **disoccupar se** to give up work
+**disoccupate** *adj* unoccupied, idle
+**disoccupation** *n* idleness
+**disodorante** *adj* deodorant
+**disordinar** *v* to disorder (= to destroy the order of); to muss (up), to tousle (as in hair) 
+**disordinate** 1. *pp* of disordinar; 2. *adj* disorderly (= in disorder)
+**disordine** *n* disorder (1. lack of order; 2. public disturbance); **in disordine** in disorder, disorderly
+**disorganisar** *v* to disorganize
+**disorganisation** *n* disorganization
+**disorganisator** *n* disorganizer
+**disorientar** *v* to disorientate; to cause to lose one's bearings; **disorientar se** to lose one's bearings
+**disorientation** *n* disorientation
+**disossar** *v* to bone (= to remove bones from)
+**disoxydar** *v* to deoxidize
+**disoxydation** *n* deoxidization
+**dispacchettar** *v* to unpack, unwrap
+**dispaisar** *v* to displace (someone) from his country; **dispaisar se** to emigrate
+**dispaisate** *adj* displaced (as in "displaced persons")
+**disparate** *adj* disparate
+**dispare** *adj* unlike, dissimilar *Hence:* disparitate; disparate
+**disparer** *v* to disappear *Hence:* disparition
+**disparitate** *n* disparity
+**disparition** *n* disappearance
+**dispeciamento** *n* (act of) breaking into pieces, fracturing
+**dispeciar** *v* to break into pieces, fracture
+**dispender [-pend-/-pens-]** *v* 1. to spend, expend (= to give out in payment); 2. to squander, waste *Hence:* dispendio-dispendiose; dispensa¹-dispensero; dispensar-dispensa²-dispensario, dispensabile-indispensabile-indispensabilitate,
+dispensation, dispensative, dispensator; dispenditor
+**dispendio** *n* great expense
+**dispendiose** *adj* expensive, costly
+**dispenditor** *n* spender, spendthrift
+**dispens-** *see* **dispender**
+**dispensa¹** *n* 1. expenditure, outlay (of money); 2. pantry
+**dispensa²** *n* dispensation, exemption
+**dispensabile** *adj* dispensable (1. capable of being dispensed with; 2. [Eccl.] admitting of release, dispensation, etc.)
+**dispensar** *v* to dispense (1. to give out; 2. to release, exempt)
+**dispensario** *n* dispensary (= place where medicines are dispensed)
+**dispensation** *n* dispensation (1. act of dispensing or giving out; 2. exemption)
+**dispensative** *adj* dispensatory, dispensative
+**dispensator** *n* dispenser (= one who dispenses, deals out)
+**dispensero** *n* butler, steward
+**disperger [-sperg-/-spers-]** *v* to disperse (= to cause to disperse or scatter) *Hence:* dispersion; dispersive; dispersar
+**dispers-** *see* **disperger**
+**dispersar** *v* to disperse, scatter
+**dispersion** *n* dispersal, dispersion
+**dispersive** *adj* dispersive
+**displacente** *adj* unpleasant
+**displacentia** *n* displeasure
+**displacer** *v* to displease; **displacer a un persona** to displease sb 
+**displacer** *n* displeasure
+**displaciamento** *n* displacement (1. action of displacing; 2. [Naut.])
+**displaciar** *v* to displace (1. to shift something from its place; 2. to remove someone from a position or office) *Hence:* displaciamento
+**displantar** *v* to root up, uproot
+**displicamento** *n* deployment, deploy
+**displicar** *v* 1. to unfold, open (something); *also*: to unfurl (a flag, etc.); 2. to deploy (troops, etc.); **displicar se** to unfold (as in "buds unfold in the sun"); **displicar zelo** to display zeal *Hence:* displicamento
+**displumar** *v* to pluck (poultry)
+**dispolarisar** *v* to depolarize
+**dispolarisation** *n* depolarization
+**dispolir** *v* to remove the polish from
+**disponer [-pon-/-posit-]** *v* to dispose (1. to arrange; 2. to fit, prepare; 3. to determine the course of events); **disponer de** 1. to dispose of, have at one's disposal; 2. [Law] to dispone, alienate; **homine propone e Deo dispone**
+[Proverb] man proposes but God disposes *Hence:* disponibile-disponibilitate; disposition; dispositor; dispositive; disposite; indisponer &; predisponer &
+**disponibile** *adj* available, disposable
+**disponibilitate** *n* availability
+**dispopulamento** *n* depopulation (= act of depopulating)
+**dispopular** *v* to depopulate *Hence:* dispopulamento
+**disposit-** *see* **disponer**
+**disposite (-pó-)** *adj* disposed, inclined; **disposite a facer un cosa** disposed to do sth
+**disposition** *n* I. disposition (1. arrangement; 2. disposal; 3. as in "a natural disposition for music"); II. state or frame of mind; also: inclination, mood, etc.
+**dispositive** *adj* dispositive (= pertaining to the disposal or disposition of something)
+**dispositor** *n* disposer (= one who disposes)
+**disposseder [-sed-/-sess-]** *v* to dispossess *Hence:* dispossession
+**dispossess-** *see* **disposseder**
+**dispossession** *n* dispossession
+**disproportion** *n* lack of proportion, disproportion
+**disproportionar** *v* to disproportion
+**disproportionate** 1. *pp* of **disproportionar**; 2. *adj* disproportionate
+**disprovider** *v* to deprive of what is necessary
+**disproviste** *adj* destitute (= not possessing the necessities of life); disproviste de destitute of, devoid of
+**dispulverar** *v* to dust (= to free from powder, dust, etc.)
+**disputa** *n* dispute
+**disputabile** *adj* disputable
+**disputante** *n* disputant
+**disputar** *v* to dispute (1. to discuss, argue; 2. to contend for) *Hence:* disputa; disputante; disputabile-indisputabile; disputation; disputative; disputator
+**disputation** *n* disputation
+**disputative** *adj* disputatious
+**disputator** *n* disputer
+**disqualificar** *v* to disqualify
+**disqualification** *n* disqualification
+**disquir- [-quir-/-quisit-]** *v* [occurring in derivatives] *Hence:* disguisition
+**disquisit-** *see* **disquir-**
+**disquisition** *n* disquisition
+**disrangiamento (-ja-)** *n* disarrangement, derangement
+**disrangiar (-jar)** *v* to disarrange, disorder, derange *Hence:* disrangiamento
+**disrationabile** *adj* unreasonable, irrational (= not conformable to reason)
+**disregulamento** *n* 1. disorder, disordered state; 2. dissoluteness, profligacy
+**disregular** *v* to upset, put out of order; **disregular se** to engage in dissipation *Hence:* disregulamento
+**disrumper [-rump-/-rupt-]** *v* to disrupt, disrump *Hence:* disruption; disruptive; disruptor
+**disrupt-** *see* **disrumper**
+**disruption** *n* disruption
+**disruptive** *adj* disruptive
+**disruptor** *n* disrupter
+**dissecar [-sec-/-sect-]** *v* to dissect *Hence:* dissection; dissector
+**dissect-** *see* **dissecar**
+**dissection** *n* dissection
+**dissector** *n* dissector
+**dissellar** *v* to unsaddle
+**disseminar** *v* to disseminate *Hence:* dissemination; disseminator
+**dissemination** *n* dissemination
+**disseminator** *n* disseminator
+**dissens-** *see* **dissentir**
+**dissension** *n* dissension
+**dissentimento** *n* dissent
+**dissentir [-sent-/-sens-]** *v* to dissent; **dissentir de** to dissent from *Hence:* dissentimento; dissension
+**disserer [-ser-/-sert-]** *v* to discuss, dissertate *Hence:* dissertar-dissertation, dissertator
+**disserrar** *v* 1. to unlock; 2. to (cause to) loosen or slacken
+**dissert-** *see* **disserer**
+**dissertar** *v* to discuss, dissertate
+**dissertation** *n* dissertation
+**dissertator** *n* dissertator
+**disservicio** *n* disservice
+**disservir** *v* to render a disservice, to do a disservice
+**dissidente** *adj* dissident 
+**dissidente** *n* dissident, dissentient, dissenter
+**dissidentia** *n* dissent, dissidence
+**dissider** *v* to dissent, hold a dissident view *Hence:* dissidente-dissidentia
+**dissigillar** *v* to unseal
+**dissimilantia** *n* dissimilarity
+**dissimilar** *adj* dissimilar dissimilar *v* to render dissimilar *Hence:* dissimilantia; dissimilation
+**dissimilation** *n* [Phonet.] dissimilation
+**dissimile** *adj* dissimilar *Hence:* dissimilitude; dissimilar
+**dissimilitude** *n* dissimilitude, dissimilarity
+**dissimular** *v* to dissemble, dissimulate *Hence:* dissimulation; dissimulator; dissimulate dissimulate 1. *pp* of **dissimular**; 2. *adj* dissimulative
+**dissimulation** *n* dissimulation
+**dissimulator** *n* dissimulator
+**dissipabile** *adj* capable of being dissipated, dissipable
+**dissipar** *v* to dissipate (1. to scatter, disperse; 2. to waste, squander) *Hence:* dissipabile; dissipation; dissipator; dissipate
+**dissipate** 1. *pp* of **dissipar**; 2. *adj* dissipated, unrestrained
+**dissipation** *n* dissipation (1. scattering, dispersion; 2. waste, squandering; 3. dissipated
+living)
+**dissipator** *n* dissipator, dissipater
+**dissociabile** *adj* dissociable, separable
+**dissociabilitate** *n* dissociability
+**dissociar** *v* dissociate (= to cause to dissociate) *Hence:* dissociabile-dissociabilitate; dissociation
+**dissociation** *n* dissociation
+**dissoldar** *v* to unsolder
+**dissolu-** *see* **dissolver**
+**dissolubile** *adj* dissoluble
+**dissolubilitate** *n* dissolubility
+**dissolut-** *see* **dissolver**
+**dissolute** *adj* dissolute
+**dissolution** *n* 1. dissolution; 2. dissoluteness
+**dissolutive** *adj* dissolutive
+**dissolvente** 1. *ppr* of **dissolver**; 2. *adj* dissolvent, solvent 
+**dissolvente** *n* dissolvent, solvent
+**dissolver [-solv-/-solut-]** *v* to dissolve (= to cause to dissolve) *Hence:* dissolvente; dissolubile-dissolubilitate, indissolubile-indissolubilitate; dissolution; dissolutive; dissolute
+**dissonante** 1. *ppr* of **dissonar**; 2. *adj* dissonant
+**dissonantia** *n* dissonance
+**dissonar** *v* [Mus.] to be dissonant *Hence:* dissonante-dissonantia
+**dissone** *adj* dissonant
+**dissuader [-suad-/-suas-]** *v* to dissuade *Hence:* dissuasion; dissuasive; dissuasor
+**dissuas-** *see* **dissuader**
+**dissuasion** *n* dissuasion
+**dissuasive** *adj* dissuasive
+**dissuasor** *n* dissuader
+**distaccabile** *adj* detachable
+**distaccamento** *n* detachment (1. act of unfastening and separating; 2. [Mil.])
+**distaccar** *v* I. to detach (1. to unfasten and separate; 2. [Mil.]); II. [Paint.] to make stand out *Hence:* distaccamento; distaccabile
+**distante** *adj* distant
+**distantia** *n* distance; **a distantia** at a distance; **tener un persona a distantia** to keep someone at
+a distance
+**distantiar** *v* to outdistance
+**distar** *v* to be distant *Hence:* distante-distantia-distantiar, equidistante etc.
+**distemperar** *v* 1. to distemper, derange; 2. [Metal.] to anneal, soften
+**distemperate** 1. *pp* of **distemperar**; 2. *adj* intemperate (as in "intemperate speech")
+**distender [-tend-/-tens-]** *v* to distend (= to dilate by stretching) *Hence:* distension
+**distens-** *see* **distender**
+**distension** *n* distention, distension
+**disthronamento** *n* dethronement
+**disthronar** *v* to dethrone
+**di·sticho (dí-)** *n* [Pros.] distich; also: couplet
+**distillabile** *adj* distillable
+**distillar** *v* to distill (1. to fall or give out in drops; 2. to subject to the process of distillation) *Hence:* distillabile; distilleria; distillation; distillator; distillatori
+**distillation** *n* distillation
+**distillator** *n* distiller
+**distillatori** *adj* distillatory
+**distilleria (-ía)** *n* distillery
+**distinct-** *see* **distinguer**
+**distincte** *adj* distinct (1. different; 2. clearly perceptible) *Hence:* indistincte
+**distinction** *n* distinction (1. act of distinguishing; 2. condition of being distinguished or outstanding among others)
+**distinctive** *adj* distinctive
+**distinger** *v* to take the color out of, fade
+**distinguer [-stingu-/-stinct-]** *v* to distinguish; distinguer se to distinguish oneself *Hence:* distinguibile-indistinguibile; distinction-indistinction; distinctive; distincte &; distinguitor; distinguite
+**distinguibile** *adj* distinguishable
+**distinguite** 1. *pp* of **distinguer**; 2. *adj* distinguished (= possessing distinction)
+**distinguitor** *n* distinguisher
+**distorquer [-torqu-/-tort-]** *v* 1. to distort; 2. to untwist *Hence:* distortion
+**distort-** *see* **distorquer**
+**distortion** *n* I. distortion (1. action of distorting; 2. contortion); II. (act of) untwishng
+**distract-** *see* **distraher**
+**distracte** *adj* absent-minded
+**distraction** *n* 1. absent-mindedness; 2. distraction, amusement
+**distractive** *adj* distractive
+**distraher [-trah-/-tract-]** *v* to divert (1. to distract; 2. to entertain, amuse) *Hence:* distraction; distractive; distracte
+**distribuer [-tribu-/-tribut-]** *v* to distribute (1. to allot to each as his share; 2. to allocate to
+distinct places; 3. [Print.]) *Hence:* distribution; distributive; distributor
+**distribut-** *see* **distribuer**
+**distribution** *n* distribution (1. apportionment, allotment; 2. allocation to distinct places; 3. [Print.])
+**distributive** *adj* distributive (1. serving to distribute; 2. [Gram.])
+**distributor** *n* distributor, distributer
+**districto** *n* [Admin.] district
+**disturbar** *v* to disturb (= to break up a state of order, calm and quiet) *Hence:* disturbator
+**disturbator** *n* disturber
+**disunion** *n* disunion (1. rupture of union, severance; 2. disunity)
+**disunir** *v* to disunite
+**disunitate** *n* disunity
+**disusar** *v* to disuse
+**disuso** *n* disuse
+**disvainar** *v* to unsheathe, draw (a sword, etc.)
+**disvelar** *v* to unveil
+**disveloppamental** *adj* developmental
+**disveloppamento** *n* 1. development; 2. [Photog.] (act of) developing
+**disveloppar** *v* to develop; also: [Photog.] *Hence:* disveloppamento-disveloppamental; disveloppator
+**disveloppator** *n* [Photog.] developer
+**disvestir** *v* to undress (a person); **disvestir se** to get undressed, to undress (os)
+**disviar** *v* to turn aside, cause to deviate; **disviar se** to go astray, lose one's way
+**di·syllabe (-sí-)** *adj* dissyllabic, disyllabic *Hence:* disyllabo
+**disyllabo (-sí-)** *n* dissyllable, disyllable
+**ditto** ditto; **signo de ditto** ditto marks
+**diurne** *adj* I. diurnal (1. daily; 2. relating to daytime); II. lasting one day
+**divagar** *v* 1. to wander about, ramble; 2. to divagate, digress *Hence:* divagation
+**divagation** *n* 1. (act of) wandering about, rambling; 2. divagation, digression
+**divan** *n* divan
+**dive** *adj* divine *Hence:* divo-divin &
+**diveller [-vell-/-vuls-]** *v* to tear apart, rend *Hence:* divulsion
+**divergente** 1. *ppr* of **diverger**; 2. *adj* divergent
+**divergentia** *n* divergence, divergency
+**diverger** *v* to diverge *Hence:* divergente-divergentia
+**divers-** *see* **diverter**
+**diverse** *adj* diverse
+**diversificar** *v* to diversify (= to make diverse)
+**diversion** *n* diversion (1. entertainment, pastime; 2. [Mil.])
+**diversitate** *n* diversity
+**diverter [-vert-/-vers-]** *v* to divert (1. to turn aside; 2. to amuse, entertain) *Hence:* divertimento; diversion; diverse-diversitate; diversificar
+**divertimento** *n* diversion, amusement
+**dividendo** *n* dividend (1. [Arith.]; 2. [Com.])
+**divider [-vid-/-vis-]** *v* to divide (1. to separate into parts; 2. [Arith.]) *Hence:* dividendo; divisibile-divisibilitate, indivisibile-indivisibilitate; division-divisional, indivision; divisive; divisor; indivise; individuo &; subdivider-subdivisibile, subdivision
+**divin** *adj* divine *Hence:* divinitate; divinisar-divinisation; divino &
+**divinar** *v* to divine, guess
+**divination** *n* divination
+**divinator** *n* diviner
+**divinatori** *adj* divinatory
+**divinisar** *v* to deify
+**divinisation** *n* deification
+**divinitate** *n* divinity (= divine nature or being)
+**divino** *n* soothsayer; guesser *Hence:* divinar-divination, divinator, divinatori
+**divis-** *see* **divider**
+**divisibile** *adj* divisible
+**divisibilitate** *n* divisibility
+**division** *n* division (1. act of dividing; 2. [special: Arith., Mil., Biol., etc.]); **division del**
+**labor** division of labor
+**divisional** *adj* divisional
+**divisive** *adj* divisive (= indicating division)
+**divisor** *n* [Arith.] divisor; **(maxime) commun divisor** (greatest) common divisor
+**divo** *n* deity
+**divorciar** *v* to divorce
+**divorcio** *n* divorce *Hence:* divorciar
+**divulgar** *v* to divulge, divulgate *Hence:* divulgation; divulgator
+**divulgation** *n* divulgement, divulgation
+**divulgator** *n* divulger
+**divuls-** *see* **diveller**
+**divulsion** *n* divulsion
+**dl** *abbr* = **decilitro**
+**dm** *abbr* = **decimetro**;
+**dm²** = **decimetro quadrate**;
+**dm³** = **decimetro cubic**
+**do** *n* 1. [Mus.] do; 2. [Mus.] (the note) C
+**doana** *n* I. (1. customs administration or system; 2. duty); II. customhouse *Hence:* doanero
+**doanero** *n* customhouse officer
+**docer [doc-/doct-]** *v* to teach, instruct *Hence:* docile &; doctor &; doctrina &; docte
+**docile** *adj* docile *Hence:* docilitate; indocile-indocilitate
+**docilitate** *n* docility
+**doct-** *see* **docer**
+**docte** *adj* learned
+**doctor** *n* I. teacher, scholar, learned man; II. doctor (1. as in "doctor of philosophy"; 2. doctor of medicine, physician); **doctor del Ecclesia** Doctor of the Church *Hence:* doctorato; doctoressa; doctoral; doctorar-doctorando
+**doctoral** *adj* doctoral
+**doctorando** *n* candidate for the doctor's degree
+**doctorar** *v* to confer the degree of Doctor upon
+**doctorato** *n* doctorate
+**doctoressa** *n* woman doctor
+**doctrina** *n* doctrine *Hence*: doctrinal; doctrinari-doctrinarismo; doctrinario
+**doctrinal** *adj* doctrinal (as in "doctrinal observation or clauses")
+**doctrinari** *adj* doctrinary, doctrinaire
+**doctrinario** *n* doctrinaire
+**doctrinarismo** *n* doctrinalism, doctrinism, doctrinairism
+**documental** *adj* documentary
+**documentar** *v* to document
+**documentari** *adj* documentary
+**documentation** *n* documentation
+**documento** *n* document *Hence:* documental; documentari; documentar-documentation
+**dodeca-** *adj* [occurring in compounds] dodeca-, dodec- (= twelve) *Hence:* dodecahedro etc.; Dodecaneso etc.; dodecagon etc.; dodecapetale etc.; dodecasyllabe etc.
+**dodeca·gon** *adj* dodecagonal *Hence:* dodecagono-dodecagonal
+**dodecagonal** *adj* dodecagonal
+**dodecagono** *n* dodecagon
+**dodeca·hedr-** [occurring in derivatives] *Hence:* dodecahedro-dodecahedric
+**dodecahedric** *adj* dodecahedral
+**dodecahedro** *n* [Math.] dodecahedron
+**Dodeca·neso** *npr* Dodecanese Islands
+**dodeca·petale** *adj* [Bot.] dodecapetalous
+**dodeca·syllabe (-sílabe)** *adj* dodecasyllabic *Hence:* dodecasyllabo
+**dodecasyllabo (-sílabo)** *n* [Pros.] dodecasyllable
+**dogma [-ma/-mat-]** *n* dogma *Hence:* dogmatic; dogmatica; dogmatisar-dogmatismo, dogmatista, dogmatisation, dogmatisator
+**dogmat-** *see* **dogma**
+**dogmatic** *adj* dogmatic, dogmatical
+**dogmatica** *n* dogmatics
+**dogmatisar** *v* to dogmatize
+**dogmatisation** *n* dogmatization
+**dogmatisator** *n* dogmatizer
+**dogmatismo** *n* dogmatism
+**dogmatista** *n* dogmatist
+**doler** *v* to hurt, be aching; **(le capite me) dole** (my head) aches; **doler se de** to be sorry for *Hence:* dolo; indolente &; dolor-dolorose; indoler; condoler &
+**dolich-** *adj* [occurring in compounds] dolicho-, dolich- (= long) *Hence:* dolichocephale etc.
+**dolicho·cephale** *adj* [Anthropometry] dolichocephalic
+**dollar** [A] *n* [Monet.] dollar
+**dolo** *n* grief, sorrow
+**dolor** *n* pain (1. ache; 2. grief); **dolor de dentes** toothache
+**dolorose** *adj* 1. painful (= causing pain); 2. sorrowful, dolorous
+**domabile** *adj* tamable
+**domar** *v* to tame (= to make tame) *Hence:* domabile-indomabile-indomabilitate; domator; indomate
+**domator** *n* tamer (of wild beasts)
+**domestic (-més-)** *adj* domestic (= of or belonging to the household, home, family); **animal domestic** domestic animal; **aves domestic** poultry *Hence:* domesticitate; domesticar-domestication, domesticator; domestico
+**domesticar** *v* to domesticate, tame
+**domestication** *n* domestication
+**domesticator** *n* domesticator
+**domesticitate** *n* 1. domesticity; 2. (state of) dependence
+**domestico (-més-)** *n* domestic
+**domiciliar** *v* to domicile, domiciliate (= to establish or set up at a given residence)
+**domiciliari** *adj* domiciliary
+**domicilio** *n* domicile; **franc a domicilio** delivery free, carriage paid *Hence:* domiciliari; domiciliar
+**domina** *n* mistress ("mistress of a household, etc.")
+**dominante** *adj* dominant (1. controlling, most influential; 2. rising high above its surroundings) 
+**dominante** *n* [Mus.] dominant
+**dominantia** *n* dominance
+**dominar** *v* to dominate (1. to exercise control over; 2. to rise high above) *Hence:* dominante¹-dominantia, dominante²-subdominante; domination; dominator; predominar &
+**domination** *n* domination
+**dominator** *n* dominator
+**dominial** *adj* pertaining to a domain, domainal; dominial
+**dominica** *n* Sunday; **Dominica del Palmas** Palm Sunday
+**dominical** *adj* dominical
+**dominican** *adj* Dominican (1. pertaining to St. Dominic, or to the order of preaching friars founded by him; 2. pertaining to the Dominican Republic); **Republica Dominican** Dominican Republic
+**dominicano** *n* Dominican (1. Dominican friar; 2. native or citizen of the Dominican Republic)
+**Dominico (-mí-)** *nprm* Dominic *Hence:* dominican-dominicano
+**dominio** *n* 1. (absolute) ownership, dominion, dominium; 2. dominion (= rule control, supreme authority; 3. domain; **dominio eminente** [Law] eminent domain; **dominio public** [Law] public domain; **dominio de energias** [Atomic Phys.] energy range *Hence:* dominial; condominio
+**domino (dó-)** *n* I. master (lord, owner, etc.); II. domino (1. long, loose robe worn at masquerades; 2. [Games] "domino piece"; *also*: (game of) dominoes) *Hence:* dominio &; Dominico &; dominica-dominical; dominar &; domina
+**domo¹** *n* house; **domo de Deo** house of God; **a domo** home, homewards; at home; **in domo de** at the house of *Hence:* domicilio &; domino &; domestic &; majordomo etc.
+**domo²** *n* dome (= **cupola**)
+**donar** *v* to give, donate
+**donation** *n* donation
+**donativo** *n* donation, donative
+**donator** *n* donor, donator
+**donatorio** *n* [Law] donatory
+**[donec] (dó-)** *conj* 1. while, as long as; 2. until, up to the time that
+**donjon** *n* dungeon, donjon
+**donna** *n* donna, dame
+**dono** *n* gift (1. present; 2. natural ability) *Hence:* donar-donation, donativo, donator, donatorio, pardonar & 
+**Don Quixote (kishóte, kihóte)** *npr* Don Quixote *Hence:* quixoteria; quixotismo; quixotic
+**dormir** *v* to sleep *Hence:* dormitive-dormitivo; dormitorio; addormir-addormite
+**dormitive** *adj* soporific (= causing sleep)
+**dormitivo** *n* sleeping pill or potion, soporific
+**dormitorio** *n* dormitory (= sleeping room)
+**doro-** *n* [occurring in compounds] doro-, -dor (= gift) *Hence:* Dorothea etc.; Pandora etc.; thermidor etc.; fructidor etc.
+**Doro·thea (-éa)** *nprf* Dorothy
+**dorsal** *adj* dorsal
+**dorso** *n* back (1. "back of a person or animal"; 2. as in "the back of the hand"; 3. "back of a chair or couch") *Hence:* dorsal; adorsar; indorsar &; extradorso; intradorso
+**dosage (-aje)** *n* dosing, dosage
+**dosar** *v* 1. to divide into doses; 2. to proportion (the constituents of a compound); 3. to dose (= to give out in doses)
+**dose** *n* dose *Hence:* dosar-dosage
+**dossier** [F] *n* dossier
+**dotal** *adj* dotal, having to do with a dowry
+**dotar** *v* 1. to dower (= to give a dowry to); 2. to endow
 **dotate** *n* [Colloq.] 1. (masc) hung boy, well-endowed man, man with big penis; 2. (fem) busty girl, well-endowed woman, woman with big breasts
+**dotation** *n* endowment, dotation
+**dote** *n* dowry *Hence:* dotal; dotar-dotation
+**dova** *n* stave (of a cask)
+**dox-** *n* [occcurring in compounds] dox-, -dox- (1. opinion; as in "heterodox"; 2. glory; as in "doxology") *Hence:* paradoxe &; doxologia etc.; heterodoxe etc.; orthodoxe etc.
+**doxo·logia (-ía)** *n* doxology
+**dozena** *n* dozen
+**drachma** *n* 1. drachma; 2. [Weights] dram
+**dracon** *n* 1. dragon (1. [Mythol.]; 2. [Zool.] lizard of the genus *Draco*; 3. [Bot.]) **Dracon** *npr* [Gr. Hist.] Draco *Hence:* draconian
+**draconian** *adj* Draconian; **lege(s) draconian** Draconian law(s)
+**draga** *n* [Technol.] dredge (1. dredger; 2. dragnet) *Hence:* dragar-dragaminas etc.
+**draga·minas (-mí-)** *n* mine sweeper
+**dragar** *v* [Technol.] to dredge
+**drama** [-ma/-mat-] *n* drama *Hence:* dramatic; dramatisar; dramaturgo etc.; melodrama etc.
+**dramat-** *see* **drama**
+**dramatic** *adj* dramatic
+**dramatisar** *v* to dramatize
+**dramaturgia (-ía)** *n* dramaturgy
+**dramat·urgo** *n* dramatist, playwright *Hence:* dramaturgia
+**drappar** *v* to drape, hang with a drapery
+**drapperia (-ía)** *n* drapery (1. business of selling cloth; 2. clothing or hangings arranged in graceful folds)
+**drappero** *n* draper (= dealer in cloth)
+**drappo** *n* cloth (= fabric, material) *Hence:* drappero; drapperia; drappar
+**drastic** *adj* drastic
+**dreadnought** [A] *n* dreadnought
+**droga** *n* drug *Hence:* drogeria; drogista; drogar
+**drogar** *v* to drug (= to administer a drug or drugs to)
+**drogeria (-ía)** *n* drugstore
+**drogista** *n* druggist
+**dromedario** *n* dromedary
+**-dromo** *n* [occurring in compounds] -drome (1. running; 2. racecourse) *Hence:* aerodromo etc.; autodromo etc.; hippodromo etc.; velodromo etc.; palindromo etc.
+**druida (drú-)** *n* druid *Hence:* druidessa; druidismo; druidic
+**druidessa** *n* druidess
+**druidic (-íd-)** *adj* druidic, druidical
+**druidismo** *n* druidism
+**dual** *adj* dual
+**dualismo** *n* dualism
+**dualista** *n* dualist
+**dualistic** *adj* dualistic
+**dualitate** *n* duality
+**dubita (dú-)** *n* doubt; **esser in dubita** to be in doubt; **sin dubita** without doubt, doubtless; **foris de dubita** beyond doubt; **poner (un cosa) in dubita** to cast doubt on (something)
+**dubitabile** *adj* doubtful, questionable
+**dubitar** *v* to doubt, be in doubt; dubitar de (un cosa) to doubt (something) *Hence:* dubita-dubitose; dubitabile-indubitabile; dubitation; dubitative; dubitator; indubitate
+**dubitation** *n* doubt (1. as in "in doubt", "without doubt"; 2. [Rhet.] dubitatio)
+**dubitative** *adj* dubitative
+**dubitator** *n* doubter
+**dubitose** *adj* dubious, doubtful (1. in doubt; 2. causing doubt)
+**ducal** *adj* ducal
+**ducato** *n* I. dukedom (1. duchy; 2. title or rank of a duke); II. ducat *Hence:* ducaton
+**ducaton** *n* ducatoon
+**duce** *n* duke *Hence:* ducato &; duchessa; ducal; archiduce etc. ducer [duc-/duct-] *v* to conduct (1. to lead, guide; 2. to direct, manage) *Hence:* ductile &; ducto &; abducer &; adducer &; conducer &; deducer &; inducer &; introducer &; producer &; reducer &; seducer &; traducer &
+**duch-** *see* **duce**
+**ducha (-sh-)** *n* 1. douche (= jet of water for therapeutic purposes); 2. shower, shower bath *Hence:* duchar
+**duchar (-sh-)** *v* 1. to douche (= to give a douche); 2. to give a shower, a shower bath
+**duchessa** *n* duchess
+**duct-** *see* **ducer**
+**ductile** *adj* ductile *Hence:* ductilitate
+**ductilitate** *n* ductility
+**ducto** *n* [Anat.] duct *Hence:* aqueducto etc.; oviducto etc.; viaducto etc.
+**duellar** *v* to duel
+**duellista** *n* duelist
+**duello** *n* duel *Hence:* duellista; duellar
+**duettista** *n* duettist
+**duetto** *n* duet
+**dulce** *adj* sweet (1. "sweet to the taste"; 2. pleasant, soft, gentle, etc.); **aqua dulce** fresh water; **(metallo) dulce** soft, malleable (metal) *Hence:* dulcor-edulcorar-edulcoration; adulciar-adulciamento; dulcificar-dulcification
+**dulci-** *see* **dulce**
+**dulcificar** *v* to dulcify
+**dulcification** *n* dulcification
+**dulcor** *n* sweetness (1. "sweetness to the taste"; 2. quality of being pleasant, soft, mild, gentle, etc.)
+**dulo-** *n* [occurring in derivatives and compounds] dul- (= slave) *Hence:* hierodulo etc. ...
+**dum** *conj* 1. while, as long as; 2. until; 3. provided that, if only *Hence:* [interdum] etc.
+**duma** [R] *n* duma
+**dumdum** [A] *n* dumdum (bullet)
+**dumping** [A] *n* [Com.] dumping
+**-dun** [Icel.] *n* [occurring in compounds] -down *Hence:* eiderdun etc.
+**duna** *n* dune, down
+**Dunkerque** [F] *npr* Dunkirk
+**Dunkirken (dún-)** *npr* Dunkirk
+[dunque] *conj* therefore
+**duo** *adj* two; **dividar in duo** to divide in two; *also*: to halve; **le duo** the two; **tote (le) duo** both *Hence:* dual-dualismo, dualista-dualistic, dualitate; duo²-duetto-duettista; duodece etc.; deceduo etc.; duple etc.; duplice etc.; duumviro etc.
+**duo** *n* duet
+**duode-** *see* **duodece**
+**duo·dece (-ó-)** *adj* twelve *Hence:* duodecime duodecimal; duodeno-duodenal, duodenitis
+**duodecim-** *see* **duodece**
+**duodecimal** *adj* duodecimal
+**duodecime (-dé-)** *adj* twelfth
+**duodenal** *adj* duodenal
+**duodenitis (-ítis)** *n* duodenitis
+**duodeno** *n* [Anat.] duodenum
+**dupar** *v* to dupe
+**dupator** *n* duper
+**dupe** *n* dupe *Hence:* dupar-dupator
+**duplamento** *n* (action of) doubling
+**duplar** *v* to double (1. to make double; 2. [Naut.] to sail round)
+**du·ple** *adj* double, twofold; **partita duple** [Bookkeeping] double entry; **duple v** (the letter) w *Hence:* dupletto; duplar-duplamento, disduplar- disduplamento, reduplar-reduplamento; semiduple etc.
+**dupletto** *n* doublet (1. identical piece; also: [Philol., Jewelry, etc.]; 2. combination of two)
+**duplicar** *v* to double, make double
+**duplication** *n* duplication
+**duplicative** *adj* duplicative
+**duplicato** *n* duplicate
+**duplicator** *n* duplicator
+**duplicatura** *n* duplicature; also: [Anat.]
+**du·plice (dú-)** *adj* double, twofold *Hence:* duplicitate; duplicar-duplication, duplicative, duplicator, duplicatura, duplicato, reduplicar-reduplication, reduplicative
+**duplicitate** *n* 1. doubleness, duplexity; 2. duplicity, double-dealing
+**dur** *adj* hard (= not soft); also: harsh *Hence:* duressa; durar &
+**durabile** *adj* durable, lasting
+**durabilitate** *n* durability
+**durante** *prep* during; **durante que** while, whilst
+**durar** *v* to last, endure *Hence:* durante; durabile-durabilitate; duration; indurar &; perdurar &
+**duration** *n* duration (1. continuance in time; 2. period of time during which a thing lasts)
+**duressa** *n* hardness; *also*: harshness, duress
+**duumviral** *adj* duumviral
+**duumvirato** *n* duumvirate
+**duum·viro (-úm-)** *n* [Rom. Antiq.] duumvir *Hence:* duumvirato; duumviral
+**dyn-** *see* **dynam-**
+**dyna** *n* [Phys.] dyne
+**dynam-** *n* [occurring in derivatives and compounds] *Hence:* dynamismo; dynamista; dynamite &; dynamic-aerodynamic etc.; isodynamic etc.; dynamica-electrodynamica etc; adyname &; dynamometro etc.; dynamoelectric etc.; heterodyne etc.
+**dynamic** *adj* dynamic, dynamical
+**dynamica** *n* [Phys.] dynamics
+**dynamismo** *n* [Philos.] dynamism
+**dynamista** *n* dynamist
+**dynamitar** *v* to dynamite
+**dynamite** *n* dynamite *Hence:* dynamitero; dynamitic; dynamitar
+**dynamitero** *n* dynamiter
+**dynamitic** *adj* dynamite, dynamitic
+**dynamo (dí-)** *n* [Elec.] dynamo *Hence:* turbodynamo etc.
+**dynamo·electric** *adj* dynamoelectric; **machina dynamoelectric** dynamoclectric machine, dynamo
+**dynamo·metro (-mó-)** *n* dynamometer
+**dynasta** *n* dynast *Hence:* dynastia; dynastic
+**dynastia (-ía)** *n* dynasty
+**dynastic** *adj* dynastic
+**dys-** *prefixo* [used chiefly to form technical terms] dys- (1. bad, badly; 2. difficult, with difficulty; 3. disordered) *Hence:* dysenteria etc.; dyspepsia etc.; dyspeptic etc.
+**dysenteria (-ía)** *n* [Pathol.] dysentery *Hence:* dysenteric
+**dysenteric** *adj* dysenteric
+**dyspepsia (-ía)** *n* [Pathol.] dyspepsia
+**dyspeptic** *adj* dyspeptic
+**dysphasia (-ía)** *n* [Med.] dysphasia
 
 ---
 ### E
@@ -2563,15 +1847,1026 @@ dysphasia (-ía) n [Med.] dysphasia
 
 ### F
 
+**fa** *n* 1. [Mus.] fa; 2. [Mus.] (the note) F
+**faba** *n* bean
+**fabrica (fá-)** *n* 1. factory (= manufactory); 2. forge, smithy; **marca de fabrica** trademark; **fabrica metallurgic** metallurgical plant *Hence:* fabricar-fabricante; fabrication; fabricato
+**fabricante** *n* maker, manufacturer
+**fabricar** *v* 1. to manufacture, make; 2. to fabricate (as in "to fabricate a bridge, book, etc.; also: a story, lie, etc."); 3. to forge (= to form by heating and hammering)
+**fabrication** *n* fabrication, manufacture
+**fabricato** *n* manufactured article
+**fabula (fá-)** *n* I. fable (1. as in "Aesop's Fables"; 2. historical legend or myth; 3. falsehood, fiction); II. plot, story (of a a play, etc.) *Hence:* fabulista; fabulose; fabular-confabular &
+**fabular** *v* to fable, fabulate
+**fabulista** *n* fabulist, story-teller
+**fabulose** *adj* fabulous
+**face** *n* torch, brand *Hence:* facula-facular
+**facer [fac-/fact-;-fic-/-fect-]** *v* I. to make (1. to create, produce, etc.; 2. to render, cause to be or become); II. to do (something); facer + *n*: **facer le barba**, facer allusion, etc., *see* barba, allusion, etc.; **facer (venir, etc.)** to cause to (come etc.), make (come, etc.), have (come, etc.); **facer se (tarde, etc.)** to become, get (late, etc.) *Hence:* facile &; facibile-facibilitate, infacibile- infacibilitate; facticie; faction &; factor &; factura &; facto-artefacto etc.; facitor; affic- &; confic- &; defic- &; effic- &; infic- &; perfic- &; prefic- &; profic- &; refic- &; sufficer &; contrafacer &; disfacer &; refacer &; calefacer etc.; manufac- etc.; satisfacer etc.; benefacer etc.; olfacer etc.; facsimile etc.
+**facete** *adj* witty, humorous, jocular *Hence:* facetia-facetiose; infacete
+**facetia** *n* witty remark, witticism; **facetias** facetiae
+**facetiose** *adj* witty, humorous, jocular; *also*: facetious
+**faciada** *n* [Arch.] façade
+**facial** *adj* facial; angulo facial facial angle
+**facibile** *adj* feasible (= that can be done or carried out)
+**facibilitate** *n* feasibility
+**facie** *n* face (1. [Anat.]; 2. surface, outer part of something; **facie a facie** face to face *Hence:* faciada; facietta &; facial-trifacial etc.; superficie &; superfacie
+**facietta** *n* facet (of diamond, of insect's eye, etc.) *Hence:* faciettar
+**faciettar** *v* to facet (diamonds, etc.)
+**facile** *adj* 1. easy (= not difficult); 2. facile (= working with ease) *Hence:* facilitate-facilitar-facilitation; facultate &; difficile &
+**facilit-** *see* **facilitate**
+**facilitar** *v* to facilitate, make easy
+**facilitate** *n* facility, ease (1. absence of difficulty; 2. power to do anything easily and quickly); **facilitates** facilities (as in "special facilities for studies") facilitation facilitation (= act of facilitating)
+**facitor** *n* maker, doer
+**fac·simile** *n* facsimile
+**fact-** *see* **facer**
+**facticie** *adj* factitious
+**faction** *n* 1. faction (as in "political factions"); 2. sentry, watch, guard; 3. shape, form; 4. fashion, manner *Hence:* factionario; factiose
+**factionario** *n* factionary
+**factiose** *n* factious
+**facto** *n* 1. feat, deed; 2. fact; **de facto** in fact, de facto; **vias de facto** acts of violence
+**factor** *n* factor (1. agent; 2. "contributing factor"; 3. [Math.]) *Hence:* factoria
+**factoria (-ía**) *n* factory (= trading station, office or post of a factor)
+**factotum** [L] *n* factotum
+**factura** *n* 1. invoice, bill; 2. workmanship, work *Hence:* facturar
+**facturar** *v* to bill, invoice
+**facul-** *see* **facile**
+**facula (fácula)** *n* 1. torch, brand; 2. [Astron.] facula
+**facular** *adj* [Astron.] facular
+**facultate** *n* faculty (1. ability; 2. authority, power; 3. "the faculty of a university, etc."); **haber le faculate de facer un cosa** to be entitled to do something *Hence:* facultative
+**facultative** *adj* optional
+**fago** *n* beech
+**fagottar** *v* to fagot, form into bundles
+**fagottista** *n* bassoonist, fagottist
+**fagotto** *n* 1. fagot (= bundle of sticks); 2. bassoon, fagotto *Hence:* fagottista; fagottar
+**Fahrenheit, Gabriel Daniel** *npr* [1686-1736; German physicist]; **thermometro Fahrenheit** Fahrenheit thermometer
+**faisan** *n* pheasant
+**falcar** *v* to mow (= to cut down with a scythe, sickle, etc.)
+**falcata** *n* 1. day's cutting or mowing; 2. swath, sweep (of the scythe or sickle)
+**falcator** *n* mower
+**falcatura** *n* (act of) mowing
+**falce** *n* 1. scythe; 2. sickle *Hence:* falcifere; falcar-falcator, falcatura, falcata; defalcar &; falciforme etc.
+**falcifere** *adj* sickle-bearing, scythe-bearing
+**falcon** *n* falcon (1. [Ornith.]; 2. [Artil.]) *Hence:* falconetto; falconides; falconero; falconeria; falconar
+**falconar** *v* to hawk (= to hunt with a hawk or falcon)
+**falconeria (-ía-)** *n* falconry
+**falconero** *n* falconer
+**falconetto** *n* falconet (1. [Ornith.]; 2. [Artil.])
+**falconides (-có-)** *npl* [Ornith.] Falconidae
+**Falia** *npr* Phalia (= Westphalia and Eastphalia together) *Hence:* Westfalia etc.
+**fallace** *adj* 1. fallacious, delusive, misleading; 2. deceitful *Hence:* fallacia
+**fallacia** *n* fallacy, fallaciousness
+**faller** *v* to fail (1. to fall short in attainment or performance; 2. to become insolvent or bankrupt) *Hence:* fallace &; fallia; fallimento; fallibile-fallibilitate, infallibile-infallibilitate; fallito
+**fallia** *n* [Geol.] fault
+**fallibile** *adj* fallible
+**fallibilitate** *n* fallibility
+**fallimento** *n* failure; bankruptcy
+**fallito** *n* bankrupt
+**falsar** *v* to falsify, pervert; also: to warp; to put out of tune
+**falsario** *n* forger (= one who commits forgery)
+**false** *adj* false (1. incorrect; 2. deceitful, treacherous; 3. as in "false teeth"); **false clave** skeleton key *Hence:* falsitate; falsar-disfalsar; falsificar- falsificabile, falsification, falsificator; falso- falsario
+**falsificabile** *adj* falsifiable
+**falsificar** *v* to falsify (as in "to falsify a record")
+**falsification** *n* falsification
+**falsificator** *n* falsifier
+**falsitate** *n* 1. falsity (= quality or condition of being false); 2. falsehood, lie
+**falso** *n* forgery
+**falta** *n* faurt (1. flaw, imperfection; 2. mistake, error; 3. moral transgression); **sin falta** without fail
+**fama** *n* I. public report, rumor; II. fame (1. reputation; 2. renown); **mal fama** ill repute, bad reputation; infamy *Hence:* famose; diffamar &; infame &; malfamate
+**fame** *n* 1. hunger; 2. famine (= acute shortage of foodstuffs in given area); **haber fame** to be hungry *Hence:* famelic; affamar &
+**famelic** *adj* starving, famished; also: hungry
+**familia** *n* family (1. as in "the Smith family"; 2. [special: Sci. etc.]); **patre de familia** paterfamilias, head of a family *Hence:* familial; familiar &
+**familial** *adj* family, familial
+**familiar** *adj* I. domestic; II. familiar (1. intimate, friendly; 2. too friendly, forward; 3. well known, common); **esser familiar con** to be familiar with; **expression familiar** familiar expression, colloquialism *Hence:* familiaritate; familiarisar-familiarisation
+**familiar** *n* familiar (1. familiar friend; 2. officer of the Inquisition)
+**familiarisar** *v* to familiarize (= to make well acquainted)
+**familiarisation** *n* familiarization
+**familiaritate** *n* familiarity (1. close acquaintance; 2. freedom of behavior); **familiaritates** familiarities
+**famose** *adj* famous (1. renowned; 2. excellent)
+**fanal** *n* beacon; also: ship's lantern, (automobile) headlight, etc.
+**fanat-** *see* **fanatic**
+**fanatic** *adj* fanatic, fanatical *Hence:* fanatismo; fanatisar; fanatico
+**fanatico** *n* fanatic
+**fanatisar** *v* to fanaticize
+**fanatismo** *n* fanaticism
+**fanfar** *n* fanfare
+**fanfaron** *n* fanfaron, braggart *Hence:* fanfaronar-fanfaronada
+**fanfaronada** *n* fanfaronade, swaggering
+**fanfaronar** *v* to brag, swagger
+**fango** *n* mud, mire, etc. *Hence:* fangose-fangositate; guardafango etc.
+**fangose** *adj* muddy, miry, etc.
+**fangositate** *n* muddiness
+**fano** *n* [Rom. Antiq.] temple, sanctuary, etc. *Hence:* fanatic &; profan &
+**farad** *n* [Elec.] farad
+**farad-** *see* **Faraday, Michael**
+**Faraday, Michael** *npr* [1791-1867; physicist after whom the "farad" is named] *Hence:* fadradic; faradisar-faradisation; farad- microfarad etc.
+**faradic** *adj* [Elec.] faradic
+**faradisar** *v* [Med.] to faradize
+**faradisation** *n* [Med.] faradization
+**farce** [F] *n* 1. [Theat.] farce; 2. [Cookery] stuffing, forcemeat
+**fardar** *v* to paint, make up; **fardar se** to make up, paint oneself
+**fardello** *n* burden, load; also: pack, bundle
+**fardo¹** *n* [Cosmetics] paint, make-up, rouge *Hence:* fardar
+**fardo²** *n* bundle, bale *Hence:* fardello
+**farina** *n* flour, meal *Hence:* farinacee; farinero; fariniera; farinose; farinar; infarinar
+**farinacee** *adj* farinaceous
+**farinar** *v* to flour (= to convert into flour)
+**farinero** *n* flour merchant
+**fariniera** *n* 1. flour bin; 2. flour storehouse
+**farinose** *adj* floury
+**farsa** *n* [Theat.] farce *Hence:* farsista; farsal; farsator
+**farsal** *adj* farcial
+**farsator** *n* joker, wag, farceur
+**farsista** *n* farce writer
+**fasce** *n* bundle; *also*: fagot; **fasce (del projector)** beam (of the searchlight); **fasce molecular** [Atomic Phys.] molecular beam *Hence:* fasciculo-fascicular; fascina; fascismo; fascista-antifascista
+**fascicular** *adj* fascicular
+**fasciculo** *n* fascicle (1. bundle, cluster; 2. [Bookbinding] signature)
+**fascina** *n* bundle, fagot; also: fascine
+**fascinante** 1. *ppr* of **fascinar**; 2. *adj* fascinating
+**fascinar** *v* to fascinate
+**fascination** *n* fascination
+**fascinator** *n* fascinator
+**fascino (fá-)** *n* 1. spell, hex, evil eye; 2. fascination *Hence:* fascinar-fascinante, fascination, fascinator
+**fascismo** *n* fascism
+**fascista** *n* fascist
+**fashion** [A] *n* fashion (1. as in "the latest fashion"; 2. fashionable people)
+**fashionable** [A] *adj* fashionable
+**fasto** *n* pomp, display, ostentation *Hence:* fastose
+**fastose** *adj* ostentatious
+**fatal** *adj* fatal (1. fated, fateful; 2. causing destruction or death); **hora fatal** fatal hour, hour of death
+**fatalismo** *n* fatalism
+**fatalista** *n* fatalist
+**fatalitate** *n* fatality (1. clostiny; 2. calamity)
+**fathom** [A] *n* [Meas.] fathom
+**fatidic (-ídic)** *adj* prophetic, fatidic
+**fatiga** *n* fatigue, weariness
+**fatigabile** *adj* easily tired
+**fatigante** *adj* fatiguing, tiring
+**fatigar** *v* to fatigue; also: to weary, tire, etc. *Hence:* fatiga; fatigante; fatigabile-infatigabile-infatigabilitate; fatigate
+**fatigate** 1. *pp* of **fatigar**; 2. *adj* tired; also: weary
+**fato** *n* fate (1. as in "the decrees of fate"; 2. lot or fortune) *Hence:* fatal-fatalismo, fatalista, fatalitate; fatidic etc.
+**fatue** *adj* fatuous, foolish; **foco fatue** ignis fatuus, will-o-the-wisp *Hence:* fatuitate; infatuar &
+**fatuitate** *n* fatuity
+**fauna** *n* fauna
+**faunic** *adj* faunal
+**fauno** *n* [Rom. Relig.] faun *Hence:* faunic, fauna
+**favo** *n* 1. honeycomb; 2. [Pathol.] favus *Hence:* favose
+**favor** *n* favor, good will; **billetta de favor** complimentary ticket, free ticket; **in favor de** on behalf of, in favor of *Hence:* favorar-favorabile, disfavorar- disfavorabile; favorir-favorite-favorito, favoritismo; disfavor
+**favorabile** *adj* favorable
+**favorar** *v* to favor (1. to be in favor of; 2. to be favorable to)
+**favorir** *v* to favor (1. to be in favor of; 2. to be favorable to)
+**favorite** *adj* favorite
+**favoritismo** *n* favoritism
+**favorito** *n* favorite (1. person regarded with peculiar favor; 2. person, horse, etc., expected to win in a contest)
+**favose** *adj* [Pathol.] favose
+**febre** *adv* fever; **febre scarlatin** scarlet fever; **febre typhoide** typhoid fever; **febre rheumatic** rheumatic fever; **febre del feno** hay fever; **febre puerperal** puerperal fever; **febre quartan** quartan (fever); **febre jalne** yellow fever *Hence:* febril-febrilitate; febricitar-febricitante; infebrar-infebramento; febrifuge etc.
+**febricitante** *adj* feverish (= affected with fever)
+**febricitar** *v* to be feverish, have a fever
+**febrifuge** (-í-) *adj* febrifuge
+**febril** *adj* feverish (1. indicative of fever, febrile; 2. excited, restless)
+**febrilitate** *n* feverishness (1. state of having a fever; 2. restlessness)
+**februario** *n* February
+**fecal** *adj* fecal
+**fece** *n* 1. dregs; 2. excrement *Hence:* fecula &; fecal; feculente &; defecar & 
+**fecula** *n* starch, fecula *Hence:* feculeria
+**feculente** *adj* feculent *Hence:* feculentia
+**feculentia** *n* feculence
+**feculeria (-ía)** *n* starchworks
+**fecundar** *v* to fecundate
+**fecundation** *n* fecundation
+**fecundator** *n* fecundator
+**fecunde** *adj* fecund, fertile *Hence:* fecunditate; fecundar-fecundation, fecundator; infecunde-infecunditate
+**fecunditate** *n* fecundity
+**fede** *adj* ugly, homely *Hence:* feditate
+**feder-** *n* [occurring in derivatives] *Hence:* federal &;, federar &
+**federal** *adj* federal (= connected with or based upon federation) *Hence:* federalismo; federalista
+**federalismo** *n* federalism
+**federalista** *n* federalist
+**federar** *v* to federate *Hence:* federation; federative; federate; confederar & **federate** 1. *pp* of **federar**; 2. *adj* federate
+**federation** *n* federation (1. union of several states, etc., under a federal government; 2. as in "federation of labor")
+**federative** *adj* federative
+**feditate** *n* ugliness, homeliness
+**fee (fée)** *n* fairy, fay; **conto de fees** fairy tale *Hence:* feeria-feeric
+**feeria (-ía)** *n* 1. fairyland: 2. [Theat.] fairy play, spectacular play
+**feeric** *adj* fairy, fairy-like
+**felice** *adj* happy, fortunate *Hence:* felicitate-felicitar &; infelice-infelicitate
+**felicitar** *v* to congratulate, felicitate *Hence:* felicitation
+**felicitate** *n* 1. felicity, happiness; 2. good fortune, prosperity
+**felicitatition** *n* congratulation, felicitation
 **fellar** *v* [Colloq.] to give a blowjob (to), to suck off, to blow, to go down on (a male), to give (sb) brain
 **fellation** *n* [Colloq.] blowjob, (to a man) oral sex, sucking off
 **fellate** *n* [Colloq.] s/he who receives fellatio, the one being sucked (off)
 **fellator** *n* [Colloq.] s/he who practices fellatio, s/he who gives a blowjob, (literally) cocksucker
+**feltrar** *v* to felt (1. to make into felt; 2. to cover with felt)
+**feltrero** *n* feltmaker
+**feltro** *n* felt (1. the material "felt"; 2. felt hat) *Hence:* feltrero; feltrar
+**femina (fé-)** *n* 1. women; 2. female; **(cavallo, etc.) femina** female (horse, etc.) *Hence:* feminismo; feminista; feminin- femininitate, feminino; feminisar, effeminar &
+**feminin** *adj* I. feminine (1. womanly; 2. [Gram.]); II. female
+**femininitate** *n* femininity, womanliness
+**feminino** *n* [Gram.] feminine (= feminine gender); **le eterne feminino** the eternal feminine
+**feminisar** *v* to feminize (= to render feminine)
+**feminismo** *n* feminism
+**feminista** *n* feminist
+**femoral** *adj* [Anat.] femoral
+**femore** *n* thigh; thighbone; *also*: [Anat.] femur *Hence:* femoral
+**fenar** *v* to (make) hay
+**fenation** *n* haying, hay-making
+**-fender** [-fend-/-fens-] *v* [occurring in compounds] *Hence:* defender &; offender & **fenestra** *n* window *Hence:* fenestrar-fenestrate; defenestrar- defenestration
+**fenestrar** *v* to furnish with windows
+**fenestrate** 1. *pp* of **fenestrar**; 2. *adj* [Bot., Zool.] fenestrate
+**fenil** *n* hayloft; storage room for hay
+**feno** *n* hay; **febre del feno** hay fever *Hence:* fenil; fenuculo; fenar-fenation
+**fenuculo** *n* fennel
+**fer** *adj* 1. fierce (as in "a fierce animal"); 2. proud (= feeling pride) *Hence:* feritate; feroce &
+**Ferdinando** *nprm* Ferdinand
+**-ferer** [-fer-/-lat-] *v* [occurring in compounds] *Hence:* circumferer &; conferer &; deferer &; differer &; inferer &; interferer &; preferer &; referer &; transferer &; legisfer- etc.
+**feretro (fé-)** *n* bier
+**feria** *n* 1. fair (as in "county fair"); 2. [Eccl.] feria; **ferias** holidays; vacation *Hence:* ferial; feriar
+**ferial** *adj* 1. vacation (as in "vacation time"); 2. [Eccl.] ferial
+**feriar** *v* to keep holiday, be on vacation
+**ferimento** *n* (act of) smiting, wounding
+**ferir** *v* to hit, strike; also: to smite, wound, hurt *Hence:* ferimento
+**feritate** *n* 1. fierceness, ferocity; 2. pride
+**ferma** *n* farm, farmstead *Hence:* fermero
+**fermentabile** *adj* fermentable
+**fermentar** *v* to ferment (1. to be in a state of fermentation; 2. to cause to ferment)
+**fermentation** *n* fermentation
+**fermentative** *adj* fermentative
+**fermento** *n* ferment (= agent used in producing fermentation) *Hence:* fermentar-fermentabile, fermentation, fermentative
+**fermero** *n* farmer
+**feroce** *adj* ferocious *Hence:* ferocitate
+**ferocitate** *n* ferocity
+**ferralia** *n* scrap iron
+**ferramento** *n* iron work
+**ferrar** *v* 1. to iron (= to furnish or cover with iron; 2. to shoe (a horse, etc.)
+**ferrato** *n* [Chem.] ferrate
+**ferrator** *n* blacksmith, farrier
+**ferratura** *n* (action of) shoeing (a horse)
+**ferree** *adj* ferreous (1. pertaining to or containing iron; 2. like iron)
+**ferreria (-ía)** *n* 1. smithy, blacksmith's shop; 2. smithing, blacksmith's work
+**ferrero** *n* blacksmith, farrier
+**ferric** *adj* ferric (1. containing iron; 2. [Chem.])
+**ferrifere** *adj* ferriferous
+**ferro** *n* iron; **ferros** irons, chains; **ferro (de repassar)** (flat)iron; **ferro fundite** cast iron *Hence:* ferralia; ferrato; ferrero; ferreria; ferrugine &; ferree; ferric; ferrifere; ferrose; ferrar-ferramento, ferrator, ferratura, disferrar; ferrovia etc.
+**ferrose** *adj* [Chem.] ferrous
+**ferro·via (-ía**) *n* railway *Hence:* ferroviari
+**ferroviari** *adj* railway
+**ferrugine** *n* rust (1. iron oxide; 2. [Agr.]) *Hence:* ferruginose
+**ferruginose** *adj* ferruginous (1. containing iron; 2. resembling iron rust in color); *also*: rusty
+**ferry-boat** [A] *n* ferry, ferryboat
+**fertile** *adj* fertile (as in "fertile soil") *Hence:* fertilitate; fertilisar-fertilisante, fertilisabile, fertilisation; infertile-infertilitate
+**fertilisabile** *adj* fertilizable
+**fertilisante** 1. *ppr* of **fertilisar**; 2. *adj* fertilizing
+**fertilisante** *n* fertilizer
+**fertilisar** *v* to fertilize (= to render fertile)
+**fertilisation** *n* fertilization (= act or process of rendering fertile)
+**fertilitate** *n* fertility
+**fervente** I. *ppr* of **ferver**; II. *adj* fervent (1. hot, flowing; 2. showing fervor)
+**ferventia** *n* fervency
+**ferver** *v* 1. to boil; to be boiling hot; 2. to be in a state of agitation, heat, fervor, etc. *Hence:* fervide; fervente-ferventia; fervor; effervescer &
+**fervide** *adj* fervid, fervent
+**fervor** *n* fervor (1. intense heat; 2. intense emotion); **con fervor** fervently
+**festa** *n* festival, feast, fete, etc.; **facer festa a un persona** to give someone a cordial reception *Hence:* festino &; festive-festvitate; festar; festear
+**festar** *v* 1. to celebrate, keep (a festival or feast day); 2. to feast, regale oneself; 3. to fete, honor (by festive observances)
+**festear** *v* to feast (= to entertain lavishly)
+**festinar** *v* 1. to feast, regale oneself; 2. to fete (= to honor by festive observances)
+**festino** *n* feast (= entertainment, banquet) *Hence:* festinar
+**festive** *adj* festive
+**festivitate** *n* festivity (= gaiety, merriment)
+**feston** *n* festoon *Hence:* festonar
+**festonar** *v* to festoon
+**fetal** *adj* fetal
+**fetar** *v* to bring forth young
+**fetation** *n* fetation
+**fetiche** [F] *n* fetish, fetich *Hence:* fetichismo; fetichista
+**fetichismo (-sh-)** *n* fetishism
+**fetichista (-sh-)** *n* fetishist
+**feti·cida** *n* killer of a fetus
+**feti·cidio** *n* feticide, (criminal) abortion 
+**feto** *n* fetus *Hence:* fetal; fetar-fetation-superfetation; feticida etc.; feticidio etc.
+**feudal** *adj* feudal (1. pertaining to a fief; 2. pertaining to the feudal system)
+**feudalisar** *v* to feudalize
+**feudalismo** *n* feudalism
+**feudalista** *n* feudalist
+**feudalitate** *n* feudality (= quality or state of being feudal)
+**feudatario** *n* feudatory (= one holding lands by feudal tenure)
+**feudo** *n* fief, feudal estate *Hence:* feudal-feudalismo, feudalista, feudalitate, feudalisar; feudatario; infeudar- infeudation
+**Fez** *npr* Fez; fez fez
+**Fiacre (fiácr)** *nprm* Fiacre; fiacre hack, hackney coach
+**fiasco** *n* fiasco; **facer fiasco** to fail, end in failure
+**fibra** *n* fiber *Hence:* fibrilla-fibrillose; fibrina-fibrinose; fibrose
+**fibrilla** *n* fibril (1. small fiber; 2. root hair)
+**fibrillose** *adj* fibrillous
+**fibrina** *n* fibrin
+**fibrinose** *adj* fibrinous
+**fibrose** *adj* fibrous
+**fibula (fí-)** *n* I. fibula (1. [Antiq.]; 2. [Anat.]); II. clasp, buckle, brooch
+**-fic-** *see* **facer**; **-ific**
+**-ficar** *see* **-ificar**
+**ficato (fí-)** *n* [Anat.] liver
+**-fice** *n* [occurring in compounds] *Hence:* artefice etc.; carnifice etc.; munificente etc.; edificio etc.; veneficio etc.; orificio etc.; edificar etc.
+**fich-** *see* **fico**
+**fichiero** *n* fig tree
+**fichu** [F] *n* [Clothing] fichu
+**-ficie** *see* **facie**
+**-ficile** *see* **facile**
+**fico** *n* fig (= fruit of the fig tree) *Hence:* fichiero; ficoide; beccafico etc.
+**ficoide** *adj* [Bot.] ficoid
+**fict-** *see* **finger**
+**ficticie** *adj* fictitious
+**fiction** *n* fiction (as in "truth stranger than fiction"); **fiction legal** legal fiction
+**fictive** *adj* fictive, fictitious
+**-fid-** *see* **finder**
+**fidantia** *n* pledge of (good) faith *Hence:* fidantiar-fidantiamento, fidantiato
+**fidantiamento** *n* betrothal
+**fidantiar** *v* to betroth, affiance
+**fidantiato** *n* fiancé
+**fide** *n* faith (1. trust, confidence; 2. "religious faith"; 3. system of religious beliefs; 4. word (of honor); 5. fidelity, loyalty); **acto, articulo de fide** act, article, of faith; **haber fide in** to have faith, believe, in; **bon (mal) fide** good (bad) faith; **fide punic** Punic faith, faithlessness; **dar fide** to give, pledge, one's faith *Hence:* fideismo; fideista; fidel &; perfide &; fideicommitter etc.
+**fideicomiss-** *see* **fideicomitter**
+**fideicommissari** *adj* [Law] fideicommissary
+**fideicommissario** *n* [Law] fideicommissioner
+**fideicommisse** *adj* [Law] fideicommissary
+**fideicommisso** *n* [Law] fideicommissum
+**fidei·committer** [-mitt-/-miss-] *v* to make a fideicommissum *Hence:* fideicommisse-fideicommisso- fideicommissari, fideicommissario
+**fideismo (-ízmo)** *n* fideism
+**fideista (-ísta)** *n* fideist
+**fidel** *adj* faithful *Hence:* fidelitate; infidel-infidelitate
+**fidelitate** *n* fidelity, faithfulness
+**fider** *v* to entrust; **fider un cosa a un persona** to entrust something to someone; **fider se a un persona** to trust, have faith in, someone *Hence:* fiducia &; confider &; diffider
+**fiducia** *n* confidence, trust *Hence:* fiducial; fiducirari
+**fiducial** *n* fiducial (1. founded on faith or trust; 2. [Phys.] as in "fiducial line")
+**fiduciari** *adj* fiduciary (1. [Rom. Law]; 2. founded on trust or confidence)
+**figer [fig-/fix-]** *v* to drive in, thrust in *Hence:* fixe &; affiger &; prefiger &; suffig- &; transfiger &; crucifiger etc.
+**figura** *n* I. figure (1. form, shape; 2. appearance; 3. person, character; 4. [Art, etc.]; 5. [Gram.]; 6. [Dancing, Skating, etc.]; 7. "figure of speech"); II. face, countenance; **facer figura** to cut or make a figure; **le figuras del syllogismo** the figures or forms of syllogism *Hence:* figurina; figurar-figurante, figuration, figurative, figurate, configurar &, disfigurar &, prefigurar &, transfigurar &
+**figurante** *n* [Theat.] 1. figurant; 2. figurante
+**figurar** *v* to figure (1. to represent in a picture; 2. to be conspicuous); **figurar se** to figure, imagine; **figurar (in un lista, etc.)** to appear (on a list, etc.)
+**figurate** I. *pp* of **figurar**; II. *adj* 1. figured (= decorated with figures); 2. figurative (language, style, etc.); 3. [Mus.] figurate; **senso figurate** figurative meaning
+**figuration** *n* figuration (= representation in figures and shapes)
+**figurative** *adj* figurative (1. as in "figurative design"; 2. as in "figurative sense")
+**figurina** *n* figurine
+**fila** *n* file (= line of persons or things one behind another); **fila indie** Indian file *Hence:* defilar
+**filamento** *n* filament *Hence:* filamentose
+**filamentose** *adj* filamentous
+**filanda** *n* spinning mill, spinnery *Hence:* filandero; filandera
+**filandera** *n* spinner, spinning woman
+**filandero** *n* (male) spinner
+**filar** *v* to spin (as in "to spin flax")
+**filaria** *n* [Zool.] filaria
+**filator** *n* spinner
+**filatorio** *n* spinning machine
+**filatura** *n* (art of) spinning
+**filet** [F] *n* [Cookery] filet, fillet
+**filettar** *v* to fillet (= to adorn with a fillet)
+**filetto** *n* fillet (= narrow ribbon) *Hence:* filettar
+**filia** *n* daughter; **filia affin** daughter-in-law *Hence:* filiastra; granfilia
+**filial** *adj* filial 
+**filial** *n* branch (= branch office)
+**filiar** *v* to give birth (to), bear (a child, a litter, etc.]; 2. to take on (as a child), adopt
+**filiastra** *n* stepdaughter
+**filiastro** *n* stepson, stepchild
+**filiation** *n* I. bearing, giving birth; II. adoption; III. filiation (1. genealogical relationship, descent; 2. connection)
+**filical** *adj* fern, of ferns
+**filice (fí-)** *n* fern *Hence:* filical, filiciforme etc.
+**filici·forme** *adj* filiciform
+**filiera** *n* wiredrawer (= mechanism for drawing out wire)
+**fili·forme** *adj* filiform
+**fili·grana** *n* filigree *Hence:* filigranar
+**filigranar** *v* to filigree
+**filio** *n* son; **(John Smith) filio** (John Smith) junior; **filio affin** son-in-law *Hence:* filiastro; filiolo-filiola; filial; filiar- filiation; affiliar &; granfilio; filia &
+**filiola** *n* goddaughter
+**filiolo** *n* 1. godchild; 2. godson
+**film** [A] *n* film (1. "camera film"; 2. moving picture) *Hence:* filmar; microfilm etc.
+**filmar** *v* to film (= to make a moving picture)
+**filo** *n* 1. thread; yarn; 2. edge (of a knife, razor, etc.); **filo (de ferro, de auro, etc.)** (iron, gold, etc.) wire; **filo (del discurso)** thread (of the discourse); **filo de Ariadna** Ariadne's clew; **filo del vita** thread of life; **filo metallic** wire (= thread of metal); **filo telegraphic** telegraph wire *Hence:* filiera; filetto &: filon; filaria; filar- filamento &, filanda &, filator, filatorio, filatura; affilar &; infilar &; filiforme etc.; filigrana etc.
+**filon** *n* [Geol. and Mining] vein, lode
+**filtrabile** *adj* filterable
+**filtrar** *v* to filter
+**filtration** *n* filtration
+**filtro** *n* filter *Hence:* filtrar-filtrabile, filtration; infiltrar- infiltration
+**fimbria** *n* fringe, border; *also*: [Anat., etc.] fimbria *Hence:* fimbriate; fimbriar-fimbriation
+**fimbriar** *v* to (finish with a) border, fimbriate
+**fimbriate** *adj* fringed; *also*: [Bot., etc.] fimbriate, fimbriated
+**fimbriation** *n* bordering, fimbriation; also: border, fringe
+**fin** *n* end (1. termination; 2. aim, purpose); **le fin justifica le medios** the end justifies the means; **a fin de** in order to; **al fin in** the end, at last; **in fin** 1. in conclusion; 2. in short, to sum up; **a fin que** in order that *Hence:* final-finalismo, finalista, finalitate; finir- infinitive &, finitor, finite-infinite &, definir &, prefinir; affin &; confin &
+**fin** *adj* fine (1. superior, excellent, etc.; 2. not coarse); **(auro, etc.) fin** fine (gold, etc.) *Hence:* finessa; affinar &; extrafin; superfin
+**Fin-** *see* **finno**
+**final** *adj* final; **causa final** final cause final n [Mus.] finale
+**finalismo** *n* [Philos.] finalism
+**finalista** *n* [Philos.] finalist
+**finalitate** *n* finality
+**financia** *n* finance; **financias** finances (= pecuniary resources of a state or an individual) *Hence:* financiero; financiari; financiar
+**financiar** *v* to finance (= to provide money for)
+**financiari** *adj* financial
+**financiero** *n* financier
+**finder [find-/fiss-]** *v* to cleave, split *Hence:* fissile; fission; fissura; fisse-fissirostros etc., fissipede etc.; bifide etc.; multifide etc.
+**finessa** *n* 1. fineness; 2. finesse, subtlety
+**finger [fing-/fict-]** *v* to feign, pretend, make believe, simulate *Hence:* fingimento; fiction; ficticie; fictive; fingitor
+**fingimento** *n* figment
+**fingitor** *n* feigner
+**finir** *v* to finish; also: to end
+**finite** 1. *pp* of **finir**; 2. *adj* finite
+**finitor** *n* finisher
+**Fin·landia** *npr* Finland
+**finnese** *adj* Finnish 
+**finnese** *n* Finnish (language)
+**finno** *n* Finn *Hence:* finnese; Finlandia etc.; finno-ugrian etc.
+**finno·ugrian** *adj* Finno-Ugrian, Finno-Ugric *Hence:* finno-ugriano
+**finno-ugriano** *n* Finno-Ugrian
+**fiord [Nor.]** *n* fiord, fjord
+**firma** *n* 1. signature; 2. (business) firm
+**firmamento** *n* firmament
+**firmar** *v* 1. to make firm or stable; 2. to sign, put one's signature to *Hence:* firma; firmamento; affirmar &; confirmar &
+**firme** *adj* firm (1. "firm in texture"; 2. firmly attached, etc.); resolution firme firm resolution *Hence:* infirme &; firmar &
+**fiscal** *adj* fiscal (= pertaining to the public treasury or revenue)
+**fisco** *n* exchequer, treasury, fisc *Hence:* fiscal; confiscar &
+**fiss-** *see* **finder**
 **fissa** *n* [Colloq.] pussy (referring to shape)
-**fricar**, 🚧 **fricar se** [Colloq.] 1. to rub up against each other, to dry hump; 2. (fig.) (heavy) petting, foreplay
+**fisse** *adj* split, cloven
+**fissile** *adj* fissile
+**fission** *n* [Biol., Phys.; etc.] fission
+**fissi·pede (-ípede)** *adj* cloven-footed, fissiped
+**fissi·rostros** *npl* [Zool.] Fissirostres
+**fissura** *n* cleft, fissure
+**-fit- [-fit-/-fess-]** *v* [occurring in compounds] *Hence:* confit- &; profit- &
+**fix-** *see* **figer**
+**fixabile** *adj* fixable
+**fixar** *v* to fix (1. to make firm, fasten; 2. to settle, set; 3. [special: Chem., Photog.]; **fixar le oculos super** to fix one's eyes on; **fixar le attention super un cosa** to fix one's attention on something; **fixar le hora** to set the time
+**fixation** *n* fixation (1. act or process of fixing, of making firm; 2. [special: Chem., Photog., Psychoanalysis])
+**fixative** *adj* fixative
+**fixativo** *n* fixative
+**fixator** *n* 1. fixer (= one who fixes); 2. [Photog.] fixing solution
+**fixe** *adj* fixed; **stella fixe** fixed star; **idea fixe** fixed idea; **sal fixe [Chem.]** fixed salt *Hence:* fixitate; fixar-fixabile, fixcation, fixative- fixativo, fixator; antefixa
+**fixitate** *n* fixity (as in "fixity of habits")
+**flabellar** *v* to fan (= to move the air with a fan)
+**flabellate** *adj* flabellate, flabelliform
+**flabellation** *n* flabellation
+**flabelli·forme** *adj* flabelliform
+**flabello** *n* 1. fan (as in "feather fan"); 2. flabellum; also: [R.C.Ch.] *Hence:* flabellate; flabellar-flabellation; flabelliforme etc.
+**flaccide (flác-)** *adj* flaccid *Hence:* flacciditate
+**flacciditate** *n* flaccidity
+**flacon** (F) *n* smelling bottle, perfume bottle, etc.
+**flagellante** *n* flagellant
+**flagellar** *v* 1. to whip, scourge, flagellate; 2. flail
+**flagellate** *adj* [Biol.] flagellated
+**flagellation** *n* flagellation
+**flagellator** *n* flagellator
+**flagellifere** *adj* [Biol.] flagelliferous
+**flagelli·forme** *adj* [Biol.] flagelliform
+**flagello** *n* 1. whip, scourge; 2. flail; 3. [Biol ] flagellum; **flagello de Deo** scourge of God *Hence:* flagellate; flagellifere; flagellar- flagellante, flagellation, flagellator; flagelliforme etc.
+**flagrante** 1. *ppr* of **flagrar**; 2. *adj* flagrant (as in "flagrant offense"); **in flagrante delicto** in the act, red-handed **flagrante delicto** [L] [Law] flagrante delicto
+**flagrantia** *n* flagrance, flagrancy
+**flagrar** *v* to burn, blaze *Hence:* flagrante-flagrantia; conflagrar &; deflagrar &
+**flair** [F] *n* flair
+**flaminge** *adj* Flemish *Hence:* flamingo
+**flamingo¹** *n* [Zool.] flamingo
+**flamingo²** *npr* 1. Fleming; 2. Flemish (language)
+**flamma** *n* flame *Hence:* flammee; flammifero; flammar- flammante; inflammar-inflammabile- inflammabilitate, inflammation, inflammative, inflammatori, inflammate, disinflammar; lanceaflammas etc.
+**flammante** *adj* 1. flaming, bright; 2. brand-new
+**flammar** *v* to flame, blaze
+**flammee** *adj* 1. flaming; 2. flame-colored
+**flammifero (-í-)** *n* match, lucifer; **cassa de flammiferos** match box, box of matches
+**flanar** *v* to stroll, loaf
+**flancar** *v* to flank (1. [Mil.] to protect the flank of; 2. to be situated at the flank or side of)
+**flanco** *n* flank; **attaccar de flanco** to flank, attack on the flank *Hence:* flancar
+**Flandra** *npr* Flanders
+**flanella** *n* flannel
+**flaon** *n* 1. [Cooking] flan; 2. [Print.] flong
+**flar** *v* to blow (1. as in "a bellows blows"; 2. as in "to blow bubbles") *Hence:* flato &; deflar &; inflar &; sufflar &
+**flasco** *n* flask (1. "flask for wine, etc."; 2. "powder flask")
+**flato** *n* flatus (= gas generated in the stomach or bowels), [Colloq.] gas (as in "I have gas") *Hence:* flatuose-flatuositate; flatulente &
+**flattar** *v* to flatter *Hence:* flatteria; flattator
+**flattator** *n* flatterer
+**flatteria (-ía)** *n* flattery
+**flatu-** *see* **flato**
+**flatulente** *adj* flatulent, gassy, fart-prone (1. affected with flatus; 2. causing flatus/farts) *Hence:* flatulentia
+**flatulentia** *n* flatulence, flatulency
+**flatuose** *n* causing flatulence, flatulent
+**flatuositate** *n* flatulence, flatulency
+**flauta** *n* [Mus.] flute; sonar le flauta to play the flute *Hence:* flautista; flautar
+**flautar** *v* to flute (1. to play on a flute; 2. to play, whistle, or sing with a note like that of a flute)
+**flautista** *n* flutist
+**flave** *adj* golden yellow *Hence:* flavipede etc.
+**flavi·pede (-í-)** *adj* [Zooh] flavipes
+**flecha (flésha)** *n* 1. arrow; 2. [Geom.] versed sine *Hence:* flechar-flechator
+**flechar (-shar)** *v* to shoot (someone) with an arrow
+**flechator (-sha-)** *n* archer
+**flecter** [flect-/flex-] *v* to bend (= to cause to bend); *also*: to flex *Hence:* flexibile-flexibilitate, inflexibile- inflexibilitate; flexion &; flexura; flexo-flexuose, flexuositate; circumflecter &; inflecter &; reflecter &; genuflecter etc.
+**fleur de lis** [F] fleur-de-lis
+**flex-** *see* **flecter**
+**flexibile** *adj* flexible
+**flexibilitate** *n* flexibility
+**flexion** *n* flection, flexion (1. act of flexing; 2. [Gram.] inflection) *Hence:* flexional
+**flexional** *adj* [Gram.] flectional, flexional
+**flexo** *n* flex
+**flexuose** *adj* flexuous, flexuose
+**flexuositate** *n* flexuosity, flexuousness
+**flexura** *n* flexure (= act of flexing; state of being flexed)
+**-fliger [-flig-/-flict-]** *v* [occurring in compounds] *Hence:* affliger &; confliger &; infliger &
+**flint** [A] *n* flint
+**flirt** [A] *n* flirt (= act of flirting)
+**flirtar** *v* to flirt (= to play at courtship) *Hence:* flirtation
+**flirtation** *n* flirtation
+**floccate** *adj* covered with snow(flakes)
+**flocco** *n* 1. flock (= tuft of wool); 2. tassel; 3. flake (= small, light mass); **flocco de nive** snowflake *Hence:* floccate; floccose
+**floccose** *adj* 1. floccose; 2. flaky
+**flor** *n* I. flower (1. blossom; 2. flowering plant; 3. the best part); II. virginity; **flor de farina** flour; **flor de sulfure [Chem.]** flowers of sulphur; **flor de cupro** verdegris; **flor de lilio, flor de lis [Her.]** fleur-de-lis; **a flor de** flush with, on a level with; **le flor del vita/del etate** the prime of life, the flower of one's age or life; **in flor** in flower, in bloom *Hence:* floretto; floretta; florista; floron; floral; florar-floration-prefloration; afflorar &; deflorar &; disflorar &; inflorar &; florer &; florescer &; passiflor etc.; albiflor etc.; multiflor etc.; uniflor etc.; mille-flores etc.; flosculo &; flora
+**Flora** *npr* [Rom. Rel.] Flora; flora [Bot.] flora
+**floral** *adj* [Bot.] floral
+**florar** *v* 1. to flower, bloom; 2. to flourish
+**floration** *n* (act or state of) flowering, blossoming
+**Florentia** *npr* Florence *Hence:* florentin-florentino
+**florentin** *adj* Florentine
+**florentino** *n* Florentine
+**florer** *v* 1. to flower, bloom; 2. to flourish *Hence:* floride &; florimento
+**florescer** *v* 1. to flower, bloom; 2. to flourish *Hence:* efflorescer &; inflorescer &
+**floretta** *n* small flower; also: [Bot.] floret
+**floretto** *n* [Fencing] foil
+**Florida** *npr* Florida
+**floride** *adj* flowery (1. abounding in flowers; 2. [Rhet.] florid) *Hence:* floriditate
+**floriditate** *n* floridity
+**florimento** *n* 1. (state of) flowering, blooming; 2. (state of) flourishing
+**florino** *n* florin; *also*: guilder
+**florista** *n* 1. florist (= one who sells flowers); 2. maker of artificial flowers
+**floron** *n* fleuron (= flower-shaped ornament)
+**flos-** *see* **flor**
+**flosculo** *n* [Bot.] floscule, floret *Hence:* flosculose; semiflosculo etc.
+**flosculose** *adj* [Bot.] flosculous
+**flotta** *n* 1. fleet; 2. navy *Hence:* flottilla
+**flottabile** *adj* floatable
+**flottabilitate** *n* floatability
+**flottante** 1. *ppr* of **flottar**; 2. *adj* flotant, swimming
+**flottar** *v* to float (in the water, the air, etc.) *Hence:* flottante; flottabile-flottabilitate; flottation; flottator
+**flottation** *n* flotation, floatation (= act of floating)
+**flottator** *n* floater (= one who or that which floates)
+**flottilia** *n* flotilla
+**fluct-** *see* **fluer**
+**flucto** *n* flow, flood *Hence:* fluctuar-fluctuante; fluctuation
+**fluctu-** *see* **flucto**
+**fluctuante** 1. *ppr* of **fluctuar**; 2. *adj* fluctuant
+**fluctuar** *v* 1. to move in, be moved by, waves; 2. to fluctuate
+**fluctuation** *n* I. undulation (= wavelike motion); II. fluctuation (1. continual change; 2. [Pathol.])
+**fluente** 1. *ppr* of **fluer**; 2. *adj* fluent
+**fluentia** *n* fluency
+**fluer** [flu-/fluct-/flux-] *v* to flow *Hence:* fluide &; fluente-fluentia; superflue &; effluvio &; fluxion; fluxo; flucto &; affluer &; confluer &; defluer &; effluer &; influer &; refluer &; melliflue etc.; roriflue etc.
+**fluide (flú-)** *adj* fluid *Hence:* fluiditate; fluidificar-fluidification; semifluide etc.; fluido
+**fluidificar** *v* to render fluid, fluidify
+**fluidification** *n* fluidification
+**fluiditate** *n* fluidity
+**fluido (flú-)** *n* fluid
+**fluor (-ór)** *n* [Chem.] fluorine; **spat fluor [Mineral.]** fluorite *Hence:* fluorina; fluorita; fluoruro; fluoric- silicifluoric etc.; fluorescer &; fluoroscopio etc.
+**fluoresceina (-ína)** [Chem.] fluorescein
+**fluorescente** 1. *ppr* of **fluorescer**; 2. adj fluorescent
+**fluorescentia** *n* fluorescence
+**fluorescer** *v* to fluoresce *Hence:* fluoresceina; fluorescente-fluorescentia
+**fluoric** *adj* fluoric
+**fluorina** *n* [Mineral.] calcium fluoride
+**fluorita** *n* [Mineral.] fluorite
+**fluoroscopia (-ía)** *n* fluoroscopy
+**fluoroscopic** *adj* fluoroscopic
+**fluoro·scopio** *n* fluoroscope *Hence:* fluoroscopia; fluoroscopic
+**fluoruro** *n* [Chem.] fluoride
+**-fluv-** *see* **fluer**
+**fluvial** *adj* fluvial
+**fluviatile** *adj* fluvial, fluviatile
+**fluvio** *n* river *Hence:* fluvial; fluviatile
+**flux-** *see* **fluer**
+**fluxion** *n* [Math., Pathol.] fluxion
+**fluxo** *n* I. flow (1. flowing; 2. "flow of the tide"); II. [Med.] flux; **fluxo de parolas** flow of words; **fluxo e refluxo** flux and reflux, ebb and flow
+**focage (-aje)** *n* hearth money (= tax laid on hearths)
+**focal** *adj* focal
+**focalisar** *v* to focalize, focus (= to bring to a focus)
+**focar** *n* hearth; focar (domestic) home
+**foco** *n* I. fire (1. as in "fire and water"; 2. gunfire); II. focus; **foco de Sancte Elmo** St. Elmo's fire; **(village) de cento focos** (village) of a hundred homes; **foco de artificio** fireworks; **jocar con le foco** to play with fire; **arma de foco** firearm; **bucca de foco** piece of ordnance; **prender foco** to catch, take, fire *Hence:* focage; focar; focal-focalisar, bifocal etc.; guardafoco etc.; coperifoco etc.
+**foder [fod-/foss-]** *v* to dig, burrow *Hence:* fossile &; fossor; fossori; fossa-fossetta; fossar-fossato
+**foderar** *v* to line (as in "to line a coat")
+**foderatura** *n* (act of) lining
+**fodero (fó-)** *n* lining (as in "the lining of a coat") *Hence:* foderar-foderatura
+**foliacee** *adj* [Bot.] foliaceous
+**foliage (-aje)** *n* foliage
+**foliar** *v* to leaf, leave, shoot out leaves foliar adj [Bot.] foliar
+**foliate** *adj* leafy (= furnished with leaves); also: [Bot.] foliate
+**foliation** *n* foliation (= leafing out of plants)
+**folio** *n* I. leaf (1. [Bot.]; 2. "leaf of a book, etc."); II. folio (= large sheet of paper folded once); III. foil (1. [Arch.]; 2. as in "tin foil"); **folio de herba** blade (of grass); **in folio in folio**; in-folio folio (= book in folio) *Hence:* foliage; foliolo; foliacee-interfoliacee; foliar¹; foliate-perfoliate, trifoliate etc.; foliose; foliar²-foliation-exfoliation, prefoliation; disfoliar-disfoliation, disfoliator; interfoliar; caprifolio etc.; cerefolio etc.; trifolio etc.; portafolio etc.; in-folio etc.
+**foliolo (-í-)** *n* [Bot.] foliole (= leaflet)
+**foliose** *adj* [Bot.] folious, foliose
+**folklore** [A] *n* folklore *Hence:* folklorista
+**folklorista** *n* folklorist
+**folle** *n* bellows, blower *Hence:* follero; folliculo &
+**folle** *adj* mad (= mentally deranged) *Hence:* follia; affollar &
+**follero** *n* bellowmaker or seller of bellows
+**follia (-ía)** *n* 1. madness (= mental derangement); 2. folly
+**follicular** *adj* follicular
+**folliculo** *n* [Bot., Anat.] follicle *Hence:* follicular; folliculose
+**folliculose** *adj* folliculose, folliculous
+**fomentar** *v* to foment (1. [Med.]; 2. as in "to foment rebellion")
+**fomentation** *n* fomentation (1. [Med.]; 2. stirring up of discontent, rebellion, etc.; agitation)
+**fomentator** *n* fomenter (1. [Med.]; 2. as in "a fomenter of rebellion")
+**fomento** *n* 1. [Med.] fomentation; 2. incitement *Hence:* fomentar-fomentation, fomentator
+**fomite (fó-)** *n* 1. tinder; 2. [Med.] fomes;
+**fomites** [Med.] fomites
+**fondant** [F] *n* fondant
+**fontal** *adj* fontal (1. source, of the source; also: primary, original; 2. baptismal)
+**fontana** *n* 1. source, spring; 2. fountain (= artificially produced jet of water) *Hence:* fontanella; fontanari; fontanero
+**fontanari** *adj* fountain, fontal
+**fontanella** *n* [Anat.] fontanelle, fontanel
+**fontanero** *n* fountaineer; maker, caretaker, etc., of fountains
+**fonte** *n* 1. source; 2. (baptismal) font; fontes del Nilo sources of the Nile *Hence:* fontal; fontana &
+**football** [A] *n* football
+**[for]** I. *adv* 1. out of doors, outside, out; 2. from without; II. *prep* 1. beyond; 2. except; **for de** outside of, without; **for de se** beside oneself (= foras, foris)
+**for-** *see* **foras, foris**
+**foramine** *n* hole, aperture; **foramine del serratura** keyhole *Hence:* foraminiferos; foraminose
+**foraminiferos (-íferos)** *n* [Zool.] Foraminifera
+**foraminose** *adj* perforated
+**forar** *v* to drill, bore *Hence:* foramine &; forator; foratura; perforar &
+**foras, foris (fór-)** I. *adv* 1. out of doors, outside, out; 2. from without; II. *prep* 1. beyond; 3. except; **foras de** outside of, without; **foras de se** beside oneself *Hence:* forcipe etc.
+**forator** *n* 1. driller, borer (= one who drills); 2. drill (= instrument for boring); *also*: gimlet
+**foratura** *n* borehole, (drilled) hole
+**for·cipe (fór-)** *n* (obstetrical) forceps
+**forense** *adj* forensic; **medicina forense** forensic medicine
+**forestal** *adj* forestal
+**forestar** *v* to forest
+**foreste** *n* forest *Hence:* forestero; foresteria; forestal; forestar- reforestar-reforestation; deforestar
+**foresteria (-ía)** *n* forestry
+**forestero** *n* forester (= officer having charge of a forest)
+**forfeit [A]** *n* [Horse Racing] forfeit
+**forgia (forja)** *n* smithy, forge *Hence:* forgiar
+**forgiar (-jar)** *v* to forge (as in "to forge chains")
+**form-** *see* **formic**; **formica**
+**forma** *n* 1. form, shape; 2. mold, mould; **in debite forma** in due form; **esser in forma [Sports]** to be in form, to be in shape *Hence:* formula &; formal &; formar-formation- malformation, formative, formator, formato, conformar &, deformar &, informar &, reformar &, transformar &; conforme &; deforme &; informe &; vermiforme etc.; multiforme etc.; uniforme etc.
+**formal** *adj* formal Herce: formalismo; formalista; formalitate
+**formalismo** *n* formalism
+**formalista** *n* formalist
+**formalitate** *n* formality (= conventional form)
+**formar** *v* to form (1. to shape, make; 2. to make up, constitute)
+**formation** *n* formation; formation (geologic) (geological) formation
+**formative** *adj* formative
+**formato** *n* format
+**formator** *n* former (person or machine)
+**formi-** *see* **formica**
+**formic** *adj* [Chem.] formic (as in "formic acid")
+**formica (-íca)** *n* ant; **formica blanc** white ant, termite *Hence:* formicario; formichero; formic- chloroformo etc.; formicar-formicante, formicamento; formicivore etc.; formicida etc.
+**formicamento** *n* 1. swarm, swarming (of people, etc.); 2. itching; [Med.] formication
+**formicante** 1. *ppr* of **formicar**; 2. *adj* [Med.] formicant (as in "formicant pulse")
+**formicar** *v* 1. to formicate, swarm (like ants); 2. to itch (= to have an itching sensation)
+**formicario** *n* anthill; ant's nest
+**formich-** *see* **formica**
+**formichero** *n* [Zool., Ornith.] anteater
+**formi·cida** *n* formicide
+**formici·vore** *adj* formicivorous
+**formidabile** *adj* formidable
+**formula** *n* formula *Hence:* formulario; formular
+**formular** *v* to formulate
+**formulario** *n* 1. formulary (= collection of formulas); 2. form, blank
+**fornace** *n* furnace
+**fornimento** *n* (act of) furnishing
+**fornir** *v* to furnish (= to supply, provide) *Hence:* fornimento; fornitor; fornitura
+**fornitor** *n* furnisher; fornitor (del corte) purveyor (to the court)
+**fornitura** *n* furnishings
+**foro** *n* forum (1. public place; 2. court, tribunal) *Hence:* forense
+**forrage (-aje)** *n* forage (1. fodder, feed; 2. act of providing fodder) *Hence:* forragiar-forragiator
+**forragiar (-ajar)** *v* to forage (= to rove in search of forage or provisions)
+**forragiator (-aja-)** *n* forager
+**forsan (fór-)** *adv* perhaps, maybe
+**Forsyth, William** *npr* [1737-1804; English botanist] *Hence:* forsythia
+**forsythia** *n* [Bot.] forsythia
+**fortalessa** *n* fortress
+**forte** *adj* strong; **esser forte in (historia)** to be good in/at (history) *Hence:* fortia &; fortitude; fortissimo; fortificar &; confortar &; contraforte; pianoforte etc.; forte² &
+**forte** *n* 1. fort; 2. forte (= strong point); 3. [Mus.] forte *Hence:* fortalessa; fortino
+**forte** *adv* 1. strongly, hard; 2. [Mus.] forte
+**fortia** *n* force (1. bodily strength; 2. as in "force of character"; 3. power, violence, or constraint exerted upon a person or thing; 4. [Phys.]); **le fortia public** the police force; **fortias armate** military forces; **camisia de fortia** strait jacket; **fortia de inertia** vis inertiae; **fortia vive** [Mach.] momentum; **fortia centrifuge** centrifugal force; **fortia centripete** centripetal force; **a fortia de** by means of; by dint of *Hence:* fortiar-fortiamento, fortiator, fortiato, effortiar &, reinfortiar &
+**fortiamento** *n* (act of) forcing
+**fortiar** *v* to force, to coerce; **fortiar a (facer, etc.)** to force to (do, etc.); **fortiar (un porta, etc.)** to force (a door, etc.)
+**fortiato** *n* 1. galley slave; 2. convict
+**fortiator** *n* forcer (= one who forces)
+**fortificabile** *adj* fortifiable
+**fortificante** *n* tonic, fortifier
+**fortificar** *v* to fortify *Hence:* fortificante; fortificabile; fortification
+**fortification** *n* [Mil.] fortification; **fortificationes** [Mil.] fortifications, works
+**fortino** *n* small fort, fortalice
+**fortissimo** *adj/adv* [Mus.] fortissimo
+**fortitude** *n* fortitude
+**fortuite (-ú-)** *adj* fortuitous; [Law] **caso fortuite** act of God, fortuitous event
+**fortuna** *n* fortune (1. chance, luck; 2. wealth, riches) *Hence:* fortunate-infortunate; infortuna
+**fortunate** *adj* fortunate (= favored by fortune)
+**foss-** *see* **foder**
+**fossa** *n* 1. pit, cavity, grave, etc.; 2. [Anat.] fossa; **fossa commun** potter's field
+**fossar** *v* to dig (a pit, grave, etc.)
+**fossato** *n* ditch, trench, moat, fosse, etc.
+**fossetta** *n* dimple, fossette
+**fossile** *adj* fossil *Hence:* fossile²-fossilifere, fossilisar-fossilisation
+**fossile** *n* fossil
+**fossilifere** *adj* fossiliferous
+**fossilisar** *v* to fossilize
+**fossilisation** *n* fossilization
+**fossor** *n* [Eccl.] fossor
+**fossori** *adj* fossorial, digging
+**foulard** [F] *n* foulard
+**fox-terrier** [A] *n* fox-terrier
+**foyer** [F] *n* [Theat.] lobby, lounge
+**fracassar** *v* to smash (= to break to pieces by violence) *Hence:* fracasso; fracassatura
+**fracassatura** *n* (action of) smashing
+**fracasso** *n* crash, smash (= sound of a crash or smash)
+**fract-** *see* **franger**
+**fraction** *n* 1. (action of) breaking; 2. fraction; fraction periodic [Math.] recurring or periodic decimal; **fraction (decimal, ordinari, etc.)** [Math.] (decimal, vulgar, etc.) fraction *Hence:* fractional; fractionari; fractionar- fractionamento
+**fractional** *adj* fractional
+**fractionamento** *n* (action of) breaking into parts; also: [Math.] fractionization; [Chem.] fractionation
+**fractionar** *v* to break into parts; also: [Math.] to fractionize; [Chem.] to fractionate
+**fractionari** *adj* fractional
+**fractura** *n* fracture; **fractura simplice, composite, etc.)** [Surg.] (simple, compound, etc.) fracture
+**fracturar** *v* to fracture
+**-frag-** *see* **franger**
+**fraga** *n* strawberry *Hence:* frageto; fragero; fragiero
+**fragero** *n* strawberry seller
+**frageto** *n* strawberry patch
+**fragiero** *n* strawberry plant
+**fragile** *adj* I. fragile (= easily broken); II. frail (1. having a delicate structure or constitution, fragile; 2. morally weak) *Hence:* fragilitate 
+**fragilitate** *n* I. fragility; II. frailty (1. frailness; 11. moral weakness)
+**fragmentar** *v* to fragmentize
+**fragmentari** *adj* fragmentary
+**fragmentation** *n* fragmentation
+**fragmento** *n* fragment *Hence:* fragmentari; fragmentar-fragmentation
+**fragrante** *adj* fragrant
+**fragrantia** *n* fragrance
+**fragrar** *v* to smell (of), reek *Hence:* fragrante; fragrantia
+**frambese** *n* (fruit of the) raspberry *Hence:* frambesia; frambesiero
+**frambesia** *n* [Pathol.] yaws, frambesia
+**frambesiero** *n* raspberry (bush)
+**franc¹** *adj* 1. free (= not lacking freedom); 2. frank (as in "to be frank with one"); **porto franc** free port *Hence:* franchitia; francmason etc.
+**franc²** *adj* Frankish
+**francese¹** *n* French (language)
+**francese²** *n* Frenchman, Frenchwoman
+**francese³** *adj* French
+**francesismo** *n* Gallicism
+**franch-** *see* **franc**
+**franchitia** *n* frankness; **franchitia (de un citate, etc.)** franchise (of a city, etc.); **franchitia postal** franking privilege
+**Francia** *n* France
+**francisar** *v* to Frenchify
+**francisation** *n* Frenchification
+**francisca** *n* [Hist.] francisc, francisca 
+**Francisca** *nprf* Frances
+**franciscan** *adj* [R.C.Ch.] Franciscan
+**franciscano** *n* [R.C.Ch.] Franciscan
+**Francisco** *nprm* Francis *Hence:* franciscan-franciscano; Francisca
+**franc·mason** *n* Freemason, Mason *Hence:* francmasoneria
+**francmasoneria (-ía)** *n* Freemasonry
+**franco¹** *n* [Hist.] Frank *Hence:* Francia; francese-francesismo; francisca; francisar-francisation; francophile etc.; franc
+**franco²** *n* [Fin.] franc
+**Franconia** *n* Franconia *Hence:* franconian-franconiano
+**franconian** *adj* Franconian
+**franconiano** *n* Franconian
+**franco·phile** *adj* Francophile *Hence:* francophilo
+**francophilo (-ó-)** *n* Francophile
+**franco·phobe (-có-)** *adj* Francophobe *Hence:* francophobo
+**francophobo (-có-)** *n* Francophobe
+**franger** [frang-/fract-;-fring-/-fract-] *v* to break, cause to break *Hence:* frangibile-frangibilitate, infrangibile- infrangibilitate; fraction &; fractura-fracturar; effring- &; infringer &; diffranger &; refranger &; fragile &; ossifraga etc.; naufragio etc.; naufrage etc.
+**frangia (franja)** *n* 1. fringe, border; 2. bangs (= bobbed hair in the forehead) *Hence:* frangiero; frangiate; frangiar-frangiatura
+**frangiar (-jar)** *v* to fringe, decorate with fringes
+**frangiate (-ja-)** *adj* fringed
+**frangiatura (-ja-)** *n* fringes, fringing
+**frangibile** *adj* breakable
+**frangibilitate** *n* breakableness
+**frangiero (-jero)** *n* fringe maker or dealer
+**frater-** *see* **fratre**
+**fraternal** *adj* fraternal, brotherly
+**fraterne** *adj* fraternal, brotherly *Hence:* fraternal-confraternal; fraternitate- confraternitate; fraternisar
+**fraternisar** *v* to fraternize
+**fraternitate** *n* 1. fraternity, brotherhood (= state of being brothers); 2. brotherliness
+**fratrastro** *n* stepbrother
+**fratre** *n* 1. brother; 2. [Eccl.] friar; **fratre de lacte** foster brother; **fratre affin** brother-in-law *Hence:* fratrastro; fraterne &; confratre; fratricida etc.; fratricidio etc.
+**fratri·cida** *n* fratricide (person) (= one who kills his brother or sister); attrib. **fratricidal** *Hence:* fratricidal
+**fratricidal** *adj* fratricidal
+**fratri·cidio** *n* fratricide (= act of killing one's brother or sister)
+**fraudar** *v* to defraud, cheat
+**fraudator** *n* defrauder, cheat
+**fraude** *n* fraud, deception *Hence:* frandulente; fraudar-fraudator, defraudar &
+**fraudulente** *adj* fraudulent (1. dishonest, deceitful; 2. intended to deceive)
+**fraxinella** *n* [Bot.] fraxinella, gas plant
+**fraxineto** *n* [Bot.] ash grove
+**fraxino (fráx-)** *n* ash, ash tree *Hence:* fraxinella; fraxineto
+**Frederico (-íco)** *nprm* Frederick
+**fremer** *v* 1. to tremble, quiver, shiver; 2. to roar, murmur *Hence:* fremito
+**fremito (fré-)** *n* 1. tremor, quiver, shiver; *also*: [Med.] fremitus, thrill; 2. roar, roaring, murmur
+**frenabile** *adj* stoppable, curbable, checkable, etc.; **non frenabile** that cannot be stopped, etc.; *also*: unbridled
+**frenar** *v* 1. to bridle (a horse, etc.); 2. to brake, put on the brakes
+**freno** *n* 1. bit (= part of the bridle that goes in the horse's mouth); 2. [Mech.] brake; 3. restraint, check; 4. [Med.] frenum, fraenum; **freno de aere comprimite** air brake; **freno de mano** hand brake *Hence:* frenar-frenabile, disfrenar, refrenar
+**frequentar** *v* to frequent
+**frequentation** *n* frequentation
+**frequentative** *adj* [Gram.] frequentative
+**frequentator** *n* frequenter 
+**frequente** *adj* frequent *Hence:* frequentia-infrequentia, radiofrequentia etc.; frequentar-frequentation, frequentative, frequentator; infrequente
+**frequentemente** *adv* frequently, often
+**frequentia** *n* frequency; also: [Elec.]
+**fresc** *adj* I. cool (= moderately cold); II. fresh (1. new, recent; 2. not spoiled, faded or worn; 3. not artificially preserved) *Hence:* frescor; refrescar &; fresco
+**fresco** *n* 1. cool, coolness; 2. fresco (= picture painted in fresco); **prender le fresco** to take the air; **pictura a fresco** painting in fresco
+**frescor** *n* 1. cool, coolness; 2. freshness
+**fricamento** *n* rubbing, friction
+**fricar [fric-/frict-]** *v* to rub *Hence:* fricamento; friction-frictionar; fricative- fricativa; dentifricio etc.; **fricar se** [Colloq.] 1. to rub up against each other, to dry hump; 2. (fig.) (heavy) petting, foreplay
+**fricassar** *v* to fricassee
+**fricassear** *v* to fricassee
+**fricassee** [F] *n* fricassee *Hence:* fricassear
+**fricativa** *n* [Phonet.] fricative
+**fricative** *adj* [Phonet.] fricative
+**frict-** *see* **fricar**
+**friction** *n* friction (1. rubbing of limbs, etc.; 2. [Mech.])
+**frictionar** *v* to friction, rub
+**frig-** *v* [occurring in derivatives] *Hence:* frigide &; frigor &
+**friger** *v* to fry (= to cook by frying)
+**-friger-** *see* **frigor**
+**-frigerar** *v* [occurring in compounds] *Hence:* refrigerar &
+**frigidar** *v* 1. to cool, chill; 2. to cool off, become cold
+**frigide** *adj* 1. cold, frigid (= not warm); 2. [Med.] frigid *Hence:* frigiditate; frigidar; refrigidar; frigido
+**frigiditate** *n* 1. coldness, frigidness; 2. [Med.] frigidity
+**frigido** *n* cold, coldness; **prender frigido** to catch a cold or chill; **haber frigido** to be, feel cold; **(il) face frigido** it is cold (weather)
+**frigitoria** *n* frying pan
+**frigor** *n* cold, coldness, coolness *Hence:* frigorifere; frigorific; frigorificar; -frigerar &
+**frigorifere** *adj* chilling, freezing
+**frigorific (-ífic)** *adj* cooling, chilling, frigorific
+**frigorificar** *v* to chill, refrigerate
+**-fring-** *see* **franger**
+**frir** *v* to fry *Hence:* fritoria; fritura; frite
+**frite** 1. *pp* of **frir**; 2. *adj* fried
+**fritoria** *n* frying pan
+**fritura** *n* 1. frying, fry; 2. something fried; *also*: fritter
+**frivole** *adj* frivolous (1. lacking importance or weight; 2. inclined to levity) *Hence:* frivolitate
+**frivolitate** *n* frivolousness, frivolity
+**frontal** *adj* frontal; **osso frontal** [Anat.] frontal (bone)
+**fronte** *n* I. forehead; II. front (1. face of a building, etc.; 2. [Mil.]); **fronte de battalia** battlefront; **facer fronte a** to face, resist *Hence:* frontiera; fronton; frontal; affrontar &; confrontar &; frontispicio etc.
+**frontiera** *n* frontier, boundary, border
+**fronti·spicio** *n* 1. [Arch.] frontispiece; 2. title page
+**fronton** *n* [Arch.] gable, pediment
+**fruct-** *see* **fruer**
+**fructar** *v* to bear fruit
+**fructeria (-ía)** *n* fruit store
+**fructero** *n* fruiterer, greengrocer
+**fructi·dor** *n* [French Revolutionary Calendar] Fructidor
+**fructiero** *n* fruit loft
+**fructifere** *adj* fruit-bearing
+**fructificar** *v* to bear fruit, fructify
+**fructification** *n* fructification; also: [Bot.]
+**fructo** *n* fruit *Hence:* fructero; fructeria; fructiero; fructifere; fructuose-infructuose; fructar; fructificar- fructification; disfructar; fructidor etc.
+**fructu-** *see* **fructo**
+**fructuose** *adj* fruitful
+**fruer** [fru-/fruct-] *v* to enjoy; **fruer de** to enjoy (= to have the use and enjoyment of) *Hence:* fruition; fructo &: usufruer etc.
+**frugal** *adj* frugal (1. inclined to live simply; 2. simple, not lavish) *Hence:* frugalitate
+**frugalitate** *n* frugality, frugalness
+**fruition** *n* enjoyment, fruition
+**frumentacee** *adj* frumentaceous
+**frumentari** *adj* frumentaceous
+**frumento** *n* wheat *Hence:* frumentacee; frumentari
+**[frustra]** *adv* in vain *Hence:* frustranee; frustrar-frustration, frustrative
+**frustranee** *adj* vain, futile, frustraneous
+**frustrar** *v* to frustrate (1. to disappoint, deceive; 2. to balk, render vain); **frustrar le sperantias de (un persona)** to frustrate (someone's) hopes
+**frustration** *n* frustration
+**frustratori** *adj* frustratory, frustrative (= that disappoints or renders vain), frustrating
+**Fuchs, Leonhard** *npr* [1501-1566; German botanist] *Hence:* fuchsia &
+**fuchsia** *n* [Bot.] Fuchsia; also: fuchsia *Hence:* fuchsina
+**fuchsina** *n* fuchsin
+**fuga** *n* 1. flight (= act of fleeing), escape, getaway; 2. ardor, impetuosity; 3. [Mus.] fugue; **poner in fuga** to put to flight; **fuga de gas** escape of gas *Hence:* contrafuga
+**fugace** *adj* fleeting, transient, transitory *Hence:* fugacitate
+**fugacitate** *n* transitoriness
+**fugir** *v* to flee, to run away, to book it (out of sb) *Hence:* fuga &; fugace &; fugitive-fugitivo; fugita; refugir &; subterfugir &; centrifuge etc.; vermifuge etc.
+**fugita** *n* flight (= act of fleeing)
+**fugitive** *adj* fugitive
+**fugitivo** *n* fugitive
+**fulgente** 1. ppr of fulger; 2. *adj* fulgent
+**fulger** *v* to flash, lighten, fulgurate *Hence:* fulgente; fulgide-fulgiditate; fulgor; refulger &
+**fulgide** *adj* shining, fulgid
+**fulgiditate** *n* shine, brilliance, fulgidity
+**fulgor** *n* dazzling brightness, fulgor
+**fulgural** *adj* lightning, fulgural
+**fulgurante** I. *ppr* of **fulgurar**; II. *adj* 1. fulgurant; 2. [Med.] fulgurating; **dolor fulgurante** fulgurant pains
+**fulgurar** *v* 1. to lighten, be lightening; 2. to flash (= to emit flashes as of lightningj
+**fulguration** *n* fulguration
+**fulgure** *n* (flash of) lightning *Hence:* fulgurite; fulgural; fulgurar-fulgurante, fulguration
+**fulgurite** *n* [Geol.] fulgurite
+**fuligine** *n* soot *Hence:* fuliginose
+**fuliginose** *adj* sooty
+**fullar** *v* 1. to full, mill; 2. to trample, to tread, crush (grapes, etc.) *Hence:* fullator; fullatorio; fullatura
+**fullator** *n* fuller (= one who fulls cloth, etc.)
+**fullatorio** *n* beater, fulling stock
+**fullatura** *n* (action of) fulling
+**fulmi-** *see* **fulmine**
+**fulmi·coton** *n* guncotton
+**fulminante** *ppr* of **fulminar**; **pulvere fulminante** fulminating powder
+**fulminar** *v* I. to thunder and lighten; II. to fulminate (1. to explode violently; 2. to inveigh, thunder)
+**fulmination** *n* fulmination
+**fulminato** *n* [Chem.] fulminate
+**fulminator** *n* fulminator
+**fulminatori** *adj* fulminatory
+**fulmine** *n* thunder bolt, lightning; **guerra fulmine** blitz, blitzkrieg; **serratura fulmine** zip fastener, zipper *Hence:* fulminato; fuiminee; fulminic; fulminar- fulminante, fulmination, fulminator, fulminatori; fulmicoton etc.; parafulmine etc.
+**fulminee** *adj* lightning, fulmineous
+**fulminic** *adj* [Chem.] fulminic
+**fumar** *v* I. to smoke (1. to fume, give off smoke or steam; 2. as in "to smoke a pipe"; 3. to cure (meat, fish, etc.) with smoke); II. to fume (= to show anger or irritation)
+**fumarola** *n* [Geol.] fumarole
+**fumator** *n* smoker (= one who or that which smokes)
+**fumigar** *v* to fumigate *Hence:* fumigation; fumigator; fumigatori; suffumigar &
+**fumigation** *n* fumigation
+**fumigator** *n* fumigator
+**fumigatori** *adj* fumigating
+**fumista** *n* chimney repairman
+**fumo** *n* smoke, fume *Hence:* fumarola; fumista; fumose; fumar-fumator, perfumar &; fumigar &; fumoterra etc.
+**fumose** *adj* smoky
+**fumo·terra** *n* [Bot.] fumitory
+**fun** *n* rope *Hence:* funero; funiculo-funicular; funiforme etc; funambulo etc.
+**fun·ambulo (-ám-)** *n* tightrope walker, funambulist
+**funct-** *see* **funger**
+**function** *n* function (1. as in "function of an organ, etc."; 2. [Math.]) *Hence:* functional-functionalismo, functionalista; functionario; functionar-functionamento
+**functional** *adj* functional
+**functionalismo** *n* functionalism
+**functionalista** *n* functionalist
+**functionamento** *n* (act of) functioning
+**functionar** *v* to function
+**functionario** *n* functionary; **functionario (public)** civil servant
+**funda** *n* sling(shot) *Hence:* fundar
+**fundamental** *adj* fundamental; **petra fundamental** foundation stone
+**fundamento** *n* foundation, base; **sin fundamento** groundless, unfounded
+**fundar¹** *v* to found (= to lay the foundation of)
+**fundar²** *v* to sling (= to cast with a sling)
+**fundate** 1. *pp* of **fundar**; 2. *adj* well-founded (as in "a well-founded charge")
+**fundation** *n* foundation (1. action of founding; 2. endowed institution)
+**fundator** *n* founder
+**funder [fund-/fus-]** *v* 1. to melt, liquefy; 2. [Metal.] to found, cast; **funder se** to fuse, become fused *Hence:* funderia; fusibile-fusibilitate, infusibile-infusibilitate; fusion-fusionar-fusionamento; confunder &; effunder &; diffunder &; infunder
+&; profunder &; refunder &; transfunder &
+**funderia (-ía)** *n* foundry (= establishment where founding of metal is carried on)
+**fundo** *n* 1. bottom; 2. foundation; 3. background; 4. fund (= sum of money set aside
+for a special purpose); **dar fundo** to cast anchor; **a fundo** thoroughly; **in le fundo** fundamentally, at bottom; **articulo de fundo** editorial (article), leader (article); **fundos public** public funds; **le basse fundos del societate** the lowest strata of society, the underworld; **basse fundo** shallow, shoal *Hence:* fundar-fundamento-fundamental, fundation, fundator, fundate; latifundio etc.
+**funeb-** *see* **funere**
+**funebre (fú-)** *adj* funeral, funereal; **marcha funebre** funeral march; **pompa funebre** (solemn) funeral; **convoyo funebre** funeral procession
+**funeral** *adj* funeral
+**funerales (-ál-)** *npl* funeral
+**funerari** *adj* funeral, funerary
+**funere** *n* funeral; funeres funeral (ceremony) *Hence:* funeral; funerari; funebre; funeste
+**funero** *n* ropemaker
+**funes-** *see* **funere**
+**funeste** *n* disastrous, fatal, baneful
+**funger [fung-/funct-]** *v* to function (as in "to function as chairman") *Hence:* fungibile; function &; defung- &
+**fungibile** *adj* [Law] fungible
+**fungi·cida** *n* fungicide fungi·cida *adj* fungicidal
+**fungi·forme** *adj* fungiform
+**fungo** *n* fungus (1. [Bot.]; 2. [Pathol.]) *Hence:* fungose-fungositate; fungicida etc; fungiforme etc.; fungologia etc.
+**fungo·logia (-ía)** *n* fungology *Hence:* fungologista
+**fungologista** *n* fungologist
+**fungose** *adj* fungous
+**fungositate** *n* fungosity (1. fungus quality; 2. fungus excrescence)
+**funicular** *adj* funicular; **ferrovia funicular** funicular (railway) 
+**funicular** *n* funicular (railway)
+**funiculo** *n* I. (small) cord; II. funiculus (1. umbilical cord, funis; 2. [Bot.])
+**funi·forme** *adj* funiform
+**fur** *n* thief *Hence:* furetto; furto-furtive; furar
+**furar** *v* to steal
+**furbir** *v* to clean, polish, furbish (up) *Hence:* furbitor
+**furbitor** *n* furbisher
+**furca** *n* I. fork (1. as in "pitchfork"; also: forked or pronged instrument, etc.; 2. as in "knife and fork"; 3. bifurcation); II. gallows *Hence:* furcata; furchetta; furcate; furcar-bifurcar etc.
+**furcar** *v* to fork (1. to manipulate with a fork; 2. to give the shape of a fork to; 3. to be or turn fork-shaped); **furcar se** to fork, branch off
+**furcata** *n* forkful (of hay, food etc.)
+**furcate** *adj* fork-shaped, forked
+**furch-** *see* **furca**
+**furchetta** *n* fork (as in "knife and fork")
+**furer** *v* 1. to be out of one's mind; 2. to be
+**furious** *Hence:* furibunde; furor
+**furetto** *n* ferret
+**furfuracee** *adj* furfuraceous (1. resembling bran, branlike; 2. covered with branlike scales)
+**furfure** *n* I. bran; II. dandruff, scurf, furfur *Hence:* furfuracee; furfurose
+**furfurose** *adj* dandruffy, scurfy
+**furia** *n* 1. [Mythol.] Fury; 2. fury (= fierce anger) *Hence:* furiose-furiositate; furiar-infuriar-infuriate
+**furiar** *v* to infuriate
+**furibunde** *adj* 1. frantic, frenzied; 2. raging, furious
+**furiose** *adj* furious
+**furiositate** *n* furiousness, fury
+**furnata** *n* ovenful (of bread, etc.)
+**furnero** *n* 1. baker; 2. [Ornith.] ovenbird
+**furno** *n* 1. oven; 2. furnace; **alte furno** blast
+**furnace** *Hence:* furnata; furnero
+**furor** *n* 1. mania, frenzy; 2. fury, rage
+**furtive** *adj* furtive, stealthy
+**furto** *n* 1. (act of) theft; 2. stolen article
+**furunculo** *n* [Pathol.] furuncle, boil *Hence:* furunculosis
+**furunculosis (-ósis)** *n* [Pathol.] furunculosis
+**fus-** *see* **funder**
+**fuselage** [F] *n* [Aeronaut.] fuselage
+**fusero** *n* spindle maker
+**fusibile** *adj* fusible; easily melted; **(filo) fusibile** [Elec.] fuse
+**fusibilitate** *n* fusibility
+**fusi·forme** *adj* fusiform, spindle-shaped
+**fusil** *n* 1. steel (to strike fire with); 2. gun, rifle *Hence:* fusilero; fusilar-fusilada
+**fusilada** *n* fusilade
+**fusilar** *v* to shoot (down), execute, fusilade
+**fusilero** *n* fusilier
+**fusion** *n* 1. melting; 2. fusion
+**fusionamento** *n* [Com., Pol.] amalgamation, merger
+**fusionar** *v* [Com., Pol.] to amalgamate, merge
+**fuso** *n* 1. [Spinning] spindle; 2. [Geom.] lune *Hence:* fusero; affusar; fusiforme etc.
+**fusta** *n* [Naut.] lateen-rigged lighter
+**fuste** *n* 1. cudgel, club; 2. shaft (of a column); 3. shaft (of a spear, lance, harpoon, etc.); 4. stock (of a rifle, pistol, etc.) *Hence:* fustigar-fustigation; fusta
+**fustigar** *v* to cudgel, thrash, beat
+**fustigation** *n* (act of) thrashing, beating
+**-futar** *v* [used in compounds] *Hence:* confutar &; refutar &
+**futile** *adj* insignificant, unimportant *Hence:* futilitate
+**futilitate** *n* insignificance, unimportance
 **futuer** *v* [Colloq.] to fuck; to fuck up **futue te! va futuer te! va te facer futuer!** fuck off!, fuck you!, go fuck yourself! **futuer se de alique** to not give a fuck about sth, to not give a rat's ass about sth, to not care about sth, to not give a rip/flip about sth
 **futuite (futite)** *adj* [Colloq.] fucking, fucked, shitty, fucked-up **tu ha futuite toto, amico** you fucked it all up, mate/bro **a futuer se! futue se!** fuck it! "fuck him/her, I don't care!" **sia futite!** damn it!, damn you! (literally "be (it) fucked", "may it be fucked")
 **futution** *n* [Colloq.] fucking, a fuck, sex act, sexual relations, fornication (vulgar)
+**futur** *adj* future; **tempore futur** [Gram.] future (tense); **futuro, futura** *n* intended (husband, wife) *Hence:* futurismo; futurista; futuro
+**futurismo** *n* [Art.] futurism
+**futurista** *n* [Art.] futurist; also: attrib. futurist, futuristic
+**futuro** *n* future (1. time to come; 2. [Gram.])
 
 ### G
 ---
