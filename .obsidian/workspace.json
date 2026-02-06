@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "5dbaeadd2dcbe58b",
+            "id": "39917fcb9fda887f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "IALADICTIONARY"
-            }
-          },
-          {
-            "id": "871003938f955e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to Make into Searchable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to Make into Searchable"
             }
           }
         ],
@@ -212,13 +198,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "5dbaeadd2dcbe58b",
+  "active": "39917fcb9fda887f",
   "lastOpenFiles": [
-    "How to Make into Searchable.md",
     "README.md",
     "IALADICTIONARY.md",
-    "Untitled.md",
+    "i.md",
+    "How to Make into Searchable.md",
+    "Soreto.md",
     "Untitled.base",
+    "unnamed-1.jpg",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "unnamed 3.jpg",
+    "unnamed 2.jpg",
+    "unnamed 1.jpg",
+    "unnamed.jpg",
+    "0.jpg",
     "Untitled",
     "data/B81B6900",
     "data/F9B5A800",

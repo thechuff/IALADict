@@ -1,63 +1,117 @@
 # IALA DICTIONARY (WIP)
-*last updated 2/5/26*
+*last updated 2/6/26*
 
 Completed (Slang):
 - [x] **A**-**Z**!
 Completed (IED):
-**[A](#A)**, **[D](#D)**, **[E](#E)**, **[F](#F)**, **[H](#H)**, [**J**](#J), **[K](#K)**, **[P](#P)**, **[R](#R)**
-*adding:*
-[I](#I), 
-*forthcoming:*
-[B](#B), [C](#C), [G](#G), [L](#L), [M](#M), [N](#N), [O](#O), [Q](#Q), [S](#S), [T](#T), [U](#U), [V](#V), [W](#W), [X](#X), [Y](#Y), [Z](#Z)
+**[A](#A)**, **[D](#D)**, **[E](#E)**, **[F](#F)**, **[H](#H)**, [**J**](#J), **[K](#K)**, **[P](#P)**, **[R](#R)**, **[U](#U)**, **[W](#W)**, [**X**](#X), **[Y](#Y)**
+*in progress:*
+**[B](#B)**, C, [G](#G), [I](#I), L, M, N, O, Q, S, T, V, [Z](#Z)
 ## Introduction
 
 >This project is an updated Interlingua Dictionary, with usage notes, to make it more accessible and suitable for the 21st century, using Elefen learning material as a model.  It is based on the IED, with colloquialisms (to get away), usages not found in the IED (e.g. **OVNI**) and suggestions added in.  To be saved as a .csv when official.
 >
 >Aside from correcting typos or misattributed parts of speech, this project aims to make translating into (and learning) more accessible, e.g. **eructation** is not known to the average English speaker, and belching is better; our efforts add 'burp'.  We also add here [proposed] words that make sense to us but have not seen identified usage, as well as words in use (e.g. on [Wikipedia](https://ia.wikipedia.org)) yet not found in the IED (e.g. **bullismo**).
-
-%%
-Workflow:
-- [x] Add Slang Dictionary
-- [ ] Add *IED*
-	- [ ] A
-	- [ ] B
-	- [ ] C
-	- [ ] D
-	- [ ] E
-	- [ ] F
-	- [ ] G
-	- [ ] H
-	- [ ] I
-	- [ ] J
-	- [ ] K
-	- [ ] L
-	- [ ] M
-	- [ ] N
-	- [ ] O
-	- [ ] P
-	- [ ] Q
-	- [ ] R
-	- [ ] S
-	- [ ] T
-	- [ ] U
-	- [ ] V
-	- [ ] W
-	- [ ] X
-	- [ ] Y
-	- [ ] Z
-- [ ] Add Piet Cleij's *Lista Supplementari*
-- [ ] Add *Soreto's Vocabularo (Addenda)*
-- [ ] Make searchable version
-%%
-
 ## Sources
 
 IED (Interlingua-English Dictionary)
 [Interlingua/Profanity (Wikibooks)](https://en.wikibooks.org/wiki/Interlingua%2FProfanity)
 
+%%
+Workflow:
+- [x] Add Profanity
+- [ ] Add *IED*
+	- [x] A
+	- [ ] B
+	- [ ] C
+	- [x] D
+	- [x] E
+	- [x] F
+	- [ ] G
+	- [x] H
+	- [ ] I
+	- [x] J
+	- [x] K
+	- [ ] L
+	- [ ] M
+	- [ ] N
+	- [ ] O
+	- [x] P
+	- [ ] Q
+	- [x] R
+	- [ ] S
+	- [ ] T
+	- [x] U
+	- [ ] V
+	- [x] W
+	- [x] X
+	- [x] Y
+	- [x] Z
+- [ ] Add Piet Cleij's *Lista Supplementari*
+- [ ] Add *Soreto's Vocabularo (Addenda)*
+	- [x] Non-Lemmas
+		- [x] p1
+		- [x] p2
+		- [x] p3
+	- [ ] 300 entratas corrigite
+		- [ ] A
+		- [ ] B
+		- [ ] C
+		- [ ] D
+		- [ ] E
+		- [ ] F
+		- [ ] G
+		- [ ] H
+		- [ ] I
+		- [ ] J
+		- [ ] K
+		- [ ] L
+		- [ ] M
+		- [ ] N
+		- [ ] O
+		- [ ] P
+		- [ ] Q
+		- [ ] R
+		- [ ] S
+		- [ ] T
+		- [ ] U
+		- [ ] V
+		- [ ] W
+		- [ ] X
+		- [ ] Y
+		- [ ] Z
+	- [ ] Lexico Supplementari
+		- [ ]  A
+		- [ ] B
+		- [ ] C
+		- [ ] D
+		- [ ] E
+		- [ ] F
+		- [ ] G
+		- [ ] H
+		- [ ] I
+		- [ ] J
+		- [ ] K
+		- [ ] L
+		- [ ] M
+		- [ ] N
+		- [ ] O
+		- [ ] P
+		- [ ] Q
+		- [ ] R
+		- [ ] S
+		- [ ] T
+		- [ ] U
+		- [ ] V
+		- [ ] W
+		- [ ] X
+		- [ ] Y
+		- [ ] Z
+- [ ] Make searchable version
+%%
+
 ## Dictionary
 ### A
-
 **a** *prep* 1. to (a point in space or time, a goal, etc.); 2. at (a point in space or time, a stage of development, etc.); **a** (+*inf*) to; *also:* for (+*gerund*); **sala a attender** waiting room *Hence:* [apena] etc. 
 **[a-]** *prefixo verbal* [used with verbs and, in combination with verbal suffixes, with nouns and adjectives] to, toward, into (expressing motion to, change into, increase of intensity, etc.) *Hence:* abatter etc.; abassar etc.
 **a**- *prefixo* [an- before -h- and vowels; used with nouns and adjectives] a-, an- (= not ...; without, lacking ...) *Hence:* agnostic etc.; amnesia etc.; analphabete etc.; anarchia etc.; anesthesia etc.; anesthetic etc.; anhydre etc.; athee etc.
@@ -143,6 +197,7 @@ abolition *n* abolition, abolishment
 **aborto** *n* abortion
 **ab ovo** [L] ab ovo, from the beginning
 **abrader [-rad-/-ras-]** *v* to abrade *Hence:* abrasion; abrasive
+**Abraham** *nprm* Abraham
 **abras**- *see* **abrader**
 **abrasion** *n* abrasion
 **abrasive** *adj* abrasive
@@ -186,6 +241,7 @@ abolition *n* abolition, abolishment
 **absorbentia** *n* absorbency
 **absorber [-sorb-/-sorpt-]** *v* to absorb; **absorbite in** absorbed in *Hence:* absorbente-absorbentia; absorbibile; absorbtion; reabsorber-reabsorption
 **absorbibile** *adj* absorbable
+**absorbite** 1. *pp* of **absorver**; 2. *adj* absorbed
 **absorpt**- *see* **absorber**
 **absorption** *n* absorption
 **abstent**- *see* **abstiner**
@@ -207,7 +263,7 @@ abolition *n* abolition, abolishment
 **abuccar** *v* 1. to seize, snatch up (with the mouth); 2. to interconnect (two openings); **abuccar se** to come or get together (for an interview, a conference, etc.) *Hence:* abuccamento
 **abundante** *adj* abundant
 **abundantia** *n* abundance; **corno del abundantia** cornucopia, horn of abundance or plenty
-**abundar** *v* to abound, be plentiful; **abundar in** to abound in or with *Hence:* abundante-abundantia; superabundar- superabundante-superabundantia
+**abundar** *v* to abound, be plentiful; **abundar in** to abound in or with *Hence:* abundante-abundantia; superabundar-superabundante-superabundantia
 **abus**- *see* **abut**-
 **abusar** *v* -; **abusar de** to abuse, make bad use of
 **abusator** *n* abuser, misuser
@@ -391,6 +447,7 @@ abolition *n* abolition, abolishment
 **actionero** *n* shareholder, stockholder
 **actionista** *n* shareholder, stockholder
 **activar** *v* to activate; *also:* to stir up, rouse 
+**activate** 1. *pp* of **activar**; 2. *adj* activated
 **activation** *n* activation
 **active** *adj* active; **le voce active** the active voice; [Colloq.] [Sex] top (usu referring to anal sex)
 **activitate** *n* activity
@@ -804,6 +861,7 @@ adversar-adversative; animadverter etc.
 **ajornamento** *n* adjournment, postponement
 **ajornar** *v* to adjourn, postpone *Hence:* ajornamento 
 -**al** *suffixo adjective* [used with nouns] -al (= pertaining to ..., characteristic of ..., etc.) *Hence:* natural etc.; conversational etc.
+**al** *abbr* = **a** + **le**
 **al**- *see* **alcohol**, **aldehydo**, or **aluminium**
 **al**- *prefix* [occurring in derivatives and compounds] *Hence:* alimento &; alibile &; coal- & -al- [occurring in compounds] *Hence:* nyctalopia etc.
 **ala** *n* wing (1. "wing of a bird, airplane etc."; 2. part of a building) *Hence:* aletta; **alate à la** [F] à la (as in "à la Newburgh")
@@ -866,6 +924,7 @@ adversar-adversative; animadverter etc.
 **alcova** *n* alcove (= recessed portion of a room) 
 **[alc·un]** *adj* some, any; *also:* a few (= alicun) 
 **[alc·uno]** *indef pron* someone, anyone (= **alicuno**)
+**aldehydo (-é)** *n* aldehyde
 **ale** [A] *n* ale
 **alerta** *n* [Mil.] alert *Hence:* alerte
 **alerte** *adj* alert (= vigilant)
@@ -1101,11 +1160,13 @@ adversar-adversative; animadverter etc.
 **ambulante** 1. *ppr* of **ambular**; 2. *adj* ambulant
 **ambulantia** *n* ambulance (1. field hospital; 2. "hospital ambulance")
 **ambular** *v* to walk (= to go on foot) *Hence:* ambulante-ambulantia; ambulatori; ambulatura; deambular-deambulation, deambulatori; preambular-preambulo; funambulo etc.; noctambule etc.
+**ambulatori** *adj* ambulatory
 **ambulatura** *n* gait, walk
 **ameba** *n* [Zool.] amoeba *Hence:* amebic; ameboide; amebiforme etc.
 **amebic** *adj* amoebic
 **amebi·forme** *adj* amoebiform
 **ameboide** *adj* amoeboid; **movimentos ameboide** [Zool., Physiol.] amoeboid movements
+**amelioration** *n* improvement
 **amen** [L] interj *amen* 
 -**amento** *suffixo substantive* [used with verbs in -ar] -ament, -ement, -ment (= action or result of ...ing) *Hence:* arrangiamento etc.; commandamento etc; discoragiamento etc.; governamento etc.; ornamento etc.
 **america** *npr* America; **America del nord** North America; **America del sud** South America; **America latin** Latin America *Hence:* american-americanismo, americanisar, angloamerican etc., panamerican etc., americano
@@ -1495,6 +1556,7 @@ anglican-anglicanismo, anglicano, anglicisar; angloamerican etc; anglocatholic e
 **anti**- *prefixo* [used with nouns and adjectives; *also*: in combination with substantival and adjectival suffixes] anti- *Hence:* antichristo etc.; antinational etc.; antialkoholista etc. 
 -**antia** *suffixo substantive* [used with verbs in -ar] -ance, -ancy (= state or quality of ...ing or being ...ant) *Hence:* importantia etc.; tolerantia etc.; vigilantia etc.
 **antiaeree** *adj* [Mil.] antiaircraft
+**antialcoholista** *n* antialcoholist
 **antiasthmatic** *adj* antasthmatic
 **anticatholic** *adj* anti-Catholic
 **antichristian¹** *adj* antichristian
@@ -1690,7 +1752,8 @@ appest**a**r *v* to infect (with a plague)
 **applauso** *n* applause
 **applicabile** *adj* 1. that can be applied or put on; 2. applicable, appropriate
 **applicabilitate** *n* appropriateness, applicability
-**applicar** *v* to apply (1. to put on; 2. to put to use); **applicar se a** to apply oneself, put one's mind to; **scientias applicate** applied sciences *Hence:* applicabile-applicabilitate, inapplicabile- inapplicabilitate; application-inapplication
+**applicar** *v* to apply (1. to put on; 2. to put to use); **applicar se a** to apply oneself, put one's mind to; **scientias applicate** applied sciences *Hence:* applicabile-applicabilitate, inapplicabile-inapplicabilitate; application-inapplication
+**applicate** 1. *pp* of **applicar**; 2. *adj* applied
 **application** *n* application (1. act of putting on; 2. act of putting to use; 3. diligence)
 **appoiar** *v* 1. to keep up, prop (up); *also:* to support, back, aid; **appoiar (un cosa) contra** to lean (something)
 against; **appoiar (un cosa)** super to rest (something) on; **appoiar se (super, contra)** to lean (on, against) *Hence:* appoio
@@ -1972,6 +2035,7 @@ argentee; argentifere; argentin-argentino, argentina, Argentina; argentose; arge
 **armamento** *n* 1. armament (= equipment with arms); 2. commissioning (of a ship)
 **armar** *v* to arm (1. to supply with weapons; 2. to equip, fit out); **armar un persona cavallero** to dub someone a knight; **armar se de patientia** to exercise patience
 **armario** *n* wardrobe, cupboard
+**armate** 1. *pp* of **armar**; 2. *adj* armed
 **armatura** *n* 1. armor; 2. [Magnet., Elec.] armature; 3. frame, framework
 **armea (-éa)** *n* army; **armea aeree** air force
 **armenia** *npr* Armenia *Hence:* armeniaca; armenie-armenio
@@ -1980,6 +2044,7 @@ argentee; argentifere; argentin-argentino, argentina, Argentina; argentose; arge
 **armenio¹** *n* Armenian (1. Armenian language; 2. inhabitant of Armenia)
 **armenio²** *n* ermine (1. the animal "ermine"; 2. ermine fur)
 **armero** *n* armorer (1. manufacturer of arms; 2. official in charge of armament or arms)
+**armillar** *adj* armillary
 **armi·potente** *adj* armipotent
 **armi·stitio** *n* armistice
 **aroma [-ma/-mat-]** *n* aroma *Hence:* aromatic; aromatisar-aromatisation
@@ -2556,37 +2621,870 @@ aurifice-aurificar-aurification; auripigmento etc.; auriforme etc.
 
 ---
 ### B
+**Babel** *npr* Babel; **(le) turre de Babel** (the) Tower of Babel
+**ba·bordo** *n* [Naut.] port (= left side of a ship)
+**baby** [A] *n* baby
+**Babylon** *npr* Babylon *Hence:* Babylonia-babylonian
+**babylonia** *npr* Babylonia
+**babylonian** *adj* Babylonian
+**baca** *n* berry; **baca de junipero** juniper berry
+**baccalaureato** *n* baccalaureate
+**baccalaureo** *n* [Acad.] bachelor *Hence:* baccalaureato
+**bacchanal¹** *adj* bacchanal (1. Bacchic; 2.bacchanalian)
+**bacchanal²** *n* bacchanal, orgy; **bacchanales** Bacchanalia
+**bacchanalia** *npl* [Rom. Relig.] Bacchanalia
+**bacchante** *n* bacchante
+**bacchar** *v* to celebrate the Bacchanalia; *also:* to take part in a bacchanal or orgy
+**bacchic** *adj* 1. Bacchic; 2. bacchic, riotous
+**Baccho** *npr* [Gr. Mythol.] Bacchus *Hence:* bacchic; bacchanal; bacchar-bacchante
+**bacillari** *adj* bacillary
+**bacillo** *n* bacillus *Hence:* bacillari
+**bacterial** *adj* bacterial
+**bacterio** *n* bacterium *Hence:* bacterial; bacteriotherapia etc.; bacteriologo etc.; nitrobacterio etc.
+**bacteriologia (-ía)** *n* bacteriology
+**bacteriologic** *adj* bacteriological
+**bacterio·logo (-ólogo)** *n* bacteriologist *Hence:* bacteriologia; bacteriologic
+**bacterio·therapia (-ía)** *n* bacteriotherapy
+**bagage (-aje)** *n* baggage, luggage
+**bagatella** *n* bagatelle, trifle
+**baia (báya)** *n* [Geog.] bay
+**Balaam (bá-)** *npr* Balaam
+**balalaika** [R] *n* balalaika
+**balamento** *n* bleat
+**balancia** *n* balance (1. pair of scales; 2. equilibrium; 3. [Com.]); **balancia roman** steelyard, Roman balance; **balancia de commercio** balance of trade; **esser in balancia** to be undecided, waver *Hence:* balanciero; balancista; balanciar- balancio, balanciamento, balanciatoria, contrabalanciar; contrabalancia
+**balanciamento** *n* (action of) balancing
+**balanciar** *v* I. to balance (1. to weigh the pros and cons of; 2. to bring to equilibrium; 3. to waver, hesitate); II. to swing (= to cause to go to and fro); balanciar se to swing (= to go to and fro)
+**balanciatoria** *n* seesaw
+**balanciero** *n* [Watchmaking] balance, balance- wheel
+**balancio** *n* [Com.] balance, balance-sheet; **facer un balancio** to draw up a balance sheet
+**balancista** *n* scale tester, scale inspector
+**balar** *v* to bleat *Hence:* balamento
+**balbutiamento** *n* stammer, stutter; *also:* babble
+**balbutiar** *v* to stammer, stutter; *also:* to babble *Hence:* balbutiamento; balbutiator
+**balbutiator** *n* stammerer, stutterer
+**balcon** *n* balcony (1. [Arch.]; 2. [Theat.])
+**balena** *n* 1. whale; 2. whalebone, baleen *Hence:* balenero; baleniera
+**balenero** *n* whaler (1. whale fisher; 2. vessel for whale fishery)
+**baleniera** *n* whaleboat, whaler
+**Balkanes (-ká-)** *nprpl* Balkans (1. the Balkan Mountains; 2. the Balkan States) *Hence:* balkanic; balkanisar
+**balkanic** *adj* Balkanic; Peninsula Balkanic Balkanic Peninsula
+**balkanisar** *v* to Balkanize
+**balla** *n* I. ball (1. globular object; 2. cannon ball, bullet, etc.; 3. [Print.]); II. bale; *also:* bolt (of cloth, paper, etc.) *Hence:* ballon; ballotta &; imballar &
+**ballada** *n* 1. ballad (= poem founded on folk legend); 2. ballade
+**ballar** *v* to dance *Hence:* ballo; ballerina
+**ballast** *n* ballast; *also:* [R.R.]
+**ballerina** *n* ballet dancer, ballerina
+**ballet** [F] *n* [Theat.] ballet
+**ballista** *n* [Hist.] ballista, ballist *Hence:* ballistic-ballistica; arcoballista etc.
+**ballistic** *adj* ballistic
+**ballistica** *n* ballistics
+**ballo** *n* ball (= formal dance)
+**ballon** *n* I. balloon (1. [Chem.]; 2. aerostat); II. (large, air-filled) ball
+**ballotta** *n* ballot (= ball, ticket, paper, etc., used in secret voting) *Hence:* ballottar-ballottada
+**ballottada** *n* [Man.] ballotade
+**ballottar** *v* 1. to ballot; 2. to toss, toss about
+**balnear** *adj* bath (= pertaining to baths); station balnear seaside resort
+**balneo** *n* bath (1. act of giving or taking a bath; 2. bath water); **balneos** baths (= hot or mineral springs) *Hence:* balnear; balneotherapia etc.
+**balneo·therapia (-ía)** *n* balneotherapy
+**balsamic** *adj* 1. balsamic; 2. balmy
+**balsamifere** *adj* balsamiferous
+**balsamina** *n* [Bot.] balsamine, garden balsam *Hence:* balsaminacee-balsaminaceas
+**balsaminaceas** *npl* [Bot.] Balsaminaceae
+**balsaminacee** *adj* [Bot.] balsaminaceous
+**balsamita** *n* [Bot.] tansy (= *Tanacetum balsamita*)
+**balsamo (bál-)** *n* balm, balsam (1. balsamic resin; 2. ointment) *Hence:* balsamina &; balsamita; balsamic; balsamifere; imbalsamar &
+**Balthasar** *npr* [Bib.] Belshazzar, Balthasar, Balthazar
+**baltic** *adj* Baltic; Mar Baltic Baltic (Sea); Statos Baltic Baltic States
+**Baltico** *npr* Baltic (Sea)
+**balto** *n* Balt (1. member of ethnic group including Lithuanians and Letts; 2. member of German land-owning class in the Baltic States; *also:* Baltic baron, etc.) *Hence:* baltic-Baltico; balto-slavo etc.
+**balto-slavic** *adj* Balto-Slavic
+**balto-slavo** *n* Balto-Slav *Hence:* balto-slavic
+**balustrada** *n* balustrade; *also:* railing
+**balustrar** *v* to balustrade
+**balustro** *n* baluster, banister *Hence:* balustrada; balustrar
+**bambu (-ú)** *n* [Bot.] bamboo
+**banal** *adj* banal, trite *Hence:* banalitate
+**banalitate** *n* banality, triteness
+**banana** *n* banana
+**banca** *n* bank (1. [Fin.]; 2. [Gambling]); **billet de banca** bank note *Hence:* bancari; banchero; bancar-bancabile; bancarupta etc.
+**bancabile** *adj* bankable
+**bancar** *v* [Fin.] to bank
+**bancari** *adj* bank; **(disconto) bancari** bank (discount); **(negotio) bancari** banking (business)
+**banca·rupta** *n* bankruptcy; **facer bancarupta** to go bankrupt *Hence:* bancaruptero
+bancaruptero *n* bankrupt
+**banch**- *see* **banco**, **banca**
+**banchero** *n* banker
+**banchettar** *v* 1. to feast, eat lavishly; 2. to banquet
+**banchettator** *n* banqueter, feaster
+**banchetto** *n* banquet *Hence:* banchettar-banchettator
+**banco** *n* 1. bench; 2. bank, shoal; 3. counter (in a store) *Hence:* banchetto &; banca &
+**banda¹** *n* band (1. group of people; 2. [Mus.]) *Hence:* disbandar &
+**banda²** *n* band (1. narrow strip of material; 2. bandage) *Hence:* bandar-bandage
+**bandage (-aje)** *n* bandage, dressing
+**bandar** *v* to bandage; **bandar le oculos a un persona** to blindfold a person
+**bandiera** *n* banner, flag *Hence:* bandierola
+**bandierola** *n* banderole, streamer
+**banditismo** *n* banditry, banditism
+**bandito** *n* bandit *Hence:* banditismo
+**baniar** *v* to bathe (= to give a bath to); **baniar se** 1. to take a bath; 2. to go in bathing
+**baniator** *n* bather
+**banio** *n* bath (1. act of giving or taking a bath; 2. bath water); **banios** baths (= hot or mineral springs); **camera de banio** bathroom *cf* **W.C.** *Hence:* baniar-baniator; banio-maria etc.
+**banio-maria (-ía)** *n* 1. water bath; 2. double boiler
+**banjo** *n* banjo
+**bannimento** *n* banishment (1. act of exiling; 2. exile)
+**bannir** *v* to banish
+**banno** *n* 1. proclamation, edict; 2. (= ban sentence of outlawry); 3. banishment; **bannos** banns *Hence:* bannir-bannimento
+**baptisar** *v* to baptize; *also:* to christen *Hence:* baptismo-baptismal; baptista; baptisterio; baptisator; anabaptisar- anabaptismo, anabaptista; rebaptisar- rebaptismo
+**baptisator** *n* baptizer
+**baptismal** *adj* baptismal
+**baptismo** *n* baptism; **nomine de baptismo** baptismal or Christian name
+**baptista¹** *n* 1. baptizer; 2. [Theol.] Baptist, Anabaptist; **Sancte Johannes Baptista** Saint John the Baptist
+**baptista²** *adj* [Theol.] Baptist, Anabaptist
+**baptisterio** *n* baptistery (1. part of a church reserved for baptism; 2. receptacle containing water for the baptismal rite)
+**bar** [A] *n* bar (= place where liquor is served)
+**barba** *n* beard; **facer le barba (a un persona)** to shave (someone); **Barba Blau** Bluebeard *Hence:* barbero; barberia; barbate; barbar; disbarbar-disbarbate
+**barbar** *v* to grow a beard
+**barbare** *adj* barbarous *Hence:* barbaritate; barbarismo; barbarisar; barbaro-barbaric; semibarbare etc.
+**barbaric** *adj* barbaric
+**barbarisar** *v* to barbarize
+**barbarismo** *n* barbarism (1. "barbarism in language"; 2. barbarous social or intellectual condition)
+**barbaritate** *n* barbarity, barbarousness
+**barbaro (bá-)** *n* barbarian
+**barbate** *adj* bearded
+**barberia (-ía)** *n* barbershop
+**barbero** *n* barber
+**barca** *n* boat, bark *Hence:* barcata; barchero; disbarcar- disbarcamento, disbarcatorio; imbarcar-imbarcamento, imbarcation, imbarcatorio, disimbarcar-disimbarcation
+**barcarola** [I] *n* [Mus.] barcarole, barcarolle
+**barcata** *n* boatload
+**barch**- *see* **barca**
+**barchero** *n* boatman
+**bardana** *n* burdock
+**barium (bá-)** *n* barium
+**baro**- *n* [occurring in compounds] baro- (as in "barometer") *Hence:* barometro etc.; barothermohygrographo etc.; isobare etc.
+**baroc** *adj* baroque *Hence:* baroco
+**baroco** *n* baroque (period style, etc.)
+**baro·gramma** *n* [Meteorol.] barogram
+**baro·grapho (-ó-)** *n* [Meteorol.] barograph
+**baro·logia (-ía)** *n* barology
+**barometric** *adj* barometric
+**baro·metro (-ó-)** *n* barometer *Hence:* barometric; barometrographo etc.
+**barometrographia (-ía)** *n* [Meteorol.] barometrography
+**barometro·grapho (-ógrapho)** *n* [Meteorol.] barometrograph, barograph *Hence:* barometrographia
+**baron** *n* baron (= nobleman) *Hence:* baronage; baronessa; baronetto; baronia
+**baronage (-aje)** *n* baronage (1. whole body of barons; 2. dignity or rank of a baron)
+**baronessa** *n* baroness
+**baronetto** *n* baronet
+**baronia (-ía)** *n* barony
+**baro·thermo·hygrographo (-ógrapho)** n barothermohygrograph
+**barra** *n* I. bar (1. as in "bar of iron, bar of wood," etc.; 2. [Her.]; 3. ridge of horse's palate; 4. "sand bar"; 5. [Law] place where prisoner stands; 6. [Mus.] bar, bar line); II. [Naut.] tiller *Hence:* barriera; barrar-barrage
+**barraca** *n* 1. hut; 2. barrack (= plain and large building) *Hence:* barracon
+**barracon** *n* barracoon
+**barrage (-aje)** *n* I. barrier, bar, obstacle; II. barrage (1. dam; 2. [Mil.])
+**barrar** *v* to bar (= to close to entrance)
+**barrica (-íca)** *n* barrico, keg *Hence:* barricada &
+**barricada** *n* barricade *Hence:* barricadar
+**barricadar** *v* to barricade
+**barriera** *n* 1. barrier, obstacle; 2. stockade, fence; 3. tollgate
+**barril** *n* barrel (1. cask; 2. [Meas.]) *Hence:* barrilero; imbarrilar
+**barrilero** *n* cooper
+**bary**- *adj* [occurring in derivatives and compounds] bary- (= heavy) *Hence:* baryta; barytone etc.
+**baryta** *n* [Mineral.] baryta
+**bary·tone** *adj* [Phonet.] baritone *Hence:* barytono
+**barytono (-ítono)** *n* baritone (1. baritone voice; 2. musical instrument)
+**basal** *adj* basal (1. basic; 2. [Physiol.])
+**basaltic** *adj* basaltic
+**basalto** *n* [Mineral.] basalt *Hence:* basaltic
+**basamento** *n* 1. basement (= lower part of anything); 2. [Arch.] footing (of a column or wall), basement
+**basar** *v* to base, found; basar se super to be based on
+**bascula** *n* 1. [Technol.] bascule (as in "bascule escapement"); 2. platform scale, weighbridge *Hence:* basculari; bascular-basculation
+**bascular** *v* to move or be moving leverwise (over a fixed point)
+**basculari** *adj* bascule (as in "bascule bridge")
+**basculation** *n* [Surg.] basculation
+base *n* I. base (1. bottom, substructure; 2. [Mil.]; 3. [Chem.]); II. basis, foundation; **base de aviation** air base *Hence:* basal; basic-basicitate, bibasic etc.: basar-basamento; gynobase etc.
+**baseball** [A] *n* [Sports] baseball
+**Basel** [G] *npr* Basel, Basle
+**basiar** *v* to kiss
+**basic** *adj* basic; *also:* [Chem.]
+**basicitate** *n* [Chem.] basicity
+**basilica** *n* basilica (1. [Rom. Hist.]; 2. basilican type of church building)
+**basio** *n* kiss; basio de Juda Judas kiss *Hence:* basiar
+**bassar** *v* to lower (= to make lower)
+**basse** *adj* low (1. not high; 2. base, mean); **in voce basse** in a low voice, softly; **marea basse** low tide *Hence:* bassessa; bassar; abassar-abassamento; basse-relievo etc.; basso¹-contrabasso; basso²
+**basse-relievo** *n* bas-relief
+**bassessa** *n* baseness
+**bassinetto** *n* 1. small basin, (shallow) bowl; 2. [Armory] basinet
+**bassino** *n* basin (1. wide, shallow bowl; 2. dock; 3. "river basin") *Hence:* bassinetto
+**basso¹** *n* I. bottom, lower part (of a thing); II. [Mus.] bass (1. lowest part of a musical score; 2. instrument for the lowest part of a musical score; 3. lowest male voice); **a basso** down, downward; **in basso** 1. down, below; *also:* downstairs; 2. down, downward; *also:* downstairs; **a basso (le traitores)!** down with (the traitors)!
+**basso²** *adv* low (1. in a low position; 2. softly)
+**basson** *n* [Mus.] bassoon
+**basta** *interj* enough! stop!
+**bastante** 1. *ppr* of **bastar**; 2. *adj* enough, sufficient; 3. *adv* enough, sufficiently
+**bastantia** *n* sufficiency, enough
+**bastar** *v* to be enough, suffice *Hence:* bastante-bastantia
+**bastarde** *adj* bastard (1. born out of wedlock; 2. spurious; 3. [Print.] as in "bastard type")
+**bastardia (-ía)** *n* bastardy (= quality of being a bastard)
+**bastardo** *n* bastard (= illegitimate child) *Hence:* bastarde; bastardia
+**bastille** [F] *n* [Fortif.] bastille; Bastille Bastille
+**bastion** *n* [Fortif.] bastion
+**basto** *n* packsaddle
+**baston** *n* 1. stick, staff; 2. cane, walking stick; **baston de marechal** field marshal's baton *Hence:* bastonada; bastonar
+**bastonada** *n* bastinado, bastinade
+**bastonar** *v* to cudgel; to bastinado
+**batata** *n* sweet potato, batata
+**batik** [Malay] *n* batik; *also:* batiked material *Hence:* batikar
+**batikar** *v* to batik
+**batista** *n* batiste
+**batracho**- *n* [occurring in derivatives and compounds] *Hence:* batrachomyomachia etc.
+**batracho·myo·machia (-ía)** *n* Batrachomyomachy, Batrachomyomachia (= Battle of the Frogs and the Mice)
+**battalia** *n* battle; in battalia in battle array; campo de battalia battlefield *Hence:* battaliar; battaliator
+**battaliar** *v* to battle
+**battaliator** *n* battler
+**battalion** *n* battalion
+**battente** 1. *ppr* of **batter**; 2. *adj* beating
+**batter** *v* to beat (1. to strike, pound; 2. to flap; 3. to defeat); **batter se** to fight; **batter moneta** to coin, mint money; **batter (le ferro)** to hammer (iron) *Hence:* battimento; abatter &; combatter &; debatter &; rebatter
+**batteria (-ía)** *n* 1. [Mil.] battery; 2. kitchen utensils; **batteria (electric)** (electric) battery
+**battimento** *n* beating (= action of striking, throbbing, fluttering, etc.)
+**bavare** *adj* Bavarian *Hence:* bavaro-Bavaria, bavarese
+**bavarese** *adj* Bavarian
+**Bavaria** *npr* Bavaria
+**bavaro (bá-)** *n* Bavarian
+**Bayona** *npr* Bayonne *Hence:* bayonetta
+**bayonetta** *n* bayonet
+**Bayonne** *npr* Bayonne
+**bazar** *n* bazaar (= Oriental market place; *also:* as in "charity bazaar")
+**beate** *adj* 1. blissful, happy; 2. devout; *also:* sanctimonious *Hence:* beatitude; beatific; beatificar-beatification
+**beatific** *adj* beatific
+**beatificar** *v* to beatify
+**beatification** *n* beatification
+**beatitude** *n* beatitude
+**becca·fico** *n* [Ornith.] beccafico
+**beccar** *v* to peck (= to pick with the beak)
+**beccata** *n* beakful, billful
+**becco** *n* beak, bill; becco (de gas) (gas) burner *Hence:* beccata; beccar-beccafico etc.
+**beduin** *n* Bedouin
+**beefsteak** [A] *n* beefsteak
+**bel**- *see* **belle**
+**belga** *n* Belgian *Hence:* Belgica; belge
+**belge** *adj* Belgian
+**Belgica** *npr* Belgium
+**belladonna** *n* [Bot.] deadly nightshade; belladonna
+**bellar** *v* to war
+**belle** *adj* beautiful *Hence:* beltate; imbellir-imbellimento
+**belles-lettres** [F] *npl* belles-lettres; *also:* fiction *Hence:* belletrista-belletristic
+**belletr**- *see* **belles-lettres**
+**belletrista** *n* belletrist; *also:* fiction writer
+**belletristic** *adj* belletristic; *also:* fiction, fictional
+**bellic** *adj* war (= belonging to war)
+**bellicose** *adj* bellicose
+**bellicositate** *n* bellicosity
+**belli·gerente** *adj* belligerent (= waging war) *Hence:* belligerentia
+**belli·gerente** *n* belligerent
+**belligerentia** *n* belligerency
+**bello** *n* war *Hence:* bellic-bellicose-bellicositate; bellar- rebellar &; belligerente etc.
+**beltate** *n* beauty (1. loveliness or charm to the sense of sight; 2. beautiful woman)
+**bemolle** *n* [Mus.] flat
+**ben¹** *adv* well; **ben!** 1. good!; 2. all right!; **ben que** although; **ir ben** 1. to go well; 2. to be well, in good health; **sentir se ben** to feel well *Hence:* benigne &; benefic &; ben-esser etc.; benefacer etc.; benevole etc.; benevolente etc.; benvenite etc.
+**ben²** *n* 1. good (= that which is good); 2. possession, property, etc.; **ben public** public good, commonweal; **benes mobile** personal property, movables; **benes immobile** real estate, immovables
+**bene·dicer [-dic-/-dict-]** *v* to bless (1. to consecrate; 2. to invoke blessings upon) *Hence:* benediction; benedicte
+**benedict**- *see* **benedicer**
+**benedicte** *adj* blessed (1. consecrated holy; 2. enjoying happiness or bliss); **aqua benedicte** holy water
+**benedictin** *adj* Benedictine
+**benedictino** *n* 1. Benedictine (monk); 2. benedictine (liqueur)
+**benediction** *n* benediction, blessing
+**Benedicto** *nprm* Benedict *Hence:* benedictin-benedictino
+**bene·facer [-fac-/-fact-]** *v* to do good, be beneficent *Hence:* benefactor
+**benefact**- *see* **benefacer**
+**benefactor** *n* benefactor
+**benefic (-éfic)** *adj* beneficial, benefic *Hence:* beneficio-beneficiario, beneficiar; beneficente-beneficentia
+**beneficente** *adj* beneficent
+**beneficentia** *n* beneficence (= active kindness)
+**beneficiar** *v* to benefit (someone or something); **beneficiar de** to benefit by or from
+**beneficiario** *n* beneficiary
+**beneficio** *n* 1. benefit (= advantage, favor); 2. benefice
+**ben-esser** *n* well-being
+**bene·vole** *adj* benevolent
+**bene·volente** *adj* benevolent *Hence:* benevolentia
+**benevolentia** *n* benevolence, good will
+**benigne** *adj* benign (1. kind, gentle; 2. [Med.] *Hence:* benignitate
+**benignitate** *n* benignity; kindness
+**ben·venite** *adj* welcome
+**benz**- *see* **benzoe**
+**benzina** *n* benzine
+**benzoato** *n* benzoate
+**benzoe (-zóe)** *n* benzoin (1. gum benzoin, benjamin; 2. [Bot.]) *Hence:* benzoato; benzoic; benzoin; benzina- nitrobenzina etc.; benzol
+**benzoic (-óic)** *adj* benzoic
+**benzoin (-ín)** *n* benzoin (1. gum benzoin, benjamin; 2. [Bot.]; 3. [Chem.])
+**benzol** *n* benzol
+**Beotia** *n* Boeotia *Hence:* beotie-beotio
+**beotie** *adj* Boeotian
+**beotio** *n* 1. Boeotian (1. inhabitant of Boeotia; 2. blockhead, Philistine)
+**bequadro** *n* [Mus;.] natural (sign)
+**berillos** *npl* glasses, spectacles
+**Berlin** [G] *npr* Berlin *Hence:* berlinese; berlina
+**berlina** *n* berlin (= four-wheeled carriage)
+**berlinese¹** *adj* Berlin, of Berlin
+**berlinese²** *n* Berliner
+**Bern** [G] *npr* Bern *Hence:* bernese
+**bernese** *adj* Bernese
+**beryllium (-íllium)** *n* [Chem.] beryllium
+**beryllo** *n* beryl *Hence:* beryllium; chrysoberyllo etc.
+**bestia** *n* beast *Hence:* bestial-bestialitate
+**bestial¹** *adj* bestial, beastly
+**bestial²** *n* cattle, livestock
+**bestialitate** *n* bestiality, beastliness
+**beta¹** *n* [Bot.] beet; **beta foliose** leaf beet; **beta salvage** wild beet; **beta de forrage** mangel-wurzel; **beta de sucro** sugar beet *Hence:* betarapa etc.
+**beta²** *n* beta (= second letter of the Greek alphabet); **radio beta** beta ray; **particula beta** beta particle
+**beta·rapa** *n* beet (= "common red beet")
+**betel (bé-)** *n* [Bot.] betel
+**beton** *n* concrete; **beton armate** iron concrete, reinforced concrete *Hence:* betonar
+**betonar** *v* to construct with concrete, face with concrete
+**betula** *n* birch
+**bi**- *adj* [occurring in compounds] bi- (= two, twice) *Hence:* bicyclo etc.; binomio etc.; bicarbonato etc.; bicorne etc.; bigame etc.: biennal etc.; bilabial etc.; bifide etc.; bifurcar etc.
+**bi·basic** *adj* [Chem.] dibasic, bibasic
+**biber¹** *v* to drink *Hence:* bibule; bibibile-imbibibile; bibitor; bibitura; bibita; imbiber-imbibimento, imbibition; biber² &
+**biber²** *n* drink, drinking *Hence:* biberage; abiberar-abiberatorio
+**biberage (-aje)** *n* beverage, drink; potion
+**biberon** [F] *n* baby-bottle
+**bibibile** *adj* drinkable
+**bibita (bíb-)** *n* drink (1. draught, glassful, etc. of a given beverage; 2. beverage)
+**bibitor** *n* drinker, drunkard
+**bibitura** *n* beverage, drink
+**Biblia** *n* Bible *Hence:* biblista; biblic
+**biblic** *adj* biblical; **societate biblic** Bible Socicty
+**biblio**- *n* [occurring in compounds] biblio- (as in "bibliography," "bibliomancy") *Hence:* bibliotheca etc.; bibliophile etc. bibliographo etc.; bibliomantia etc.
+**bibliographia (-ía)** *n* bibliography (1. description or history of books; 2. bibliographical list)
+**bibliographic** *adj* bibliographic
+**biblio·grapho (-ó-)** *n* bibliographer *Hence:* bibliographia; bibliographic
+**biblio·latra (-ó-)** *n* bibliolater *Hence:* bibliolatria
+**bibliolatria (-ía)** *n* bibliolatry
+**biblio·mane** *adj* bibliomaniac, bibliomaniacal *Hence:* bibliomano
+**biblio·mania (-ía)** *n* bibliomania
+**bibliomano (-ó-)** *n* bibliomaniac, bibliomane
+**biblio·mantia (-ía)** *n* bibliomancy
+**biblio·phile** *adj* bibliophile *Hence:* bibliophilo
+**bibliophilo (-ó-)** *n* bibliophile
+**biblio·theca** *n* I. library (1. place where a collection of books is kept; 2. collection of books); II. closed bookcase *Hence:* bibliothecario
+**bibliothecario** *n* librarian
 **biblioteconomia** [proposed] *n* library science, library studies  
+**biblista** *n* Biblist, Biblicist
+**bibule** *adj* bibulous, addicted to drink
+**bi·carbonato** *n* bicarbonate
+**bi·carburo** *n* bicarburet, bicarbide
+**bicario** *n* tumbler, goblet, beaker, etc.
+**bi·centenari** *adj* bicentenary
+**bi·centenario** *n* bicentenary, bicentennial
+**bi·chromato** *n* [Chem.] bichromate
+**bicipital** *adj* bicipital
+**bi·cipite¹ (-cí-)** *adj* bicipital *Hence:* bicipite²-bicipital
+**bi·cipite² (-cí-)** *n* biceps
+**bi·color** *adj* bicolored, bicolor
+**bi·corne** *adj* bicorn
+**bi·cornute** *adj* bicorn, bicornuate
+**bi·cuspide (-cús-)** *adj* bicuspid
+**bicyclar** *v* to cycle, bicycle
+**bicycletta** *n* bicycle
+**bi·cyclic¹** *adj* bicyclic (= of two cycles, circles, or wheels)
+**bicyclic²** *adj* bicyclic (= of bicycles)
+**bicyclista** *n* cyclist, bicyclist
+**bi·cyclo** *n* bicycle *Hence:* bicycletta; bicyclista; bicyclic²; bicyclar
+**bi·dente** *n* bident (= two-pronged instrument)
+**bi·dimensional** *adj* bidimentional
+**biella** *n* [Mach.] connecting rod
+**bi·ennal** *adj* biennial (1. lasting two years; 2. occurring every two years)
+**bi·fide (bí-)** *adj* bifid
+**bi·focal** *adj* bifocal, having two foci
+**bi·forme** *adj* biform
+**bi·furcar** *v* to bifurcate *Hence:* bifurcation
+**bifurcation** *n* bifurcation
+**bi·game (bí-)** *adj* bigamous *Hence:* bigamia; bigamo
+**bigamia (-ía)** *n* bigamy
+**bigamo (bí-)** *n* bigamist
+**bigot** *n* bigot; attrib.: bigoted *Hence:* bigoteria
+**bigoteria (-ía)** *n* bigotry
+**bi·labial** *adj* [Gram.] bilabial
+**bi·lateral** *adj* bilateral
+**bile** *n* bile (1. [Physiol.]; *also:* gall; 2. choler, irascibility, ill-humor) *Hence:* biliari; biliose-biliositate; biliverdina etc.; atrabile etc.
+**bili**- *see* **bile**
+**biliardo** *n* 1. billiards; 2. billiard table; **bala de biliardo** billiard ball; **jocar al biliardo** to play billiards
+**biliari** *adj* [Physiol.] biliary; **calculo biliari** gallstone, bilestone, biliary calculus
+**bi·lingue** *adj* bilingual *Hence:* bilinguismo
+**bilinguismo** *n* bilingualism
+**biliose** *adj* bilious (1. [Med.]; 2. choleric, ill- tempered)
+**biliositate** *n* biliousness
+**bili·verdina** *n* [Biochem.] biliverdin
+**bill** [A] *n* bill (= proposed law)
+**billet** *n* 1. note (= short letter); 2. ticket (as in "railroad ticket"); 3.billet (= lodging order); **billet (de banca)** (bank) note, bill; **billet a ordine** promissory note made out to order *Hence:* billetero; billeteria; billetar
+**billetar** *v* to billet
+**billeteria (-ía)** *n* ticket-window, box-office
+**billetero** *n* ticket seller
+**billion** *n* billion (1. thousand millions; 2. million millions) *Hence:* billionesime
+**billionesime (-ésime)** *adj* billionth; **le billionesime parte, le billionesimo** the billionth part, the billionth
+**billionesimo (-né)** *n* billionth (part)
+**bi·lobate** *adj* bilobate, two-lobed
+**bi·mane** *adj* [Zool.] bimanous
+**bimestral** *adj* bimonthly (= occurring once in two months)
+**bi·mestre** *n* period of two months *Hence:* bimestral
+**bi·metallismo** *n* bimetallism
+**bi·metallista** *n* bimetallist
+**bin** *adj* two by two, two at a time *Hence:* binari; combinar &; binoculo etc.
+**binari** *adj* binary
+**bin·oculo** *n* binoculars; *also:* opera glasses
+**bi·nomie** *adj* [Alg.] binomial *Hence:* binomio
+**binomio** *n* [Alg.] binomial
+**bio**- *n* [occurring in compounds] bio- (as in "biology" *Hence:* biologo etc.; biochimia etc.; biogenetic etc; aerobie etc.; amphibie etc.; cenobio etc.; microbio etc.
+**bio·chimia (-ía)** *n* biochemistry *Hence:* biochimista; biochimic
+**biochimic** *adj* biochemical
+**biochimista** *n* biochemist
+**bio·genese (-gé-)** *n* biogenesis (1. genesis of organinims; 2. "theory of biogenesis") *Hence:* abiogenese
+**bio·genetic** *adj* biogenetic *Hence:* abiogenetic
+**biographia (-ía)** *n* biography
+**biographic** *adj* biographic
+**bio·grapho (-ó-)** *n* biographer *Hence:* biographia-autobiographia; biographic- autobiographic
+**biologia (-ía)** *n* biology
+**biologic** *adj* biological
+**biologista** *n* biologist
+**bio·logo (-ó-)** *n* biologist *Hence:* biologia-biologista; biologic
+**bi·oxydo (-óx-)** *n* dioxide
+**bipartibile** *adj* bipartible
+**bi·partir** *v* to divide into two parts *Hence:* bipartibile; bipartition; bipartite
+**bipartite** *adj* bipartite (= having two parts)
+**bipartition** *n* bipartition
+**bi·pede¹ (bí-)** *adj* biped
+**bi·pede² (bí-)** *n* biped
+**bi·penne** *n* [Hist.] (two-edged) battle-axe
+**bi·plano** *n* biplane
+**bi·polar** *adj* bipolar
+**bira** *n* beer; **bira clar** light beer; **bira obscur** dark beer *Hence:* birero; bireria
+**bi·reme¹** *adj* bireme, two-oared
+**bi·reme²** *n* bireme
+**bireria (-ía)** *n* saloon, beerhouse
+**birero** *n* (beer) brewer
+**bis** 1. *adv* twice; 2. *interj* encore *Hence:* bisavo etc.; bistorta etc.
+**bis·ava** *n* great-grandmother
+**bis·avo** *n* great-grandfather
+**biscuit** *n* biscuit (1. cracker, cooky, etc.; 2. [Pottery] bisque) *Hence:* biscuitero; biscuiteria
+**biscuiteria (-ía)** *n* biscuit bakery
+**biscuitero** *n* biscuit baker
+**bi·sexual** *adj* bisexual
+**bismuth (bíz-)** *n* [Chem.] bismuth
+**bison** *n* bison (1. European aurochs; 2. American buffalo)
+**bisonte** *n* bison (1. European aurochs; 2. American buffalo)
+**bissextil** *adj* bissextile
+**bis·torta** *n* [Bot.] bistort, snakeweed
+**bi·syllabe (-sí-)** *adj* dissyllabic, disyllabic *Hence:* bisyllabo
+**bisyllabo (-sí-)** *n* dissyllable, disyllable
+**bituminage (-aje)** *n* bituminization (= process of covering with bitumen)
+**bituminar** *v* to bituminize, cover with bitumen
+**bitumine** *n* bitumen *Hence:* bituminose; bituminar-bituminage; bituminisar-bituminisation
+**bituminisar** *v* to bituminize, cover with bitumen
+**bituminisation** *n* bituminization (= process of covering with bitumen)
+**bituminose** *adj* bituminous; carbon bituminose bituminous coal, soft coal
+**bivac** *n* bivouac *Hence:* bivacar
+**bivacar** *v* to bivouac
+**bi·valve** *adj* [Bot., Zool.] bivalve *Hence:* bivalvo
+**bivalvo** *n* [Zool.] bivalve
+**bizarre** *adj* odd, queer, bizarre *Hence:* bizarria
+**bizarria (-ía)** *n* strangeness, oddness, oddity
+**bi·zonal** *adj* bizonal
+blanc *adj* white, blank; **papiro blanc** blank paper; **carta blanc** carte blanche; **verso blanc** blank verse *Hence:* blanchir-blanchimento; blanco
+**blanch**- *see* **blanc**
+**blanchimento** *n* 1. (act of) whitening,
+**blanching**; 2. [Metal.] (act of) blanching; 3. (act of) bleaching
+**blanchir** *v* 1. to whiten, blanch (= to make white); 2. [Metal.] to blanch; 3. to bleach
+blanco *n* I. white; II. blank (= blank space); **blanco del oculos** white of the eyes; **blanco de ovo** white of an egg; **in blanco** (in) blank
+**blande** *adj* 1. soft, mild, bland; 2. flattering (as in "flattering words") *Hence:* blandir &; ablandar
+**blandimento** *n* flattery
+**blandir** *v* to flatter; **blandir se** 1. to flatter oneself; 2. to delude oneself *Hence:* blandimento; blanditor
+**blanditor** *n* flatterer
+**blasmabile** *adj* blameworthy
+**blasmar** *v* to blame (= to find fault with, find blameworthy) *Hence:* blasmo; blasmabile
+**blasmo** *n* blame (= expression of disapproval)
+**blason** *n* 1. coat of arms, blazon; 2. (science or art of) heraldry
+**blasphemar** *v* to blaspheme; *also:* to swear (= to use abusive language)
+**blasphemator** *n* blasphemer
+**blaspheme** *adj* blasphemous *Hence:* blasphemia; blasphemar-blasphemator
+**blasphemia** *n* blasphemy; *also:* oath (= abusive language)
+**blasto**- *n* [occurring in compounds] blasto-, blast- (= bud, sprout; specif.: germ, embryo) *Hence:* blastoderma etc.; gymnoblaste etc.
+**blasto·derma** *n* [Embryol.] blastoderm
+**blatta** *n* cockroach
+**blau** *adj* blue
+**blesamento** *n* stammering; *also:* lisping
+**blesar** *v* to stammer; *also:* to lisp
+**blese** *adj* stammering, speaking indistinctly; *also:* lisping; **esser blese** to stammer, speak indistinctly; *also:* to lisp *Hence:* blesitate; blesar-blesamento
+**blesitate** *n* stammering; *also:* lisping
+**blocada** *n* [Mil.] blockade
+**blocar** *v* 1. to block, obstruct; 2. [Mil.] to blockade
+**blockhaus** *n* blockhouse (= building designed to protect an outlying strategical point)
+**bloco** *n* 1. block (= solid mass of wood, stone, etc.); *also:* log; 2. [Pol.] bloc; 3. pad (as in "writing pad"); **in bloco** in block; **bloco erratic** [Geol.] erratic block or boulder *Hence:* blocar-blocada, disblocar
+**blonda** *nf* blonde
+**blonde** *adj* blond *Hence:* blondessa; blonda
+**blondessa** *n* blondness
+**bluff** [A] *n* bluff (= act of bluffing) *Hence:* bluffar-bluffator
+**bluffar** *v* to bluff (= to deceive by false appearances)
+**bluffator** *n* bluffer
+**blusa** *n* blouse (1. "workman's blouse"; 2. "woman's blouse")
+**boa** *n* boa (1. [Zool.]; 2. scarf of fur or feathers); **boa constrictor** boa constrictor
+**bobina** *n* bobbin, spool, reel; **bobina de induction** induction coil *Hence:* bobinar-bobinage, bobinatorio
+**bobinage (-áje)** *n* (act of) winding, spooling, coiling, etc.
+**bobinar** *v* to wind, spool, coil, etc.
+**bobinatorio** *n* winding frame
+**bobsleigh** [A] *n* bobsled, bobsleigh
+**boheme** *adj* Bohemian (= of Bohemia) *Hence:* bohemo-Bohemia, bohemic
+**Bohemia** *npr* Bohemia; **bohemia** Bohemia (= way of life of social Bohemians)
+**bohemic** *adj* Bohemian (1. of Bohemia or its inhabitants; 2. of social Bohemians)
+**bohemo** *n* I. Bohemian (1. native or inhabitant of Bohemia; 2. as in "social Bohemian"); II. gypsy
+**boia** *n* [Naut.] buoy (= floating object moored to the bottom) *Hence:* boiada; boiage; boiar-boiante
+**boiada** *n* buoyage (= system of buoys)
+**boiage (-aje)** *n* buoyage (= act of providing with buoys)
+**boiante** *adj* buoyant, floating
+**boiar** *v* to buoy, keep afloat
+**bolchev**- *see* **bolchevico**
+**bolchevico (bolshevíco)** *n* bolshevik, bolshevist *Hence:* bolchevismo; bolchevista; bolchevisar-bolchevisation
+**bolchevisar (-sh-)** *v* to bolshevize
+**bolchevisation (-sh-)** *n* bolshevization
+**bolchevismo (-sh-)** *n* bolshevism
+**bolchevista (-sh-)** *n* bolshevist, bolshevik; attrib.: bolshevist, bolshevistic
+**boliv**- *see* **Bolivar, Simon**
+**Bolivar, Simon (-lí-)** *npr* [1783-1830; Venezuelan patriot, "liberator of South America"] *Hence:* Bolivia-bolivian-boliviano
+**Bolivia** *npr* Bolivia
+**bolivian** *adj* Bolivian
+**boliviano** *n* Bolivian
+**bolla** *n* ball, globe; **joco de bollas** game of bowls, bowling; **jocar al bollas** to play bowls, to bowl *Hence:* bolletta; bollar
+**bollar** *v* to bowl
+**bolletta** *n* 1. pellet; 2. meatball; 3. bullet
+**bomba** *n* bomb, bombshell; **bomba atomic** atomic bomb *Hence:* bombarda &; bombar-bombator
+**bombar** *v* to bomb, bombard, shell
+**bombarda** *n* I. bombard (1. [Hist.] type of cannon; 2. bombard vessel); II. [Mus.] bombardon (= brass reed stop on the organ) *Hence:* bombardero; bombardon; bombardar-bombardamento, bombardator
+**bombardamento** *n* bombardment
+**bombardar** *v* to bombard
+**bombardator** *n* bombarder
+**bombardero** *n* [Hist.] bombardier
+**bombardon** *n* [Mus.] bombardon (= bass tuba)
+**bombator** *n* bomber (= one who or that which bombs)
+**bombides** *npl* [Zool.] Bombidae
+**bombo** *n* 1. booming, humming buzzing; 2. [Zool.] *Bombus*; *also:* bumblebee *Hence:* bombides
+**bon** *adj* good; **bon!** good! fine! all right! *Hence:* bonitate; bonificar-bonification; abonar; bono
+**bona fide** [L] bona fide, in good faith
+**bonbon** *n* candy *Hence:* bonboniera
+**bonboniera** *n* candy box
+**bonetteria (-ía)** *n* cap seller's (store)
+**bonettero** *n* capmaker, cap seller
+**bonetto** *n* cap (= man's cap) *Hence:* bonettero; bonetteria
+**bonhomia (-ía)** *n* good-heartedness, good nature
+**bonhomo** *n* good-natured man, good fellow, etc. *Hence:* bonhomia
+**bonificar** *v* to ameliorate
+**bonification** *n* amelioration
+**bonitate** *n* goodness; **haber le bonitate** de to have the kindness, be good enough kind to
+bonnette [F] *n* [Naut.] bonnet
+**bono** *n* 1. good (as in "the good and the beautiful"); 2. certificate (representing money value); *also:* coupon, bond, etc.
+**bonus** [NL] *n* bonus
+**book-maker** [A] *n* [Horse racing] book-maker
+**boomerang** [A] *n* boomerang
+**Booz (bó-oz)** *nprm* Boaz
+**bor**- *see* **borax**; **borace**
+**borace** *n* [Chem.] borax *Hence:* boro-borato, boric
+**borato** *n* [Chem.] borate
+**borax (bó-)** *n* [Chem.] borax *Hence:* boro-borato, boric
+**bordada** *n* 1. [Naut.] broadside (= simultaneous discharge of a broadside); 2. [Naut.] board, tack (= the stretch which a ship makes on one tack in beating to windward)
+**bordar** *v* to border (= to provide with a border or edging)
+**bordatura** *n* border (= strip on the edge of anything for strength or ornament)
+**bordello** *n* brothel
+**bordo** *n* 1. [Naut.] board (= side of a ship); 2. border, edge; **a bordo** on board (of), aboard; **a bordo de** on board (of), aboard *Hence:* bordada; bordar-bordatura; abbordar &; disbordar &; transbordar &; babordo etc.
+**boreal** *adj* boreal
+**boric** *adj* boracic, boric; acido boric boric acid
+**boro** *n* [Chem.] boron
+**borra** *n* padding, stuffing, etc. (= material with which something is padded or stuffed) *Hence:* borrar
+**borrar** *v* to stuff, pad
+**borusse** *adj* (Old) Prussian, Borussian
+**Borussia** *n* Borussia, Prussia
+**borusso** *n* (Old) Prussian, Borussian (1. member of the Old Prussian people; 2. Old Prussian language) *Hence:* Borussia; borusse
+**boscage (-aje)** *n* thicket, boscage
+**bosch**- *see* **bosco**
+**boschetto** *n* grove
+**bosco** *n* wood (= wooded place) *Hence:* boscage; boschetto; imboscar &
+**Bosporo (bós-)** *npr* Bosporus
+**botan**- *n* [occurring in derivatives and compounds] *Hence:* botanista; botanic; botanica; botanisar; botanologia etc.
+**botanic** *adj* botanical; jardin botanic botanical garden
+**botanica** *n* botany
+**botanisar** *v* to botanize
+**botanista** *n* botanist
+**botano·logia (-ía)** *n* botany
+**boteca** *n* shop, store *Hence:* botechero
+**botech**- *see* **boteca**
+**botechero** *n* shopkeeper, storekeeper
+**botta** *n* boot, high boot *Hence:* bottina-bottinero
+**botte** *n* barrel, cask, butt *Hence:* bottilia-imbottiliar
+**bottilia** *n* bottle
+**bottina** *n* half boot, high shoe
+**bottinero** *n* shoemaker
+**bouillon** [F] *n* bouillon
+**bouquet** [F] *n* bouquet (1. nosegay; 2. perfume exhaled from wine)
+**bove** *n* 1. ox (= castrated male bovine quadruped); 2. beef (meat from a cow or steer); **oculo de bove** 1. bull's eye (small circular window); 2. ox-eye daisy *Hence:* bovello; bovero; boveria; bovin
+**bovello** *n* steer
+**boveria (-ía)** *n* cowshed
+**bovero** *n* 1. cowherd; 2. cattleman
+**bovin** *adj* bovine
+**boxa** *n* boxing (= act of fighting with the fists)
+**boxar** *v* to box (= to fight with the fists) *Hence:* boxa; boxator
+**boxator** *n* boxer, pugilist
+**boycott** *n* boycott, boycotting *Hence:* boycottar-boycottage
+**Boycott, Charles Cunningham** *npr* [estate agent in Ireland, the original victim of boycotting in 1880] *Hence:* boycottar-boycottage
+**boycottage (-aje)** *n* boycott, boycotting
+**boycottar** *v* to boycott
+**boy scout** [A] *n* boy scout
+**bracas** *npl* breeches
+**brachial** *adj* brachial
+**brachio** *n* [Anat.] arm *Hence:* brachial; brachiopode etc.
+**brachio·pode (-ópode)** *adj* [Zool.] brachiopod *Hence:* brachiopodo
+**brachiopodo (-ópodo)** *n* [Zool.] brachiopod
+**brachy·cephale** *adj* [Anthropometry] brachycephalic
+**bracial¹** *adj* arm, arm- (= pertaining to or done with the arm)
+**bracial²** *n* brassard (= badge worn on one's arm)
+**bracialetto** *n* bracelet
+**braciar** *v* [Naut.] to brace
+**braciata** *n* armful
+**bracio** *n* 1. [Anat.] arm; 2. brace (= robe attached to yard for trimming sail); **bracio de mar** arm of the sea; **bracio de un chaise, balancia, etc.** arm of a chair, balance, etc. *Hence:* braciata; bracial-bracialetto; braciar; imbraciar &; antebracio etc.
+**Brahma** *npr* [Hindu Relig.] Brahma
+**brahman** *n* Brahman, Brahmin *Hence:* brahmanismo; brahmanic
+**brahmanic** *adj* Brahmanic
+**brahmanismo** *n* Brahmanism
+**brahmin** *n* Brahmin, Brahman
+**branca** *n* branch
+**branchia** *n* [Zool.] gill, branchia *Hence:* branchial; branchiate; branchiopodo etc.; pectinibranchie etc.; lamellibranchio etc.
+**branchial** *adj* branchial
+**branchiate** *adj* [Zool.] branchiate
+**branchio·podo (-ópodo)** *n* [Zool.] branchiopod
+**brandimento** *n* (action of) brandishing
+**brandir** *v* to brandish *Hence:* brandimento
+**brandy** [A] *n* brandy
+**brasa** *n* live coals; embers *Hence:* brasiero; brasar
+**brasar** *v* to braise
+**brasiero** *n* brazier
+**brasil¹** *n* brazilwood *Hence:* brasiletto; brasilina; Brasil &
+**Brasil²** *npr* Brazil; **nuce de Brasil** Brazil nut *Hence:* brasilian-brasiliano
+**brasiletto** *n* [Bot.] brasiletto
+**brasilian** *adj* Brasilian
+**brasiliano** *n* Brazilian
+**brasilina** *n* [Chem.] brazilin
+**bravada** *n* bravado
+**bravar** *v* to brave
+**brave** *adj* 1. brave, courageous; 2. excellent, fine *Hence:* bravura; bravar-bravada; bravo-braveria
+**braveria (-ía)** *n* bravery, courage
+**bravo¹** *n* bravo (= hired assassin)
+**bravo²**! [I] *interj* bravo!
+**bravura** *n* bravery (= quality of being brave); **aria de bravura** [Mus.] bravura
+**brecha (-sh-)** *n* [Mil.] breach; **facer un brecha in** to breach
+**breve** *adj* brief, short *Hence:* breviario; brevitate; abbreviar &; breve²-breveto &; semibreve etc.
+**breve** *n* 1. [Eccl.] brief; 2. [Mus.] breve
+**brevetar** *v* 1. to grant letters patent to (someone); 2. to patent (an invention)
+**breveto** *n* patent (1. letters patent; 2. "inventor's patent") *Hence:* brevetar
+**breviario** *n* breviary
+**brevitate** *n* brevity (1. shortness of time; 2. conciseness, briefness)
+**bric-à-brac** [F] *n* bric-a-brac
+**bricca** *n* brick (as in "to pave with bricks")
+**brida** *n* bridle; *also:* [Anat.] frenum, bridle *Hence:* bridar-disbridar
+**bridar** *v* to bridle, put a bridle on
+**bridge** [A] *n* [Cards] bridge
+**brigada** *n* [Mil.] brigade *Hence:* brigadero
+**brigadero** *n* [Mil.] brigadier
+**brigantage (-aje)** *n* brigandage, brigandism
+**brigante** *n* bandit, brigand *Hence:* brigantage; brigantesc
+**brigantesc** *adj* brigandish
+**brillantar** *v* 1. to give brilliance to, cause to be (or appear) brilliant; 2. to cut (or shape, etc.) as a brilliant
+**brillante¹** I. *ppr* of **brillar**; II. *adj* brillant (1. shining brightly; 2. splendid, distinguished)
+**brillante²** *n* brilliant (= diamond cut to sparkle brightly)
+**brillantia** *n* brilliance, brilliancy (1. great brightness, radiance; 2. splendor, magnificence)
+**brillantina** *n* brilliantine (= oily hair dressing)
+**brillar** *v* to shine (1. to send out or reflect light; 2. to be eminent, conspicuous); **brillar per su absentia** to be conspicuous by one's absence *Hence:* brillante-brillantia, brillantina, brillantar
+**brio** [I] *n* brio; **con brio** con brio
+**briquette** [F] *n* briquette, briquet
+**brisa** *n* breeze (= light wind) *Hence:* parabrisa etc.
+**bristol (brís-)** *n* Bristol board
+**Britannia** *npr* 1. Britain; 2. Brittany
+**britannic** *adj* British
+**britanno** *n* Briton *Hence:* Britannia-Grande Britannia etc.; britannic
+**britone** *n* 1. Briton; 2. Breton
+**broca** *n* 1. [Locksmithing] broach; 2. raised thread in brocaded design *Hence:* brocar-brocato-brocatello
+**brocar** *v* to brocade
+**brocatello** *n* brocatel
+**brocato** *n* brocade
+**broccoli (bróc-)** *n* broccoli
+**brochar (-sh-)** *v* [Bookbinding] to stitch
+**broche** [F] *n* brooch
+**brochure** [F] *n* pamphlet, brochure; *also:* paper-bound booklet
+**brodar** *v* to embroider (1. to ornament with embroidery; 2. to do emhroidery; 3. to add imaginary details to) *Hence:* broderia; brodator
+**brodator** *n* embroiderer
+**broderia (-ía)** *n* embroidery (1. action or art of embroidering; 2. embroidered material)
+**bromato** *n* [Chem.] bromate
+**bromic** *adj* [Chem.] bromic
+**bromo** *n* [Chem.] bromine *Hence:* bromato; bromuro; bromic
+**bromuro** *n* [Chem.] bromide
+**bronchial** *adj* bronchial
+**bronchio** *n* [Anat.] one of the bronchia; bronchios [Anat.] bronchia *Hence:* bronchiolo; bronchitis; bronchial
+**bronchiolo (-í-)** *n* [Anat.] bronchiole
+**bronchitis (-ítis)** *n* [Pathol.] bronchitis
+**broncho** *n* [Anat.] bronchus;
+**bronchos** [Anat.] bronchi *Hence:* bronchio &; bronchopneumonia etc; bronchotomia etc.; bronchotomo etc.; bronchoscopio etc.
+**broncho·pneumonia (-ía)** *n* [Pathol.] bronchopneumonia
+**broncho·tomia (-ía)** *n* [Surg.] bronchotomy
+**broncho·tomo (-ótomo)** *n* [Surg.] bronchotome
+**bronzage (-aje)** *n* (act of) bronzing
+**bronzar** *v* to bronze (= to give the color of bronze to)
+**bronzator** *n* bronze worker
+**bronzo** *n* bronze *Hence:* bronzar-bronzage, bronzator
+**brossa** *n* brush (1. brushwood, thicket; 2. implement for brushing); **brossa de dentes** toothbrush *Hence:* brossero; brosseria; brossar
+**brossar** *v* to brush (= to clean with a brush)
+**brosseria (-ía)** *n* brushmaking
+**brossero** *n* brushmaker
+**brougham** [A] *n* Brougham (carriage)
+**bruma** *n* fog, mist, brume *Hence:* brumal; brumario; brumose
+**brumal** *adj* wintry, brumal
+**brumario** *n* [Fr. Hist.] Brumaire
+**brumose** *adj* foggy, misty, brumous
+**brun** *adj* brown *Hence:* brunette-brunetta; brunir &; imbrunir
+**brunetta** *n* brunette
+**brunette** *adj* brunette
+**brunimento** *n* burnishing, burnishment
+**brunir** *v* to burnish *Hence:* brunimento; brunitor; brunitorio; brunitura
+**brunitor** *n* burnisher
+**brunitorio** *n* burnisher (= tool used in burnishing)
+**brunitura** *n* burnish
+**brusc** *adj* brusque (= blunt, rude) *Hence:* bruscheria; bruscar
+**bruscar** *v* to be brusque or rude to
+**brusch**- *see* **brusc**
+**bruscheria (-ía)** *n* brusqueness, brusquerie, bluntness
+**Brussel** *npr* Brussels; **caule de Brussel** Brussels sprouts
+**brutal** *adj* brutal
+**brutalisar** *v* to brutalize
+**brutalitate** *n* brutality
+**brute** *adj* 1. brute; *also:* brutish; 2. [Com.] gross; **bestia brute** brute beast; **fortia brute** brute force *Hence:* brutal-brutalitate, brutalisar; imbrutir- imbrutimento, imbrutiente; bruto
+**bruto** *n* brute
+**Bruxelles** [F] *npr* Brussels *Hence:* bruxellese
+**bruxellese** 1. *adj* of Brussels; 2. *n* inhabitant of Brussels
+**bucca** *n* mouth; **bucca de foco** piece of ordnance; **bucca (de armas de foco)** muzzle (of firearms) *Hence:* buccata; buccal; abuccar &; disbuccar &; imbuccar &
+**buccal** *adj* [Anat.] buccal
+**buccata** *n* mouthful
+**bucla** *n* curl (= curled lock of hair) *Hence:* bucletta; buclar; disbuclar
+**buclar** *v* to curl (= to cause to curl)
+**bucletta** *n* little curl (= little curled lock of hair)
+**Buddha** *npr* Buddha *Hence:* buddhismo; buddhista-buddhistic; buddhic
+**buddhic** *adj* Buddhistic, Buddhist
+**buddhismo** *n* Buddhism
+**buddhista** n/adj Buddhist
+**buddhistic** *adj* Buddhistic
+**budget** [A] *n* budget *Hence:* budgetari; budgetar
+**budgetar (budjetar)** *v* to budget, include in the budget
+**budgetari (-dj-)** *adj* budgetary
+**bufalo (bú-)** *n* buffalo
+**buffet** [F] *n* 1. buffet, sideboard; 2. [R.R.] refreshment room *Hence:* buffetero
+**buffetero** *n* [R.R.] refreshment-room manager
+**buffon** *n* buffoon *Hence:* buffoneria; buffonar
+**buffonar** *v* to play or act the buffoon
+**buffoneria (-ía)** *n* buffoonery
+**bufon** *n* toad
+**bulbar** *adj* bulbar
+**bulbi·cultor** *n* bulbgrower
+**bulbi·cultura** *n* bulbgrowing
+**bulbi·forme** *adj* bulbiform, bulb-shaped
+**bulbillo** *n* [Bot.] bulbil, bulblet
+**bulbo** *n* bulb (1. [Bot.]; 2. [Anat.] a rounded enlargement at one end of a hair, tooth, etc.); **bulbo del oculo** bulb of the eye, eyeball *Hence:* bulbillo; bulbar; bulbose; bulbicultura etc.; bulbiforme etc.
+**bulbose** *adj* bulbous
+**bulgare** *adj* Bulgarian
+**Bulgaria** *npr* Bulgaria
+**bulgaro (búl-)** *n* bulgarian *Hence:* Bulgaria; bulgare
+**bulla** *n* 1. [Eccl.] bull; 2. bubble; 3. [Med.] blister *Hence:* bullose; bullir &
+**bull-dog** [A] *n* bulldog
+**bulletin** *n* bulletin (= official report); **bulletin meteorologic** weather report *Hence:* bulletinero
+**bulletinero** *n* writer of bulletins
+**bulliente** *adj* boiling
+**bullir** *v* to boil, be boiling *Hence:* bulliente; ebullir-ebulliente-ebullientia, ebullition; subbullir-subbullimento
 **bullismo** _n_ bullying
+**bullose** *adj* 1. blistery; 2. bubbly
+**bureau** [F] *n* 1. bureau, desk writing table; 2. office (as in "office to let") *Hence:* bureaucrate etc.; bureaucratia eta.; bureaucratic etc.
+**bureau·crate (burócrate)** *n* bureaucrat
+**bureau·cratia (burocratía)** *n* bureaucracy (= undue influence of administrative bureaus)
+**bureau·cratic** *adj* bureaucratic
+**burgese** *n* person of the middle class, bourgeois *Hence:* burgesia
+**burgesia (-ía)** *n* middle class, bourgeoisie
+**burgo** *n* town *Hence:* burgese &; burgomaestro etc.; Teutoburgo etc.
+**burgo·maestro** *n* 1. burgomaster; 2. mayor
+**Burgundia** *npr* Burgundy; **vino de Burgundia** Burgundy (wine)
+**burgundie** *adj* Burgundian
+**burgundio** *n* Burgundian *Hence:* Burgundia; burgundion; burgundie
+**burgundion** *n* Burgundian
+**burla** *n* joke, jest *Hence:* burlesc; burlar-burlator
+**burlar** *v* to joke, jest
+**burlator** *n* joker, jester
+**burlesc** *adj* droll, comical; *also:* burlesque (as in "burlesque poem")
+**burnus** [Ar.] *n* burnoose
+**bursa** *n* 1. purse ("change purse"); 2. scholarship, burse; 3. stock market, stock exchange; **bursa de pastor** [Bot.] shepherd's purse *Hence:* bursero; disbursar &; imbursar &
+**busardo** *n* buzzard (= *Buteo buteo*)
+**bursero** *n* purse maker 
+-**bus** *see* **omnibus**
+**bussola (bú-)** *n* compass (= instrument showing magnetic meridian); **perder le bussola** to lose one's head
+**busto** *n* bust (1. upper front part of the body; 2. [Art])
+**butinar** *v* to collect booty
+**butino** *n* booty *Hence:* butinar
+**button** *n* 1. [Bot.] bud; 2. pimple, pustule; 3. button; 4. knob (as in "door knob"); **button de foco** cauterizing iron; **button de auro** [Bot.] buttercup *Hence:* buttonero; buttoneria; buttoniera; buttonar-disbuttonar
+**buttonar** *v* to button (= to fasten with a button or buttons)
+**buttoneria (-ía)** *n* 1. button manufacture or trade; 2. button factory
+**buttonero** *n* button manufacturer or dealer
+**buttoniera** *n* buttonhole
+**butyrar** *v* to butter
+**butyrari** *adj* butter
+**butyrato** *n* [Chem.] butyrate
+**butyreria (-ía)** *n* 1. butter industry; 2. butter dairy
+**butyrero** *n* butterman
+**butyric** *adj* [Chem.] butyric
+**butyrina** *n* [Chem.] butyrine
+**butyro (bú-)** *n* butter *Hence:* butyrato; butyrero; butyreria; butyrina; butyrari; butyric; butyrose; butyrar; disbutyrar
+**butyrose** *adj* 1. buttery; 2. butyrous
+**buxo** *n* 1. box, box tree; 2. boxwood (= wood of the box tree)
+**byzantin** *adj* Byzantin
+**byzantino** *n* Byzantine
+**Byzantio** *npr* Byzantium *Hence:* byzantin-byzantino
 
 ---
 ### C
-
 **caca (cacca)** *n* [Colloq.] poo, poop, shit, crap **facer caca** (children's language, or sarcastically) to poo, to go poop/poopy, to go number two
 **cacar** *v* [Colloq.] to poo, to poop, to shit, to crap, to take a dump, to defecate **cacar se** to shit os, to soil os
 **cacata** *n* [Colloq.] action of pooping, defecation, shitting, crapping **facer un cacata** (literally) 1. to take a dump; 2. to do a shitty thing, to do a job poorly, to make a mess (of it), to bungle, to fuck up
 **cacatorio** *n* [Colloq.] 1. shitter, toilet (vulgar), John 2. (person) shithead; ugly fucker, dirty fucker
+**caduc** *adj* falling; caducous
 **camera** 🚧 **camera corporal** body camera, bodycam, body-worn camera  
 **cannabis** *n* cannabis, marijuana
 **caralio** *n* [Colloq.] dick, cock, pecker, penis
 **catalogation** [proposed] *n* cataloging (as in a library)  
 **cauda** *n* [Colloq.] (not vulgar, but informal) dick, cock, pecker, penis
+**cerate** 1. *pp* of **cerar**; 2. *adj* waxed
+**chlorhydric** *adj* hydrochloric
+**cinquantesimo (-té-)** *n* fiftieth (part)
+**circulante** 1. *ppr* of **circular**; 2. *adj* circulating
+**cocte** 1. *ppr* of **cocer**; 2. *adj* baked
 **colion (-ón)** *n* [Colloq.] (vulgar) testicle, ball **haber le coliones** to have the balls (to do); to have balls
-**comic** _n_ comic, comic strip, comic book **comics** comics  
+**comic** _n_ comic, comic strip, comic book **comics** comics [proposed]
+**commandita** *n* [Com. Law] limited partnership, LP
+**comprimite** 1. *pp* of **comprimer**; II. *adj* 1. compressed; 2. repressed, restrained
+**considerante** *prep* considering
 **conspiration** *n* 🚧 **theorias del conspiration** conspiracy theories
+**contraplicate** *adj* laminated
 **controlo** 🚧 [proposed] **controlo de armas** arms control, non-proliferation  
 **corno** *n* 1. horn...🚧; 2. [Colloq.] **portar cornos** to be a cuckold, to be cuckolded
 **cornuta** *n* [Colloq.] (fem) 1. cuckold, cuckoldress, cuckquean; 2. asshole
 **cornute** *adj* [Colloq.] cuckolded, cuckold (adj)
 **cornuto** *n* [Colloq.] (masc) 1. cuckold; 2. asshole
+**coronate** 1. *pp* of **coronar**; 2. *adj* crowned
+**costate** 1. *pp* of **costar**; 2. *adj* costate, ribbed
 **crepa** *phr* **crepa!** [Colloq.] fuck you; go die, kill yourself **va crepar!** fuck you; go die, kill yourself
 **cretin (-ín)** *adj* [Colloq.] idiot, moron, dumbass, cretin
 **cretina** *n* [Colloq.] (fem) idiot, moron, dumbass, cretin, bimbo
 **cretino** *n* [Colloq.] (masc) idiot, moron, dumbass, cretin
 **crimine** 🚧 [proposed] **crimine de guerra** war crime
+**cruciate** 1. *pp* of **cruciar**; II. *adj* 1. intersecting; 2. crossbred
 **cucu (-cú)** *n* 1. [Colloq.] 2. cuckold; dumbass, idiot, easily fooled person
-**culo** *n* [Colloq.] butt, ass, arse, buttocks, rump, bum
 **culetto** *n* [Colloq.] (children's language, or showing attractiveness) little butt, booty, (little) bum **un belle culetto** a hot booty, a sexy ass
+**culo** *n* [Colloq.] butt, ass, arse, buttocks, rump, bum
+**culminante** 1. *ppr* of **culminar**; 2. *adj* culminant, culminating
 **cunnilingus (cunnilinction)** *n* [Colloq.] cunnilingus, eating out, eating pussy, muff-diving, pussy licking, going down (on a female)
 **cunno** *n*, [Colloq.] cunt
 **cyber-** _prfx_ [used in compounds]  
@@ -2711,6 +3609,11 @@ aurifice-aurificar-aurification; auripigmento etc.; auriforme etc.
 **decasyllabo (-sí-)** *n* decasyllable, decasyllabic
 **dece** *adj* ten *Hence:* decime &; decennio etc.; dece-cinque etc.; duodeco etc.; dece-prime etc.; decigrammar etc.; decemviro etc.; decuple etc.; decuplicar etc.
 **dece-cinque** *adj* fifteen
+**dece-nono** *n* nineteenth (part)
+**dece-primo** *n* eleventh (part)
+**dece-secundo** *n* twelfth (part)
+**dece-septimo (-sépt-)** *n* seventeenth (part)
+**decimo (dé-)** *n* tenth (part)
 **deceder [-ced-/-cess-]** *v* 1. to depart, to withdraw; 2. to die, to decease, to pass away *Hence:* decesso; predecessor
 **dece-duo (-dú-)** *adj* twelve
 **decembre** *n* December
@@ -2922,6 +3825,7 @@ aurifice-aurificar-aurification; auripigmento etc.; auriforme etc.
 **dejection** *n* [Physiol.] dejection (1. discharge of excrement; 2. excrement); dejectiones ejecta (of a volcano)
 **dejic- [-jic-/ject-]** *v* [occurring in derivatives] *Hence*: dejection
 **de jure**, [L] [Dipl.] de jure
+**del** *abbr* = **de** + **le**
 **dele**, [L] [Print.] dele, omit
 **delectabile** *adj* delightful, delectable
 **delectabilitate** *n* delectability
@@ -2946,6 +3850,7 @@ aurifice-aurificar-aurification; auripigmento etc.; auriforme etc.
 **deliciose** *adj* delicious (1. dclightful; 2. pleasing to taste or smell)
 **delict-** *see* **delinquer**
 **delicto** *n* (criminal) offense, misdemeanor; **corpore del delicto** [Law] corpus delicti
+**Delila** *nprf* Delilah
 **delimitar** *v* to delimit *Hence*: delimitation
 **delimitation** *n* delimitation
 **delineamento** *n* delineation (= action of tracing in outline)
@@ -3233,6 +4138,7 @@ descriptor *n* describer
 **dessert** [F] *n* dessert
 **destinar** *v* to destine (= to set apart for a particular purpose or use); destinate a destined or intended for *Hence:* destino; destination; destinatario; predestinar-predestination
 **destinatario** *n* addressee
+**destinate** 1. *pp* of **destinar**; 2. *adj* destined, fated
 **destination** *n* destination (1. action of destining; 2. place of destination)
 **destino** *n* destiny (= one's lot or fortune)
 **destituer [-stitu-/-stitut-]** *v* 1. to render destitute; to deprive 2. to displace, discharge, dismiss (from office) *Hence:* destitution; destitute
@@ -3511,6 +4417,7 @@ postdiluvian; diluviar
 **diminuendo** *n* [Mus.] diminuendo
 **diminuer** *v* to diminish, lessen; **diminuer le precio** to reduce the price; **diminuer de valor** to
 diminish in value; **columna diminuite** diminished, tapering column *Hence*: diminuendo; diminution; diminutive-diminutivo
+**diminuite** 1. *pp* of **diminuer**; 2. *adj* reduced, diminished, lessened
 **diminution** *n* diminution
 **diminutive** *adj* [Gram.] diminutive
 **diminutivo** *n* [Gram.] diminutive
@@ -4404,10 +5311,6 @@ distinct places; 3. [Print.]) *Hence:* distribution; distributive; distributor
 
 ---
 ### E
-**excitar** *v* 🚧(#). [Colloq.] to turn (sb) on **excitar se** to get turned on, to be turned on
-**extraterrestre** _n_ extraterrestrial, alien
-
-
 **e** *conj* and; **e ... e** as well ... as, both ... and
 **e**- *see* **esser**
 **eau de Cologne** [F] *n* eau de Cologne
@@ -4514,7 +5417,8 @@ economista; economisar
 **eduardo** *nprm* Edward
 **educabile** *adj* educable
 **educar** *v* to educate; **(ben, mal) educate** (well-, ill-)bred *Hence:* educabile; education-educational, coeducation; educative; educator
-**education** *n* 1. education; 2. [Husbandry] rearing, raising; education physic physical education or training; **(systema) de education** educational (system)
+**educate** 1. *pp* of **educar**; 2. *adj* educated
+**education** *n* 1. education; 2. [Husbandry] rearing, raising; **education physic** physical education or training; **(systema) de education** educational (system)
 **educational** *adj* educational
 **educative** *adj* educative (= instructive, educational)
 **educator** *n* educator, pedagogue
@@ -5016,6 +5920,7 @@ episcopalian
 **equilateral** *adj* equilateral, of equal sides
 **equi·latere** *adj* equilateral, of equal sides *Hence:* equilateral
 **equilibrar** *v* to balance (= to equilibrate); **(ben) equilibrate** (well-)balanced
+**equilibrate** 1. *pp* of **equilibrar**; 2. *adj* balanced
 **equi·libre** *adj* balanced, in equilibrium *Hence:* equilibrio; equilibrar-equilibrista-
 equilibristic, disequilibrar-disequilibrate
 **equilibrio** *n* equilibrium, balance; **equilibrio europee** balance of power in Europe; **perder le equilibrio** to lose one's balance; **mantener le equilibrio** to keep one's balance
@@ -5209,6 +6114,7 @@ etc.; cinesthesia etc.; pseudesthesia etc.
 **estraniamento** *n* estrangement, alienation
 **estraniar** *v* to estrange, alienate
 **estranie** *adj* 1. foreign (as in "foreign countries"); *also:* alien; 2. strange (= queer, unfamiliar); **corpore estranie** [Med.] foreign body; **estranie a** foreign to *Hence:* estraniero; estranitate; estraniar-estraniamento
+**estranier** *adj* foreign
 **estraniero** *n* 1. foreigner, stranger; *also:* alien; 2. foreign parts, foreign lands; **al estraniero** abroad
 **estranitate** *n* strangeness
 **estuario** *n* estuary
@@ -5298,7 +6204,7 @@ ethnopsychologia etc.
 **euphrate** *npr* Euphrates
 **eur**- *see* **Europa**
 **eur·asia** *npr* Eurasia *Hence:* eurasiatic
-eu**r**asiatic *adj* Eurasiatic, Eurasian
+**eurasiatic** *adj* Eurasiatic, Eurasian
 **eureka!** [Gr]Eureka! Aha!
 **eu·rhythmia (-ía)** *n* eurhythmy *Hence:* eurhythmic
 **eurhythmic** *adj* eurhythmic
@@ -5307,6 +6213,7 @@ eu**r**asiatic *adj* Eurasiatic, Eurasian
 **europeisar** *v* to Europeanize
 **europeo (-péo)** *n* European
 **europium (-ró-)** *n* [Chem.] europium
+**Eustachio** *npr* Eustachius
 **eva** *nprf* Eve
 **evacuante** 1. *ppr* of **evacuar**; 2. adj/n [Med.] evacuant
 **evacuar** *v* to evacuate; *also:* [Med.] *Hence:* evacuante; evacuation; evacuative
@@ -5437,7 +6344,7 @@ extoling; 3. overexcitement, rapture, etc.
 **excitabilitate** *n* excitability
 **excitamento** *n* excitation (= action of exciting)
 **excitante** *n* excitant, stimulant
-**excitar** *v* to excite *Hence:* excitamento; excitante; excitabile- excitabilitate, inexcitabile; excitation; excitative; excitator; superexcitar-superexcitation
+**excitar** *v* to excite; [Colloq.] to turn (sb) on **excitar se** to get turned on, to be turned on; *Hence:* excitamento; excitante; excitabile- excitabilitate, inexcitabile; excitation; excitative; excitator; superexcitar-superexcitation
 **excitation** *n* I. excitation (1. action of exciting; 2. [Elec.]); II. excitement (= state of being
 excited)
 **excitative** *adj* exciting, stimulating
@@ -5769,6 +6676,7 @@ excited)
 **extramural** *adj* extramural
 **extranee** *adj* extraneous
 **extraordinari** *adj* extraordinary (1. beyond the common order; 2. exceeding the common degree)
+**extraterrestre** _n_ extraterrestrial, alien
 **extraterritorial** *adj* extraterritorial, exterritorial
 **extraterritorialitate** *n* extraterritoriality, exterritoriality
 **extravagante** 1. *ppr* of **extravagar**; 2. *adj* odd, strange, absurd; extravagant
@@ -5854,6 +6762,7 @@ excited)
 **falcatura** *n* (act of) mowing
 **falce** *n* 1. scythe; 2. sickle *Hence:* falcifere; falcar-falcator, falcatura, falcata; defalcar &; falciforme etc.
 **falcifere** *adj* sickle-bearing, scythe-bearing
+**falciforme** *adj* falciform
 **falcon** *n* falcon (1. [Ornith.]; 2. [Artil.]) *Hence:* falconetto; falconides; falconero; falconeria; falconar
 **falconar** *v* to hawk (= to hunt with a hawk or falcon)
 **falconeria (-ía-)** *n* falconry
@@ -5996,6 +6905,7 @@ excited)
 **fee (fée)** *n* fairy, fay; **conto de fees** fairy tale *Hence:* feeria-feeric
 **feeria (-ía)** *n* 1. fairyland: 2. [Theat.] fairy play, spectacular play
 **feeric** *adj* fairy, fairy-like
+**feldspat** *n* feldspar
 **felice** *adj* happy, fortunate *Hence:* felicitate-felicitar &; infelice-infelicitate **Felice Natal** Merry Christmas **Felice Pascha** Happy Easter **Felice Anniversario** Happy Birthday
 **felicitar** *v* to congratulate, felicitate *Hence:* felicitation
 **felicitate** *n* 1. felicity, happiness; 2. good fortune, prosperity
@@ -6483,6 +7393,7 @@ excited)
 **fortia** *n* force (1. bodily strength; 2. as in "force of character"; 3. power, violence, or constraint exerted upon a person or thing; 4. [Phys.]); **le fortia public** the police force; **fortias armate** military forces; **camisia de fortia** strait jacket; **fortia de inertia** vis inertiae; **fortia vive** [Mach.] momentum; **fortia centrifuge** centrifugal force; **fortia centripete** centripetal force; **a fortia de** by means of; by dint of *Hence:* fortiar-fortiamento, fortiator, fortiato, effortiar &, reinfortiar &
 **fortiamento** *n* (act of) forcing
 **fortiar** *v* to force, to coerce; **fortiar a (facer, etc.)** to force to (do, etc.); **fortiar (un porta, etc.)** to force (a door, etc.)
+**fortiate** 1. *pp* of **fortiar**; 2. *adj* forced, compulsory
 **fortiato** *n* 1. galley slave; 2. convict
 **fortiator** *n* forcer (= one who forces)
 **fortificabile** *adj* fortifiable
@@ -6490,6 +7401,7 @@ excited)
 **fortificar** *v* to fortify *Hence:* fortificante; fortificabile; fortification
 **fortification** *n* [Mil.] fortification; **fortificationes** [Mil.] fortifications, works
 **fortino** *n* small fort, fortalice
+**fortissime** *adj* 1. very strong; 2. [Mus.] fortissimo, very loud
 **fortissimo** *adj/adv* [Mus.] fortissimo
 **fortitude** *n* fortitude
 **fortuite (-ú-)** *adj* fortuitous; [Law] **caso fortuite** act of God, fortuitous event
@@ -6705,6 +7617,7 @@ excited)
 **fulminic** *adj* [Chem.] fulminic
 **fumar** *v* I. to smoke (1. to fume, give off smoke or steam; 2. as in "to smoke a pipe"; 3. to cure (meat, fish, etc.) with smoke); II. to fume (= to show anger or irritation)
 **fumarola** *n* [Geol.] fumarole
+**fumate** 1. *pp* of **fumar**; II. *adj* 1. smoked; 2. [Cooking] smoked, cured; 3. fumed, angry
 **fumator** *n* smoker (= one who or that which smokes)
 **fumigar** *v* to fumigate *Hence:* fumigation; fumigator; fumigatori; suffumigar &
 **fumigation** *n* fumigation
@@ -6735,6 +7648,7 @@ excited)
 **funder [fund-/fus-]** *v* 1. to melt, liquefy; 2. [Metal.] to found, cast; **funder se** to fuse, become fused *Hence:* funderia; fusibile-fusibilitate, infusibile-infusibilitate; fusion-fusionar-fusionamento; confunder &; effunder &; diffunder &; infunder
 &; profunder &; refunder &; transfunder &
 **funderia (-ía)** *n* foundry (= establishment where founding of metal is carried on)
+**fundite** 1. *pp* of **funder**; 2. *adj* melted, liquified; *also*: [Metal.] fused
 **fundo** *n* 1. bottom; 2. foundation; 3. background; 4. fund (= sum of money set aside
 for a special purpose); **dar fundo** to cast anchor; **a fundo** thoroughly; **in le fundo** fundamentally, at bottom; **articulo de fundo** editorial (article), leader (article); **fundos public** public funds; **le basse fundos del societate** the lowest strata of society, the underworld; **basse fundo** shallow, shoal *Hence:* fundar-fundamento-fundamental, fundation, fundator, fundate; latifundio etc.
 **funeb-** *see* **funere**
@@ -6818,9 +7732,13 @@ for a special purpose); **dar fundo** to cast anchor; **a fundo** thoroughly; **
 **futurista** *n* [Art.] futurist; *also:* attrib. futurist, futuristic
 **futuro** *n* future (1. time to come; 2. [Gram.])
 
+---
 ### G
-
+**galopante** 1. *ppr* of **galopar**; 2. *adj* galloping
+**gehenna** *n* Gehenna, Hinnom
 **georgian** _n_ Georgian (language)
+**gordian** *adj* Gordian
+**gregorian** *adj* Gregorian
 
 ---
 ### H
@@ -6828,6 +7746,7 @@ for a special purpose); **dar fundo** to cast anchor; **a fundo** thoroughly; **
 **ha¹** *pr* of **haber** have, has
 **ha²** *abbr* = hectar
 **habeas corpus** [L] [Law] habeas corpus
+**habe** *pr* of **haber** have, has
 **haber** *v* to have (1. to own, possess; 2. [Grammatical function: auxiliary, forming the perfect tenses]); **haber a** to have to, be obliged to; **haber (frigido, ration, etc.)** *see* **frigido**, **ration**, etc.; *il habe* there is, there are; **ille habe 20 annos** he is 20 years old *Hence:* *see* *verbal form* **ha**
 **haber** *n* possessions, belongings; holdings
 **habile** *adj* skilful, able *Hence:* habilitate-habilitar &; inhabile- inhabilitate
@@ -6848,6 +7767,7 @@ for a special purpose); **dar fundo** to cast anchor; **a fundo** thoroughly; **
 **hacha (-sha)** *n* ax, axe *Hence:* hachetta; hachar-hachamento, hachatoria
 **hachamento (-sh-)** *n* (act of) chopping, hacking
 **hachar (-sh-)** *v* to chop, hack; to chop up, hash; carne hachate [Cookery] chopped meat; *also*: hash
+**hachate (-sh)** 1. *pp* of **hacher**; 2. *adj* chopped
 **hachatoria (-sh-)** *n* 1. chopping knife, chopper; 2. meat grinder; 3. chopping board, butcher's block
 **hachetta (-sh-)** *n* hatchet
 **hachich (hashísh)** *n* hashish
@@ -7057,6 +7977,7 @@ hemoglobina etc.; hemophile etc.; hemorrhagia etc.; hemorrhoide etc.; hemostato 
 **hermes (hér-)** *npr* [Gr. Relig.] Hermes *Hence:* Hermaphrodito etc.
 **Hermes Trismegisto (hér-)** *npr* Hermes Trismegistus *Hence:* hermetic
 **hermetic** *adj* hermetic (1. as in "hermetic science"; 2. hermetically sealed)
+**hernia** *n* hernia
 **herode** *npr* Herod *Hence:* Herodiade; herodian
 **herodiade (-í-)** *npr* Herodias
 **herodian** *adj* Herodian
@@ -7128,12 +8049,13 @@ hemoglobina etc.; hemophile etc.; hemorrhagia etc.; hemorrhoide etc.; hemostato 
 **hiero·phanta** *n* hierophant
 **high life** [A] high life, high society
 **hilare** *adj* of good cheer, cheerful *Hence:* hilaritate; exhilarar &
+**hilarante** *adj* hilarious
 **hilaritate** *n* (good) cheer, cheerfulness, hilarity 
 **[hinc]** *adv* hence, henceforth (1. from this place; 2. from this time; 3. from this reason)
 **hindu (-ú)** [Persian] adj/n Hindu, Hindoo *Hence:* hinduismo
 **hinduismo** *n* Hinduism
 **hindustan** [Persian] *npr* Hindustan
-**hiudustani** [Hind.] *n* Hindustani
+**hindustani** [Hind.] *n* Hindustani
 **hinnimento** *n* neighing, whinnying
 **hinnir** *v* to neigh, whinny *Hence:* hinnimento
 **hinterland** [G] *n* hinterland
@@ -7287,6 +8209,7 @@ honorabile-honorabilitate, dishonorabile, dishonor-dishonorar-dishonorante
 **horologieria (-ía)** *n* 1. watchmaking, clockmaking; 2. watchmaker's, clockmaker's store
 **horologiero** *n* watchmaker, clockmaker
 **horologio** *n* timepiece (1. clock; 2. watch); **horologio-bracialetto** wrist watch *Hence:* horologiero; horologieria
+**horologio-bracialetto** *n* wrist watch
 **horo·scopo (-ró-)** *n* horoscope
 **horr**- *v* [occurring in derivatives] *Hence:* horrific &; horride-horriditate; horrende; horror; horribile-horribilitate; abhorrer &; horripilar etc.; horrisone etc.
 **horrende** *adj* frightful, horrendous
@@ -7317,6 +8240,7 @@ honorabile-honorabilitate, dishonorabile, dishonor-dishonorar-dishonorante
 **hospite (hós-)** *n* 1. host, hostess (= one who entertains a guest or guests); *also:* innkeeper, landlord, etc.; 2. guest (at a hotel, boardinghouse, etc.) *Hence:* hospital¹-hospitalitate, inhospital- inhospitalitate, hospital² &
 **hostage, ostage (-aje)** *n* hostage
 **hoste** *n* army, host *Hence:* hostil &
+**hostia** *n* [Rel.] Host
 **hostil** *adj* hostile *Hence:* hostilitate
 **hostilitate** *n* hostility
 **hotel** [F] *n* hotel
@@ -7403,6 +8327,7 @@ honorabile-honorabilitate, dishonorabile, dishonor-dishonorar-dishonorante
 **hydro·meter (-ó-)** *n* hydrometer
 **hydro·pathia (-ía)** *n* hydropathy *Hence:* hydropathic
 **hydropathic** *adj* hydropathic
+**hydrophile** *adj* hydrophilic
 **hydro·phobia (-ía)** *n* [Pathol.] hydrophobia
 **hydropisia (-ía)** *n* dropsy
 **hydro·plano** *n* hydroplane (= gliding motorboat)
@@ -7494,14 +8419,25 @@ honorabile-honorabilitate, dishonorabile, dishonor-dishonorar-dishonorante
 
 ---
 ### I
-
+**igloo** [A] *n* igloo
+**incantate** 1. *pp* of **incantar**; 2. *adj* delighted
+**inclinate** 1. *pp* of **inclinar**; II. *adj* 1. inclined; 2. prone, tending
 **incular** *v* [Colloq.] 1. to sodomize, to anally penetrate, to bugger, to fuck in the ass; 2. to scam, to rob, to fuck over (sb), to act maliciously behind sb's back, to set sb up, etc.
 **inculate** *adj* [Colloq.] shitty, crappy
 **inculate** *n* [Colloq.] faggot, effeminate male
+**indebitate** 1. *pp* of **indebitar**; 2. *adj* indebted
+**indie** *adj* Indian
+**inducite** 1. *pp* of **inducer**; 2. *adj* induced
+**informate** 1. *pp* of **informar**; II. *adj* 1. (well-)informed; educated, learned; 2. formed, shaped
+**inricchite** 1. *pp* of **inricchir**; 2. *adj* enriched
+**intransitive** *adj* [Gram.] intransitive
+**inventate** 1. *pp* of **inventar**; 2. *adj* invented
 **irrumar** *v* [Colloq.] to face-fuck (sb)
 **irrumate** *n* [Colloq.] [Sex] s/he who penetrates in the mouth, s/he who is face-fucked
 **irrumation** *n* [Colloq.] face-fucking, irrumation
 **irrumator** *n* [Colloq.] [Sex] s/he who penetrates the mouth, s/he who fucks sb's face
+**isto** *pron* this (= this thing, reason, or idea)
+**iva** *past* of **ir** went
 
 %%
 # 🚧
@@ -7528,6 +8464,7 @@ honorabile-honorabilitate, dishonorabile, dishonor-dishonorar-dishonorante
 **jaculation** *n* jaculation
 **jaculatori** *adj* ejaculatory (as in "ejaculatory prayer")
 **jada** *n* jade (= the stone "jade")
+**jadificar** *v* to transform into, to make look like, to jade
 **jalne** *adj* yellow *Hence:* jalnessa
 **jalnessa** *n* 1. yellowness; 2. jaundice
 **jalousie** [F] *n* Venetian blind
@@ -7758,7 +8695,9 @@ jubilator
 ### L
 
 **lacte** *n* 🚧(#). [Colloq.] (vulgar) cum, sperm, semen
+**lares** *npl* [Rom. Relig.] lares
 **lascive** *adj* [Colloq.] horny, [Sex] easy, slutty, [Sex] hot
+**levatori** *adj* elevatory
 **libidinose** *adj* [Colloq.] turned on, horny, aroused, sprung, wet
 **lubric** *adj* [Colloq.] hot, sexy
 
@@ -7766,22 +8705,31 @@ jubilator
 ### M
 
 **maledicte** *adj* [Colloq.] bloody, damned, cursed
+**masticatori** *adj* masticatory
+**mercante** 1. *ppr* of **mercar**; 2. *adj* merchant
 **merda** *n* [Colloq.] 1. shit; 2. (person) fucker, piece of shit **merda!** shit **al merda isto!** fuck it! **de merda** 1. shitty; 2. to be unwell, to feel like shit, not to feel well **pecia de merda** piece of shit **io me senti me merda, io sta de merda** I feel like shit, I feel unwell, I feel sick/ill **io me senti un merda pro alco que io ha facite** I feel like shit/like an asshole for something I did **mandar alique al merda** to screw sth up, to fuck sth up, to mess sth up, to ruin **vader al merda** to go to shit, to end up badly, to become ruined/corrupt **que merda pensava tu?** what the fuck/shit were you thinking?
 **merdose** *adj* [Colloq.] 1. shitty, (of a person) fugly; 2. *n* (of a person) shithead, shitty person, ugly/bad person
 **metal** [proposed] *n* [Mus.] metal, heavy metal **metal pesante** heavy metal  
 **molestia** 🚧 **molestia vexatori** bullying _cf_ **bullismo**
+**millesimo (-illé-)** *n* thousandth (part)
+**millionesimo (-né-)** *n* millionth (part)
+**mobilate** 1. *pp* of **mobilar**; 2. *adj* as in "furnished house"
 
 ### N
-
 **nazista** _adj_ Nazi (as in 'Nazi ideology') **propaganda nazista** Nazi propaganda
-
+**negativemente** *adv* negatively
+**Nilo** *npr* Nile
+**nono** *n* ninth (part)
+**novantesimo (-té-)** *n* ninetieth (part)
 ### O
-
+**obligate** 1. *pp* of **obligar**; 2. *adj* grateful, obliged
+**obverso** *n* obverse
+**octantesimo (-té-)** *n* eightieth (part)
+**octogesimo (-gé-)** *n* eightieth (part)
+**operari** *adj* working, operative
 **ore**, 🚧 **ore impur** [Colloq.] cocksucker
 **OVNI** or **Objecto Volante Non Identificate** _n_ UFO, unidentified flying object
-
 ### P
-
 **paccar** *v* to pack, make a pack of
 **pacch**- *see* **pacco**
 **pacchettar** *v* to pack, wrap, packet
@@ -8089,6 +9037,9 @@ paper; **papiro siccante** blotting paper, blotter; **papiro de seta** tissue pa
 **parietari** *adj* wall (= growing on a wall)
 **parietaria** *n* [Bot.] (wall) pellitory
 **pariete** *n* wall (as in "within one's four walls"); *also:* [Anat., Bot., etc.] *Hence:* parietal; parietari; parietaria
+**Paris** *npr* Paris
+**parisian** *adj* Parisian
+**parisiano** *n* Parisian
 **pari·syllabe (-sí-)** *adj* parisyllabic *Hence:* imparisyllabe-imparisyllabo; parisyllabo
 **pari·syllabic** *adj* parisyllabic
 **parisyllabo (-sí-)** *n* parisyllabic
@@ -9008,6 +9959,7 @@ photographar
 **phrygia** *npr* Phrygia *Hence:* phrygie-phrygio
 **phrygie** *adj* Phrygian; **bonetto phrygie** phrygian cap
 **phrygio** *n* Phrygian -phthong- *n* [occurring in compounds] -phthong (= voice; sound) *Hence:* diphthonge etc.; triphthongo etc.
+**phthisis (-ísis)** *n* phthisis
 **phyllo**- *n* [occurring in compounds] phyllo-, -phyll, -phyllum (= leaf) *Hence:* chlorophyllo etc. ...
 **phylo** *n* 1. [Biol.] phylon (= tribe or race); 2. [Biol.] phylum *Hence:* phylogenese etc.; phylogenia etc.; phylogenetic etc.
 **phylo·genese (-gé-)** *n* phylogeny, phylogenesis
@@ -9357,6 +10309,7 @@ plastics (as in "plastics are widely used materials")
 **plumbero** *n* plumber
 **plumbic** *adj* plumbic; *also:* [Chem.]
 **plumbifere** *adj* plumbiferous
+**plumbismo** *n* plumbism
 **plumbo** *n* lead (1. the metal "lead"; 2. bullets, shot); **a plumbo** plumb, vertical *Hence:* plumbagine; plumbero; plumberia; plumbee; plumbic; plumbifere; plumbar
 **plumose** *adj* feathered, feathery, plumose
 **plumpudding** [A] *n* plum pudding
@@ -9366,6 +10319,7 @@ plastics (as in "plastics are widely used materials")
 **pluralisar** *v* to pluralize
 **pluralismo** *n* [Philos.] pluralism
 **pluralista** *n* [Philos.] pluralist
+**pluralistic** *adj* pluralistic
 **pluralitate** *n* plurality (1. state of being plural; 2. majority; 3. [Elections])
 **plure** *adj* several *Hence:* plural &; [plurime]-[plurimo]; plurinomial etc.
 **plures (plú-)** *pron* several
@@ -9446,6 +10400,7 @@ poetisar
 **polarisator** *n* polarizer
 **polari·scopio** *n* polariscope
 **polaritate** *n* polarity -pole *n* [occurring in derivatives and compounds] -polis (= city) *Hence:* -polita &; acropole etc.; metropole etc.; Constantinopole etc.; necropole etc.; Neapole etc.; Tripole etc.
+**Policinella** *npr* Polichinelle
 **polea (-éa)** *n* pulley
 **polem**- *n* [occurring in derivatives] polem- (= war) *Hence:* polemic; polemica; polemisar, polemista
 **polemic** *adj* polemic, polemical
@@ -9754,6 +10709,7 @@ practicabilitate, impracticabile- impracticabilitate; practica
 **pre**- *prefixo* [used with nouns, adjectives, verbs; also in combination with adjectival suffixes] pre- (= before in time, position, rank) *Hence:* prehistoria, etc; prematur, etc; predisponer, etc; prebronchial, etc
 **preambular** *v* to preamble (= to make a preamble to)
 **preambulo (-ám-)** *n* preamble
+**prebronchial** *adj* prebronchial
 **precar** *v* to pray; *also:* to beg, entreat
 **precari** *adj* precarious (1. as in "precarious privileges"; 2. as in "a precarious situation") *Hence:* precarietate
 **precaria** *n* prayer
@@ -10469,6 +11425,7 @@ protectionista; protector-protectorato; protectrice
 **proxime (próx-)** *adj* 1. very near, close; 2. next (as in "next week"); **causa proxime** [Philos] proximate cause; **proximo** *n* neighbor, fellow being *Hence:* proximitate; approximar &
 **proximemente** *adv* shortly, soon
 **proximitate** *n* proximity; **proximitate del sanguine** proximity of blood; **in le proximitate de** in the proximity or vicinity of, near
+**proximo (próx-)** *n* neighbor, fellow being
 **prude** [F] 1. *adj* prudish; 2. *n* prude
 **prudente** *adj* prudent *Hence:* prudentia-prudential; imprudente- imprudentia; jurisprudente etc
 **prudentia** *n* prudence
@@ -10626,6 +11583,7 @@ protectionista; protector-protectorato; protectrice
 **pulverose** *adj* dusty
 **pulverulente** *adj* pulverulent, dusty, powdery
 **pulverulentia** *n* (state of) being pulverulent
+**pumice (pú-)** *n* pumice (stone)
 **pumpa** *n* pump (as in "suction pump") *Hence:* pumpero; pumpar
 **pumpar** *v* to pump (= to raise with a pump)
 **pumpero** *n* 1. pumpman; 2. fireman (= member of a fire brigade)
@@ -10770,8 +11728,12 @@ protectionista; protector-protectorato; protectrice
 **python** *npr* [Gr Mythol] Python; python [Zool] python
 **pyxide (píx-)** *n* 1. small box or case; 2. [Eccl] pyx; 3. [Bot] pyxis, pyxidium
 ### Q
+**quarantesimo (-té-)** *n* fortieth (part)
+**quaresimo (-ré-)** *n* fortieth (part)
+**quarto** *n* fourth (part), quarter
+**quinquagesimo (-gé-)** *n* fiftieth (part)
+**quinto** *n* fifth (part)
 ### R
-
 **rab**- *v* [occurring in derivatives] *Hence:* rabie &; rabide
 **rabbi** *n* Rabbi (as in "Rabbi Ben Ezra")
 **rabbin** *n* rabbi (as in "the tradition of the rabbis") *Hence:* rabbinato; rabbinismo; rabbinista; rabinic
@@ -10902,6 +11864,7 @@ protectionista; protector-protectorato; protectrice
 **raritate** *n* rarity (1. rareness; 2. rare object, curiosity)
 **ras**- *see* **rader**
 **rasar** *v* 1. to shave; 2. to raze
+**rase** 1. *pp* of **rader**; 2. *adj* scraped
 **rasorio** *n* razor
 **raspar** *v* 1. to scrape, rasp; 2. to grate (as in "to grate cheese") *Hence:* raspator; raspatura
 **raspator** *n* rasp, scraper, grater
@@ -11571,6 +12534,7 @@ repugnar *v* to cause repugnance *Hence:* repugnante-repugnantia
 **repulsive** *adj* repulsive (1. as in "repulsive force"; 2. arousing aversion)
 **reputar** *v* to consider, deem; **esser reputate** to be reputed (to be), have the reputation (of being) *Hence:* reputation
 **reputation** *n* reputation (as in "of great reputation")
+**reputate** 1. *pp* of **reputar**; 2. *adj* reputed
 **request-** *see* **requirer**
 **requesta** *n* request; **al requesta de** at the request of
 **requestar** *v* to request
@@ -11675,6 +12639,7 @@ repugnar *v* to cause repugnance *Hence:* repugnante-repugnantia
 **restabilir** *v* to re-establish, restore; restabilir se to recover, get well again
 **restablimento** *n* re-establishment
 **restablir** *v* to re-establish, restore; **restablir se** to recover, get well again
+**restante** 1. *ppr* of **restar**; 2. *adj* residuous, remanent
 **restar** *v* to remain (1. to be left; 2. to stay) *Hence:* resto-restive; arrestar &
 restaurabile *adj* restorable
 **restaurant** [F] *n* restaurant
@@ -11717,6 +12682,7 @@ restaurabile *adj* restorable
 **retardamento** *n* retardation (= act of retarding), retardment
 **retardar** *v* 1. to delay (= to make slow or late, retard); 2. to be slow or delayed *Hence:* retardo; retardamento; retardation; retardative; retardator; retardatario
 **retardatario** *n* latecomer
+**retardate** 1. *pp* of **retardar**; 2. *adj* retarded, delayed
 **retardation** *n* retardation (= act of retarding)
 **retardative** *adj* retardative (= having power to retard)
 **retardator** *n* retarder
@@ -11943,6 +12909,7 @@ rhodo·dendro *n* [Bot.] rhododendron
 **ricch-** *see* **ric**
 **ricchessa** *n* 1. wealth; 2. richness (= abundance, costliness, etc.); 3. object of value; **ricchessas** riches
 **ricco** *n* rich (person); le riccos the rich
+**ricino** *n* castor-oil plant, ricinus
 **rider [rid-/ris-]** *v* to laugh; **rider (se) de** to laugh at, make fun of *Hence:* ridicule &; risibile-risibilitate; riso-risada; derider &; irrider &;surrider &
 **ridicule** *adj* ridiculous *Hence:* ridiculo
 **ridiculo** *n* 1. ridiculous thing, characteristic, etc.; 2. ridicule
@@ -12018,6 +12985,7 @@ rodente 1. ppr of roder; 2. *adj* rodent
 **rogation** *n* [Rom. Law] rogation; rogationes [Eccl.] rogations; **septimana del rogationes** Rogation week
 **rogatori** *adj* [Law] rogatory
 **rolamento** *n* 1. (act of) rolling; 2. [Naut.] roll (= continued motion from side to side)
+**rolante** 1. *ppr* of **rolar**; 2. *adj* rolling
 **rolar** *v* to roll (1. as in "to roll a ball along the ground"; 2. to be rolling; 3. [Naut.] to sway from one side to the other); **le tambur rola** the drum rolls *Hence:* rolo &; rolamento; inrolar²
 **rolo** *n* I. roll (1. something rolled up; 2. cylindrical mass; 3. record, list of names, etc.); II. roller; *also*: rolling pin; III. role; **rolo compressor** steam roller *Hence:* controlo &; inrolar¹ &
 **Roma** *npr* Rome *Hence:* Romulo; roman-Romania &, romanismo, romanista, romanic, romanisar, Roman, romano; romaic-romaico; grecoroman etc.
@@ -12247,26 +13215,433 @@ rough, unrefined) *Hence:* rusticitate; rusticar-rustication; rustico
 **rutile** *adj* golden red, rutilant *Hence:* rutilar-rutilante; rutilo
 **rutilo (rú)** *n* [Mineral.] rutile
 ### S
-
 **salace,** *adj* [Colloq.] hot, dirty, kinky
 **scenic** _adj_ 🚧 [proposed] **artes scenic** performing arts
+**sedite** 1. *pp* of **seder**; 2. *adj* seated
+**sempervirente** *adj* evergreen
 **sensual** *adj* [Colloq.] sexy, arousing
+**septagesimo (-gé-)** *n* seventieth (part)
+**septantesimo (-té-)** *n* seventieth (part)
+**sexagesimo (-gé-)** *n* sixtieth (part)
+**sexantesimo (-té-)** *n* sixtieth (part)
+**sexto** *n* sixth (part)
 **sexy** *adj* [Colloq.] sexy
+**spat** *n* [Mineral.] spar
+**sterling** [A] *n* [Monet.] sterling; *also attrib.*
 
 ### T
-
+**talion** *n* talion, retaliation
+**tenitor** *n* keeper
+**tertio** *n* third (part)
 **tetta** *n* [Colloq.] tit, titty **tettas** tits, titties, rack
-
+**transactar** *v* to transact
+**trentesimo (-té-)** *n* thirtieth (part)
+**trillionesimo (-né-)** *n* trillionth (part)
 ### U
+**ubere** *n* udder 
+**ubere** *adj* fruitful, abundant, uberous *Hence:* ubertate, exuberar &
+**ubertate** *n* fertility, abundance uberty
+**ubi** 1. *adv* where (= in or at what place); 2. *conj* where; when, as soon as; wherewith; in which; **a ubi** where, whither; **de ubi** from where, whence *Hence:* ubicar &; ubique etc.; ubicunque etc.; alicubi etc.; [alterubi] etc.
+**ubicar** *v* to have one's location, be (somewhere) *Hence:* ubication
+**ubication** *n* location (= fact of being located in a certain place), ubication
+**ubi·cunque** *adv/conj* wherever
+**ubi·que** *adv* everywhere; anywhere, wheresoever, wherever *Hence:* ubiquitate
+**ubiquitate** *n* ubiquitousness
+**ukaz** [R] *n* ukase
+**Ukraina** *npr* Ukraine *Hence:* ukrainian-ukrainiano
+**ukrainian** *adj* Ukrainian
+**ukrainiano** *n* Ukrainian (1. native of the Ukraine; 2. Ukrainian language)
+**ulcerar** *v* to ulcerate (= to affect with ulcers)
+**ulceration** *n* [Med.] ulceration
+**ulcere** *n* [Med.] ulcer *Hence:* ulcerose; ulcerar-ulceration
+**ulcerose** *adj* ulcerous (1. having the nature of an ulcer; 2. ulcerated) [ulle] adj/pron any, anyone *Hence:* nulle &
+**ulmacee** *adj* [Bot.] ulmaceous
+**ulmaria** *n* [Bot.] meadosweet, queen of the meadows
+**ulmeto** *n* elm grove
+**ulmic** *adj* [Chem.] ulmic
+**ulmina** *n* [Chem.] ulmin
+**ulmo** *n* elm *Hence:* ulmeto; ulmacee; ulmaria; ulmic; ulmina
+**Ulster** [A] *npr* Ulster; ulster [Clothing] ulster
+**ulterior** *adj* 1. ulterior, situated beyond, thither; 2. subsequent, later
+**ulteriormente** *adv* later (on), subsequently
+**ultimar** *v* to bring to a close, to bring to completion
+**ultimate** 1. *pp* of **ultimar**; 2. *adj* ultimate
+**ultimation** *n* (action of) bringing to a close or to completion
+**ultimatum** [NL] *n* ultimatum
+**ultime (úl-)** *adj* last *Hence:* penultime &; ultimar-ultimation, ultimate
+**ultra** I. *adv* on the other side, beyond, farther; II. *prep* 1. on the farther side of; beyond, past; 2. besides; **ultra ille** besides, moreover; **ultra que** aside from the fact that *Hence:* ultrage &; ultrar-ultrantia
+**ultra**- *prefixo* ultra- (= beyond) *Hence:* ultramarin etc.; ultraviolette etc.; ultrapassar etc.
+**ultrage (-aje)** *n* outrage *Hence:* ultragiose; ultragiar
+**ultragiar (-ajár)** *v* to outrage
+**ultragiose (-jose)** *adj* outrageous
+**ultramar** *adv* overseas; **(paises) de ultramar** overseas (countries)
+**ultramarin** *adj* ultramarine (blue)
+**ultramontan** *adj* ultramontane (1. transmontane; 2. [R.C.Ch.]) *Hence:* ultramontanismo
+**ultramontanismo** *n* ultramontanism
+**ultrantia** *n* excess, extreme; a ultrantia to the bitter end
+**ultrapassar** *v* to go beyond
+**ultrar** *v* to carry to excess or to extremes
+**ultraviolette** *adj* ultraviolet; radios
+**ultraviolette** ultraviolet rays
+**uluco (ú-)** *n* owl
+**ulula (úlula)** *n* barn owl
+**ulular** *v* to howl, ululate *Hence:* ululation; ululator
+**ululation** *n* howling, ululation
+**ululator** *n* howler (= one who howls); specif.: howling monkey
+**Ulysses (-lís-)** *npr* [Gr. Mythol.] Ulysses
+**umbella** *n* [Bot.] umbel *Hence:* umbellate; umbellifere; umbelliforme etc.
+**umbellate** *adj* [Bot.] umbellate
+**umbellifere** *adj* [Bot.] umbelliferous
+**umbelli·forme** *adj* [Bot.] umbelliform
+**umbilical** *adj* umbilical; **cordon umbilical** umbilical cord
+**umbilicate** *adj* umbilicate
+**umbilico (-íco)** *n* [Anat.] navel, umbilicus *Hence:* umbilical; umbilicate
+**umbra¹** *n* 1. shade (as in "light and shade"; *also*: as in "the shades in Hades"); 2. shadow; **al umbra de** under or in the shadow of; **umbras (del nocte)** shadows (of the night); **umbra de (dubita, etc.)** shade or shadow of (doubt etc.) *Hence:* umbrella; umbratile; umbrifere; umbrina; umbrose; umbrar-adumbrar &; penumbra
+**umbra²** *n* umber (1. [Mineral.]; 2. "the color umber"); **terra de umbra** sienna
+**umbrar** *v* to shade, darken (= to put shading in or on)
+**umbratile** *adj* shady, umbrageous
+**umbre** *adj* Umbrian
+**umbrella** *n* umbrella (= cloth-covered frame used for protection against rain or sun)
+**Umbria** *npr* Umbria
+**umbrifere** *adj* umbriferous
+**umbrina** *n* [Zool.] umbrina, umbrine
+**umbro** *n* Umbrian (1. inhabitant of Umbria; 2. Umbrian dialect) *Hence:* Umbria; umbre
+**umbrose** *adj* shady, umbrageous
+**un** 1. *adj* one; 2. *indef art* a, an; **le un le altere** one another, each other, each (one) ... the other (one); **le unes le alteres** one another, each other, each (of them) ... the others, other ones *Hence:* union &; unitate &; unic &; unir &; unificar &; unicorne etc.; unilateral etc.; uniforme etc.; unanime etc.; unicolor etc.; unipare etc.; [unaltere] etc.; undece etc.; dece-un etc.; alicun etc.; [qualcun] etc.; [alcun] etc.; [necun] etc.; uno-[qualcuno] etc., alcuno etc. [un-altere] pron each other, one another
+**un·anime (-ánime)** *adj* unanimous *Hence:* unanimitate
+**unanimitate** *n* unanimity
+**uncia** *n* 1. ounce; 2. inch *Hence:* uncial-semiuncial etc.
+**uncial** *adj* uncial
+**unci·forme** *n* unciform, hook-shaped
+**uncinate** *adj* uncinate
+**uncino** *n* hook (as in "wall hook", "hook and eye")
+**unco** *n* hook, barb *Hence:* uncino-uncinate; unciforme etc.
+**unct**- *see* **unguer**
+**unction** *n* unction (1. act of anointing; 2. unctuousness)
+**uncto¹** *n* anointed; le Uncto del Senior the Lord's Anointed
+**uncto²** *n* unguent, ointment *Hence:* unctuose-unctuositate
+**unctu**- *see* **uncto²**
+**unctuose** *adj* unctuous (1. oily, greasy; 2. oily, suave)
+**unctuositate** *n* unctuosity, unctuousness
+**unda** *n* wave (1. "wave of the sea, etc."; 2. [Phys.]); **unda sonor** sound wave; **unda luminose** light wave; **undas curte** [Radio] short waves; **undas longe** [Radio] long waves *Hence:* undulose; undular &; undina; undose; undear; inundar &; undisone etc. 
+**[unde]** *adv* whence (1. from which place; 2. wherefore, for which reason or cause)
+**undear** *v* to wave (= to move in waves or undulations)
+**un·dece (ún-)** *adj* eleven
+**undina** *n* undine
+**undi·sone** *adj* wavelike (= sounding like waves)
+**undose** *adj* wavy
+**undular** *v* to wave, undulate (1. to move in, or like, waves; 2. to impart a wavy appearance to) *Hence:* undulation; undulatori; undulate
+**undulate** 1. *pp* of **undular**; 2. *adj* wavy, undulating
+**undulation** *n* I. undulation (1. waving motion; 2. wavy form); II. [Hairdressing] wave; **undulation permanente** permanent wave
+**undulatori** *adj* undulatory
+**undulose** *adj* rolling, wavy, undulous
+**UNESCO** [A] *n* UNESCO
+**ungue** *n* nail (of a finger or toe); *also*: unguis *Hence:* unguiculo-unguiculate; ungula &; unguifere
+**unguentari** *adj* unguentary
+**unguento** *n* ointment, salve
+**unguer [ung-/unct-]** *v* to anoint (1. to rub with an ointment; 2. to make sacred with oil) *Hence:* ungento-ungentari; unction; uncto¹; uncto² &; axungia etc.
+**unguiculate** *adj* unguiculate
+**unguiculo** *n* small nail or claw
+**unguifere** *adj* unguiferous
+**ungula (úngula)** *n* 1. nail (of a finger or toe); 2. claw (of a canine, feline, or bird); 3. hoof (of an animal) *Hence:* ungulate-ungulato, multungulate etc.; multungule etc.
+**ungulate** *adj* ungulate (1. having hoofs; 2. pertaining to the ungulates)
+**ungulato** *n* [Zool.] ungulate
+**unibile** *adj* uniteable
+**unic** *adj* 1. sole, only; 2. unique (= that has no like or equal); **filio unic** only son *Hence:* unicitate
+**unicitate** *n* 1. oneness, singleness; 2. uniqueness
+**uni·color** *adj* one-colored, unicolorous
+**uni·corne** *adj* one-horned *Hence:* unicornio
+**uni·corne** *n* unicorn
+**unicornio** *n* unicorn
+**uni·ficar** *v* to unify *Hence:* unification
+**unification** *n* unification
+**uni·flor** *adj* [Bot.] uniflorous
+**uni·foliate** *adj* [Bot.] unifoliate
+**uniformar** *v* to uniform (1. to make uniform; 2. to put into uniform)
+**uni·forme** *adj* uniform *Hence:* uniformitate; uniformar
+**uniforme** *n* uniform
+**uniformitate** *n* uniformity
+**uni·lateral** *adj* unilateral (1. [Bot.]; 2. [Law])
+**unimento** *n* (action of) uniting, joining, etc.
+**union** *n* union; **tracto de union** hyphen (= sign used to join two words together) *Hence:* unionismo; unionista; disunion
+**unionismo** *n* unionism
+**unionista** *n* unionist
+**uni·pare** *adj* uniparous (= producing but one offspring at a time)
+**uni·personal** *adj* [Gram.] unipersonal; also: impersonal
+**uni·polar** *adj* unipolar
+**unir** *v* to unite, join, connect *Hence:* unimento; unibile; unitive; unite; disunir; reunir-reunion
+**uni·sexual** *adj* unisexual
+**uni·sone** *adj* unison, unisonous *Hence:* unisono
+**unisono (-í-)** *n* unison
+**unit**- *see* **unitate**
+**unitari** *adj* 1. unitary; 2. [Theol.] Unitarian
+**unitario** *n* 1. unitarist; 2. [Theol.] Unitarian
+**unitarismo** *n* 1. unitarism; 2. [Theol.] Unitarianism
+**unitate** *n* 1. unit; 2. unity; also: oneness *Hence:* unitari-unitarismo; unitario; disunitate
+**unite** 1. *pp* of unir; 2. *adj* smooth, even; **(le) Statos Unite** (the) United States; **Nationes Unite** United Nations
+**unitive** *adj* unitive, uniting
+**uni·valve** *adj* [Bot., Zool.] univalve, univalved
+**universal** *adj* universal; **suffragio universal** universal franchise or suffrage
+**universalisar** *v* to universalize
+**universalismo** *n* [Theol.] Universalism
+**universalista** *n* [Theol.] Universalist
+**universalitate** *n* 1. universality; 2. totality
+**universe** *adj* universal *Hence:* universitate &; nniverso-universal-universalismo, universalista, universalitate, universalisar
+**universit**- *see* **universitate**
+**universitari** *adj* university
+**universitate** *n* university *Hence:* universitari
+**universo** *n* universe
+**uno** *indef pron* one
+**unquam (únquam)** *adv* ever, at any time
+**upas** [Mal.] *n* [Bot.] upas
+ur- *n* [occurring in compounds] ur-, uro- (= tail) *Hence:* cenuro etc. ...
+ur- *v* [occurring in derivatives] *Hence:* ureter &; urethra & -ura *suffixo substantive* [used with the second stem of verbs in -er and -ir] -ure (= action or result of ...ing) *Hence:* mixtura etc.; pictura etc.; fissura etc.; cultura etc.; copertura etc.
+**Ural** *npr* 1. Ural (River); 2. Urals, Ural Mountains *Hence:* uralian; uraloaltaic etc.
+uralian *adj* Uralian
+**uralo·altaic (-táic)** *adj* uralaltaic
+**Urania** *npr* [Gr. Mythol.] Urania (1. Muse of astronomy; 2. epithet of Aphrodite)
+**uranic** *adj* uranic
+**uranie** *adj* uranian (1. pertaining to the god Uranus; 2. pertaining to the planet Uranus; 3. pertaining to Urania; 4. pertaining to the heavens)
+**uranite** *n* [Mineral.] uranite
+**uranium (-rá-)** *n* uranium *Hence:* uranite; uranic
+**Urano** *npr* Uranus (1. [Gr. Mythol.]; 2. [Astron.]) *Hence:* uranie-uranium &, urania; uranographo etc.; uranometria etc.
+**uranographia (-ía)** *n* uranography
+**urano·grapho (-ógrapho)** *n* uranographer *Hence:* uranographia
+**urano·metria (-ía)** *n* (science of) uranometry
+**urban** *adj* 1. urban; 2. urbane
+**urbanisar** *v* to urbanize
+**urbanisation** *n* urbanization
+**urbanismo** *n* town planning, city planning
+**urbanista** *n* 1. city planner; 2. [Eccl.] urbanist
+**urbanitate** *n* urbanity (1. urbanness; 2. urbaneness)
+**urbe** *n* town, city *Hence:* urban-urbanismo, urbanista, urbanitate, urbanisar-urbanisation, inurban, suburban; suburbio; suburbicari
+**urceo** *n* pitcher, jug
+**uredine** *n* [Bot.] uredinium *Hence:* uredineas
+**uredineas** *npl* rust fungi, *Uredinales*
+**ur·emia (-ía)** *n* [Med.] uremia, uraemia *Hence:* uremic
+**uremic** *adj* uremic, uraemic
+**urente** 1. *ppr* of **urer**; 2. *adj* [Med.] caustic
+**urer [ur-/ust-]** *v* 1. to burn, burn up; 2. [Med.] to cauterize *Hence:* uredine &; urente; ustion; adurer &; comburer &
+**ureter** *n* [Anat.] ureter *Hence:* ureteritis; ureteral; ureterotomia etc.
+**ureteral** *adj* ureteral
+**ureteritis (-ítis)** *n* [Pathol.] ureteritis
+**uretero·tomia (-ía)** *n* [Surg.] ureterotomy
+**urethra** *n* [Anat.] urethra *Hence:* urethritis; urethral; urethroscopio etc.
+**urethral** *adj* urethral
+**urethritis (-ítis)** *n* [Pathol.] urethritis
+**urethroscopia (-ía)** *n* [Med.] urethroscopy
+**urethro·scopio** *n* [Med.] urethroscope *Hence:* urethroscopia
+**urgente** *adj* urgent (= demanding immediate attention or action)
+**urgentia** *n* urgency (= need for immediate attention or action)
+**urger** *v* to urge, be insistent or pressing; also: to be urgent *Hence:* urgente-urgentia -urgo [occurring in compounds] -urge (= worker) *Hence:* chirurgo etc.; metallurgo etc.; thaumaturgo etc.; siderurgia etc. -uria [occurring in compounds]
+**urina** *n* urine *Hence:* urinal; urinose; urinar-urinatorio
+**urinal** *n* urinal (= vessel for holding urine)
+**urinar** *v* to urinate
+**urinatorio** *n* urinal (= building for urinating purposes)
+**urinose** *adj* urinous
+**urna** *n* 1. urn; 2. ballot box; **urna cinerari** cinerary urn
+**uro**- *n* [occurring in derivatives and compounds] (= urine) *Hence:* -uria-albuminuria etc.; uremia etc. ...
+**ursa** *n* she-bear; **ursa major** [Astron.] Ursa Major, Great Bear, (Big) Dipper; **ursa minor** [Astron.] Ursa Minor, Little Bear or Little Dipper
+**ursin** *adj* ursine
+**urso** *n* bear; **urso polar/blanc** polar bear *Hence:* urson; ursin; ursa
+**urson** *n* [Zool.] Canada porcupine; urson
+**U.R.S.S.** *n* U.S.S.R.
+**urtica (-tíca)** *n* nettle, urtica *Hence:* urticaria; urticacee-urticaceas; urticar-urticante, urtication
+**urticaceas** *npl* [Bot.] *Urticaceae*
+**urticacee** *adj* urticaceous
+**urticante** 1. *ppr* of **urticar**; 2. *adj* urticant, stinging
+**urticar** *v* to nettle, urticate
+**urticaria** *n* [Pathol.] urticaria, nettle rash
+**urtication** *n* urtication
+**Uruguay (-ái)** *npr* Uruguay (1. Uruguay river; 2. Republic of Uruguay); **Republica Oriental del Uruguay** Republic of Uruguay
+**us**- *see* **ut**-
+**U.S.A.** [A] *n* U.S.A.
+**usabile** *adj* usable
+**usabilitate** *n* usability, usableness
+**usage (-aje)** *n* 1. use (= act of using); 2. usage, custom
+**usantia** *n* usage, custom, habit
+**usar** *v* 1. to use, make use of; 2. to use up; **usar (facer, etc.)** to be used to (doing, etc.)
+**uso** *n* use (1. act of using; 2. habit); **facer uso de** to make use of; **in uso** in use; **foras de uso** out of use *Hence:* usual-inusual; usar-usage, usantia, usabile-usabilitate, inusabile; disuso-disusar; misuso-misusar-misusage; usufruer etc.
+**usquam (ús-)** *adv* somewhere
+**usque** *prep* (all the way) to, up to (a point in space or time); also: till, until; **usque nunc** up to now; **usque al presente** up to the present
+**ust**- *see* **urer**
+**ustion** *n* 1. (act of) burning, destroying by fire; 2. [Med.] cauterization
+**usual** *adj* usual (1. ordinary; 2. customary)
+**usufruct**- *see* **usufruer**
+**usufructo** *n* [Law] usufruct
+**usufructuari** *adj* [Law] usufructuary
+**usufructuario** *n* [Law] usufructuary
+**usu·fruer [-fru-/-fruct-]** *v* [Law] to enjoy the usufruct *Hence:* usufructo-usufructuari, usufructario 
+**usura** *n* usury *Hence:* usuria; usuari; usurero; usurar
+**usurar** *v* to practice usury
+**usurari** *adj* usurious
+**usurero** *n* usurer
+**usuria (-ía)** *n* usury
+**usurpar** *v* to usurp *Hence:* usurpation; usurpator; usurpatori
+**usurpation** *n* usurpation
+**usurpator** *n* usurper
+**usurpatori** *adj* usurpatory [ut] *adv* as, how, in order that, to the end that, just as; ut ... ita ... the ... the ..., as ... so ... *Hence:* sicut etc.
+**ut** *n* [Mus.] (the note) C
+**ut- [ut-/us-]** *v* [occurring in derivatives and compounds] *Hence:* utile &; uso &; abut- &
+**utensile** *n* utensil, tool
+**uterin** *adj* uterine (1. pertaining to the uterus; 2. born of the same mother, but of a different father)
+**utero (ú-)** *n* uterus, womb *Hence:* uterin; uterologia etc.
+**utero·logia (-ía)** *n* uterology
+**utile** *adj* useful *Hence:* utilitate-utilitari-utilitario, utilitarismo; utilisar-utilisabile-inutilisabile, utilisation, utilisator, utilisate-inutilisate; inutile-inutilitate, inutilisar
+**utilisabile** *adj* available (= capable of being turned to account)
+**utilisar** *v* to utilize
+**utilisate** *adj* utilized, used
+**utilisation** *n* utilization
+**utilisator** *n* utilizer
+**utilitari** *adj* utilitarian (as in "utilitarian ethics")
+**utilitario** *n* utilitarian
+**utilitarismo** *n* utilitarianism
+**utilitate** *n* utility, usefulness
+**Utopia** *n* Utopia; **utopia** utopia *Hence:* utopismo; utopista; utopic
+**utopic** *adj* utopian
+**utopismo** *n* utopianism
+**utopista** *n* utopian [utroque] *indef pron* either or both of two 
+**[utrum ... an] (ú-)** *conj* whether ... or
+**uva** *n* 1. grape; 2. grapes, bunch of grapes; **uva de Corintho** currant (= small seedless raisin used in cooking); **uva sic** raisin *Hence:* uvula &; uvea
+**uvea** *n* [Anat.] uvea
+**uvula** *n* uvula *Hence:* uvular
+**uvular** *adj* uvular
+**uxor** *n* wife *Hence:* uxoricida etc.; uxoricidio etc.
+**uxori·cida** *n* uxoricide (= one who kills his wife)
+**uxori·cidio** *n* uxoricide (= act of killing one's wife)
 ### V
-
 **vegan** _adj_ vegan  
-**veganismo** _n_ Veganism  
+**veganismo** _n_ Veganism
+**ventura** *n* 1. fortune, luck; 2. risk, hazard
+**vernissate** 1. *pp* of **vernissar**; 2. *adj* varnished
+**vidite** 1. *pp* of **vider**; 2. *adj* seen
 **Vietnam** _n_ Vietnam  
 **vietnamese** _n_ Vietnamese (language)
+**vindication** *n* vindication
+**vintesimo (-té-)** *n* twentieth (part)
 **virga** *n* [Colloq.] 1. cock, dick, pecker, penis; 2. the fuck **que virga tu dice?** what the fuck are you talking about?
-
+**volante** 1. *ppr* of **volar**; 2. *adj* flying
 ### W
+**wadi (-dí)** [Ar.] *n* wadi
+**wafla** *n* waffle
+**wagon** *n* (railroad) car; **wagon restaurante** dining car, diner; **wagon lectos** sleeping car
+**waldense** *adj/n* Waldensian; **waldenses** Waldenses
+**Waldo, Peter** *npr* [founder of the Waldenses] *Hence*: waldense
+**walzer** [G] *n* waltz
+**water-closet** [A] *n* water closet, toilet
+**water-polo** [A] *n* water polo
+**watt** *n* [Elec.] watt *Hence*: wattage; wattimetro etc., watt-hora etc.; kilowatt etc.
+**watta** *n* (absorbent) cotton *Hence*: wattar
+**wattage (-aje)** *n* [Elec.] wattage
+**wattar** *v* to pad, wad, quilt, etc.
+**watt-hora** *n* watt-hour
+**watti·metro (-í-)** *n* wattmeter
+**W.C.** [A] *n* W.C., water closet
+**week-end** [A] *n* week end
+**west** *n* west; **(ir) al west** (to go or travel) west; **(vento) del west** west (wind), westerly (wind) *Hence*: Westfalia etc.; sud-west etc.
+**West·falia** *npr* Westphalia Hence: westfalic
+**westfalic** *adj* Westphalian
+**whig** *n* whig
+**whisky** [A] *n* whisky
+**whist** [A] *n* whist
+**wigwam** [A] *n* wigwam
+**Wilno** [Polish] *npr* Wilno, Vilna
+**wolfram** [G] *n* wolfram (1. [Chem.] tungsten; 2. [Mineral.] wolframite) *Hence*: wolframite
+**wolframite** *n* [Mineral.] wolframite
+**wombat (wóm-)** *n* [Zool.] wombat
+**Worms** [G] *npr* Worms
 ### X
+**xen**- *adj* [occurring in derivatives and compounds] xeno-, xen- (1. strange, foreign; 2. guest) *Hence:* xenio; xenophobe etc.; pyroxeno etc.
+**xenio** *n* [Antiq.] xenium (= present given to a guest or to an ambassador)
+**xenon (ksé-)** *n* [Chem.] xenon
+**xeno·phile** *adj* xenophile *Hence:* xenophilia; xenophilo
+**xenophilia (-ía)** *n* xenophilism
+**xenophilo (-nó-)** *n* xenophile
+**xeno·phobe (-nó-)** *adj* xenophobe, xenophobian *Hence:* xenophobia; xenophobo
+**xenophobia (-ía)** *n* xenophobia
+**xenophobo (-nó-)** *n* xenophobe
+**xylo**- *n* [occurring in compounds] xylo- (= wood) *Hence:* xylographo etc.; xylologia etc.; xylophono etc.; xylophage etc.; pyroxylo etc.
+**xylographia (-ía)** *n* xylography (art of engraving on wood or taking impressions from such engravings)
+**xylographic** *adj* xylographic
+**xylo·grapho (-ógrapho)** *n* xylographer *Hence:* xylographia; xylographic
+**xylo·logia (-ía)** *n* xylology
+**xylo·phage (-ó-)** *adj* [Zool.] xylophagous *Hence:* xylophago
+**xylophago (-ó-)** *n* [Zool.] xylophage
+**xylophonista** *n* xylophonist
+**xylo·phono** *n* [Mus.] xylophone *Hence:* xylophonista
 ### Y
+[ya] *adv* already (= **ja**, **jam**)
+**yacht** [A] *n* yacht
+**yak** *n* [Zool.] yak
+**yankee** [A] *n* Yankee
+**yard** [A] *n* [Meas.] yard
+**yo: [yo]** *pron pers* I (= **io**)
+**yogurt** *n* yogurt
+**York** [A] *npr* York *Hence*: Nove York etc.
+**yug**- *n* [occurring in geographical compounds]
+**yugo**-, **jugo**- (=*south*) *Hence*: yugoslave etc.
+**yugo·slave** *adj* Yugoslav *Hence*: yugoslavo-Yugoslavia
+**Yugoslavia** *npr* Yugoslavia
+**yugoslavo** *n* Yugoslav (1. native of Yugoslavia; 2. Serbo-Croatian language)
 ### Z
+**Zacharia (-ía)** *npr* Zachariah; Zachary
+**Zarathustra** *npr* Zarathustra
+**ze**- *n* [occurring in geographical compounds] Zea-, Zee- (= sea) *Hence:* Zelanda etc.
+**zebra** [Amh.] *n* [Zool.] zebra *Hence:* zebrate
+**zebrate** *adj* striped
+**zebu (-bú)** *n* [Zool.] zebu
+**Ze·landa** *npr* Zeeland (= province in the Netherlands) *Hence:* Nove Zelanda etc.; neozelandese etc.
+**zelar** *v* to be zealous (about)
+**zelator** *n* zealot (1. zealous person; 2. [Jewish Antiq.])
+**zelo** *n* zeal, ardor *Hence:* zelote &; zelose &; zelar-zelator
+**zelose** *adj* 1. zealous; 2. jealous; **zelose de (le libertate)** jealous of (one's liberty) *Hence:* zelosia
+**zelosia (-ía)** *n* jealousy
+**zelote** *n* zealot (1. zealous person; 2. [Jewish Antiq.]) *Hence:* zelotismo
+**zelotismo** *n* zealotism, zealotry
+**zenit** *n* zenith *Hence:* zenital
+**zenital** *adj* zenith, zenithal
+**Zephyro** *npr* [Cr. Mythol.] Zephyrus; zephyro zephyr (1. west wind; 2. soft, gentle breeze; 3. zephyr cloth)
+**zeppelin** [G] *n* Zeppelin
+**zero** *n* 1. zero, cipher; 2. as in "zero centigrade"; **zero absolute** absolute zero
+**zeta** *n* 1. zeta (= sixth letter of the Greek alphabet); 2. zed, zee (= the letter "z")
+**Zeus (Zéus)** *npr* [Gr. Relig.] Zeus *Hence:* diantho etc.
+**zigzag (zígzág)** *n* zigzag *Hence:* zigzagar
+**zigzagar** *v* to zigzag
+**zinc** *n* [Chem.] zinc; **oxydo de zinc** zinc oxide; **blanco de zinc** zinc white *Hence:* zincar-zincaga; zincographo etc.
+**zincage (-aje)** *n* (act of) zincking
+**zincar** *v* to zinc, coat with zinc
+**zincographia (-ía)** *n* zincography, zinc etching
+**zincographic** *adj* zincographic, zincographical
+**zinco·grapho (-có-)** *n* zincographer *Hence:* zincographia; zincographic
+**zircon** *n* [Mineral.] zircon *Hence:* zirconium-zirconic
+**zirconic** *adj* [Chem.] zirconic
+**zirconium** *n* [Chem.] zirconium
+**zodiacal** *adj* zodiacal
+**zodiaco (-dí-)** *n* zodiac *Hence:* zodiacal
+**zoic (zóic)** *adj* [Zool.] zoic
+**zona** *n* zone; **le zona torride** the Torrid Zone; **zona temperate** Temperate Zone; **zona frigide/glacial** Frigid Zone *Hence:* zonal-bizonal etc.; zonar
+**zonal** *adj* zonal
+**zonar** *v* to zone
+**zoo·graphia (-ía)** *n* zoography *Hence:* zoographic
+**zoographic** *adj* zoographic
+**zooide** *n* zooid
+**zoo·latra (zo-ó-)** *n* zoolater, animal worshiper *Hence:* zoolatria
+**zoolatria (-ía)** *n* zoolatry, animal worship
+**zoo·litho (zo-ó-)** *n* zoolith, zoolite
+**zoologia (-ía)** *n* zoology
+**zoologic** *adj* zoological; **jardin zoologic** zoological garden
+**zoologista** *n* zoologist
+**zoo·logo (zo-ó-)** *n* zoologist *Hence:* zoologia-zoologista; zoologic
+**zoon (zó-on)** (*pl* **zoa**) *n* [Zool.] zoon *Hence:* zoic-cenozoic etc, paleozoic etc; zoide; epizoon; azoic; zoolitho etc; zoologo etc; zoographia etc; zoophyto etc; spermatozoon etc; entozoon etc.; protozoon etc.
+**zoophytic** *adj* [Zool.] zoophytal, zoophytic
+**zoo·phyto (zo-ó-)** *n* [Zool.] zoophyte
+**zoophyto·logia (-ía)** *n* zoophyto]ogy
+**zoo·spora (zo-ó-)** *n* [Bot.] zoospore
+**zoo·tomia (-ía)** *n* zootomy
+**Zoroastre** *npr* Zoroaster *Hence:* zoroastrismo; zoroastrian-zoroastriano
+**zoroastrian** *adj* Zoroastrian
+**zoroastriano** *n* Zoroastrian
+**zoroastrismo** *n* Zoroastrianism
+**zuavo** *n* zouave
+**zulu** *n* Zulu
+**zym**- *n* [occurring in compounds] zymo-, zym- (= leaven, ferment) *Hence:* azyme; enzyma
