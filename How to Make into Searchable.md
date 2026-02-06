@@ -17,7 +17,7 @@
 3. Replace with: ` *v* `, ` *n* ` , ` *adj* ` , ` *adv* `, ` *see* `  
 
 
-## P
+## A
 - [ ] see
 - [ ] v
 - [ ] also:
