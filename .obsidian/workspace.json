@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "IALADICTIONARY"
             }
+          },
+          {
+            "id": "1d70ccbd97c7aae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IALA (delete as you move to html tags in .csv).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IALA (delete as you move to html tags in .csv)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IALADICTIONARY.md",
+                "file": "IALA (delete as you move to html tags in .csv).md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IALADICTIONARY"
+              "title": "Outline of IALA (delete as you move to html tags in .csv)"
             }
           }
         ],
@@ -182,13 +197,14 @@
       "spreadsheets:New Spreadsheet": false
     }
   },
-  "active": "9c07222b1c3e8c08",
+  "active": "1d70ccbd97c7aae6",
   "lastOpenFiles": [
+    "IALADICTIONARY.md",
+    "IALA (delete as you move to html tags in .csv).md",
     "data/VAL-IE.html",
     "Untitled.base",
     "Soreto.md",
     "README.md",
-    "IALADICTIONARY.md",
     "data/F0CF2C10",
     "data/E74F2C10",
     "IALADictxlsx.sheet",
@@ -196,10 +212,8 @@
     "data/A76A2C10",
     "data/61952C10",
     "data/~$val-ie.xlsx",
-    "Untitled.md",
     "data/val-ie.xlsx",
     "val-ie.xlsx",
-    "5B832C10",
     "How to Make into Searchable.md",
     "unnamed-1.jpg",
     "Untitled 2.md",
