@@ -8717,6 +8717,1673 @@ jubilator
 **millionesimo (-né-)** *n* millionth (part)
 **mobilate** 1. *pp* of **mobilar**; 2. *adj* as in "furnished house"
 
+---
+
+**m** *abbr* = metro;
+**m²** = **metro quadrate**;
+**m³** = **metro cubic** 
+**[ma]** *conj* but; **non solmente ... ma alsi** not only ... but also (= **mais**)
+**macabre** *adj* gruesome, macabre; **dansa macabre** dance of death, danse macabre
+**MacAdam, John London** *npr* [1756-1836; scottish engineer who invented macadam pavement] *Hence:* macadam-macadamisar- macadamisation
+**macadam** [A] *n* macadam
+**macadamisar** *v* to macadamize
+**macadamisation** *n* macadamization
+**macaron** *n* macaroon
+**macaronea (-éa)** *n* macaronic composition, macaronics
+**macaroni** *npl* [Cookery] macaroni *Hence:* macaronea; macaronic
+**macaronic** *adj* macaronic (as in "macaronic verse")
+**Maccabeos (-éos)** *nprpl* Maccabees
+**macedone** *n* Macedonian (= inhabitant of Macedonia) *Hence:* Macedonia; macedonie-macedonia
+**macedone** *adj* Macedonian (= pertaining to Macedonia
+**Macedonia** *npr* Macedon, Macedonia
+**macedonia** *n* [Cookery] macédoine
+**macedonie** *adj* Macedonian (= pertaining to Macedonia)
+**macellar** *v* to butcher, slaughter
+**macelleria (-ía)** *n* butchershop
+**macellero** *n* butcher
+**macello** *n* slaughterhouse *Hence:* macellero; macelleria; macellar
+**mach**- [occurring in compounds] mach- (= fight) *Hence:* machopolypo etc.; logomache etc.; sciamachia etc.; tauromachia etc.; batrachomyomachia etc.
+**Machiavelli, Niccolo (níc-)** *npr* [1469-1527; Florentine statesman] *Hence:* machiavellismo; machiavellista; machiavellic
+**machiavellic** *adj* Machiavellian
+**machiavellismo** *n* Machiavellism
+**machiavellista** *n* Machiavellian
+**machina (má-)** *n* machine; *also:* engine; **machina infernal** infernal machine; **machina (de scriber)** typewriter; **machina de vapor** (steam) engine *Hence:* machinal; machineria; machinista; machinar &
+**machinal** *adj* mechanical (1. as in "mechanical powers"; 2. as in "mechanical action")
+**machinar** *v* to machinate *Hence:* machination, machinator
+**machination** *n* machination
+**machinator** *n* plotter, machinator
+**machineria (-ía)** *n* machinery (= machines collectively)
+**machinista** *n* 1. machinist (= one who invents, makes or controls machines); 2. engineman; 3. stagehand, scene shifter
+**macho·polypo (-pó-)** *n* [Zool] machopolyp
+**macie** *n* leanness, thinness Hcnce: emaciar &
+**macr**- *adj* [occurring in compounds] macro- (= long, large) *Hence:* macrocosmo etc.; macroseismo etc.; macrocephale etc.; macroscopic etc.
+**macro·cephale** *adj* macrocephalic *Hence:* macrocephalia
+**macrocephalia (-ía)** *n* macrocephaly
+**macrocosmic** *adj* macrocosmic
+**macro·cosmo** *n* macrocosm *Hence:* macrocosmic
+**macro·cyste** *n* [Biol; Bot] macrocyst
+**macro·scele** *adj* macroscelous, long-legged *Hence:* macroscelia
+**macroscelia (-ía)** *n* macroscelia, long- leggedness
+**macro-scelide (-scé-)** *n* [Zool] elephant shrew, Macroscelides
+**macro·scopic** *adj* macroscopic
+**macro·seismo (-séizmo)** *n* macroseism, major earthquake
+**macula** *n* stain, spot; **sin macula** spotless, immaculate *Hence:* macular-maculamento, maculabile, maculate-immaculate; dismacular-dismaculator, dismaculatura
+**maculabile** *adj* spotting easily
+**maculamento** *n* spotting, staining
+**macular** *v* to stain, spot
+**maculate** 1. *pp* of **macular**; 2. *adj* spotted, speckled, flecked
+**madonna** *n* madonna
+**madrigal** *n* [Poet, Mus] madrigal
+**maestra** *n* mistress (= female teacher)
+**maestrabile** *adj* teachable
+**maestral** *adj* masterly
+**maestramento** *n* instruction, training
+**maestrar** *v* 1. to master; 2. to instruct, train
+**maestrative** *adj* instructive
+**maestria (-ía)** *n* mastery (= skill, dexterity, worthy of a master)
+**maestro** *n* master (1. lord, owner, etc.; 2. person possessing approved skill or mastery); *attrib* master (= main); **maestro de ceremonias** master of ceremonies; **maestro (carpentero, etc.)** master (carpenter etc.); **maestro (de schola)** (school)master *Hence:* maestria; maestral; maestrar- maestramento, maestrabile, maestrative; burgomaestro etc.; maestra
+**maga** *n* enchantress, sorceress; *also:* witch
+**magazin** *n* 1. warehouse, storehouse; 2. store, shop; 3. [Mil] magazine (of military supply); 4. magazine (= entertaining periodical for the general reader) *Hence:* magazinero; immagazinar- immagazinage
+**magazine** [A] *n* magazine (= entertaining periodical for the general reader)
+**magazinero** *n* warehouseman
+**magia (-ía)** *n* magic; *also:* witchcraft; **magia blanc** white magic; **magia nigre** black magic
+**magic** *adj* magic, magical; **lanterna magic** magic lantern
+**magico** *n* magician [magis] (m -) *adv* 1. more; 2. rather
+**magistral** *adj* 1. magisterial (as in "magisterial air"); 2. [Pharm] magistral
+**magistrato** *n* magistrate *Hence:* magistratura
+**magistratura** *n* magistracy, magistrature (1. dignity or office of a magistrate; 2. magistrates collectively)
+**magistro** *n* master (as in "master of arts") *Hence:* magistrato &; magistral
+**magn·anime (-ná-)** *adj* magnanimous *Hence:* magnanimitate
+**magnanimitate** *n* magnanimity
+**magnate** *n* magnate (1. person of eminence or great influence; 2. [Hist] member of the Upper House in the Diets of Hungary and Poland)
+**magne** *adj* great, eminent *Hence:* magnate; magnitude; magnific &; magnificar-magnification; magnamime etc.
+**magnesia** *n* [Chem] magnesia (= magnesium oxide) *Hence:* magnesium; magnesian; magnesic
+**magnesian** *adj* [Chem] magnesian
+**magnesic** *adj* [Chem] magnesic
+**magnesium (-né-)** *n* magnesium
+**magnete** *n* magnet *Hence:* magnetismo; magnetic; magnetisar;
+magnetron etc.; magneto-electric etc.; electromagnete etc.
+**magnetic** *adj* magnetic
+**magnetisar** *v* to magnetize (1. to charge with magnetic properties; 2. to mesmerize)
+**magnetismo** *n* magnetism; **magnetismo animal** animal magnetism, mesmerism
+**magneto** *n* [Elec] magneto
+**magneto-electric** *adj* magneto-electric
+**magnet·ron** *n* [Atomic Phys] magnetron
+**magnific** *adj* 1. magnificent; 2. munificent *Hence:* magnificente-magnificentia
+**magnificar** *v* to exalt, extol, magnify
+**magnification** *n* exaltation (= act of exalting or extolling)
+**magnificente** *adj* 1. magnificent; 2. munificent
+**magnificentia** *n* 1. magnificence; 2. munificence
+**magnitude** *n* magnitude (1. greatness; 2. [Astron])
+**mago** *n* 1. magus, mage; 2. magician, sorcerer; **le (tres) magos** the (three) Magi *Hence:* magic-magico; magia; maga
+**magre** *adj* lean, thin, meager; **die magre** [Eccl] fast day *Hence:* magressa; magrir
+**magressa** *n* leanness, thinness
+**magrir** *v* to become lean or thin, reduce
+**mahagoni (-há-)** *n* mahogany
+**maharaja** [Hind] *n* maharaja
+**maharani** [Hind] *n* maharanee
+**mahatma** *n* mahatma
+**mahdi (-dí)** *n* Mahdi
+**Mahomet** *npr* Mohammed *Hence:* mahometismo; mahometista; mahometan-mahometano
+**mahometan** *adj* Mohammedan, Mahometan
+**mahometano** *n* Mohammedan, Mahometan
+**mahometismo** *n* Mohammedanism, Mahometanism
+**mahometista** *n* Mohammedan
+**maio** *n* May
+**mais (-ís)** *n* (Indian) corn, maize 
+**mais (máis)** *conj* but; **non solmente mais etiam** not only but also
+**majest**- *see* **majestate**
+**majestate** *n* 1. majesty; 2. Majesty *Hence:* majestose; majestatic
+**majestatic** *adj* majestic
+**majestose** *adj* majestic, majestical
+**major** *adj* major (1. greater in demension, rank, age, etc.; 2. [Mus]; 3. [Law] of full age); **fortia major** force majeure; **le major parte del tempore** most of the time; **stato major** [Mil] general staff *Hence:* majoritate; majorar; major-majoria, majordomo etc.
+**major** *n* major (1. [Army]; 2. person who is of age); major general major-general
+**majorar** *v* to make greater
+**major·domo** *n* major-domo
+**majoria (-ía)** *n* majority (1. rank of an army major; 2. legal age of responsibility)
+**majoritate** *n* majority (1. greater or greatest number; 2. legal age of responsibility; 3. rank of an army major)
+**majuscula** *n* capital (= capital letter)
+**majuscule** *adj* capital (as in "capital letter *Hence:* majuscula
+**mal** *adj* bad, evil; **le mal oculo** the evil eye *Hence:* malitia &; malefic &: maligne &: malformation etc.; malgrado etc.; malodor etc.; malsan etc.; malevole etc.; malevolente etc.; malfamate etc.; maledicer etc.; maltractar etc.
+**mal** *adv* badly 
+**mal** *n* 1. evil, *also:* bad (= badness, that which is bad); 2. illness; 3. pain, ache; mal caduc falling sickness, epilepsy; mal de mar seasickness; facer mal a un persona to hurt, injure, a person; **mal de capite** headache; **mal del pais** homesickness; **mal del aviatores** airsickness
+**malaceas** *npl* [Bot] Malaceae
+**malacee** *adj* [Bot] malaceous
+**malade** *adj* ill, sick *Hence:* maladia
+**maladia (-ía)** *n* illness, sickness
+**malaria** [I] *n* [Pathol] malaria *Hence:* malaric
+**malaric** *adj* malarial
+**malay (-ái)** *n* Malay (1. member of the Malayan Race; 2. Malay language) *Hence:* Malaya
+**malay (-ái)** *adj* Malay, Malayan
+**Malaya** *npr* Malaya, Malay Peninsula
+**malcontente** *adj* dissatisfied; *also:* malcontent
+**maledicente** *adj* slanderous
+**maledicentia** *n* slander
+**male·dicer [-dic-/-dict-]** *v* to curse (= to utter a curse or curses against) *Hence:* maledicente-maledicentia; malediction; maledicte
+**maledict**- *see* **maledicer**
+**maledicte** *adj* cursed, accursed
+**malediction** *n* malediction, curse
+**malefic (-lé-)** *adj* malefic, harmful *Hence:* maleficio; maleficente-maleficentia
+**maleficente** *adj* maleficent, evil-doing
+**maleficentia** *n* maleficence, mischievousness
+**maleficio** *n* evil deed, mischief
+**male·vole** *adj* malevolent
+**male·volente** *adj* malevolent *Hence:* malevolentia
+**malevolentia** *n* malevolence
+**mal·facer [-fac-/-fact-]** *v* to do evil, wrong *Hence:* malfaciente; malfactor
+**malfaciente** *adj* maleficent, harmful
+**malfact**- *see* **malfacer**
+**malfactor** *n* malefactor
+**mal·famate** *adj* in bad repute
+**mal·formation** *n* malformation
+**mal·grado** *conj* in spite of
+**mal·gratiose** *adj* churlish, rude 
+**[malgre] (-gré)** prep in spite of (= malgrado)
+**malia** *n* 1. mesh (of a net); 2. stitch (in knitting, etc.); 3. mail-armor *Hence:* maliar; inmaliar
+**maliar** *v* to net (as in "to make a living by netting purses")
+**malic** *adj* malic; **acido malic** malic acid
+**malignar** *v* to be malignant
+**maligne** *adj* malignant (1. malicious; 2. malign, harmful) *Hence:* malignitate; malignar
+**malignitate** *n* malignancy, malignity
+**malitia** *n* malice *Hence:* malitiose
+**malitiose** *adj* malicious
+**malleabile** *adj* malleable
+**malleabilitate** *n* malleability
+**mallear** *v* 1. to hammer, hammer out; 2. to thresh (grain), etc. *Hence:* malleabile-malleabilitate
+**malleo** *n* I. mall (1. mallet used in game of mall; 2. the game "mall"; 3. the alley in which mall was played); II. sledgehammer *Hence:* mallette; mallear &
+**mallette** *n* mailet
+**malo** *n* apple *Hence:* malacee-malaceas; malic
+**mal·odor** *adj* malodorous
+**mal·san** *adj* unhealthy (1. not in good health; 2. unwholesome)
+**mal·sonante** *adj* 1. ill-sounding; 2. offensive, scandalous
+**malt** *n* malt *Hence:* maltosa; maltar-maltator
+**maltar** *v* to malt (= convert into malt)
+**maltator** *n* malter, maltster
+**maltosa** *n* [Chem] maltose
+**maltractamento** *n* maltreatment
+**mal·tractar** *v* to maltreat *Hence:* maltractamento
+**mal·versar** *v* to be guilty of malversation or corruption in office *Hence:* malversation
+**malversation** *n* malversation (= corruption in office)
+**mam**- *see* **mamma**
+**mamilla** *n* [Anat] mamma *Hence:* mamillon; mamillari; mamillate; mamilliforme etc.
+**mamillari** *adj* mamillary (1. pertaining to the breast; 2. mammiform)
+**mamillate** *adj* mamillated, mamillary
+**mamilli·forme** *adj* mamillary, mamilliform
+**mamillon** *n* [Geog] mamelon
+**mamma** *n* 1. [Anat] mamma; 2. mama (= mother) *Hence:* mammal &; mammari; mammifere &; mammiforme etc.; mamilla &
+**mammal** *n* mammal *Hence:* mammalogia etc.
+**mammal·ogia (-ía)** *n* mammalogy *Hence:* mammalogic
+**mammalogic** *adj* mammalogical
+**mammari** *adj* mammary
+**mammifere** *adj* mammiferous *Hence:* mammifero
+**mammifero (-í-)** *n* mammal
+**mammi·forme** *adj* mammiform
+**mammona** *n* [Bib] mammon
+**mammut** *n* mammoth
+**man**-¹ [occurring in derivatives and compounds] *Hence:* mania-maniac-maniaco, anglomania etc., bibliomania etc., megalomania etc.; bibliomane etc.; megalomane etc.; anglomano etc.; kleptomano etc.; theatromano etc.
+**man**-² *adj* [occurring in compounds] mano- (1. rare, thin; 2. gaseous) *Hence:* manometro etc.
+**manar** *v* 1. to flow, trickle; 2. to emanate *Hence:* emanar &
+**manata** *n* handful
+**mancar** *v* to be lacking (= to be deficient or missing)
+**manchette** [F] *n* cuff (of a sleeve)
+**manchu (-tchú, -djú)** *adj* Manchu,
+**Manchurian** *Hence:* Manchuria, Manchukuo etc.
+**manchu (-tchú, -djú)** *n* Manchu (1. Manchurian; 2. Manchu language)
+**Manchu·kuo (-tchúkwó, -djúkwó)** *npr* Manchukuo
+**Manchuria (-tch-, -dj-)** *npr* Manchuria
+**mancipar** *v* to make over or deliver up as property
+**man·cipe (mán-)** *n* purchaser *Hence:* mancipar-emancipar etc.
+**manco** *n* lack, want *Hence:* mancar
+**mand**- *v* [occurring in derivatives] *Hence:* mandibula &; manducar &
+**mandante** *n* [Law] principal, mandator
+**mandar** *v* 1. to order (= to have a person follow an order or instruction); 2. to send *Hence:* mandante; mandato &; commandar &; contramandar; demandar &
+**mandarin** *n* mandarin (= Chinese public official); **lingua mandarin** Mandarin (language) *Hence:* mandarinato; mandarinismo
+**mandarina** *n* mandarin (= tangerine) *Hence:* mandariniero
+**mandarinato** *n* mandarinate
+**mandariniero** *n* mandarin (tree)
+**mandarinismo** *n* mandarinism
+**mandatario** *n* mandatary, mandatory; *also:* attorney, agent, etc.
+**mandato** *n* 1. order, command; 2. [Law, Pol] mandate; **mandato postal** (postal) money order *Hence:* mandatario
+**mandibula** *n* [Anat] jaw; also [Anat, Zool] mandible *Hence:* mandibular
+**mandibular** *adj* mandibular
+**mandola** [I] *n* mandola, mandora, pandora, pandore, bandore, etc. (= musical instrument similar to a mandolin, but larger)
+**mandolino** [I] *n* mandolin
+**manducabile** *adj* edible
+**manducar** *v* to eat; **manducar (un persona) vive** to eat (someone) alive; **manducar le parolas** to mumble, chew one's words *Hence:* manducabile; manducation
+**manducation** *n* (act of) eating [mane] 1. *n* morning; 2. *adv* early in the morning
+**maneabile** *adj* easy to handle; manageable
+**maneabilitate** *n* wieldiness; manageability
+**maneamento** *n* handling (of a tool, instrument, etc.)
+**manear** *v* to handle (a tool, instrument); *also:* [Equit] to manage; train, break in *Hence:* maneo; maneamento; maneabile- maneabilitate, immaneabile
+**maneo (-éo)** *n* I. stratagem, trick; II. manège (1. horsemanship; 2. riding school) 
+-**maner** *v* [occurring in derivatives and compounds] *Hence:* immaner &; permaner &; remaner &
+**mangan**- *see* **manganese**, **manganic**
+**manganato** *n* [Chem] manganate
+**manganese** *n* [Chem] manganese (= the metal "manganese") *Hence:* manganite; manganic-manganato, permanganic-permanganato; manganifere; manganose
+**manganic** *adj* [Chem] manganic
+**manganifere** *adj* manganiferous
+**manganite** *n* [Mineral] manganite
+**manganose** *adj* [Chem] manganous
+**mangiabile (-já-)** *adj* edible
+**mangiar (-jár)** *v* to eat *Hence:* mangiabile; mangiator; mangiatoria
+**mangiar (-jár)** *n* food
+**mangiator (-ja-)** *n* eater
+**mangiatoria (-ja-)** *n* manger, crib
+**mania (-ía)** *n* mania (1. [Pathol]; 2. as in "sport mania"); haber le mania de to have a mania for
+**maniac (-í-)** *adj* maniac
+**maniaco (-í-)** *n* maniac
+**manica** *n* 1. [Clothing] sleeve; 2. hose (= flexibile tube for conveying water, etc.); 3. channel, strait; 4 handcuff; 5 gas-mantle; **in manicas de camisa** in shirt sleeves; **haber le manica large** to be lenient (in judging moral matters); **le Manica** the (English) Channel
+**manich**- *see* **manico**
+**manichetto** *n* muff
+**manico** *n* handle (of a hammer, broom, plow, etc.); neck (of a violin) *Hence:* manichetta; dismanicar; immanicar
+**mani·curo** *n* manicurist
+**maniera** *n* manner, way; **de maniera que** so that; **manieras** manners; **bon manieras** good manners; **mal manieras** bad manners *Hence:* manierismo; manierista; manierose; manierar
+**manierar** *v* to fill with mannerism, to make affected, to stylize
+**manierismo** *n* mannerism
+**manierista** *n* mannerist
+**manierose** *adj* well-mannered, mannerly
+**manifestar** *v* to manifest
+**manifestation** *n* manifestation (1. act of manifesting; 2. public demonstration)
+**manifeste** *adj* manifest *Hence:* manifestar-manifestation; manifesto
+**manifesto** *n* 1. manifesto; 2. manifest
+**manilla** *n* 1. bracelet; 2. shackle
+**mani·luvio** *n* [Med] maniluvium, bath for the hands
+**manipular** *v* to manipulate *Hence:* manipulation; manipulative; manipulator; manipulatori
+**manipulation** *n* manipulation
+**manipulative** *adj* manipulative
+**manipulator** *n* manipulator
+**manipulatori** *adj* manipulatory
+**manivella** *n* [Mach] crank *Hence:* manivellar
+**manivellar** *v* to crank, turn a crank
+**manna** *n* manna (1. "Biblical manna"; 2. [Pharm])
+**mannequin** [F] *n* mannequin (1. figure of a person used by artists, tailors, etc.; 2. dressmaker's live model)
+**mano** *n* I. hand (1. hand of a person; 2. handwriting); II. quire (of paper); **sub mano** in an underhanded way; **del mano al mano** directly without intermediary; **de prime mano** first-hand; **dar le ultime mano** a to give the final touch to; **un mano lave le altere** you scratch my back, I scratch yours; **demandar le mano de un persona** to ask for someone's hand; **mano morte** mortmain; **lavar se le manos de** to wash one's hands of; **venir al manos** to come to blows; **de secunde mano** second-hand *Hence:* manata; manilla; manual; manico &; manica; manear &; manumitter etc.; manicuro etc.; quadrumane etc.; manufac- etc.; manuscripte etc.; manomorte etc.; manicuro etc.; maniluvio etc.; mantener etc.; mancipe etc.; sinistronane etc.; quadrumane etc.; lavamanos etc.
+**mano·grapho (-ó-)** *n* [Engin] manograph
+**mano·metro (-ó-)** *n* manometer
+**mano·morte** *n* [Law] mortmain
+**manovra** *n* 1. operation (= act of putting and keeping in operation); 2. [RR] shunting; switching; 3. seamanship; 4 maneuver; manovras 1. [Mil] maneuvers; 2. [Naut] rigging, tackle *Hence:* manovrar-manovrabile-**manovrabilitate**, manovrator
+**manovrabile** *adj* maneuverable
+**manovrabilitate** *n* maneuverability
+**manovrar** *v* 1. to operate (= to put and keep in operation); 2. to maneuver
+**manovrator** *n* maneuverer
+**Mansard, François** *npr* [1598-1666; French architect] *Hence:* mansarda
+**mansarda** *n* [Arch] mansard (1. mansard roof; 2. mansard story or room); *also:* garret, attic
+**mansuete** *adj* tame; *also:* gentle, mild, meek, etc. *Hence:* mansuetude
+**mansuetude** *n* tameness; *also:* gentleness, meekness, mildness, etc.
+**mante** *n* [Zool] mantis -mante *n* [occurring in derivatives and compounds] -mancer (= prophet, seer) *Hence:* -mantia-bibliomantia etc., hieromantia etc.; mantic-mantica; chiromante etc.; necromante etc.
+**mantelletto** *n* mantelet (1. short mantle or cape; 2. [Fortif])
+**mantello** *n* coat, mantle, cloak, etc. *Hence:* mantelletto; dismantellar &; portamantello etc.
+**mantenentia** *n* maintenance (1. as in "maintenance of order"; 2. means of sustenance)
+**man·tener** *v* to maintain (1. to keep in the same position or status; 2. to adhere to an opinion) *Hence:* mantenimento; mantenentia; mantenitor
+**mantenimento** *n* maintenance (1. as in "maintenance of order"; 2. means of sustenance)
+**mantenitor** *n* maintainer 
+-**mantia (-ía)** *n* [occurring in compounds] -mancy (= divination)
+**mantic** *adj* mantic
+**mantica** *n* manticism, mantic, divination
+**mantilla** [H] *n* (Spanish) mantilla
+**manu**- *see* **mano**
+**manual** *adj* manual 
+**manual** *n* manual (= handbook)
+**manu·fac- [fac-/-fact-]** *v* [occurring in derivatives] *Hence:* manufactura-manufacturari, manufacturar
+**manufact**- *see* **manufac**-
+**manufactura** *n* 1. factory, manufactory; 2. manufacture, fabrication
+**manufacturar** *v* to manufacture
+**manufacturari** *adj* manufacturing (as in "manufacturing town")
+**manumiss**- *see* **manumitter**
+**manumission** *n* manumission
+**manu·mitter [-mitt-/-miss-]** *v* to manumit *Hence:* manumission
+**manu·scripte** *adj* manuscript *Hence:* manuscripto
+**manuscripto** *n* manuscript
+**mappa** *n* map
+**mappamundi** [NL] *n* map of the world
+**maquerello (makeréllo)** *n* mackerel
+**mar** *n* sea (= large body of salt water); **un mar de (sanguine)** a sea of (blood); **(in) alte mar** (on) high seas; **homine de mar** seaman, seafaring man; **mal de mar** seasickness; **mar grosse** heavy sea; **Mar Nigre** Black Sea; **Mar Morte** Dead Sea; **Mar del Nord** North Sea *Hence:* marea; marin &; maritime; amarar &; ultramar; verdemar etc.
+**marabu (-bú)** *n* [Ornith] marabou
+**marabut** *n* marabout (= Mohammedan saint or hermit)
+**marasca** [I] *n* marasca (cherry) *Hence:* maraschino
+**marasch**- *see* **marasca**
+**maraschino** *n* maraschino
+marca¹ *n* I. mark (1. trace, impression; 2. sign, indication; 3. stamp, brand, label, etc.); II. marker (= instrument for marking); **marca de fabrica** trademark; **(de) marca (superior)** (of a superior) brand; **(vino) de marca** quality or choice (wine); **(persona) de marca** (person) of mark *Hence:* marcar-marcator, marcate, demarcar &, dismarcar, remarcar &; contramarca- contramarcar
+**marca²** *n* marchland, march *Hence:* marchese &
+**marcar** *v* to mark (= to indicate, distinguish etc. by a mark or marks)
+**marcate** 1. *pp* of **marcar**; 2. *adj* marked (as in "a marked difference")
+**marcator** *n* marker (= one who marks)
+**marcer** *v* to wither, wilt *Hence:* marcide; marcor; marcescer &
+**marcescente** 1. *ppr* of **marcescer**; 2. *adj* [Bot] marcescent
+**marcescentia** *n* [Bot] marcescence
+**marcescer** *v* to wither, wilt *Hence:* marcescente-marcescentia; marcescibile-immarcescibile
+**marcescibile** *adj* withering, wilting (= liable to wither or wilt)
+**march**- *see* **marca**
+**marcha (-sh-)** *n* march (as in "military, processional, funeral, etc., march"); **marcha fortiate** forced march; **marcha funebre** funeral march; **poner se in marcha** to start, get under way, etc.; **ordine de marcha** order of march, marching order
+**marchar** (-sh-) *v* to march *Hence:* marcha-contramarcha-contramarchar
+**marchesa** *n* marchioness, marquise
+**marchesato** *n* marquisate
+**marchese** *n* 1. marquess, marquis; 2. marchioness, marquise *Hence:* marchesato; marchesa
+**marcide** *adj* withered, wilted; *also:* languid, weak
+**marco** *n* mark (1. [Hist] unit of weight for gold and silver; 2. [Fin] monetary unit)
+**Marco** *npr* Mark
+**marcor** *n* withering, wilting; decaying, decay; *also:* languishing
+**marea (-éa)** *n* tide; marea alte high water, high tide; marea basse low water, low tide
+**marechal** [F] *n* marshal, field marshal *Hence:* marechalato; marechala
+**marechala (-sh-)** *n* field marshal's wife
+**marechalato (-sh-)** *n* marshalship
+**maremma** *n* fen, salt marsh, etc.; *also:* maremma
+**margar**- *n* [occurring in derivatives] *Hence:* margarina &; margarita; margaric
+**margaric** *adj* [Chem] margaric
+**margarina** *n* margarine *Hence:* oleomargarina etc.
+**margarita** *n* 1. pearl; 2. daisy, marguerite; **jectar margaritas ante porcos** to cast pearls before swine; **Margarita** Margaret
+**marginal** *adj* marginal; **nota marginal** marginal note
+**marginar** *v* 1. to leave a margin on; 2. to make marginal notes on
+**marginate** 1. *pp* of **marginar**; 2. *adj* bordered, marginate
+**margine** *n* margin (1. border, edge; 2. "margin of a printed or written page") *Hence:* marginal; marginose; marginar-marginate; emarginar &
+**marginose** *adj* with a wide margin
+**Maria (-ía)** *npr* Mary, Marie *Hence:* marista; Marion; marian-marianismo;
+Marianna etc.
+**marian** *adj* Marian
+**marianismo** *n* Mariolatry (= excessive veneration of the Virgin Mary)
+**Mari·anna** *nprf* Marian, Marianne; Mariannas [Geog] Marianas
+**marin** *adj* marine (= of the sea); **millia marin** nautical mile; **(planta) marin** sea (plant) *Hence:* marinar &; submarin &; ultramarin; aquamarin etc.; rosmarino etc.; marino; marina-marinero
+**marina** *n* marine (1. as in "merchant marine"; 2. [Paint]); **marina de guerra** navy; **officiero de marina** naval officer; **ministerio del marina** admiralty; **infanteria de marina** marines; **marina mercante** merchant or mercantile marine
+**marinada** *n* marinade
+**marinar** *v* to marinade, marinate *Hence:* marinada
+**marinero** *n* sailor, seaman, mariner
+**marino** *n* seaman
+**Mario** *nprm* Marius
+**Marion** *npr* Marion
+**marionette** [F] *n* marionette, puppet; theatro de marionettes puppet show *Hence:* marionettista
+**marionettista** *n* puppeteer
+**marisco** *n* marsh, bog
+**marista** *n* [RCCh] Marist
+**maritabile** *adj* marriageable
+**maritage (-aje)** *n* marriage
+**marital** *adj* marital
+**maritar** *v* to marry (= to unite in wedlock); **maritar se** to marry (= to get married)
+**maritime (-rí-)** *adj* maritime; **commercio maritime** seaborne trade; **citate maritime** seaside town; **assecurantia maritime** marine insurance; **derecto maritime** maritime law
+**marito** *n* husband *Hence:* marital; marittar-maritage, maritabile, remaritar; ex-marito
+**marmelada** *n* jam, preserves; marmelada (de oranges) (orange) marmelade
+**marmita** *n* [Cookery] pot
+**marmorar** *v* to marble, marbleize
+**marmorari** *adj* marble
+**marmorator** *n* marbler, marbleizer
+**marmore** *n* marble (1. as in "Carrara marble"; 2. as in "to play marbles") *Hence:* marmorero; marmoreria; marmoriera; marmorari; marmorar-marmorator; marmorisar
+**marmoreria (-ía)** *n* 1. marble cutting; 2. marble works
+**marmorero** *n* 1. marble cutter, marble carver; 2. marble polisher
+**marmoriera** *n* marble quarry
+**marmorisar** *v* 1. to marmorize; 2. to marbleize, marble
+**marocch**- *see* **Marocco**
+**marocchin** *adj* 1. Moroccan; 2. morocco
+**marocchin** *n* morocco (leather), maroquin *Hence:* marocchinero; marocchineria; marocchinar
+**marocchinar** *v* to dress (skin) like morocco
+**marocchineria (-ería)** *n* 1. (action or process of) dressing morocco; 2. trade in morocco (leather)
+**marocchinero** *n* 1. morocco dresser; 2. morocco dealer
+**marocchino** *n* Moroccan
+**Marocco** *npr* Morocco *Hence:* marocchin¹-marocchino, marocchin² &
+**Marquesas** [H] *npr* Marquesas (Islands)
+**marguis** [F] *n* marquis
+**marquise** [F] *n* 1. marquise, marchioness; 2. marquee
+**marron** *n* chestnut (= edible nut of the sweet chestnut tree) *Hence:* marroniero
+**marroniero** *n* (sweet) chestnut tree
+**Marte** *npr* Mars (1. [Rom Relig]; 2. [Astron]) *Hence:* martial; martedi etc.
+**marte·di (-dí)** *n* Tuesday
+**martellar** *v* to hammer
+**martellator** *n* hammerer; hammer operator
+**martello** *n* 1. hammer; 2. hammerhead (shark) *Hence:* martellar-martellator
+**martial** *adj* martial (1. pertaining to war; 2. warlike, eager to fight; 3. [Old Chem] containing iron); **lege martial** martial law; **corte martial** court-martial
+**Martin** *nprm* Martin; **martin piscator** kingfisher
+**Martino** *nprm* Martin
+**martio** *n* March
+**martyre** *n* martyr *Hence:* martyrio; martyrisar; martyrologio etc.; protomartyre etc.
+**martyrio** *n* martyrdom
+**martyrisar** *v* to martyr, martyrize
+**martyro·logio** *n* martyrology (= register of martyrs; *also:* histories of martyrs collectively)
+**Marx, Karl** *npr* [1818-1883; German socialist] *Hence:* marxismo; marxista
+**marxismo** *n* Marxism
+**marxista** *n/adj* Marxist, Marxian
+**Maryland** [A] *npr* Maryland
+**marzapane** [I] *n* marzipan, marchpane
+**masca** *n* mask (1. cover for the face, used for disguise; 2. person wearing a mask, masker; 3. as in "death mask") *Hence:* mascar-dismascar
+**mascar** *v* to mask; **mascar se** to put on, assume, etc., a mask
+**mascara (más-)** *n* mask (1. cover for the face, used for disguise; 2. person wearing a mask, masker; 3. as in "death mask") *Hence:* mascarar-mascarada
+**mascarada** *n* masquerade
+**mascarar** *v* to mask
+**mascotte** [F] *n* mascot
+**mascule** *adj* male *Hence:* masculin-masculinitate, masculinisar; emascular &; masculo
+**masculin** *adj* masculine (1. male, manly; 2. [Gram])
+**masculinisar** *v* 1. to make manly; 2. [Gram] to make masculine
+**masculinitate** *n* masculinity
+**masculo (más-)** *n* male
+**mason** *n* 1. mason; 2. Mason, Freemason *Hence:* masoneria; francmason etc.
+**masoneria (-ía)** *n* masonry (1. work of a mason; 2. Freemasonry)
+**massa¹** *n* I. mace (1. herald's staff; 2. club); II. sledge hammer, mallet, beetle, ram, etc. *Hence:* massero; massetta; massar
+**massa²** *n* mass (= coherent body of matter or of individual objects); **in massa** in a body; **le massa (de un patrimonio)** the (total) estate; **le massas** the masses *Hence:* massive; massar; amassar &
+**massacrar** *v* to massacre
+**massacrator** *n* massacrer
+**massacro** *n* massacre *Hence:* massacrar-massacrator
+**massage (-aje)** *n* massage
+**massar¹** *v* 1. to beat (with a club), to cudgel, thump; 2. to ram (= to drive with a ram)
+**massar²** *v* to mass, group together
+**massar³** *v* to massage *Hence:* massage
+**massero** *n* mace-bearer
+**massetta** *n* small mallet
+**masseur** [F] *n* masseur
+**masseuse** [F] *n* masseuse
+**massive** *adj* massive
+**mast** *n* [Naut] mast; **a medie mast** at half-mast
+**masticar¹** *v* to chew, masticate *Hence:* mastication; masticator; masticatori; remasticar
+**masticar²** *v* to cement, putty, etc.
+**mastication** *n* mastication
+**masticator** *n* chewer 
+**masticator** *adj* masticatory
+**mastico (más-)** *n* mastic (1. resin exuding from the mastic tree; 2. any of various pasty cements; *also:* putty) *Hence:* masticar
+**masto**- *n* [occurring in compounds] masto-, mast- (= breast) *Hence:* mastoide-mastoiditis; mastodonte etc.
+**mast·odonte** *n* mastodon
+**mastoide** *adj* mastoid
+**mastoiditis (-ítis)** *n* [Pathol] mastoiditis
+**mat** *adj* 1. checkmated; 2. dull, mat; **chaco mat** checkmate *Hence:* matar
+**matador** [H] *n* matador
+**matar** *v* 1. to checkmate, mate; 2. to dull, mat (metals, etc.)
+**match** [A] *n* [Sports] match
+**mater**- *see* **matre**
+**materia** *n* matter (1. physical substance; 2. material of thought); **materia prime** raw material; **tabula del materias** table of contents *Hence:* material &
+**material** *adj* material *Hence:* materialitate; materialismo; materialista-materialistic; materialisar-materialisation; immaterial-immaterialitate
+**material** *n* 1. material; 2. matériel
+**materialisar** *v* to materialize (= to render material)
+**materialisation** *n* materialization
+**materialismo** *n* materialism
+**materialista** *n* materialist
+**materialistic** *adj* materialistic
+**materialitate** *n* materiality
+**maternal** *adj* maternal (1. pertaining to the mother; 2. characteristic of a mother; motherly)
+**materne** *adj* maternal (1. pertaining to the mother; 2. characteristic of a mother, motherly) *Hence:* maternitate; maternal 
+**maternitate** *n* 1. motherhood, maternity; 2. maternity hospital
+**mathematic** *adj* mathematical *Hence:* mathematico; mathematica
+**mathematica** *n* mathematics
+**mathematico** *n* mathematician
+**Mathusala (-tú-)** *npr* Methuselah
+**matinal** *adj* 1. morning; 2. rising early
+**matinas** *npl* [Eccl] matins
+**matinata** *n* morning (= morning's duration)
+**matinee** [F] *n* 1. woman's negligee; 2. [Theat] matinee
+**matinero** *n* early riser
+**matino** *n* morning *Hence:* matinata; matinero; matiral; matinas
+**matras (-ás)** *n* mattress *Hence:* matrassero
+**matrass**- *see* **matras**
+**matrassero** *n* mattress maker
+**matrastra** *n* stepmother
+**matre** *n* mother; lingua matre parent language; **matre vite** [Mech] nut; **matre affin** mother-in- law *Hence:* matrastra; matrice &; matrina; matrimonio &; matrona &; materne &; commatre &; granmatre &; matriarcha etc.; matreperla etc.; matricida etc.; matricidio etc.
+**matre·perla** *n* mother-of-pearl
+**matri·archa** *n* matriarch *Hence:* matriarchato; matriarchal
+**matr·iarchal** *adj* matriarchal
+**matriarchato** *n* matriarchate
+**matrice** *n* matrix (1. [Anat]; 2. [Technol]) *Hence:* matricula &
+**matri·cida** *n* matricide (= one who kills his mother)
+**matri·cidio** *n* matricide (= act of killing one's
+mother)
+**matricula** *n* roll, register, list (of members), etc. *Hence:* matricular; matricular-matriculation
+**matricular** *adj* pertaining to registration or enrollment 
+**matricular** *v* to register, enroll (someone); *also:* to matriculate (a student); **matricular se** to matriculate (as a student)
+**matriculation** *n* matriculation
+**matrimonial** *adj* matrimonial
+**matrimonio** *n* matrimony *Hence:* matrimonial
+**matrina** *n* godmother
+**matrona** *n* matron (= elderly wife or widow) *Hence:* matronal
+**matronal** *adj* matronly
+**matta** *n* 1. mat (as in "door mat"); 2. [Foundry] matte *Hence:* mattar
+**mattar** *v* to lay with a mat
+**Mattheo (-éo)** *nprm* Matthew
+**matthiol**- *see* Mattioli, P A
+**matthiola** *n* gillyflower, stock
+**Mattioli, P A** *npr* [1500-1577; Italian physician] *Hence:* matthiola
+**matur** *adj* ripe; mature *Hence:* maturitate; maturar-maturation,
+maturative; immatur-immaturitate; prematur- prematuritate
+**maturar** *v* 1. to ripen; to mature; 2. [Med] to ripen (1. to bring to a head; 2. to maturate)
+**maturation** *n* maturation
+**maturative** *adj* maturative
+**maturitate** *n* ripeness, maturity
+**matutin** *adj* morning *Hence:* matutino-matutinal; matutinas
+**matutinal** *adj* 1. matutinal; 2. rising early
+**matutinas (-tí-)** *npl* [Eccl] matins
+**matutino** *n* morning
+**maure** *adj* Moorish *Hence:* mauro-mauresc-hispanomauresc etc., mauresca, Mauritania
+**mauresc** *adj* Moresque, Moorish
+**mauresca** *n* morris (dance)
+**Mauritania** *npr* 1. [Hist] Mauritania, Mauretania (= ancient district of North Africa); 2. Mauritania (= French colony of Mauritania)
+**Mauritio** *npr* 1. Maurice, Mauritius; 2. [Geog] Mauritius
+**mauro** *n* Moor
+**mauser** [G] *n* Mauser (rifle)
+**mausoleo (-éo)** *n* mausoleum
+**Mausolo** *npr* [Anc Hist] Mausolus *Hence:* mausoleo
+**mauve** [F] adj/n mauve
+**maxilla** *n* jawbone, jaw *Hence:* maxillar-intermaxillar, submaxillar; maxilliforme etc.
+**maxillar** *adj* maxillary; **osso maxillar** maxillary bone
+**maxilli·forme** *adj* maxilliform
+**maxim** [A] *n* maxim (gun), machine gun
+**maxima (máx-)** *n* maxim
+**maximal** *adj* maximal
+**maxime (máx-)** *adj* greatest, highest, maximal; **precio maxime** maximum price, ceiling price *Hence:* maximo-maximal; maxima 
+**[maxime] (máx-)** *adv* 1. most; 2. especially, principally; 3. exceedingly, very; 4 certainly
+**maximo (máx-)** *n* maximum
+**mayonnaise** [F] *n* mayonnaise
+**mazurka** [Polish] *n* [Dancing] mazurka
+**me** *pron* 1. *pers* me; 2. *refl* myself (as in "I hurt myself", "I said to myself")
+**mear** *v* to go, pass *Hence:* meato; commear &; permear &
+**meato** *n* [Anat] meatus
+**mechan**- *n* [occurring in derivatives and compounds] *Hence:* mechanic; mechanico; mechanica- telemechanica etc.; mechanismo; mechanisar-mechanisation; mechanotherapia etc.
+**mechanic** *adj* mechanical; **ingeniero mechanic** mechanical engineer
+**mechanica** *n* mechanies
+**mechanico** *n* mechanic
+**mechanisar** *v* to mechanize
+**mechanisation** *n* mechanization
+**mechanismo** *n* mechanism
+**mechano·therapia (-ía)** *n* [Med] mechanotherapy
+**medalia** *n* medal *Hence:* medaliario; medalista; medalion
+**medaliario** *n* 1. collection of medals; 2. medal cabinet
+**medalion** *n* I. medallion (1. large medal; 2. round, flat ornament or portrait); II. locket
+**medalista** *n* medalist (1. maker of medals; 2. one skilled in medals)
+**mede** *adj* Median
+**media** *n* average, mean; **media arithmetic** arthimetical mean; **media geometric** geometrical mean
+**Media** *npr* Media
+**medial** *adj* [Philol] medial
+**median** *adj* median, medium; **de etate median** middle-aged; **nervo median** median nerve
+**mediana** *n* [Geom] median
+**mediante** *n* [Mus] mediant
+**mediar** *v* to mediate (1. to form a connecting link between; 2. to act as an intermediary)
+**mediastino** *n* [Anat] mediastinum
+**mediate** 1. *pp* of **mediar**; 2. *adj* mediate (as in "a mediate cause")
+**mediation** *n* mediation
+**mediator** *n* mediator
+**medic (mé-)** *adj* medical *Hence:* medicina &; medicar-medicamento-
+medicamentose, medicamentar, medicabile- immedicabile, medication; medico-medicastro, medical
+**medicabile** *adj* medicable
+**medical** *adj* medical
+**medicamentar** *v* to treat with medicaments
+**medicamento** *n* medicament, medication, medicine
+**medicamentose** *adj* medicinal
+**medicar** *v* to medicate; to treat (medically)
+**medicastro** *n* medicaster, quack
+**medication** *n* medication (= act or process of medicating)
+**medicina** *n* medicine (1. medical science or art; 2. substance or compound taken internally to cure disease); **doctor in medicina** doctor of
+medicine; **medicina legal** forensic medicine *Hence:* medicinal, medicinar
+**medicinal** *adj* medicinal
+**medicinar** *v* to give or administer medicine to
+**medico (mé-)** *n* physician, doctor
+**medie** *adj* 1. half; 2. middle; 3. average, mean; **termino medie** [Philos] middle term; **medie hora** half an hour; **medie fratre** half-brother; **medie etate** Middle Ages *Hence:* medietate; mediar-mediante, mediation, mediator, mediate-immediate; mediastino; intermedie &; mediterranee etc.; mediedie etc.; medievo etc.; medio¹ &; medio²
+**medie·die (-díe)** *n* 1. noon; 2. south
+**medie·nocte** *n* midnight
+**medietate** *n* half; **le medietate del (mundo)** half the (world); **a medietate** half (= to half the full amount or degree); **a medietate del camino** halfway; **(mi) car medietate** (my) better half, wife
+**medieval** *adj* medieval
+**medi·evo** *n* Middle Ages *Hence:* medieval
+**medio** *adv* half medio *n* 1. middle, *also:* midst; 2. mean, medium; 3. means (= agent or instrument by which an end is attained); **per medio de** by means of; **medios** means (= pecuniary resources) *Hence:* medial; median-mediana; media
+**mediocre** *adj* mediocre *Hence:* mediocritate
+**mediocritate** *n* mediocrity (1. quality or state of being mediocre; 2. mediocre person)
+**meditar** *v* I. to meditate (1. to be engaged in meditation; 2. to plan, contemplate); II. to think of, ponder; **meditar super** to meditate upon *Hence:* meditation; meditative; meditator; premeditar-premeditation, premeditate- impremeditate
+**meditation** *n* meditation
+**meditative** *adj* meditative
+**meditator** *n* meditator
+**medi·terranee** *adj* 1. inland; 2. Mediterranean *Hence:* mediterraneo
+**mediterraneo** *n* inland sea; **Mediterraneo** Mediterranean
+**medium** [L] *n* medium (as in "a spiritualistic medium") *Hence:* mediumnic
+**mediumnic (-úm-)** *adj* [Spiritualism] mediumistic
+**medo** *n* 1. Mede, Median; 2. Median (language),
+**Medic** *Hence:* Media; mede
+**medulla** *n* 1. marrow; 2. pith; medulla spinal spinal cord *Hence:* medullar; medullose
+**medullar** *adj* medullary (= containing, consisting of, or resembling, marrow)
+**medullose** *adj* 1. marrowy; 2. pithy
+**Medusa** *npr* [Gr Mythol] Medusa; medusa [Zool] medusa
+**meeting** [A] *n* (political) meeting
+**mega**- [occurring in compounds] mega- (= great, extended; a million times) *Hence:* megametro etc.; megaphono etc.; megalopole etc.; megalosauro etc.; megalomania etc.; megalocephale etc.; megalomane etc.
+**megal**- *see* **mega**-
+**megalo·cephale** *adj* megalocephalic
+**megalo·mane** *adj* megalomanical *Hence:* megalomano
+**megalo·mania (-ía)** *n* megalomania
+**megalomano (-ó-)** *n* megalomaniac
+**megalo·pole** *n* megalopolis
+**megalo·sauro** *n* [Paleontol] megalosaurus, megalosaur
+**mega·metro (-gá-)** *n* megameter
+**mega·phono (-gá-)** *n* megaphone
+**melancholia (-ía)** *n* melancholy; *also:* [Pathol] melancholia *Hence:* melancholic
+**melancholic** *adj* melancholy
+**melassa** *n* molasses
+**melic** *adj* melic (= of song; meant to be sung)
+**melio** *adv* better; **tanto melio** so much the better
+**melior** *adj* better; **(le) melior** (the) best *Hence:* meliorismo; meliorar-melioration, meliorator
+**meliorar** *v* to improve, ameliorate
+**melioration** *n* improvement, amelioration
+**meliorator** *n* improver, ameliorator
+**meliorismo** *n* meliorism
+**mellar** *v* to make honey, to honey
+**mellate** *adj* 1. honey, honeyed; 2. honeycolored
+**melle** *n* honey; luna de melle honeymoon *Hence:* mellero; mellate; mellifere; mellose; mellar; mellificar-mellification; melliflue etc.
+**mellero** *n* honey dealer
+**mellifere** *adj* melliferous
+**mellificar** *v* to make honey (as in "bees making honey")
+**mellification** *n* honey making
+**melli·flue** *adj* mellifluous *Hence:* mellifluitate
+**mellifluitate** *n* mellifluence, mellifluousness
+**mellose** *adj* honeyed, honeylike
+**melo**- *n* [occurring in compounds] melo-, mel- (= song) *Hence:* melic; melodrama etc.; melomania etc.; melodia etc.; melomane etc.; melopeia etc.
+**mel·odia (-ía)** *n* melody *Hence:* melodista; melodic; melodiose
+**melodic** *adj* melodic
+**melodiose** *adj* melodious
+**melodista** *n* melodist (= composer of melodies)
+**melo·drama [-ma-/-mat-]** *n* melodrama *Hence:* melodramatic
+**melodramat**- *see* **melodrama**
+**melodramatic** *adj* melodramatic
+**melo·mane (-ó-)** *n* melomaniac
+**melo·mania (-ía)** *n* melomania
+**melon** *n* melon; melon de aqua watermelon *Hence:* meloniera
+**meloniera** *n* melon bed
+**melo·peia (-péya)** *n* [Antiq] melopoeia (1. composition of melodies; 2. chanting of verses)
+**membrana** *n* membrane; **membrana mucose** mucous membrane; membrana false [Pathol] false membrane *Hence:* membranacee; membranose
+**membranacee** *adj* membranous, membranaceous
+**membranose** *adj* membranous (= consisting of membranes)
+**membratura** *n* (human) frame
+**membro** *n* I. member (1. constituent part of a whole; 2. "member of a social group, organization, etc."); II. limb (of animal or human body); **membro del parlamento** member of Parliament *Hence:* membrana &; membratura; membrute; dismembrar &
+**membrute** *adj* stout-limbed
+**memorabile** *adj* memorable
+**memorandum (-án-)** *n* I. memorandum (1. note, record of events, etc.; 2. informal communication or report); II. memorandum book
+**memorar** *v* to remember (= to recollect, recall; bear in mind) *Hence:* memorabile-immemorabile; memorative; commemorar &; rememorar
+**memorative** *adj* commemorative
+**memore** *adj* mindful (of a person or a thing) *Hence:* memoria &; memorar &
+**memoria** *n* I. memory (1. faculty of remembering; 2. remembrance, recollection); II. memoir (memorandum, record, etc.); III. [Law] factum (= memorial); **memorias** memoirs (1. autobiographical record; 2. transactions of a learned society); **de memoria** from memory, by heart; **in memoria de** in memory of; **facer memoria de** to commemorate; **de memoria de homine** within living memory *Hence:* memorial-memorialista; immemorial
+**memorial** *n* I. memorials; II. memorial (= statement of facts in form of a petition)
+**memorialista** *n* memorialist (= a writer of memoirs)
+**menacia** *n* menace, threat *Hence:* menaciar
+**menaciar** *v* to menace, threaten
+**menage** [F] *n* household, ménage
+**menagerie** [F] *n* menagerie
+**menar** *v* to lead, guide, conduct *Hence:* promenar &
+**menchev**- *see* **menchevico**
+**menchevico (menshevíco)** *n* menshevik, menshevist *Hence:* menchevismo; menchevista
+**menchevismo (-sh-)** *n* menshevism
+**menchevista (-sh-)** *n* menshevist, menshevik; attrib: menshevist, menshevistic
+**menda** *n* 1. defect, blemish; 2. fault, error *Hence:* mendose; emendar &
+**mendace** *adj* mendacious (1. lying, untruthful; 2. false, untrue)
+**mendacio** *n* lie (= falsehood); mendacio officiose white lie
+**mendic (-díc)** *adj* beggarly *Hence:* mendicitate; mendicar-mendicante, mendication; mendico
+**mendicante** *n* beggar, mendicant; *specif*: [Eccl] mendicant friar
+**mendicar** *v* to beg; to go begging
+**mendication** *n* (action of) begging
+**mendicitate** *n* mendicity
+**mendico (-íco)** *n* beggar
+**mendose** *adj* 1. defective, faulty; 2. erroneous
+**menestrel** *n* minstrel
+**meninge** *n* [Anat] meninx; **meninges** meninges *Hence:* meningitis
+**meningitis (-ítis)** *n* [Pathol] meningitis; **meningitis cerebro-spinal** cerebrospinal meningitis 
+[meno] *adv* (= minus)
+**mens**- *see* **metir**
+**mense** *n* 1. month; 2. monthly salary *Hence:* mensual-mensualitate; menstruo &; bimestre etc.; semestre etc.
+**mensor** *n* measurer; *also:* gauge
+**menstrual** *adj* menstrual (= pertaining to the menses)
+**menstruar** *v* to menstruate
+**menstruation** *n* menstruation
+**menstruo** *n* menstruation *Hence:* menstrual; menstruar-menstruation
+**mensual** *adj* monthly
+**mensualitate** *n* monthly payment
+**mensura** *n* measure *Hence:* mensurar-mensurabile-mensurabilitate, immensurabile-immensurabilitate, mensuration, mensurator, mensurate- dismensurate, commensurar &; agrimensura etc.
+**mensurabile** *adj* measurable, mensurable
+**mensurabilitate** *n* measurability, mensurability
+**mensurar** *v* to measure
+**mensurate** 1. pp of mensurar; 2. *adj* moderate, temperate
+**mensuration** *n* measuring, measurement, mensuration
+**mensurator** *n* measurer
+**mental** *adj* mental; **restriction mental** mental reservation
+**mentalitate** *n* mentality
+**mente** *n* mind (= intellectual powers, mental force) *Hence:* mental-mentalitate; demente &; mentecapte etc.
+**mente·capte** *adj* feeble-minded
+**mentha** *n* [Bot] mint; **mentha piperate** peppermint *Hence:* menthol &
+**menthol** *n* menthol *Hence:* mentholate
+**mentholate** *adj* mentholated
+**mention** *n* mention; **facer mention de** to make mention of, to mention; **mention honorabile** honorable mention *Hence:* mentionar-mentionabile- immentionabile
+**mentionabile** *adj* mentionable
+**mentionar** *v* to mention
+**mentir** *v* to lie, tell lies *Hence:* mentitor; mentita; dismentir
+**mentita** *n* lie, falsehood
+**mentitor** *n* liar
+**mento** *n* chin
+**menu** [F] *n* menu, bill of fare
+**menuet** *n* minuet
+**meravilia** *n* marvel (= that which excites wonder) *Hence:* meraviliose; meraviliar
+**meraviliar** *v* to marvel
+**meraviliose** *adj* marvelous
+**mercabile** *adj* merchantable
+**mercante** *n* merchant, dealer
+**mercantia** *n* 1. trade, traffic; 2. merchandise, ware
+**mercantil** *adj* 1. mercantile; 2. mercenary, grasping
+**mercantilismo** *n* mercantilism (1. commercialism, mercenary spirit; 2. theory and practice of the mercantile system)
+**mercar** *v* to trade, deal (= to do business)
+**mercato** *n* market (1. market place; 2. as in "cattle market"; 3. [Econ, Com]); a **bon mercato** at a low rate, cheap(ly); mercato nigre black
+market
+**mercator** *n* merchant, dealer, marketer
+**merce** *n* merchandise; traino de merces freight train *Hence:* mercero; merceria; mercar-mercante, mercantia, mercantil-mercantilismo; mercabile, mercator, mercato; commercio &
+**mercede** *n* grace, mercy, clemency, etc.; **esser al mercede de** to be at the mercy of
+**mercenari** *adj* mercenary *Hence:* mercenario
+**mercenario** *n* 1. hired worker; 2. mercenary
+**Mercer, John** *npr* [1791-1866; inventor of mercerizing process] *Hence:* mercerisar-mercerisage, mercerisation, mercerisate
+**merceria (-ía)** *n* 1. notions, small ware; notion or small-ware trade or store
+**mercerisage (-aje)** *n* mercerizing, mercerization
+**mercerisar** *v* to mercerize
+**mercerisate** 1. *pp* of **mercerisar**; 2. *adj* mercerized
+**mercerisation** *n* mercerizing, mercerization
+**mercero** *n* dealer in notions, small-ware dealer
+**mercurial** *adj* I. mercurial (1. as in "mercurial temperament"; 2. as in "mercurial barometer"); II. Mercurial
+**mercuric** *adj* [Chem] mercuric
+**mercuri·di (-dí)** *n* Wednesday; **mercuridi del cineres** Ash Wednesday
+**Mercurio** *npr* Mercury (1. [Mythol]; 2. [Astron]) *Hence:* mercurial; mercuridi etc.; mercurio &
+**mercurio** *n* mercury, quicksilver *Hence:* mercurial; mercuric; mercuriose
+**mercuriose** *adj* [Chem] mercurous
+**merer** *v* to merit, deserve *Hence:* meretrice &; meritori; merito-meritar; demer- &; emer- &
+**meretrice** *n* prostitute *Hence:* meretricie
+**meretricie** *adj* meretricious (= of a prostitute)
+**merger [merg-/mers-]** *v* to plunge (into), sink (in) *Hence:* emerger &; immerger &; submerger &
+**meridian** *adj* meridian
+**meridiano** *n* meridian; **meridiano magnetic** magnetic meridian
+**meridie (-rí-)** *n* 1. noon; 2. south; **a meridie** at noon; **ante meridie** in the forenoon *Hence:* meridian-meridiano; meridional; antemeridian; postmeridie-postmeridian
+**meridional** *adj* southern, meridional
+**meridional** *n* southerner, meridional
+**meringue** [F] *n* meringue (1. mixture of beaten egg whites and sugar; 2. thin case of meringue filled with whipped cream)
+**merino** *n* merino
+**meritar** *v* to merit, deserve
+**merito (mé-)** *n* merit
+**meritori** *adj* meritorious
+**merla** *n* blackbird, merl
+**mero**- *n* [occurring in compounds] mero-, mer- (= part) *Hence:* metamere-metameria, metamero; meropia etc.; isomere etc.; polymere etc.; pentamere etc.
+**mer·opia (-ía)** *n* [Med] meropia, partial blindness 
+-**mes**- *see* **mense** 
+**mes**- *adj* [occurring in compounds] mes-, meso- (= middle) *Hence:* mesenterio etc.; Mesopotamia etc.; mesocarpio etc.; mesozoic etc.; mesocephale etc.; mesolabio etc.
+**mésalliance** [F] *n* misalliance, mésalliance
+**meschin** *adj* mean, paltry, shabby *Hence:* meschineria
+**meschineria (-ía)** *n* meanness, shabbiness
+**mesenteric** *adj* mesenteric
+**mes·enterio** *n* [Anat] mesentery *Hence:* mesenteritis; mesenteric
+**mesenteritis (-ítis)** *n* [Pathol] mesenteritis
+**mesme** 1. same; 2. myself, yourself, himself, etc. (as in "the king himself") *Hence:* mesmo
+**Mesmer, Friedrich Anton** *npr* [1734-1815; Austrian doctor] *Hence:* mesmerismo; mesmerista; mesmerian; mesmerisar
+**mesmerian** *adj* mesmeric, mesmerian
+**mesmerisar** *v* to mesmerize; *also:* to magnetize
+**mesmerismo** *n* mesmerism; *also:* animal magnetism
+**mesmerista** *n* mesmerist; *also:* animal magnetist
+**mesmo** *adv* 1. likewise; 2. even; **hodie mesmo** this very day; **ora mesmo** right now
+**meso·carpio** *n* [Bot] mesocarp
+**meso·cephale** *adj* mesocephalic *Hence:* mesocephalo
+**mesocephalo** *n* mesocephal
+**meso·labio** *n* mesolabe
+**Meso·potamia** *npr* Mesopotamia *Hence:* mesopotamian
+**mesopotamian** *adj* Mesopotamian
+**meso·zoic** *adj* [Geol] Mesozoic
+**message (-aje)** *n* message *Hence:* messagero; messageria
+**messageria (-ajería)** *n* shipping office, shipping service
+**messagero (-ajéro)** *n* messenger
+**messe** *n* harvest, crop(s) *Hence:* messidor etc.
+**Messia (-ía)** *n* Messiah *Hence:* messianismo; messianic
+**messianic** *adj* Messianic
+**messianismo** *n* Messianism
+**messi·dor** *n* [French Revolutionary Calendar] Messidor
+**mesticiage (aje)** *n* (action or process of) cross breeding
+**mesticiar** *v* to cross (= to cause to interbreed)
+**mesticio** *n* half-breed, mestizo *Hence:* mesticiar-mesticiage
+**mestiero** *n* craft, trade
+**mesura** *n* measure (1. size, extent, dimension, etc.; *also:* measurement; 2. standard of measure; *also:* system of measure units, measurement; 3. [Mus; Pros]; 4 degree, proportion; 5 as in "drastic measure(s)"); **bon mesura** good or ample measure; **medie mesura** half measure; **a mesura que (in proportion)** as; **prender le mesuras de** to take measurements of; **prender su mesuras** to take steps or measures *Hence:* mesurar-mesurabile-mesurabilitate, immesurabile-immesurabilitate, mesuration, mesurator, mesurate-dismesurate
+**mesurabile** *adj* measurable, mensurable
+**mesurabilitate** *n* measurability, mensurability
+**mesurar** *v* to measure (1. to ascertain the size, capacity, extent, measurements, etc., of; 2. to be of a certain measurement); mesurar su parolas to weigh one's words; mesurar se con (un persona) to measure one's strength against (someone); passo mesurate measured tread
+**mesurate** 1. *pp* of **mesurar**; 2. *adj* moderate, temperate
+**mesuration** *n* measuring, measurement, mensuration
+**mesurator** *n* measurer
+**met**- *see* **meta**-
+**meta**- *prefixo* [met- before vowels and -h-; used chiefly to form technical terms] meta-, met- (1. behind; 2. beyond, transcending, higher; 3. changed, transferred, transformed) *Hence*: metastase etc.; metempsychose etc.; metaphysic etc.; metamorphe etc.; methodo etc.
+**metabole** *n* [Rhet] antimetabole *Hence:* metabolismo
+**metabolismo** *n* [Biol] metabolism
+**metacarpal** *adj* [Anat] metacarpal
+**metacarpo** *n* [Anat] metacarpus
+**metallic** *adj* metallic; **reserva metallic** [Fin] bullion reserve
+**metallifere** *adj* metalliferous
+**metallin** *adj* metalline
+**metallisar** *v* to metallize
+**metallisation** *n* metallization
+**metallo** *n* metal (as in "gold is a metal"); **metallo blanc** white metal, babbitt *Hence:* metallic; metallifere; metallin; metalloide-metalloidic; metallisar-metallisation; metallographia etc.; metallurgo etc.; bimetallismo etc.; monometallista etc.
+**metallo·graphia (-ía)** *n* metallography (1. study of metals; 2. [Print]) *Hence:* metallographic
+**metallographic** *adj* metallographic
+**metalloide** *n* metalloid
+**metalloidic** *adj* metalloidal
+**metallo·therapia (-ía)** *n* metallotherapy
+**metallurgia (-ía)** *n* metallurgy
+**metallurgic** *adj* metallurgical, metallurgic
+**metallurgista** *n* metallurgist
+**metall·urgo** *n* metallurgist *Hence:* metallurgia-metallurgista; metallurgic
+**metamere** *adj* metamerous, metameric (1. [Zool]; 2. [Chem])
+**metameria (-ía)** *n* metamerism, metamery (1. [Zool]; 2. [Chem])
+**metamero (-tá-)** *n* [Zool] metamere
+**metamorphe** *adj* metamorphic, metamorphous
+**metamorphic** *adj* metamorphic; *also:* [Geol]
+**metamorphismo** *n* metamorphism (1. metamorphosis; 2. [Geol])
+**metamorphosar** *v* to metamorphose, transform (= to cause to change form)
+**metamorphose** *n* metamorphosis *Hence:* metamorphosar
+**metaphora (-tá-)** *n* metaphor *Hence:* metaphoric; metaphorisar
+**metaphoric** *adj* metaphorical, metaphoric
+**metaphorisar** *v* to metaphorize
+**metaphras**- *v* [occurring in derivatives] *Hence:* metaphrase-metaphrasar; metaphraste; metaphrastic
+**metaphrasar** *v* to metaphrase
+**metaphrase (-tá-)** *n* metaphrase
+**metaphraste** *n* metaphrast
+**metaphrastic** *adj* metaphrastic
+**metaphysic** *adj* metaphysical
+**metaphysica** *n* metaphysics
+**metaphysico** *n* metaphysician
+**metastase (-tástase)** *n* [Pathol] metastasis
+**metathese (-átese)** *n* [Gram] metathesis
+**metempsychose** *n* metempsychosis
+**meteoric** *adj* meteoric
+**meteorite** *n* meteorite
+**meteoro** *n* meteor (1. atmospheric phenomenon; 2. shooting star) *Hence:* meteorite; meteoric; meteorologo etc.
+**meteorologia (-ía)** *n* meteorology
+**meteorologic** *adj* meteorologic, meteorological
+**meteorologista** *n* meteorologist
+**meteoro·logo (-ró-)** *n* meterorologist *Hence:* meteorologia-meteorologista;
+meteorologic
+**meth**- *see* **methy**-; **methyleno**
+**methano** *n* [Chem] methane, swamp gas
+**methodic** *adj* methodical
+**methodisar** *v* to methodize
+**methodismo** *n* Methodism
+**methodista** *n* Methodist
+**methodo (mé-)** *n* method *Hence:* methodismo; methodista; methodic; methodisar; methodologia etc.
+**methodo·logia (-ía)** *n* methodology
+**methy**- *n* [occurring in derivatives and compounds] methy- (= wine) *Hence:* methyleno &; amethysto
+**methyl**- *see* **methyleno**
+**methyl·amino** *n* [Chem] methylamine
+**methyleno** *n* methylene (1. wood alcohol, methyl alcohol; 2. [Chem] methyl) *Hence:* methylo-methylic, methano, methylamino etc.
+**methylic** *adj* [Chem] methylic; **alcohol methylic** methyl alcohol, methylic alcohol, wood alcohol
+**methylo** *n* [Chem] methyl, methylene
+**meticulose** *adj* meticulous *Hence:* meticulositate
+**meticulositate** *n* meticulosity, meticulousness
+**metir [met-/mens-]** *v* to measure; *also:* to scan (verses); to survey (lands); **metir se** to be moderate, practice moderation *Hence:* mensor-agrimensor etc.; mensura &; immense &; dimetir &
+**metonymia (-ía)** *n* [Rhet] metonymy *Hence:* metonymic
+**metonymic** *adj* metonymical
+**metr**- *n* [occurring in compounds] metro- (= mother) *Hence:* metropole etc. 
+-**metra** *n* [occurring in compounds] -meter (= one occupied in -metry) *Hence:* -metria &; geometra etc.
+**metrage (-aje)** *n* measurement (in meters), metrage
+**metrar** *v* to meter (= to measure by the meter) -metria (-ía) [occurring in compounds] -metry *Hence:* stereometria etc.
+**metric** *adj* 1. metric (= pertaining to that system of measures of which the meter is the unit); 2. metrical (= relating to measurement); 3. [Poet] metric, metrical
+**metrica** *n* metrics
+**metro** *n* I. meter (1. one forty millionth part of the terrestrial meridian; 2. [Poet]); II. tape measure, tapeline *Hence:* metric-metrica, isometric etc.; metrar-metrage; diametro etc.; perimetro; symmetr- &; metronomo etc.; metrologia etc.; alcalimetro etc.; thermometro etc.; centimetro etc.; kilometro etc.; hexametre etc.; -metra &
+**metro·logia (-ía)** *n* metrology
+**metro·nomo (-tró-)** *n* metronome
+**metro·pole** *n* metropolis (1. parent state of a colony; 2. [Eccl]; 3. chief town or city of a country or state) *Hence:* metropolita-metropolitan-metropolitano
+**metropolita** *n* [Gr Church] metropolite
+**metropolitan** *adj* metropolitan (1. belonging to the parent state of a colony; 2. [Eccl]; 3. belonging to the chief town or city of a country or state); **ecclesia metropolitan** metropolitan church
+**metropolitano** *n* 1. [Eccl] metropolitan; 2. urban railway; *also:* subway, underground (railway)
+**mexican** *adj* Mexican
+**mexicano** *n* Mexican (= native of Mexico)
+**Mexico (méx-)** *n* Mexico *Hence:* mexican-mexcicano
+**mezzanin** *n* 1. mezzanine (floor or story); 2. mezzanine window
+**mezzosoprano** [I] *n* [Mus] mezzo-soprano
+**mi** *n* 1. [Mus] mi; 2. [Mus] (the note) E *Hence:* solmisar etc.
+**mi** *adj poss* my *Hence:* mie [mi] pron me (= me)
+**mi**- *adj* [occurring in compounds] mi-, mio- (= less) *Hence:* miocen etc.
+**miasma [-ma/-mat-]** *n* miasma *Hence:* miasmatic
+**miasmat**- *see* **miasma**
+**miasmatic** *adj* miasmatic
+**miau (-áu)** *interj/n* miaow, meow *Hence:* miaular
+**miaular** *v* to miaow, meow, mew
+**mica** *n* 1. crumb (= small piece of bread, cake, etc., rubbed or broken off); 2. [Mineral] mica *Hence:* micacee; micar; micaschisto etc.
+**micacee** *adj* [Mineral] micaceous
+**micar** *v* to crumble (= to cause to crumble)
+**mica·schisto** *n* [Mineral] mica schist
+**micca** *n* 1. wick; 2. [Artil; Min; etc.] fuse, match
+**Michael** *nprm* Michael
+**micr**- *adj* [occurring in compounds] micro-, micr- (1. small; 2. [Metric System, etc.] millionth part) *Hence:* microbio etc.; microcosmo etc.; microfarad etc.; microfilm etc.; Micronesia etc.; microphotographia etc.; microscopio etc.; microtomo etc.; microcephale etc.
+**microbi·cida** *n* microbicide
+**micro·bio** *n* microbe *Hence:* microbiologo etc.; microbicida etc.
+**microbiologia (-ía)** *n* microbiology
+**microbio·logo (-ólogo)** *n* microbiologist *Hence:* microbiologia
+**micro·cephale** *adj* microcephalic *Hence:* microcepbalia
+**microcephalia (-ía)** *n* microcephaly
+**microcosmic** *adj* microcosmic
+**micro·cosmo** *n* microcosm *Hence:* microcosmic
+**micro·cyste** *n* [Bot] microcyst
+**micro·farad** *n* [Elec] microfarad
+**micro·film** *n* microfilm
+**micro·metro (-cró-)** *n* micrometer
+**micron (míc-)** *n* micron (= one thousandth millimeter)
+**Micro·nesia** *npr* Micronesia *Hence:* micronesian-micronesiano
+**micronesian** *adj* Micronesian
+**micronesiano** *n* Micronesian
+**micro·phono (-ró-)** *n* microphone
+**micro·photographia (-ía)** *n* 1. microphotography; 2. microphotograph
+**microscopia (-ía)** *n* microscopy
+**microscopic** *adj* microscopic
+**micro·scopio** *n* microscope *Hence:* microscopia; microscopista; microscopic
+**microscopista** *n* microscopist
+**micro·seismo (-séi-)** *n* microseism (= feeble earth tremor) *Hence:* microseismographo
+**microseismo·grapho (-mó-)** *n* microseismograph
+**micro·tomo (-ró-)** *n* microtome
+**mie** *pron poss* mine; **le mie e le tue** mine and thine; **le mios** my people or family
+**migraine** [F] *n* migraine (= headache) *Hence:* migrainose
+**migrainose (-grenóse)** *adj* migrainous
+**migrante** *adj* migratory, migrant
+**migrar** *v* to migrate *Hence:* migrante; migration; migrator; migratori; emigrar &; immigrar &
+**migration** *n* migration
+**migrator** *n* migrant; *attrib* migratory; **aves migratores** migratory birds
+**migratori** *adj* migratory (= pertaining to migrations)
+**mikado** [J] *n* mikado
+**mildew** [A] *n* (vine) mildew, (grape) mildew
+**milieu** [F] *n* milieu, environment
+**militante** *adj* militant; **Ecclesia militante** Church militant
+**militantia** *n* militancy
+**militar¹** *adj* military
+**militar²** *n* military man, soldier; **militares** military
+**militar³** *v* to fight (= to take part in a fight); **militar in favor de** to tell in favor of; **militar contra** to tell or militate against
+**militarisar** *v* to militarize
+**militarisation** *n* militarization
+**militarismo** *n* militarism
+**militarista** *n* militarist (= supporter of militarism)
+**milite (mí-)** *n* soldier, warrior *Hence:* militia &; militar¹-militarismo, militarista, militarisar-militarisation, dismilitarisar-dismilitarisation; militar³-militante-militantia
+**militia** *n* militia *Hence:* militiano
+**militiano** *n* militiaman
+**mille** *n/adj* (a, one) thousand *Hence:* milliardo &; millia-milliari; million &;
+millesime; millennio etc.; millimetro etc.; millepedes etc.
+**mille·flores** *n* mille-fleurs (perfume)
+**mill·ennio** *n* millennium
+**mille-pedes (-pé-)** *n* centipede, millepede
+**millesime (-ésime)** *adj* thousandth; **le millesime parte, le millesimo** the thousandth part, the thousandth
+**milli**- *see* **mille**
+**millia** *n* mile; millia marin nautical or sea mile
+**milliardario** *n* billionaire milliardaire
+**milliardesime (-ésime)** *adj* billionth (= thousand millionth)
+**milliardo** *n* billion, milliard *Hence:* milliardario; milliardesime
+**milliari** *adj* mile, milliary; **petra milliari, columna milliari** milestone
+**milli·gramma** *n* milligram
+**milli·litro (-ílitro)** *n* milliliter
+**milli·metro (-ímetro)** *n* millimeter
+**million** *n* million; **(duo) milliones de (homines)** (two) million (men) *Hence:* millionari; millionario-multimillionario etc.; millionesime
+**millionari** *adj* millionaire
+**millionario** *n* millionaire
+**millionesime (-ésime)** *adj* millionth; **le millionesime parte, le millionesimo** the millionth part, the millionth
+**mimar** *v* to mimic
+**mime**- *v* [occurring in derivatives and compounds] mime (= to imitate) *Hence:* mimese etc.; mimetic-mimetismo; mimeographo etc.
+**mimeographar** *v* to mimeograph
+**mimeo·grapho (-ógrapho)** *n* mimeograph *Hence:* mimeographar
+**mimese** *n* [Rhet] mimesis, mimicry
+**mimet**- *see* **mimetic**
+**mimetic** *adj* mimetic, mimic, imitative
+**mimetismo** *n* [Biol] mimicry
+**mimic** *adj* mimic (1. of a mime; 2. imitative)
+**mimica** *n* gesticulation, use of gestures; *also:* mimetic expression; *specif*: facial expression
+**mimo** *n* mime (1. [Antiq] farce; 2. actor in a mime; 3. mimic, person skilled in mimicry) *Hence:* mimic: mimica; mimose &; mimar; mimologo etc.; pantomime etc.
+**mimo·drama** *n* mimodrama, pantomime
+**mimo·grapho (-ó-)** *n* mimographer, writer of mimes
+**mimologia (-ía)** *n* [Rhet] mimesis, mimicry
+**mimo·logo (-mó-)** *n* 1. mimologist (= reciter of mimes); 2. mimic, imitator *Hence:* mimologia
+**mimosa** *n* [Bot] mimosa, sensitive plant
+**mimosaceas** *npl* [Bot] *Mimosaceae*
+**mimosacee** *adj* [Bot] mimosaceous
+**mimose** *adj* sensitive (as in "sensitive plant") *Hence:* mimosa-mimosacee-mimosaceas
+**min**- [Chinese] *n/adj* [occurring in compounds] min- (= people; people's, popular) *Hence:* Kuomintang etc.
+**min**- *see also* **minus** 
+-**min**- *v* [occurring in compounds] *Hence:* emin- &; immin- &; promin- &
+**mina** *n* mine (1. as in "coal mine"); 2. [Mil]) *Hence:* minar-minator; dragaminas etc.; poneminas etc.
+**minar** *v* I. to undermine; II. to mine (1. as in "to mine a bridge"; 2. to dig for ore or metal)
+**minaret** *n* [Arch] minaret
+**minator** *n* miner (1. as in "coal miner"; 2. [Mil])
+**mineral** *adj* mineral; **regno mineral** mineral kingdom; **aqua mineral** mineral water; **oleo mineral** mineral oil *Hence:* mineralisar-mineralisation, mineralisator; vegetomineral etc.; mineral²-mineralogo etc.
+**mineral** *n* 1. mineral; 2. ore (as in "iron ore")
+**mineralisar** *v* to mineralize (= to transform into a mineral)
+**mineralisation** *n* mineralization
+**mineralisator** *n* mineralizer (as in "sulphur is a mineralizer")
+**mineralogia (-ía)** *n* mineralogy
+**mineralogic** *adj* mineralogical
+**mineralogista** *n* mineralogist
+**mineral·ogo (-ólogo)** *n* mineralogist *Hence:* mineralogia-mineralogista; mineralogic
+**Minerva** *npr* [Rom Relig] Minerva *Hence:* minerval
+**minerval** *adj* Minervic, Minervan
+**miniar** *v* I. to miniate (1. to paint with red lead; 2. to illuminate pages, manuscripts, etc.); II. to miniature, paint miniatures
+**miniatura** *n* miniature (1. an illumination; 2. miniature portrait; 3. miniature representation, model, etc.); **in miniatura** in miniature
+**miniaturar** *v* to miniature; to paint, embellish with, miniatures
+**miniaturista** *n* miniaturist
+**minima (mí-)** *n* [Mus] minim
+**minime (mí-)** *adj* 1. least, smallest, minimal; 2. very small, tiny; **precio minime** minimum price *Hence:* minimo; minima 
+**[minime] (mí-)** *adv* 1. least; 2. very little; 3. by no means, not in the least, no!
+**minimo (mí-)** *n* minimum; Minimo [RCCh] Minim; **reducer al minimo** to reduce to a minimum
+**minio** *n* minium, red lead *Hence:* miniar-miniatura-miniaturista, miniaturar
+**minister**- *see* **ministro**
+**ministerial** *adj* [Gov] ministerial
+**ministerio** *n* 1. office, function; 2. [Gov] ministry, department
+**ministrar** *v* to minister (1. to attend, be in attendance, serve; 2. to perform the function of a minister of the church)
+**ministro** *n* I. agent, representative; II. minister (1. [Gov]; 2. [Dipl]; 3. [Prot Churches]); **prime ministro** Prime Minister; **ministro sin portafolio**
+minister without portfolio *Hence:* ministerio-ministerial; ministrar- administrar &, subministrar; ex-ministro
+**minoan** *adj* Minoan
+**minoano** *n* Minoan
+**minor** *adj* minor (1. lesser, smaller; 2. [Law] under age; 3. [Mus]); Asia Minor Asia Minor; **le ordines minor** [Eccl] the minor orders *Hence:* minoritate; Minorita
+**Minorita** *n* [RCCh] Minorite
+**minoritate** *n* minority (1. smaller number or part; 2. [Law]); esser in minoritate to be in the minority
+**Minos (mí-)** *npr* [Mythol] Minos *Hence:* minoan-minoano; minotauro etc.
+**mino·tauro** *n* [Mythol] Minotaur
+**minuendo** *n* [Arith] minuend
+**minuer [minu-/minut-]** *v* to diminish, lessen *Hence:* minuendo; minute &; diminuer &
+**minus (mí-)** *adv* less; **minus belle (que)** less beautiful (than); **le minus belle** the least beautiful; **plus o minus** more or less; **minus de (dece annos)** less than (ten years); **a minus** que unless; al minus at least; **(le) minus** (the) least (as in "what pleases me (the) least" ); **minus (de) (moneta, etc.)** less (money, etc.); **(quatro) minus (tres)** (four) minus (three); **(totos) minus (ille)** (all) except, but (him) *Hence:* minuscule &; minime &; minuspreciar etc.
+**minuscula** *n* 1. small or lower case letter; 2. minuscule
+**minuscule** *adj* tiny, minute; **littera minuscule** small or lower case letter *Hence:* minuscula
+**minus·preciar** *v* to despise *Hence:* minusprecio
+**minusprecio** *n* contempt, scorn
+**minuta** *n* 1. draft ("the draft of a contract, etc."); 2. minute (= the sixtieth part of an hour or of a geometric degree) *Hence:* minutar
+**minutar** *v* to draft (= to make a draft of)
+**minute** *adj* minute (1. diminutive; 2. as in "a minute investigation") *Hence:* minutia-minutiose, minutiar; minuta &
+**minutia** *n* minutia (= trifling detail); **minutias** minutiae
+**minutiar** *v* to mince (= to cut or chop into small pieces)
+**minutiose** *adj* 1. meticulous, particular; 2. detailed, thorough
+**mio·cen** *adj* [Geol] Miocene *Hence:* mioceno
+**mioceno** *n* [Geol] Miocene
+**mir**- *adj* [occurring in derivatives and compounds] *Hence:* mirific; mirar &
+**mira** *n* 1. aim (as in "take aim," "good aim," etc.); 2. sight (= device on a firearm)
+**mirabile dictu** [L] mirabile dictu, wonderful to relate
+**miraculo** *n* miracle *Hence:* miraculose
+**miraculose** *adj* miraculous
+**mirage (-aje)** *n* mirage
+**mirar** *v* 1. to look at (searchingly); 2. to (take) aim at *Hence:* mira; miraculo &; mirage; admirar &
+**mirific** *adj* marvelous
+**mis**- *prefixo* mis- (1. badly, wrongly; 2. not) *Hence:* miscontente etc.; miscredente etc.; misinterpretar etc.; misusar etc.
+**mis·anthrope** *adj* misanthropic *Hence:* misanthropia; misanthropo-
+misanthropic
+**misanthropia (-ía)** *n* misanthropy
+**misanthropic** *adj* misanthropic
+**misanthropo** *n* misanthrope, misanthropist
+**miscellanea** *n* miscellany; *also:* miscellanies
+**miscellanee** *adj* miscellaneous *Hence:* miscellanea
+**miscer [misc-/mixt-]** *v* to mix, blend *Hence:* miscibile-miscibilitate; mixtion; mixtura; mixte-mixtilinee etc.; admiscer &; commiscer &; immiscer &; promiscue &
+**miscibile** *adj* miscible, mixable
+**miscibilitate** *n* miscibility, mixability
+**miscontente** *adj* discontent
+**miscredente** *adj* miscreant, unbelieving
+**miscredente** *n* miscreant, unbeliever
+**miscredentia** *n* miscreance
+**mise en scène** [F] *n* mise en scène, staging; *also:* stage setting
+**miserabile** *adj* miserable (1. wretched; 2. vile, base)
+**miserar** *v* to deplore, bewail; **miserar se** to lament, moan
+**misere** *adj* miserable, wretched *Hence:* miseria; miserar-miserabile, commiserar &; misericorde etc.
+**miserere (-rére)** *n* [Eccl] Miserere (1. the 50th Psalm in the Vulgate; 2. musical setting of this Psalm)
+**miseria** *n* 1. misery, wretchedness; 2. need, penury
+**miseri·corde** *adj* merciful, compassionate, sympathizing *Hence:* misericordia-misericordiose
+**misericordia** *n* I. mercy, compassion, pity; II. misericord (1. [RCCh] dispensation from fasting, etc.; 2. [Eccl Arch] miserere; 3. dagger for giving the coup de grƒce); misericordia! mercy! gracious! etc.
+**misericordiose** *adj* merciful, full of pity
+**misinterpretar** *v* to misinterpret
+**misinterpretation** *n* misinterpretation
+**miso**- [occurring in compounds] miso-, mis- (= hatred, hating) *Hence:* misogame etc.; misanthrope etc.; misoneismo etc.
+**miso·game (-ó-)** *adj* misogamic
+**miso·gamia (-ía)** *n* misogamy
+**misogamo (-ó-)** *n* misogamist
+**miso·gyne** *adj* misogynic
+**misogynia (-ía)** *n* misogyny, misogynism
+**misogyno (-ó-)** *n* misogynist, misogyne
+**miso·neismo (-ízmo)** *n* misoneism (= hatred of the new)
+**miso·neista (-ísta)** *n* misoneist
+**misplaciar** *v* to misplace, mislay
+**miss**- *see* **mitter**
+**missa** *n* [RCCh] Mass; **missa basse** Low Mass; **missa solemne** Solemn Mass, High Mass *Hence:* missal
+**missal** *n* missal
+**mission** *n* mission (1. duty on which a person is sent; 2. body of persons sent out) *Hence:* missionario
+**missionario** *n* missionary
+**Mississippi** *npr* Mississippi (1. Mississippi River; 2. State of Mississippi)
+**missiva** *n* missive
+**misusage (-aje)** *n* misusage
+**misusar** *v* to misuse, *also:* to abuse
+**misuso** *n* misuse; *also:* abuse
+**mitigar** *v* to mitigate (= to make milder or gentler) *Hence:* mitigation
+**mitigation** *n* mitigation
+**miton** *n* 1. mitten; 2. mitt
+**mitra** *n* miter *Hence:* mitrar
+**mitralia** *n* mitraille; *also:* grape shot; canister shot *Hence:* mitraliar-mitraliator, mitraliatrice
+**mitraliar** *v* 1. to fire at with mitraille; 2. to machine-gun
+**mitraliator** *n* machine gunner
+**mitraliatrice** *n* machine gun
+**mitrar** *v* to miter (= to invest with a miter)
+**mitter [mitt-/miss-]** *v* -; **mitter in** to put or place in or into; **mitter le naso in un cosa** to poke one's nose into something *Hence:* mission &; missiva; admitter &; committer &; dimitter &; emitter &; intermitter &; intromitter &; omitter &; permitter &; premitter &; pretermitter &; promitter &; remitter &; submitter &; transmitter &; manumitter etc.
+**mixt**- *see* **miscer**
+**mixte** *adj* mixed; **traino mixte** mixed train
+**mixti·linee** *adj* [Geom] mixtilineal, mixtilinear
+**mixtion** *n* mixture (1. act of mixing; 2. something mixed)
+**mixtura** *n* mixture (= sth mixed)
+**mm** *abbr* = millimetro; mm² = millimetro quadrate; mm³ = millimetro cubic
+**mnemo**- *n* [occurring in compounds] mnemo- (= memory) *Hence:* mnemogenese etc.; mnemotechnic etc.
+**mnemo·genese (-gé-)** *n* mnemogenesis
+**mnemo·genesis (-gé-)** *n* mnemogenesis
+**mnemonic** *adj* mnemonic *Hence:* mnemonica
+**mnemonica** *n* mnemonics, mnemotechny
+**mnemo·technia (-ía)** *n* mnemotechny, mnemonics
+**mnemo·technic** *adj* mnemonic *Hence:* mnemotechnica
+**mnemotechnica** *n* mnemotechny, mnemonics
+**mnes**- *n* [occurring in derivatives and compounds] mnes- (= memory) *Hence:* mnesic; amnesia &; cryptomnesia etc. -mnesia *see* amnesia
+**mnesic** *adj* mnesic (= pertaining to memory) -mo *see* -ismo
+**mo**- *see* **mover**; **mon**-
+**mobilar** *v* to furnish (as in "to furnish a room"); **domo mobilate** rooming or lodging house
+**mobile** *adj* mobile; **festas mobile** movable feasts; **benes mobile** personal estate, movables *Hence:* mobilitate; mobiliari-immobiliari; mobilisar &; automobile &; immobile- immobilitate, immobilisar-immobilisation; locomobilo etc.; mobile² &
+**mobile** *n* piece of furniture; **mobiles** furniture *Hence:* mobiliario; mobilar-dismobilar
+**mobili**- *see* **mobile**
+**mobiliari** *adj* -; **benes mobiliari** personal estate, movables
+**mobiliario** *n* (set of) furniture
+**mobilisabile** *adj* mobilizable
+**mobilisar** *v* to mobilize (1. as in "to mobilize resources, wealth, etc."; 2. to put troops on a war footing) *Hence:* mobilisabile; mobilisation; demobilisar- demobilisation
+**mobilisation** *n* [Mil] mobilization
+**mobilitate** *n* mobility
+**mocassin (móc-)** *n* moccasin (as in "buckskin moccasins")
+**moda** *n* mode (= prevailing fashion); **modas** women's apparel; **al moda** alamode, fashionable; **esser de moda** to be in fashion; **passate de moda** out of fashion *Hence:* modista
+**modal** *adj* modal (1. [Philos]; 2. [Gram]; 3. [Mus])
+**modalitate** *n* [Philos] modality
+**modellar** *v* to model ("to model in clay, etc."); **modellar (se) super** to model (oneself) on, upon
+**modellator** *n* modeler
+**modello** *n* model (1. thing, person, etc. to be copied; 2. mannequin); attrib model (as in "a model marriage") *Hence:* modellar-modellator
+**moderante** *adj* 1. *ppr* of **moderar**; 2. *adj* moderate (= inclined to compromise)
+**moderantismo** *n* [Pol] moderantism
+**moderantista** *n* [Pol] moderantist
+**moderar** *v* to moderate; **moderar (un pena)** to mitigate (a penalty) *Hence:* moderante-moderantismo, moderantista; moderation-immoderation; moderator; moderate-moderatessa, immoderate-immoderatessa
+**moderate** 1. *pp* of **moderar**; 2. *adj* moderate
+**moderatessa** *n* moderateness
+**moderation** *n* moderation
+**moderator** *n* moderator (1. one who or that which renders moderate; 2. [Mech])
+**moderne** *adj* modern; (construer) al moderne (to build) in modern style *Hence:* modernismo; modernista; modernitate; modernisar-modernisation
+**modernisar** *v* to modernize
+**modernisation** *n* modernization
+**modernismo** *n* modernism
+**modernista** *n* modernist
+**modernitate** *n* modernness, modernity
+**modeste** *adj* modest *Hence:* modestia, immodeste-immodestia
+**modestia** *n* modesty
+**modic** *adj* moderate; **precio modic** reasonable price *Hence:* modicitate
+**modicitate** *n* moderateness; **modicitate de precios** reasonableness of prices
+**modificabile** *adj* modifiable
+**modificar** *v* to modify; *also:* [Gram] *Hence:* modificabile; modification; modificative; modificator
+**modification** *n* modification
+**modificative** *adj* modificatory, modifying
+**modificator** *n* modifier
+**modio** *n* 1. modius (= Roman corn measure); 2. [Bib] bushel *Hence:* modiolo
+**modiolo (-dí-)** *n* hub (of a wheel)
+**modista** *n* milliner
+**modo** *n* I. mode (1. [Mus]; 2. way, manner); II. [Gram] **mood**; in modo -ly; **in modo special** especially *Hence:* modal-modalitate; modic &; modulo &; modificar &; omnimode etc.
+**modular** *v* I. to mold, mould (a statue, etc.); II. to cast (a statue, etc.); III. to modulate (1. as in "to modulate one's voice"; 2. [Mus] to pass from one key into another)
+**modulation** *n* modulation (1. act of modulating tone, inflection, or pitch; 2. [Mus])
+**modulator** *n* 1. molder, moulder; 2. modulator
+**modulatura** *n* [Arch] molding, moulding
+**modulo** *n* I. mold, mould (1. as in "to cast in a mold"; 2. model); II. [Arch] module *Hence:* modular-modulation; modulator; modulatura
+**mohair** [A] *n* mohair
+**Mohammed (-hám-)** *npr* Mohammed *Hence:* mohammedan-mohammedanismo, mohammedano
+**mohammedan** *adj* Mohammedan
+**mohammedanismo** *n* Mohammedanism
+**mohammedano** *n* Mohammedan
+**mola** *n* 1. millstone; 2. grindstone
+**molar** *adj* molar; **dente molar** molar (tooth)
+**molar** *n* molar
+**mole** *n* 1. mass, pile; 2. [Naut] mole *Hence:* molecula &; demolir &
+**molecula** *n* molecule *Hence:* molecular
+**molecular** *adj* molecular
+**moler** *v* to grind (as in "to grind coffee") *Hence:* mola-moletta, molar, molino &
+**molestar** *v* to molest
+**molestation** *n* molestation
+**moleste** *adj* troublesome, irksome, annoying *Hence:* molestia; molestar-molestation
+**molestia** *n* trouble, annoyance
+**moletta** *n* knurling tool
+**Molina, Luis** *npr* [1535-1600; Spanish Jesuit and theologian] *Hence:* molinismo, molinista
+**molinar** *v* to mill (= to subject to the operation of a mill)
+**molinero** *n* miller (= one who works a mill)
+**molinismo** *n* Molinism (= the doctrine of Luis Molina)
+**molinista** *n* Molinist (= a follower of Luis Molina)
+**molino** *n* mill (= machine for grinding grain, etc.); **molino de vento, aqua, caffe, etc.** windmill, water mill, coffee mill, etc.; **combatter le molinos** de vento to tilt at or fight windmills *Hence:* molinero; molinar
+**Molinos, Miguel de** *npr* [1640-1697; Spanish priest and mystic, one of the chief exponents of Christian Quietism] *Hence:* milinosismo; molinosista
+**molinosismo** *n* Molinism (= the Quietistic doctrine of Miguel de Molinos)
+**molinosista** *n* Molinist (= a follower of Miguel de Molinos)
+**molle** *adj* soft (= not hard; *also:* not hardy) *Hence:* mollessa; mollusco; mollir-amollir &; emollir &; mollificar &
+**mollessa** *n* softness (= absence or lack of hardness; *also:* absence or lack of hardiness)
+**molliamento** *n* moistening, wetting
+**molliar** *v* to moisten, wet *Hence:* molliamento; molliatura
+**molliatura** *n* moistening, wetting; *also:* moisture, wetness
+**mollificar** *v* to mollify *Hence:* mollification
+**mollification** *n* mollification
+**mollir** *v* to soften (= to become soft)
+**mollusco** *n* mollusk
+**momentanee** *adj* momentary
+**momento** *n* moment (1. instant; 2. [Mech]); **de grande (parve) momento** of great (little) moment; **momento de un fortia** moment of a force; **momento de inertia** moment of inertia; **le moda del momento** the fashion of the moment; **le momento psychologic** the psychological moment *Hence:* momentanee; momentose
+**momentose** *adj* momentous
+**mon**- *adj* [occurring in derivatives and compounds] mon-, mono- (= only, single, alone) *Hence:* monade &; monismo; monista-monistic; monoculo etc.; monadelphe etc.; monatomic; monarch-; monographo etc.; monolitho etc.; monologo etc.; monoplano etc.; monometallismo etc.; monophysita etc.;
+monotheista etc.; monochordo etc.; monochromatic etc.; monosyllabe etc.;
+monogame etc.; monomie etc.; monopolio etc.
+**monacha (mó-)** *n* nun
+**monachal** *adj* monkish, monachal
+**monachato** *n* monkdom
+**monachismo** *n* monachism
+**monacho (-mó-)** *n* monk *Hence:* monachismo; monachato; monachal;
+monacha
+**monade (mó-)** *n* monad; *also:* [Philos; Zool; etc.] *Hence:* monadismo; monadic; monadologia etc.
+**mon·adelphe** *adj* [Bot] monadelphous *Hence:* monadelphia
+**monadelphia (-ía)** *n* [Bot] monadelphy
+**monadic** *adj* monadic
+**monadismo** *n* monadism
+**monado·logia (-ía)** *n* monadology
+**mon·andre** *adj* monandrous *Hence:* monandria
+**monandria (-ía)** *n* monandry (1. [Anthropol]; 2. [Bot])
+**mon·arch**- [occurring in derivatives] monarch- (1. to rule as monarch; 2. monarchic) *Hence:* monarcha; monarchia-monarchismo, monarchista, monarchic
+**monarcha** *n* monarch (= head of a monarchy)
+**monarchia (-ía)** *n* monarchy
+**monarchic** *adj* monarchic, monarchical; *also:* monarchistic
+**monarchismo** *n* monarchism
+**monarchista** *n* monarchist; *also:* attrib
+**monas**- *v* [occurring in derivatives] monas- (= to live alone) *Hence:* monasterio &; monastic &
+**monasterial** *adj* monasterial
+**morlasterio** *n* monastery *Hence:* monasterial
+**monastic** *adj* monastic, monasterial *Hence:* monasticismo
+**monasticismo** *n* monasticism
+**mon·atomic** *adj* [Chem] monatomic
+**moner** *v* to admonish, advise *Hence:* monition; monitor; monitori; monitorio; admoner &; premoner &; admonestar &
+**Moneta** *npr* [Rom Relig] Moneta (as in "Juno Moneta"); **moneta** 1. mint (= place where money is coined); 2. (current) coin; 3. money; **batter moneta** to coin or mint money; **papiro moneta** paper money; **moneta false** counterfeit money; **moneta de tasca** pocket money, pin money *Hence:* monetari; monetero; monetar-monetage; monetisar-dismonetisar- dismonetisation; portamoneta etc.
+**monetage (-aje)** *n* 1. minting, coining; 2. [Hist] moneyage (= fee paid for minting privilege)
+**monetar** *v* to mint (= to stamp and make into money)
+**monetari** *adj* monetary
+**monetero** *n* minter
+**monetisar** *v* to monetize
+**mongol** *adj/n* 1. Mongol, Mongolian (= native of Mongolia); 2. Mongolian, Mongolic *Hence:* Mongolia; mongolismo; mongolic- mongolico; mongoloide
+**Mongolia** *npr* Mongolia
+**mongolic** *adj* Mongolian, Mongolic
+**mongolico** *n* Mongolian (1. Mongol; 2. Mongolian language, Mongolic; 3. member of the Mongolian race)
+**mongolismo** *n* [Pathol] Mongolism
+**mongoloide** *adj* Mongoloid
+**monismo** *n* [Philos] monism
+**monista** *n* monist
+**monistic** *adj* monistic
+**monition** *n* admonition
+**monitor** *n* monitor, admonisher
+**monitori** *adj* monitory, admonitory
+**monitorio** *n* monitory (letter)
+**mono·chordo** *n* monochord
+**mono·chromatic** *adj* monochromatic
+**mono·chrome** *adj* monochrome
+**mon·oculo (-nó-)** *n* monocle
+**mono·game (-nó-)** *adj* monogamous *Hence:* monogamia-monogamic; monogamo
+**monogamia (-ía)** *n* monogamy
+**monogamic** *adj* monogamic
+**monogamo (-nó-)** *n* monogamist
+**mono·gramma** *n* monogram
+**monographia (-ía)** *n* monograph
+**monographic** *adj* monographic
+**mono·grapho (-ógrapho)** *n* monographer *Hence:* monographia; monographic
+**monolithic** *adj* monolithic
+**mono·litho (-ólito)** *n* monolith *Hence:* monolithic
+**monologar** *v* to deliver a monologue, monologize
+**mono·logo (-ólogo)** *n* monolog(ue) *Hence:* monologar
+**mono·metallismo** *n* monometallism
+**mono·metallista** *n* monometallist
+**monometric** *adj* monometric
+**mono·metro (-ómetro)** *n* monometer *Hence:* monometric
+**mo·nomie** *adj* [Alg] monomial *Hence:* monomio
+**monomio** *n* [Alg] monomial
+**mono·physita** *n* [Theol] Monophysite
+**mono·plano** *n* monoplane
+**mono·polio** *n* monopoly *Hence:* monopolismo; monopolista; monopolisar-monopolisation
+**monopolisar** *v* to monopolize
+**monopolisation** *n* monopolization
+**monopolismo** *n* monopolism
+**monopolista** *n* monopolist
+**mono·sticho (-nó-)** *n* [Pros] monostich
+**mono·syllabe (-sí-)** *adj* monosyllabic *Hence:* monosyllabo
+**monosyllabo (-sí-)** *n* monosyllable
+**mono·theismo (-ízmo)** *n* monotheism
+**mono·theista (-ísta)** *n* monotheist *Hence:* monotheistic
+**mono·theista (-ísta)** *adj* monotheistic
+**monotheistic (-ístic)** *adj* monotheistic
+**mono·tone** *adj* monotonous *Hence:* monotonia
+**monotonia (-ía)** *n* monotony
+**mono·typo** *n* [Print] monotype
+**monstra** *n* 1. show, display; 2. show window, display window; 3. sample; **facer monstra de (corage, etc.)** to show, display (courage, etc.)
+**monstrabile** *adj* fit to be seen, presentable
+**monstrar** *v* to show; *also:* to display, point out, etc. *Hence:* monstra; monstrabile; monstrator; demonstrar &; remonstrar &; monstravento etc.
+**monstrator** *n* one who shows; *also:* demonstrator (= one who makes evident)
+**monstra·vento** *n* weather vane
+**monstro** *n* monster; *attrib* monster *Hence:* monstruose-monstruositate
+**monstruose** *adj* monstrous
+**monstruositate** *n* monstrosity
+**monta·cargas (-cár-)** *n* hoist, lift (= lifting apparatus)
+**montage (-aje)** *n* (action of) mounting (a jewel, picture, gun, etc.); *also:* montage
+**montan** *adj* montane (1. mountainous; 2. mountain) *Hence:* cismontan; transmontan; ultramontan &
+**montania** *n* mountain; **montanias russe** [Amusements] roller coaster, switchback railway; **catena de montanias** chain of mountains, mountain range *Hence:* montaniero; montaniose
+**montaniero** *n* mountaineer
+**montaniose** *adj* mountainous
+**montar** *v* I. to mount (1. to ascend; 2. to fix in a setting, backing, support; etc.); II. [Breeding] to cover, serve; **montar un cavallo** to mount a horse; **montar a piloto** ride bareback *Hence:* montage-photomontage etc.; montatura; montata; dismontar &; remontar &; surmontar &; montacargas etc.
+**montata** *n* climb, ascent; *also:* upward slope
+**montatura** *n* (action of) mounting (a jewel, picture, gun, etc.); *also:* montage
+**monte** *n* mountain, mount; **monte de pietate** pawnshop; **a monte** uphill *Hence:* monticulo; montania &; montan &; montuose; amontar &; pedemonte etc.
+**monticulo** *n* (small mountain), hill, monticule
+**montuose** *adj* mountainous; *also:* hilly
+**monumental** *adj* monumental
+**monumento** *n* monument *Hence:* monumental
+**mora¹** *n* 1. delay; 2. [Pros] mora *Hence:* morose-morositate; morar-moratori, moratorio, demorar &; remorar &
+**mora²** *n* mulberry (= fruit of the mulberry)
+**moral** *adj* moral (1. as in "moral conduct"; 2. as in "moral victory") *Hence:* moralismo; moralista; moralitate; moralisar-moralisation, moralisator, dismoralisar &; amoral &; immoral &
+**moral** *n* 1. morals; 2. moral; 3. morale (as in "the morale of an army")
+**moralisar** *v* to moralize (1. to improve the morals of; 2. to study moral problems)
+**moralisation** *n* moralization (1. action of improving the morals; 2. moral reflection)
+**moralisator** *n* moralizer
+**moralismo** *n* moralism (= moral practice, attitude, etc.)
+**moralista** *n* moralist
+**moralitate** *n* morality
+**morar** *v* to delay, tarry, linger
+**moratori** *adj* moratory
+**moratorio** *n* moratorium
+**morbide** *adj* 1. morbid; 2. [Art] delicately tinted, soft
+**morbiditate** *n* morbidity
+**morbifere** *adj* morbiferous
+**morbific** *adj* morbific
+**morbo** *n* discase, illness *Hence:* morbide-morbiditate; morbifere; morbific
+**mordace** *adj* biting (as in "biting sarcasm"), mordacious *Hence:* mordacitate
+**mordacia** *n* gag (= sth thrust into a person's mouth to prevent him from speaking)
+**mordacitate** *n* mordacity
+**mordente** I. *ppr* of **morder**; II. *adj* mordant (1. corrosive; 2. biting, caustic) mordente *n* 1. [Dyeing] mordant; 2. [Mus] mordent
+**morder [mord-/mors-]** *v* to bite; **morder le pulvere** to bite the dust *Hence:* mordacia; mordace &; mordente; morsura; morso &; remorder &
+**more** *n* manner, custom, usage; **mores** mores *Hence:* moral &
+**morena** *n* [Geol] moraine
+**morgue** [F] *n* morgue (= place where bodies are kept for identification)
+**moribunde** *adj* moribund, dying
+**moriente** 1. *ppr* of **morir**; 2. *adj* dying
+**morir [mor-/mort-]** *v* to die; **morir se** to be dying slowly *Hence:* moribunde; moriente; morte-amortir &, amortisar &, manomorte etc.; semimorte etc., morto; mortuari
+**Mormon** *n* Mormon (as in "the Book of Mormon"); **mormon** Mormon (= member of the Mormon Church) *Hence:* mormonismo; mormonic
+**mormonic** *adj* Mormon
+**mormonismo** *n* Mormonism
+**moro** *n* mulberry (= mulberry tree) *Hence:* mora²
+**morose** *adj* tardy, dilatory, lingering
+**morositate** *n* slowness, tardiness
+**morph**- *n* [occurring in derivatives and compounds] morph-, morpho- (= form) *Hence:* Morpheo &; amorphe-amorphia, amorphismo; metamorphe-metamorphismo, metamorphic; morphologo etc.; anthropomorphe etc.; isomorphe etc.; dimorphe etc.
+**morph**- *see* **Morpheo**
+**Morpheo (-éo)** *npr* [Gr Mythol] Morpheus *Hence:* morphina &
+**morphina** *n* morphine *Hence:* morphinismo; morphinomania etc.; morphinomano etc.
+**morphinismo** *n* [Med] morphinism
+**morphino·mania (-ía)** *n* morphinomania
+**morphino·mano (-ómano)** *n* morphinomaniac
+**morphologia (-ía)** *n* morphology
+**morphologic** *adj* morphological
+**morphologista** *n* morphologist
+**morpho·logo (-ólogo)** *n* morphologist *Hence:* morphologia-morphologista; morphologic
+**mors**- *see* **morder**
+**Morse, Samuel Finely Breese** *npr* [1791- 1872; American inventor and artist]; **(alphabeto) Morse** Morse (alphabet), Morse (code)
+**morsellar** *v* to morsel
+**morsello** *n* morsel (1. small bite; 2. piece, fragment) *Hence:* morsellar
+**morso** *n* bit (= part of the bridle that goes in a horse's mouth) *Hence:* morsello &
+**morsura** *n* bite (1. act of biting; 2. wound caused by biting)
+**mort**- *see* **morir**
+**mortal** *adj* mortal (1. destined to die; 2. fatal); **inimico mortal** mortal foe; **peccato mortal** mortal sin mortal *n* mortal
+**mortalitate** *n* mortality (1. mortal nature; 2. death rate); tabulas de mortalitate mortality tables
+**morte** *n* death; **morte civil** civil death; **condemnar a morte** to sentence (sb) to death; **poner a morte** to put to death *Hence:* mortal-mortalitate, immortal- immortalitate, immortalisar; mortifere; mortificar &
+**morte** *adj* dead; **natura morte** still life; **aqua morte** still, stagnant, water; **littera morte** [Law] dead letter; **moneta morte** dead capital; **puncto morte** dead point, dead center
+**mortero** *n* mortar (1. as in "mortar and pestle"; 2. [Mil]; 3. as in "to plaster with mortar")
+**mortifere** *adj* deadly, fatal, death-bearing
+**mortificar** *v* I. to mortify (1. [Eccl]; 2. to cause to feel humiliated); II. [Pathol] to cause to mortify *Hence:* mortification-immortification; mortificator; mortificate-immortificate
+**mortificate** 1. *pp* of **mortificar**; 2. *adj* mortified
+**mortification** *n* mortification (1. [Eccl]; 2. humiliation, shame; 3. [Pathol])
+**mortificator** *n* mortifier
+**morto** *n* dead man or person, deceased
+**mortuari** *adj* mortuary; (camera, etc.) **mortuari** death (chamber, etc.)
+**mosaic (-áic)** *adj* Mosaic
+**mosaico (-áico)** *n* mosaic
+**mosaismo (-ízmo)** *n* Mosaism
+**moschea (-éa)** *n* mosque
+**Moscova** *npr* 1. Moscow; 2. Moskva, Moscow River *Hence:* Moscovia; moscovita
+**Moscovia** *npr* Muscovy
+**moscovita** *n* Muscovite
+**Moses (mó-)** *npr* Moses *Hence:* mosaismo, mosaic
+**moslem (mó-)** n/adj Moslem, Mussulman
+**mosquitiera** *n* mosquito net
+**mosquito** [H] *n* mosquito; *also:* gnat *Hence:* mosquitiera
+**mot**- *see* **mover**
+**motin** *n* mutiny *Hence:* motinero; motinose; motinar
+**motinar** *v* to cause to mutiny; **motinar se** to mutiny
+**motinero** *n* mutineer
+**motinose** *adj* mutinous
+**motion** *n* motion (1. movement; 2. [Parl]) *Hence:* locomotion etc.
+**motivar** *v* 1. to state the reason for; 2. to motivate
+**motivation** *n* motivation
+**motive** *adj* motive *Hence:* locomotive etc.; motivo-motivar-motivation
+**motivo** *n* 1. motive; 2. motif
+**moto**- *see* **motor**
+**moto·cultura** *n* mechanized agriculture
+**motocycletta** *n* motorcycle
+**motocyclista** *n* motorcyclist
+**motocyclo** *n* motorcycle *Hence:* motocycletta; motocyclista
+**motor** *n* motor (as in "an electric motor"); *attrib* motor, motive; **fortia motor** motive power or force; **nervos, musculos motor** motor or motory nerves, muscles; **motor Diesel** Diesel motor or engine *Hence:* motorisar-motorisation; motorcyclo etc.; locomotor etc.; electromotor etc.; motocultura etc. 
+**motorcyclista** *n* motorcyclist
+**motor·cyclo** *n* motorcycle *Hence:* motorcyclista
+**motorisar** *v* to motorize
+motorisation *n* motorization
+**mottetto** *n* [Mus] motet
+**motto** *n* motto *Hence:* mottetto
+**mover [mov-/mot-]** *v* to move (1. to cause to move; 2. to affect with emotion, stir up) *Hence:* movimento; mobile &; movibile; motion &; motive &; motor &; amover &; commover &; emover &; promover &; remover &
+**movibile** *adj* movable
+**movimento** *n* movement (1. action or process of moving; 2. as in "popular movement, youth movement, etc."); **movimento perpetue** perpetual motion
+**Moyse (-sé)** *npr* Moses [mox] *adv* soon, at once, directly
+**mozarabe** [H] *n* Mozarab (= member of the Christian population of Spain under the Arabs) *Hence:* mozarabic
+**mozarabic** *adj* Mozarabic; **rito mozarabic** Mozarabic rite
+**mucer** *v* 1. to be moldy; to be musty *Hence:* mucide; mucor
+**mucide** *adj* moldy, musty; mucid
+**mucilagine** *n* [Bot] mucilage (= mucilaginous sap) *Hence:* mucilaginose
+**mucilaginose** *adj* mucilaginous (as in "mucilaginous glands")
+**mucina** *n* [Biochem] mucin
+**muci·pare** *adj* muciparous
+**muco** *n* mucus *Hence:* mucilagine &; mucina; mucose- mucositate, mucosa; mucipare etc.
+**mucor** *n* 1. mold, moldiness; mustiness; 2. [Bot] Mucor
+**mucosa** *n* [Anat] mucosa; mucous membrane
+**mucose** *adj* mucous; **membrane mucose** mucous membrane
+**mucositate** *n* mucosity, mucousness
+**muezzin** *n* muezzin
+**mufti** *n* mufti (= official expounder of Mohammedan law)
+**mugir** *v* 1. to bellow (= to roar as the bull does); 2. to low, moo; le vento mugi the wind howls
+**mula** *n* she-mule
+**mulatto** *n* mulatto
+**mulcta** *n* fine (as in "fine of ten dollars"), mulct *Hence:* mulctar
+**mulctar** *v* to fine, mulct
+**mulero** *n* muleteer, mule driver
+**mulger [mulg-/muls-]** *v* to milk (cows, goats, etc.) *Hence:* mulsion; mulgitor; mulgitura; emulger &
+**mulgitor** *n* one who milks, milker
+**mulgitura** *n* (action of) milking
+**mullah (-lá)** *n* [Moham] mullah
+**mulo** *n* [Zool] mule; *specif*: he-mule *Hence:* mulero; mula
+**muls**- *see* **mulger**
+**mulsion** *n* (action of) milking
+**mult·articulate** *adj* [Zool] multarticulate, multiarticulate
+**multe** *adj* 1. much; 2. many *Hence:* multitude; [permulte] &; multimillionario etc.: multiforme etc.; multicolor etc.; multicellular etc.; multiloque etc.; multiloquente etc.; multiple etc.; multiplice etc.; multungule etc.; multo
+**multi·articulate** *adj* [Zool] multarticulate, multiarticulate
+**multi·capsular** *adj* multicapsular
+**multi·caule (-cáu-)** *adj* [Bot] multicauline, having several stems
+**multi·cellular** *adj* multicellular
+**multi·color** *adj* multicolored
+**multi·cuspide (-cús-)** *adj* [Bot] multicuspid, multicuspidate
+**multi·fide (-tí-)** *adj* multifid (= cleft severally)
+**multi-flor** *adj* multiflowered
+**multi·forme** *adj* multiform *Hence:* multiformitate 
+**multiformitate** *n* multiformity
+**multi·latere** *adj* many-sided, multilateral
+**multi·lobate** *adj* [Bot, Zool] multilobate, multilobed, multilobar
+**multi·lobe (-tí-)** *adj* [Bot, Zool] multilobar, multilobed, multilobate
+**multi·locular** *adj* [Bot, Zool] multilosular
+**multi·loque (-tí-)** *adj* multiloquous, talkative
+**multi·loquente** *adj* multiloquent, talkative *Hence:* multiloquentia
+**multiloquentia** *n* multiloquence, talkativeness
+**multi·millionario** *n* multimillionaire
+**multi·nomie** *adj* [Math] multinominal, polynomial *Hence:* multinomio
+**multinomio** *n* [Math] multinominal, polynominal
+**multipara (-tí-)** *n* multipara
+**multi·pare** *adj* multiparous *Hence:* multiparitate, multipara
+**multiparitate** *n* multiparity
+**multi·partite** *adj* multipartite
+**multi·pede (-tí-)** *adj* multiped, multipede
+**multi·ple (múl-)** *adj* multiple (1. menifold, multiplex; 2. [Math]) *Hence:* multiplo
+**multiplicabile** *adj* multiplicable, multipliable
+**multiplicando** *n* multiplicand
+**multiplicar** *v* to multiply (1. to make more numerous; 2. [Math]); **multiplicar se** 1. to multiply (= to become more numerous); 2. to be half a dozen places at once
+**multiplication** *n* multiplication; **tabula de multiplication** multiplication table
+**multiplicative** *adj* multiplicative
+**multiplicator** *n* [Math] multiplier; **multiplicator de frequentia** [Elec] frequency multiplier
+**multi·plice (-tí-)** *adj* multiple (1. manifold, multiplex; 2. [Math]) *Hence:* multiplicitate, multiplicar-multiplicando, multiplicabile, multiplication, multiplicative, multiplicator
+**multiplicitate** *n* multiplicity
+**multiplo (múl-)** *n* [Math] multiple; **le minime commun multiplo** the least common multiple, LCM
+**multi·polar** *adj* [Anat, Elec] multipolar
+**multi·sense** *adj* multisensual, multivocal (= having many meanings)
+**multi·sone** *adj* multisonous, multisonant
+**multi·tubular** *adj* multitubular
+**multitude** *n* multitude (1. large number; 2. crowd, throng)
+**multivage (-tí-)** *adj* multivagant, muchwandering
+**multi·valve** *adj* [Bot, Zool] multivalve, multivalved
+**multi·valvular** [Bot, Zool] multivalvular
+**multi·vie (-tí-)** *adj* multivious (= having many roads)
+**multo** *adv* 1. very; 2. much
+**mult·ungulate** *adj* [Zool] multungulate
+**mult·ungule** *adj* [Zool] multungulate
+**mumia** *n* mummy *Hence:* mumificar-mumification
+**mumificar** *v* to mummify (= to embalm as a mummy)
+**mumification** *n* mummification 
+-**mun** *adj* [occurring in compounds] *Hence:* immun &; commun &
+**München** [G] *n pl* Munich, München
+**munda·dentes (-dén-)** *n* toothpick
+**mundan** *adj* 1. mundane, worldly; 2. society (*attrib*), of the world
+**mundanitate** *n* 1. worldliness; 2. fashionableness
+**mundar** *v* to cleanse; *also:* to clean (= to make clean)
+**munde** *adj* clean *Hence:* munditia; mundar-mundadentes etc.; mundificar-mundification; immunde- immunditia
+**mundial** *adj* world-wide; guerra mundial World War
+**mundificar** *v* to cleanse, purify
+**mundification** *n* cleansing, purification
+**munditia** *n* cleanness, cleanliness
+**mundo** *n* world (1. Universe; 2. earth; 3. society); **tote le mundo** everybody; **le vetule**
+**mundo** the Old World; **le nove mundo** the New World; **le mundo literari** the literary world *Hence:* mundial; mundan-mundanitate, supermundan
+**munerar** *v* to present, give *Hence:* remunerar &
+**muni**- [occurring in compounds] *Hence:* municipe etc.; munificente etc.
+**Munich (mú-)** *npr* Munich
+**municipal** *adj* municipal; **consilio municipal** city or town council
+**municipalisar** *v* to municipalize
+**municipalilate** *n* 1. municipality (= town, city, etc., having local self-government); 2. town or city council, municipality; 3. town or city hall
+**muni·cipe (-ní-)** *n* townsman *Hence:* municipio; municipal-municipalitate, municipalisar
+**municipio** *n* 1. [Rom Hist] municipium; 2. town district
+**muni·ficente** *adj* munificent *Hence:* munificentia
+**munificentia** *n* munificence
+**munir** *v* 1. to fortify (as in "to fortify a city"); 2. to provide with, furnish *Hence:* munition-munitionero, munitionar; premunir
+**munition** *n* 1. military supplies, munitions; 2. ammunition; pan de munition [Mil.] ration bread
+**munitionar** *v* to munition, supply with munitions
+**munitionero** *n* munitioner, munitioneer
+**mural** *adj* mural; **pictura mural** mural (painting); **(mappa) mural** wall (map)
+**muralia** *n* [Fortif] wall
+**murar** *v* 1. to wall in, surround with a wall; 2. to wall up
+**mure** *n* mouse *Hence:* murides
+**muria** *n* brine *Hence:* muriato; muriate; muriatic; salmuria etc.
+**muriate** *adj* muriated (= impregnated with chloride)
+**muriatic** *adj* muriatic; **acido muriatic** muriatic acid, hydrochloric acid
+**muriato** *n* muriate, chloride
+**murides (múr-)** *n* [Zool] Muridae
+**murmurar** *v* to murmur; *also:* to mutter, mumble, grumble, babble etc.
+**murmuration** *n* (action of) murmuring; *also:* muttering, mumbling, grumbling, babbling, babble, etc.
+**murmurator** *n* murmurer; *also:* mutterer, mumbler, grumbler, etc.
+**murmure** *n* murmur; *also:* muttering, mumbling, grumbling, etc. *Hence:* murmurose; murmurar-murmuration, murmurator; murmurear
+**murmurear** *v* to murmur; *also:* to mutter, mumble, grumble, etc.
+**murmurose** *adj* murmurous (= filled with, or making, murmurs)
+**muro** *n* wall (= upright structure of masonry, etc.) *Hence:* muralia; mural-antemural, extramural, intramural; murar
+**mus** *n* mouse *Hence:* musaranea etc.
+**musa** *n* Muse, muse *Hence:* museo; music; musico; musica &
+**mus·aranea** *n* [Zool] shrew
+**musca** *n* 1. [Entom] fly; 2. tuft of hair (on lower lip); 3. beauty spot, patch; **muscas volante** [Pathol] muscae volitantes; **musca de Hispania** Spanish fly, blister beetle; **musca artificial** [Angling] fly *Hence:* muscides
+**muscate** *adj* -; **bove muscate** musk ox; **ratto muscate** muskrat; **nuce muscate** nutmeg; **rosa muscate** musk rose
+**muscatello** *n* muscatel (1. muscat grape; 2. muscatel wine)
+**muscato** *n* muscat (1. muscat grape; 2. muscatel wine)
+**muschettero** *n* musketeer
+**muschetto** *n* musket, rifle *Hence:* muschettero
+**muscides (mús-)** *npl* [Zool] Muscidae
+**musco¹** *n* moss *Hence:* muscose; muscologia etc.
+**musco²** *n* musk (1. musk deer; 2. "musk substance or perfume") *Hence:* muscate-muscato-muscatello
+**musco·logia (-ía)** *n* bryology, muscology (= science af mosses)
+**muscose** *adj* mossy
+**muscular** *adj* muscular (as in "muscular energy")
+**musculate** *adj* muscled, muscular
+**musculatura** *n* muscular system, musculature
+**musculina** *n* [Biochem] musculin
+**musculo¹ (mús-)** *n* muscle *Hence:* musculatura; muscular; musculate; musculina; musculose-musculositate
+**musculo² (mús-)** *n* mussel; *also:* clam
+**muculose** *adj* muscular (as in "muscular man")
+**musculositate** *n* muscularity
+**musellar** *v* to muzzle
+**musello** *n* muzzle (as in "a dog wearing a muzzle") *Hence:* musellar
+**museo (-éo)** *n* museum
+**music** *adj* 1. artistic, disposed for the fine arts; 2. musical (= of or pertaining to music)
+**musica** *n* music; poner in musica to set to
+**music** *Hence:* musichetta; musical; musicar-musicante; musicologo etc.
+**musical** *adj* musical (as in "musical arrangement"); aure musical musical ear
+**musicante**** *n* musician
+**musicar** *v* to play, make music
+**musich**- *see* **musica**
+**musichetta** *n* easy unpretentious music
+**musico** *n* musician
+**musicologia (-ía)** *n* musicology
+**musico·logo (-có-)** *n* musicologist *Hence:* musicologia
+**musicomania (-ía)** *n* musicomania
+**musico·mano (-có-)** *n* musicomaniac *Hence:* musicomania
+**muso** *n* snout, muzzle *Hence:* musello &
+**musselina** *n* muslin
+**mustachio** *n* moustache
+**mustang** [A] *n* mustang
+**mustarda** *n* mustard *Hence:* mustardero; mustardiera
+**mustardero** *n* mustard maker, mustard seller
+**mustardiera** *n* mustard jar, mustard pot
+**mustela** *n* weasel
+**musto** *n* must (= new wine, sweet cider) *Hence:* mustarda &
+**musulman** *n* Mussulman, Moslem
+**muta** *n* molt (= process of molting)
+**mutabile** *adj* changeable, mutable
+**mutabilitate** *n* mutability
+**mutar** *v* 1. to change (= to make or become different); 2. to molt *Hence:* muta; mutue &; mutabile-mutabilitate, immutabile-immutabilitate; mutation; commutar &; permutar &; transmutar &
+**mutation** *n* mutation (1. change; 2. [Biol])
+**mutatis mutandis** [L] mutatis mutandis
+**mute** *adj* mute, dumb, silent; littera mute [Phonet] mute or silent letter *Hence:* mutismo; mutescer; surdemute etc.
+**mutescer** *v* to grow mute, grow silent
+**mutilar** *v* to mutilate
+**mutilate** 1. *pp* of **mutilar**; 2. *adj* wounded (as in "wounded soldier")
+**mutilation** *n* mutilation
+**mutilato** *n* wounded (soldier); multilatos de guerra wounded (soldiers)
+**mutilator**** *n* mutilator
+**mutile** *adj* maimed, mutilated *Hence:* mutilar-mutilation, mutilator, mutilate-mutilato
+**mutismo** *n* muteness, dumbness, mutism
+**mutual** *adj* mutual, reciprocal
+**mutualitate** *n* mutuality, reciprocity
+**mutue** *adj* mutual, reciprocal *Hence:* mutual-mutualitate
+**muzhik** [R] *n* muzhik
+**my**- *v* [occurring in compounds] my- (= to shut the eyes, blink) *Hence:* myope etc.
+**my·ope** *adj* short-sighted, near-sighted, myopic *Hence:* myopia
+**myopia (-ía)** *n* short-sightedness, near- sightedness, myopia
+**myosotis (-só-)** *n* [Bot] forget-me-not, myosotis
+**myri**- *adj* [occurring in derivatives and compounds] myria-, myri- (1. countless; 2. ten thousand) *Hence:* myriade; myriagramma etc.; myriapode etc.
+**myriade (-íade)** *n* myriad (1. ten thousand; 2. indefinitely large number)
+**myria·gramma** *n* myriagram
+**myria·metro (-á-)** *n* myriameter
+**myria·pode (-á-)** *adj* myriapod *Hence:* myriapodo
+**myriapodo (-á-)** *n* myriapod; myriapodos [Zool] Myriapoda
+**myrrha** *n* myrrh (= gum resin produced by the myrrh tree) *Hence:* myrrhic; myrrhar
+**myrrhar** *v* to perfume with myrrh
+**myrrhic** *adj* myrrhic
+**myrtaceas** *npl* [Bot] Myrtaceae
+**myrtacee** *adj* myrtaceous
+**myrti·forme** *adj* myrtiform
+**myrtillo** *n* whortleberry, blueberry
+**myrto** *n* myrtle *Hence:* myrtacee-myrtaceas; myrtiforme etc.
+**mysta** *n* [Gr Relig] mystes (= an initiate in the mysteries) *Hence:* mysterio &; mystic &; mystico; mystica; mystificar &; mystagogo etc.
+**mystagogia (-ía)** *n* mystagogy
+**myst·agogo** *n* mystagogue *Hence:* mystagogia
+**mysterio** *n* mystery (1. as in "the Eleusinian mysteries"; 2. [Eccl]; 3. secret, obscure fact or force, motive, etc.; 4 mystery play) *Hence:* mysteriose
+**mysteriose** *adj* mysterious
+**mystic** *adj* mystic, mystical *Hence:* mysticismo; mysticitate
+**mystica** *n* mystical theology, mysticism
+**mysticismo** *n* mysticism
+**mysticitate** *n* mysticalness
+**mystico** *n* mystic
+**mystificar** *v* to mystify, hoax *Hence:* mystification; mystificator
+**mystification** *n* mystification, hoax
+**mystificator** *n* mystifier, hoaxer
+**mythic** *adj* mythical
+**mytho** *n* myth *Hence:* mythic; mythographo etc.; mythologo etc.; stichomythia etc.
+**mythographia (-ía)** *n* mythography
+**mytho·grapho (-tó-)** mythographer *Hence:* mythographia
+**mythologia (-ía**) *n* mythology
+**mythologic** *adj* mythological
+**mythologista** *n* mythologist
+**mytho·logo (-tó-)** *n* mythologist *Hence:* mythologia-mythologic; mythologista
+
 ### N
 
 -**n** *see* -**in**
