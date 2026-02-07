@@ -11,24 +11,14 @@
             "id": "9c07222b1c3e8c08",
             "type": "leaf",
             "state": {
-              "type": "spreadsheet-view",
+              "type": "markdown",
               "state": {
-                "file": "IALADictxlsx.sheet"
+                "file": "IALADICTIONARY.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "IALADictxlsx"
-            }
-          },
-          {
-            "id": "5a06cf5ac3819633",
-            "type": "leaf",
-            "state": {
-              "type": "spreadsheet-view",
-              "state": {
-                "file": "IALADictxlsx.sheet"
-              },
-              "icon": "lucide-file",
-              "title": "IALADictxlsx"
+              "title": "IALADICTIONARY"
             }
           }
         ]
@@ -164,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IALADictxlsx.sheet",
+                "file": "IALADICTIONARY.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IALADictxlsx"
+              "title": "Outline of IALADICTIONARY"
             }
           }
         ],
@@ -194,21 +184,22 @@
   },
   "active": "9c07222b1c3e8c08",
   "lastOpenFiles": [
-    "data/A76A2C10",
-    "data/61952C10",
-    "IALADICTIONARY.md",
-    "IALADictxlsx.sheet",
-    "data/~$val-ie.xlsx",
+    "data/VAL-IE.html",
     "Untitled.base",
     "Soreto.md",
+    "README.md",
+    "IALADICTIONARY.md",
+    "data/F0CF2C10",
+    "data/E74F2C10",
+    "IALADictxlsx.sheet",
+    "i.md",
+    "data/A76A2C10",
+    "data/61952C10",
+    "data/~$val-ie.xlsx",
     "Untitled.md",
     "data/val-ie.xlsx",
     "val-ie.xlsx",
     "5B832C10",
-    "~$val-ie.xlsx",
-    "val-ie.csv",
-    "README.md",
-    "i.md",
     "How to Make into Searchable.md",
     "unnamed-1.jpg",
     "Untitled 2.md",
@@ -217,7 +208,6 @@
     "unnamed 2.jpg",
     "unnamed 1.jpg",
     "unnamed.jpg",
-    "0.jpg",
-    "Untitled"
+    "0.jpg"
   ]
 }
