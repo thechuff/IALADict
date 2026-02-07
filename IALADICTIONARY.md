@@ -8,7 +8,7 @@ Completed (Slang):
 Completed (IED):
 [A](#A), [B](#B), [D](#D), [E](#E), [F](#F), [H](#H), [J](#J), [K](#K), [P](#P), [Q](#Q), [R](#R), [S](#S), [U](#U), [W](#W), [X](#X), [Y](#Y), [Z](#Z)
 *in progress:*
-C, [G](#G), [I](#I), L, M, N, O, T, V
+C, [G](#G), [I](#I), L, [M](#M), N, O, T, V
 ## Introduction
 
 >This project is an updated Interlingua Dictionary, with usage notes, to make it more accessible and suitable for the 21st century, using Elefen learning material as a model.  It is based on the IED, with colloquialisms (to get away), usages not found in the IED (e.g. **OVNI**) and suggestions added in.  To be saved as a .csv when official.
@@ -8706,8 +8706,8 @@ jubilator
 ---
 ### M
 
-**maledicte** *adj* [Colloq.] bloody, damned, cursed
-**masticatori** *adj* masticatory
+#### M to be added
+
 **mercante** 1. *ppr* of **mercar**; 2. *adj* merchant
 **merda** *n* [Colloq.] 1. shit; 2. (person) fucker, piece of shit **merda!** shit **al merda isto!** fuck it! **de merda** 1. shitty; 2. to be unwell, to feel like shit, not to feel well **pecia de merda** piece of shit **io me senti me merda, io sta de merda** I feel like shit, I feel unwell, I feel sick/ill **io me senti un merda pro alco que io ha facite** I feel like shit/like an asshole for sth I did **mandar alique al merda** to screw sth up, to fuck sth up, to mess sth up, to ruin **vader al merda** to go to shit, to end up badly, to become ruined/corrupt **que merda pensava tu?** what the fuck/shit were you thinking?
 **merdose** *adj* [Colloq.] 1. shitty, (of a person) fugly; 2. *n* (of a person) shithead, shitty person, ugly/bad person
@@ -8861,7 +8861,7 @@ magnetron etc.; magneto-electric etc.; electromagnete etc.
 **maledicentia** *n* slander
 **male·dicer [-dic-/-dict-]** *v* to curse (= to utter a curse or curses against) *Hence:* maledicente-maledicentia; malediction; maledicte
 **maledict**- *see* **maledicer**
-**maledicte** *adj* cursed, accursed
+**maledicte** *adj* cursed, accursed; [Colloq.] bloody, damned, cursed
 **malediction** *n* malediction, curse
 **malefic (-lé-)** *adj* malefic, harmful *Hence:* maleficio; maleficente-maleficentia
 **maleficente** *adj* maleficent, evil-doing
@@ -9173,7 +9173,7 @@ Marianna etc.
 **masticar²** *v* to cement, putty, etc.
 **mastication** *n* mastication
 **masticator** *n* chewer 
-**masticator** *adj* masticatory
+**masticatori** *adj* masticatory
 **mastico (más-)** *n* mastic (1. resin exuding from the mastic tree; 2. any of various pasty cements; *also:* putty) *Hence:* masticar
 **masto**- *n* [occurring in compounds] masto-, mast- (= breast) *Hence:* mastoide-mastoiditis; mastodonte etc.
 **mast·odonte** *n* mastodon

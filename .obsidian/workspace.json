@@ -11,10 +11,24 @@
             "id": "9c07222b1c3e8c08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "spreadsheet-view",
+              "state": {
+                "file": "IALADictxlsx.sheet"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IALADictxlsx"
+            }
+          },
+          {
+            "id": "5a06cf5ac3819633",
+            "type": "leaf",
+            "state": {
+              "type": "spreadsheet-view",
+              "state": {
+                "file": "IALADictxlsx.sheet"
+              },
+              "icon": "lucide-file",
+              "title": "IALADictxlsx"
             }
           }
         ]
@@ -150,12 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "IALADictxlsx.sheet",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of IALADictxlsx"
             }
           }
         ],
@@ -173,33 +188,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "spreadsheets:New Spreadsheet": false
     }
   },
   "active": "9c07222b1c3e8c08",
   "lastOpenFiles": [
-    "README.md",
+    "data/61952C10",
     "IALADICTIONARY.md",
+    "IALADictxlsx.sheet",
+    "data/~$val-ie.xlsx",
+    "Untitled.base",
+    "Soreto.md",
+    "Untitled.md",
+    "data/val-ie.xlsx",
+    "val-ie.xlsx",
+    "5B832C10",
+    "~$val-ie.xlsx",
+    "val-ie.csv",
+    "README.md",
     "i.md",
     "How to Make into Searchable.md",
-    "Soreto.md",
-    "Untitled.base",
     "unnamed-1.jpg",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Untitled.md",
     "unnamed 3.jpg",
     "unnamed 2.jpg",
     "unnamed 1.jpg",
     "unnamed.jpg",
     "0.jpg",
     "Untitled",
-    "data/B81B6900",
-    "data/F9B5A800",
-    "data/CDA0A800",
-    "data/66BE9800",
-    "data/1F8B9800",
-    "data/FE699800",
-    "data/testc.csv"
+    "data/B81B6900"
   ]
 }
