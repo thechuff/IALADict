@@ -168,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,13 +184,13 @@
   },
   "active": "9c07222b1c3e8c08",
   "lastOpenFiles": [
+    "Soreto.md",
+    "IALADICTIONARY.md",
     "README.md",
     "Untitled.base",
     "IALADictxlsx.sheet",
-    "IALADICTIONARY.md",
     "IALA (delete as you move to html tags in .csv).md",
     "data/VAL-IE.html",
-    "Soreto.md",
     "data/F0CF2C10",
     "data/E74F2C10",
     "i.md",

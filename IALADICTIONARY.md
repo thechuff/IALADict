@@ -1,14 +1,6 @@
 # IALA DICTIONARY (WIP)
-*last updated 2/7/26*
+*last updated 2/8/26*
 
-
-
-*Completed (Slang):*
-- [x] **A**-**Z**
-*Completed (IED):*
-A,B,D,E,F,H,J,K,M,N,P,Q,R,S,U,W,X,Y,Z
-*in progress:*
-C,G,I,L,M,N,O,T,V
 ## Introduction
 
 >This project is an updated Interlingua Dictionary, with usage notes, to make it more accessible and suitable for the 21st century, using Elefen learning material as a model.  It is based on the IED, with colloquialisms (to get away), usages not found in the IED (e.g. **OVNI**) and suggestions added in.  To be saved as a .csv when official.
@@ -22,7 +14,7 @@ IED (Interlingua-English Dictionary)
 %%
 Workflow:
 - [x] Add Profanity
-- [ ] Add *IED*
+- [x] Add *IED*
 	- [x] A
 	- [x] B
 	- [x] C
@@ -31,26 +23,27 @@ Workflow:
 	- [x] F
 	- [x] G
 	- [x] H
-	- [ ] I
+	- [x] I
 	- [x] J
 	- [x] K
-	- [ ] L
+	- [x] L
 	- [x] M
 	- [x] N
-	- [ ] O
+	- [x] O
 	- [x] P
 	- [x] Q
 	- [x] R
 	- [x] S
-	- [ ] T
+	- [x] T
 	- [x] U
-	- [ ] V
+	- [x] V
 	- [x] W
 	- [x] X
 	- [x] Y
 	- [x] Z
 - [ ] Add Piet Cleij's *Lista Supplementari*
-- [ ] Add *Soreto's Vocabularo (Addenda)*
+	- [ ] ...
+- [ ] Add *Soreto's Vocabulario (Addenda)*
 	- [x] Non-Lemmas
 		- [x] p1
 		- [x] p2
@@ -114,8 +107,3 @@ Workflow:
 
 
 
-# I
-# L
-# O
-# T
-# V
